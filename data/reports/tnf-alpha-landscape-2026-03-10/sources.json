@@ -1,0 +1,72 @@
+[
+  {
+    "id": "src-001",
+    "title": "Aetna Clinical Policy Bulletin: TNF-Alpha Inhibitors",
+    "organization": "Aetna",
+    "date": "2026-01-15",
+    "type": "payer_policy"
+  },
+  {
+    "id": "src-002",
+    "title": "UnitedHealthcare Pharmacy Clinical Policy: Adalimumab Products",
+    "organization": "UnitedHealthcare",
+    "date": "2026-02-01",
+    "type": "payer_policy"
+  },
+  {
+    "id": "src-003",
+    "title": "Cigna National Preferred Formulary Update — January 2026",
+    "organization": "Cigna",
+    "date": "2026-01-01",
+    "type": "formulary_bulletin"
+  },
+  {
+    "id": "src-004",
+    "title": "FDA Interchangeability Designation: Cyltezo (adalimumab-adbm)",
+    "organization": "FDA",
+    "date": "2025-10-15",
+    "type": "regulatory"
+  },
+  {
+    "id": "src-005",
+    "title": "2025 ACR Guideline for Treatment of Rheumatoid Arthritis",
+    "organization": "American College of Rheumatology",
+    "date": "2025-11-01",
+    "type": "clinical_guideline"
+  },
+  {
+    "id": "src-006",
+    "title": "IQVIA Biosimilar Market Tracker — Q4 2025",
+    "organization": "IQVIA",
+    "date": "2026-01-20",
+    "type": "market_data"
+  },
+  {
+    "id": "src-007",
+    "title": "Anthem/Elevance Health Medical Policy: Biologic DMARDs",
+    "organization": "Anthem/Elevance",
+    "date": "2025-12-01",
+    "type": "payer_policy"
+  },
+  {
+    "id": "src-008",
+    "title": "AAD-NPF Joint Guidelines on Biologics for Psoriasis — 2025 Update",
+    "organization": "AAD/NPF",
+    "date": "2025-09-01",
+    "type": "clinical_guideline"
+  },
+  {
+    "id": "src-009",
+    "title": "AbbVie 2025 10-K Annual Report — Humira Franchise Update",
+    "organization": "AbbVie",
+    "date": "2026-02-15",
+    "type": "sec_filing"
+  },
+  {
+    "id": "src-010",
+    "title": "Humana National Formulary — Specialty Tier Update Q1 2026",
+    "organization": "Humana",
+    "date": "2026-01-10",
+    "type": "formulary_bulletin"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which payers have the most restrictive step therapy for Humira biosimilars in RA?",
+    "answer": "Cigna has the most restrictive policy — as of January 2026, Humira is fully excluded from their standard commercial formulary. Patients must use Cyltezo (preferred) or another biosimilar, and medical exceptions for Humira require documented failure on two biosimilars [Cigna National Preferred Formulary, January 2026]. Anthem/Elevance is the second most restrictive, allowing Humira only via medical exception with Hadlima as the sole preferred option [Anthem Medical Policy: Biologic DMARDs]. UnitedHealthcare mandates step through Hyrimoz specifically before any other adalimumab product is authorized.",
+    "keywords": ["restrictive", "step therapy", "humira", "biosimilar", "RA"]
+  },
+  {
+    "question": "Has any payer dropped the step-through-Humira requirement since biosimilar entry?",
+    "answer": "Yes — all five major commercial payers have now inverted the traditional step therapy paradigm. Before biosimilar entry, the standard approach required trial of Humira before accessing alternative TNF-alpha agents. Now, four of five major payers (Aetna, UnitedHealthcare, Cigna, Anthem/Elevance) require step through a preferred biosimilar before Humira can be authorized. Cigna went furthest by fully excluding Humira effective January 2026. Humana is the least restrictive, allowing Humira access via PA without mandatory biosimilar trial, though the copay differential strongly incentivizes biosimilar use [Section: RA Payer Access Patterns].",
+    "keywords": ["step-through", "humira", "dropped", "requirement", "payer"]
+  },
+  {
+    "question": "What would the access path look like for a novel TNF-alpha inhibitor entering RA today?",
+    "answer": "A novel TNF-alpha inhibitor entering the RA market today would face a very challenging access environment. Based on current payer policies, the likely access path would be: (1) the product would be placed on a non-preferred specialty tier at most commercial plans, behind preferred biosimilar adalimumab products; (2) payers would require prior authorization with documentation of failure on at least one preferred TNF-alpha biosimilar and potentially a second TNF-alpha agent; (3) the product would need to demonstrate meaningful clinical differentiation — not just non-inferiority — to justify a price premium over biosimilars priced at 50-85% discount to originator Humira. Key efficacy benchmarks: ACR20 ≥60% at week 12, ACR50 ≥35% at week 24 [Section: Clinical Evidence Thresholds].",
+    "keywords": ["novel", "new", "access path", "entering", "today"]
+  },
+  {
+    "question": "What clinical thresholds would a new TNF-alpha biologic need to clear for formulary placement?",
+    "answer": "Based on current payer evidence expectations and established benchmarks from approved TNF-alpha inhibitors, a new biologic would need to demonstrate: (1) ACR20 response rate ≥60% at week 12 in RA (the historical range for approved TNF-alpha agents is 58-71%); (2) ACR50 response rate ≥35% at week 24; (3) DAS28-CRP remission rates competitive with adalimumab and etanercept benchmarks; (4) a safety profile comparable to the extensive adalimumab post-marketing database, particularly regarding serious infections, malignancy risk, and cardiovascular events. To secure preferred positioning above biosimilars, the product would likely need to demonstrate statistically significant superiority on at least one primary efficacy endpoint, or offer a meaningful convenience advantage (e.g., less frequent dosing, oral formulation) [Section: Clinical Evidence Thresholds].",
+    "keywords": ["clinical", "thresholds", "benchmarks", "formulary", "efficacy"]
+  },
+  {
+    "question": "How does the European HTA landscape for TNF-alpha compare to US commercial?",
+    "answer": "That's an excellent question, but it falls outside the scope of this report, which focuses on U.S. commercial payer market access. The European HTA landscape for TNF-alpha — including NICE, G-BA, and HAS assessments — involves different access frameworks, reference pricing mechanisms, and biosimilar adoption dynamics that warrant dedicated analysis. I'd recommend commissioning a custom report on European TNF-alpha market access if this is a priority for your investment evaluation. You can do that directly from the Commission Report page.",
+    "keywords": ["european", "europe", "HTA", "NICE", "compare"]
+  }
+]

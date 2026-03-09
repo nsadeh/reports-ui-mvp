@@ -1,0 +1,28 @@
+{
+  "monitored_targets": [
+    {
+      "target": "TNF-alpha",
+      "tracked_drugs": 12,
+      "tracked_indications": 8,
+      "last_report_date": "2026-03-10",
+      "status": "new_report",
+      "active": true
+    },
+    {
+      "target": "PD-L1",
+      "tracked_drugs": 9,
+      "tracked_indications": 6,
+      "last_report_date": null,
+      "status": "coming_soon",
+      "active": false
+    },
+    {
+      "target": "CD20",
+      "tracked_drugs": 7,
+      "tracked_indications": 5,
+      "last_report_date": null,
+      "status": "coming_soon",
+      "active": false
+    }
+  ]
+}

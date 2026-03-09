@@ -1,0 +1,19 @@
+{
+  "id": "tnf-alpha-landscape-2026-03-10",
+  "title": "TNF-Alpha Target Area — Market Access Landscape",
+  "scope_type": "target_area",
+  "scope_value": "TNF-alpha",
+  "report_type": "scheduled",
+  "delivery_date": "2026-03-10",
+  "analyst": {
+    "name": "Nim Telson",
+    "title": "Senior Market Access Analyst",
+    "credentials": "PharmD, MBA"
+  },
+  "status": "delivered",
+  "next_scheduled": "2026-03-17",
+  "drugs_covered": ["adalimumab", "etanercept", "infliximab", "certolizumab", "golimumab"],
+  "indications_covered": ["Rheumatoid Arthritis", "Plaque Psoriasis", "Crohn's Disease", "Ulcerative Colitis", "Ankylosing Spondylitis"],
+  "payers_covered": ["Aetna", "UnitedHealthcare", "Cigna", "Anthem/Elevance", "Humana"],
+  "tags": ["biosimilar dynamics", "formulary shift", "step therapy", "interchangeability"]
+}
