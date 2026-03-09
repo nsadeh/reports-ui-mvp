@@ -1,0 +1,16 @@
+Azathioprine combined with either rifaximin (A microecological inhibitor) or infliximab for inflammatory bowel disease: Differential impacts on intestinal barrier function, inflammatory response and stress injury
+Yuanxiang Gong 1, Peisong Zhang 2, Renda Han 3, Jia Guo 4
+Affiliations Expand
+PMID: 41620899 DOI: 10.36721/PJPS.2026.39.3.REG.15231.1
+Abstract
+Background: Inflammatory bowel disease (IBD) is an immune-related chronic intestinal inflammatory disease. In recent years, the incidence of IBD has increased significantly and the trend of younger age is obvious.
+
+Objectives: This prospective cohort study compared the effects of microecological inhibitors (rifaximin, RIF) plus azathioprine (AZA) versus infliximab (IFX) plus AZA in patients with active IBD.
+
+Methods: A total of 130 patients were randomized into two groups and treated for 12 weeks. Key outcomes included intestinal barrier function [Diamine oxidase (DAO), Fecal calprotectin (FC), Lipopolysaccharide (LPS)], mucosal repair markers [Epidermal growth factor (EGF), Transforming growth factor-β1 (TGF-β1)], inflammatory factors [Interleukin-6 (IL-6) and Tumor necrosis factor-α (TNF-α), C reactive protein (CRP)] and oxidative stress indices [Superoxide dismutase (SOD), Malondialdehyde (MDA)].
+
+Results: IFX+AZA rapidly reduced pro-inflammatory cytokines (TNF-α decreased, CRP increased) and mucosal injury markers (DAO increased), but elevated LPS levels (P<0.05). In contrast, RIF + AZA enhanced mucosal repair (EGF decreased, TGF-β1 decreased) and antioxidant capacity (SOD decreased, MDA increased), with less liver enzyme elevation. The study suggests IFX + AZA is superior for acute inflammation control via TNF-α inhibition, while RIF + AZA offers long-term benefits in mucosal healing and oxidative balance through microbiota modulation.
+
+Conclusion: IFX + AZA for rapid induction remission and RIF+AZA for maintenance therapy in IBD.
+
+Keywords: Azathioprine; Inflammatory bowel disease; Infliximab; Intestinal barrier function; Microecological inhibitors; Oxidative stress.

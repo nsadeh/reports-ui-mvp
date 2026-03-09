@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import type { ReportMeta, DashboardData } from "./types";
+import type { ReportMeta, DashboardData, TeamMember, ActivityEvent } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "data");
 
@@ -44,6 +44,22 @@ export function getReportContent(dirName: string): string {
   );
   if (!fs.existsSync(contentPath)) return "";
   return fs.readFileSync(contentPath, "utf-8");
+}
+
+export function getReportContentRaw(id: string): string {
+  const dirName = getReportDirName(id);
+  if (!dirName) return "";
+  return getReportContent(dirName);
+}
+
+export function getTeamData(): TeamMember[] {
+  const raw = fs.readFileSync(path.join(DATA_DIR, "team.json"), "utf-8");
+  return JSON.parse(raw);
+}
+
+export function getActivityData(): ActivityEvent[] {
+  const raw = fs.readFileSync(path.join(DATA_DIR, "activity.json"), "utf-8");
+  return JSON.parse(raw);
 }
 
 export function getReportDirName(id: string): string | null {

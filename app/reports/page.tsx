@@ -1,6 +1,63 @@
 import Link from "next/link";
 import { getAllReportMetas } from "@/lib/reports";
 
+function TypeBadge({ type }: { type: string }) {
+  return (
+    <span
+      className={`inline-block px-2 py-0.5 text-xs font-medium rounded capitalize ${
+        type === "scheduled"
+          ? "bg-accent/10 text-accent"
+          : "bg-lime/30 text-dark"
+      }`}
+    >
+      {type}
+    </span>
+  );
+}
+
+const pastReports = [
+  {
+    title: "TNF-Alpha Target Area — Market Access Landscape",
+    scope: "TNF-alpha",
+    type: "scheduled",
+    date: "2026-02-24",
+    analyst: "Nim Telson",
+    status: "read",
+  },
+  {
+    title: "TNF-Alpha Target Area — Market Access Landscape",
+    scope: "TNF-alpha",
+    type: "scheduled",
+    date: "2026-02-10",
+    analyst: "Nim Telson",
+    status: "read",
+  },
+  {
+    title: "Biosimilar Formulary Dynamics in Psoriasis — Top 10 Commercial Plans",
+    scope: "TNF-alpha",
+    type: "custom",
+    date: "2026-02-03",
+    analyst: "Nim Telson",
+    status: "read",
+  },
+  {
+    title: "TNF-Alpha Target Area — Market Access Landscape",
+    scope: "TNF-alpha",
+    type: "scheduled",
+    date: "2026-01-27",
+    analyst: "Nim Telson",
+    status: "read",
+  },
+  {
+    title: "TNF-Alpha Target Area — Market Access Landscape",
+    scope: "TNF-alpha",
+    type: "scheduled",
+    date: "2026-01-13",
+    analyst: "Nim Telson",
+    status: "read",
+  },
+];
+
 export default function ReportsPage() {
   const reports = getAllReportMetas();
 
@@ -21,6 +78,7 @@ export default function ReportsPage() {
             </tr>
           </thead>
           <tbody>
+            {/* Real clickable reports */}
             {reports.map((report, i) => (
               <tr
                 key={report.id}
@@ -36,33 +94,57 @@ export default function ReportsPage() {
                     {report.title}
                   </Link>
                 </td>
-                <td className="px-4 py-3">
-                  <span className="inline-block px-2 py-0.5 text-xs font-medium bg-sage/30 text-body rounded capitalize">
-                    {report.scope_type.replace("_", " ")}
-                  </span>
+                <td className="px-4 py-3 text-body">
+                  {report.scope_value}
                 </td>
                 <td className="px-4 py-3">
-                  <span
-                    className={`inline-block px-2 py-0.5 text-xs font-medium rounded capitalize ${
-                      report.report_type === "scheduled"
-                        ? "bg-accent/10 text-accent"
-                        : "bg-lime/30 text-dark"
-                    }`}
-                  >
-                    {report.report_type}
-                  </span>
+                  <TypeBadge type={report.report_type} />
                 </td>
                 <td className="px-4 py-3 text-muted">
                   {report.delivery_date}
                 </td>
                 <td className="px-4 py-3 text-body">{report.analyst.name}</td>
                 <td className="px-4 py-3">
-                  <span className="inline-block px-2 py-0.5 text-xs font-medium bg-lime text-dark rounded capitalize">
-                    {report.status}
+                  <span className="inline-block px-2 py-0.5 text-xs font-medium bg-lime text-dark rounded">
+                    New
                   </span>
                 </td>
               </tr>
             ))}
+
+            {/* Past editions (unclickable) */}
+            {pastReports.map((report, i) => {
+              const rowIndex = reports.length + i;
+              return (
+                <tr
+                  key={`past-${i}`}
+                  className={`border-t border-border ${
+                    rowIndex % 2 === 1 ? "bg-bg" : ""
+                  }`}
+                >
+                  <td className="px-4 py-3 text-body">
+                    {report.title}
+                  </td>
+                  <td className="px-4 py-3 text-body">
+                    {report.scope}
+                  </td>
+                  <td className="px-4 py-3">
+                    <TypeBadge type={report.type} />
+                  </td>
+                  <td className="px-4 py-3 text-muted">
+                    {report.date}
+                  </td>
+                  <td className="px-4 py-3 text-body">
+                    {report.analyst}
+                  </td>
+                  <td className="px-4 py-3">
+                    <span className="inline-block px-2 py-0.5 text-xs font-medium bg-bg text-muted rounded capitalize">
+                      {report.status}
+                    </span>
+                  </td>
+                </tr>
+              );
+            })}
           </tbody>
         </table>
       </div>

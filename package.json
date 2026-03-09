@@ -12,9 +12,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.58",
+    "@ai-sdk/react": "^3.0.118",
+    "ai": "^6.0.116",
     "next": "^16.1.6",
+    "next-mdx-remote": "^6.0.0",
     "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react-dom": "^19.2.4",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.1",

@@ -1,0 +1,20 @@
+ffect of Dexmedetomidine on Endothelial Glycocalyx in Patients Undergoing Cardiac Surgery with Cardiopulmonary Bypass
+Yuxiu Fan 1, Beini Chen 2, Fuquan Fang 3, Wei Gao 4, Qiaolin Wu 4, WeiJian Wang 5, Guoliang He 6
+Affiliations Expand
+PMID: 41198441 DOI: 10.1053/j.jvca.2025.09.232
+Abstract
+Objective: To evaluate the protective role of dexmedetomidine on endothelial glycocalyx in cardiac surgery patients undergoing cardiopulmonary bypass (CPB).
+
+Design: Randomized controlled trial.
+
+Setting: Single-center study conducted from June 2022 to December 2022.
+
+Participants: Fifty-eight patients who underwent elective valvular cardiac surgery with CPB.
+
+Interventions: Patients were randomly assigned to either the dexmedetomidine group (n = 29) or the saline group (n = 29), with infusion starting 10 minutes before anesthesia induction and continuing throughout the maintenance phase.
+
+Measurements and main results: Radial artery blood samples were collected at 4 time points: T1, before anesthesia induction; T2, 5 minutes after aortic unclamping; T3, 1 hour postoperatively; and T4, 24 hours postoperatively. The primary endpoint was plasma syndecan-1 concentration, and secondary endpoints were heparin sulfate and tumor necrosis factor-alpha (TNF-α) levels, and long-term clinical outcomes. Compared with controls, the dexmedetomidine group showed significantly less glycocalyx shedding, an effect that persisted throughout CPB and recovery. TNF-α levels were significantly lower at T2-T3, along with reduced lactate levels on aortic unclamping.
+
+Conclusions: Dexmedetomidine preserves endothelial glycocalyx integrity and attenuates systemic inflammation in CPB patients.
+
+Keywords: cardiopulmonary bypass; dexmedetomidine; glycocalyx; inflammation.

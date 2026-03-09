@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2026-03-10T06:00:00Z",
+    "event_type": "report_delivered",
+    "description": "New report delivered: TNF-Alpha Target Area — Market Access Landscape (March 10 edition)",
+    "link": "tnf-alpha-landscape-2026-03-10",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-03-09T14:22:00Z",
+    "event_type": "policy_change",
+    "description": "UnitedHealthcare updated adalimumab biosimilar step therapy requirements — now requires Hadlima or Hyrimoz trial before Humira",
+    "link": "tnf-alpha-landscape-2026-03-10",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-03-09T11:05:00Z",
+    "event_type": "team_question",
+    "description": "Sarah asked 3 questions on the TNF-alpha report about biosimilar formulary positioning",
+    "link": "tnf-alpha-landscape-2026-03-10",
+    "actor": "Sarah Thornton"
+  },
+  {
+    "timestamp": "2026-03-08T16:30:00Z",
+    "event_type": "policy_change",
+    "description": "Cigna expanded preferred biosimilar list for infliximab — added Avsola to preferred tier across commercial plans",
+    "link": "tnf-alpha-landscape-2026-03-10",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-03-07T09:15:00Z",
+    "event_type": "team_commission",
+    "description": "Mike commissioned a custom report: Biosimilar Formulary Dynamics in Psoriasis — Top 10 Commercial Plans",
+    "link": null,
+    "actor": "Mike Reeves"
+  },
+  {
+    "timestamp": "2026-03-06T13:40:00Z",
+    "event_type": "biosimilar_launch",
+    "description": "Sandoz launched Hyrimoz (adalimumab biosimilar) high-concentration formulation — now available in citrate-free option",
+    "link": "tnf-alpha-landscape-2026-03-10",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-03-05T10:00:00Z",
+    "event_type": "custom_report_completed",
+    "description": "Custom report completed: Biosimilar Formulary Dynamics in Psoriasis — Top 10 Commercial Plans",
+    "link": null,
+    "actor": null
+  },
+  {
+    "timestamp": "2026-03-04T15:20:00Z",
+    "event_type": "team_question",
+    "description": "James asked about etanercept biosimilar interchangeability status across state pharmacy boards",
+    "link": "tnf-alpha-landscape-2026-03-10",
+    "actor": "James Park"
+  },
+  {
+    "timestamp": "2026-03-03T08:30:00Z",
+    "event_type": "drug_approval",
+    "description": "FDA accepted sBLA for Yusimry (adalimumab biosimilar) interchangeability designation — decision expected Q3 2026",
+    "link": null,
+    "actor": null
+  },
+  {
+    "timestamp": "2026-03-01T11:00:00Z",
+    "event_type": "policy_change",
+    "description": "Anthem/Elevance announced Q2 formulary update: biosimilar-first step therapy for all TNF-alpha indications",
+    "link": "tnf-alpha-landscape-2026-03-10",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-02-27T14:15:00Z",
+    "event_type": "team_question",
+    "description": "Sarah asked about Humira patient assistance program impact on biosimilar adoption rates",
+    "link": null,
+    "actor": "Sarah Thornton"
+  },
+  {
+    "timestamp": "2026-02-24T06:00:00Z",
+    "event_type": "report_delivered",
+    "description": "Report delivered: TNF-Alpha Target Area — Market Access Landscape (February 24 edition)",
+    "link": null,
+    "actor": null
+  },
+  {
+    "timestamp": "2026-02-22T09:45:00Z",
+    "event_type": "policy_change",
+    "description": "Humana added biosimilar preferred status for golimumab alternatives in Medicare Advantage plans",
+    "link": null,
+    "actor": null
+  }
+]

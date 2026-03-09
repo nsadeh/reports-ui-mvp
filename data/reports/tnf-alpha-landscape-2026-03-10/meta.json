@@ -15,5 +15,7 @@
   "drugs_covered": ["adalimumab", "etanercept", "infliximab", "certolizumab", "golimumab"],
   "indications_covered": ["Rheumatoid Arthritis", "Plaque Psoriasis", "Crohn's Disease", "Ulcerative Colitis", "Ankylosing Spondylitis"],
   "payers_covered": ["Aetna", "UnitedHealthcare", "Cigna", "Anthem/Elevance", "Humana"],
-  "tags": ["biosimilar dynamics", "formulary shift", "step therapy", "interchangeability"]
+  "tags": ["biosimilar dynamics", "formulary shift", "step therapy", "interchangeability"],
+  "read_by": ["Sarah Thornton", "Mike Reeves"],
+  "executive_summary_preview": "Biosimilar competition is reshaping TNF-alpha market access at an accelerating pace. Three of the five major commercial payers have implemented biosimilar-first step therapy policies since January, and adalimumab biosimilar market share has crossed 40% nationally. This edition covers the latest formulary shifts, new interchangeability designations, and their implications for originator positioning."
 }

@@ -18,6 +18,8 @@ export interface ReportMeta {
   indications_covered: string[];
   payers_covered: string[];
   tags: string[];
+  read_by?: string[];
+  executive_summary_preview?: string;
 }
 
 export interface MonitoredTarget {
@@ -42,4 +44,27 @@ export interface QAFallbackPair {
   question: string;
   answer: string;
   keywords: string[];
+}
+
+export interface TeamMember {
+  name: string;
+  initials: string;
+  role: string;
+  status: "online" | "recently_active" | "offline";
+  last_active: string;
+}
+
+export interface ActivityEvent {
+  timestamp: string;
+  event_type:
+    | "report_delivered"
+    | "policy_change"
+    | "custom_report_completed"
+    | "team_question"
+    | "team_commission"
+    | "drug_approval"
+    | "biosimilar_launch";
+  description: string;
+  link: string | null;
+  actor: string | null;
 }

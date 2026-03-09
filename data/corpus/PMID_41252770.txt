@@ -1,0 +1,837 @@
+﻿International Immunopharmacology 168 (2026) 115860 
+
+Contents lists available at ScienceDirect
+
+International Immunopharmacology
+journal homepage: www.elsevier.com/locate/intimp
+
+Effects of esketamine combined with dexmedetomidine on oxidative stress 
+and lung function during one-lung ventilation in patients with mild to 
+moderate COPD undergoing thoracoscopic surgery
+Xiao-Qi Zhang a,1, Ying Liu a,b,1, Wen-Xi Xie a, Yu Mao a, Ang Liu a,c, Shuo Huang a,d,  
+Wan-Ping Hong a, Yi-Feng Hong a, Xiao-Ting Xu a,*, Zhi-Yuan Chen a,*
+
+a Department of Anesthesiology, the Second Affiliated Hospital of Fujian Medical University, Quanzhou 362000, China
+b Department of Anesthesiology, Fuzhou University Affiliated Provincial Hospital, Fuzhou 350001, China
+c Department of Anesthesiology, Heze Municipal Hospital, Heze 274000, China
+d Department of Anesthesiology, The Fifth Hospital of Xiamen, Xiamen 361101, China
+
+A R T I C L E  I N F O A B S T R A C T
+
+Editor Name: Dr. Yongchun Shen Background: This study evaluated the lung-protective effects of esketamine and dexmedetomidine administered 
+before anesthesia induction in patients with mild-to-moderate chronic obstructive pulmonary disease (COPD) 
+
+Keywords: undergoing video-assisted thoracoscopic surgery (VATS).
+Chronic obstructive pulmonary disease Methods: Sixty patients with mild-to-moderate COPD scheduled for VATS who completed the study and were 
+Esketamine included in the statistical analysis were randomly assigned to four groups (n = 15 per group): Control (Group C, 
+Dexmedetomidine
+Lung function saline), Dexmedetomidine (Group D, 0.8 μg/kg), Esketamine (Group E, 0.25 mg/kg), and Combination (Group 
+One-lung ventilation ED, dexmedetomidine 0.8 μg/kg plus esketamine 0.25 mg/kg). Arterial blood gases, peak airway pressure 
+Thoracoscopic surgery (Ppeak), plateau pressure (Pplat), dynamic lung compliance (Cdyn), heart rate (HR), and mean blood pressure 
+
+(MBP) were measured at different time points. Inflammatory markers (IL-6, IL-8, IL-10, TNF-α), oxidative stress 
+markers (MDA, SOD), intraoperative drug use, postoperative recovery, pain scores, and adverse events were 
+recorded.
+Results: At T4 (2 h after one-lung ventilation), peak airway pressure (Ppeak) and plateau pressure (Pplat) were 
+significantly lower, and dynamic lung compliance (Cdyn) significantly higher, in Groups E and ED compared to 
+Groups C and D (P < 0.05). At the same time point, levels of IL-6 and IL-8 were significantly lower in Groups E 
+and ED than in Groups C and D (P < 0.05). TNF-α levels were significantly lower in Groups E and ED compared to 
+Group C, and significantly lower in Group ED than in Group D (P < 0.05). IL-10 levels were significantly higher 
+in Groups E and ED than in Groups C and D, with Group E showing higher levels than Group ED (P < 0.05). 
+Similarly, SOD levels were significantly elevated in Groups E and ED compared to Groups C and D, and higher in 
+Group E than in Group ED (P < 0.05). MDA levels were significantly reduced in Groups E and ED compared to 
+Group C, and lower in Group ED than in Group D (P < 0.05). Additionally, PaO2 at T4 was significantly higher in 
+Group ED than in Groups C and D (P < 0.05).
+Conclusions: Low-dose esketamine combined with dexmedetomidine, administered before anesthesia induction, 
+improved intraoperative pulmonary mechanics and oxygenation, and attenuated inflammation and oxidative 
+stress in patients with mild-to-moderate COPD undergoing VATS. The combination also helped maintain he
+modynamic stability and reduced postoperative pain, contributing to enhanced perioperative recovery.
+
+1. Introduction respiratory condition characterized by impaired pulmonary ventilation 
+and reduced lung function [1]. It shares risk factors and genetic alter
+
+Chronic obstructive pulmonary disease (COPD) is a progressive ations with lung cancer, contributing to a higher incidence of lung 
+
+* Corresponding authors at: No.950 of Donghai street, Fengze District, Quanzhou 362000, China.
+E-mail addresses: 250262173@qq.com (X.-T. Xu), chenzy0818@126.com (Z.-Y. Chen). 
+
+1 Xiao-Qi Zhang and Ying Liu are co-first authors.
+
+https://doi.org/10.1016/j.intimp.2025.115860
+Received 28 May 2025; Received in revised form 2 November 2025; Accepted 13 November 2025  
+Available online 17 November 2025 
+1567-5769/© 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by- 
+nc-nd/4.0/). 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+malignancy among patients with COPD and often requiring surgical % of the predicted value (FEV1% predicted) (Supplementary Table 1).
+intervention [2]. Exclusion criteria: (1) active treatment for immune, endocrine, 
+
+Thoracic surgery, particularly procedures lasting more than two neurologic, or psychiatric disorders, including preoperative cognitive 
+hours, is an established risk factor for postoperative pulmonary com impairment; (2) concomitant respiratory diseases such as pneumonia or 
+plications [3]. Although video-assisted thoracoscopic surgery (VATS) asthma within 2 weeks before surgery; (3) uncontrolled or untreated 
+minimizes surgical trauma and improves perioperative tolerance [4], chronic conditions such as severe hypertension, diabetes mellitus, cor
+patients with COPD remain vulnerable to acute lung injury and respi onary artery disease, or glaucoma; (4) active infection (e.g., nephritis); 
+ratory failure due to underlying pulmonary impairment, heightened (5) severe hepatic or renal impairment; (6) chronic pain lasting ≥3 
+inflammation, and oxidative stress [5]. months or chronic opioid therapy (oral morphine or equivalent >60 mg/ 
+
+Esketamine, the S-enantiomer of ketamine, acts as an N-methyl-D- day), or continuous steroid use within the preceding month; or (7) 
+aspartate (NMDA) receptor antagonist, producing sedative and anal known allergy or contraindication to the study drugs.
+gesic effects [6]. It also exerts sympathomimetic activity, stabilizing Early withdrawal criteria: (1) estimated intraoperative blood loss 
+hemodynamics, promoting airway smooth muscle relaxation, and >300 mL or need for blood transfusion; (2) failure to maintain arterial 
+modulating inflammatory and oxidative pathways [7–9]. However, at oxygen saturation (SpO₂) ≥92 % despite intervention (excluding post
+higher doses, esketamine may induce adverse neuropsychiatric effects, operative hypoxemia); (3) significant hemodynamic instability, life- 
+including agitation and delirium [10]. Dexmedetomidine, a selective α2- threatening arrhythmias, or other severe intraoperative events; (4) 
+adrenergic receptor agonist, provides sedation and analgesia, attenuates one-lung ventilation (OLV) duration <2 h; (5) delayed emergence, 
+pulmonary inflammation and oxidative stress, and may reduce post defined as failure to regain consciousness, maintain a patent airway, and 
+operative psychological disturbances. Nonetheless, its use is often respond to stimuli within 45 min after discontinuation of anesthetics; or 
+limited by bradycardia and hypotension [11]. (6) inability to achieve adequate analgesia despite more than two rescue 
+
+Given their distinct yet complementary pharmacologic properties, analgesic interventions.
+the combination of esketamine and dexmedetomidine may enhance 
+pulmonary protection while minimizing drug-related adverse effects. 2.3. Randomization, blinding, and interventions
+Among patients undergoing VATS, mild to moderate COPD is the most 
+frequently encountered phenotype, characterized by persistent airflow This was a triple-blind, randomized, placebo-controlled trial. Par
+limitation resulting from small airway inflammation and alveolar nar ticipants were randomly assigned in a 1:1:1:1 ratio to one of four groups 
+rowing [12]. using a computer-generated random number table: Control (C), Esket
+
+This study was designed to evaluate the potential lung-protective amine (E), Dexmedetomidine (D), or Combination (ED), with 17 pa
+effects of esketamine and dexmedetomidine in this population by tients in each group.
+assessing intraoperative airway pressure, perioperative inflammatory Based on the clinically recommended sub-anesthetic or sub-sedative 
+and oxidative stress markers, and postoperative pulmonary doses of esketamine and dexmedetomidine, as well as their reported 
+complications. anti-inflammatory and antioxidant properties and favorable hemody
+
+namic and neuropsychiatric safety profiles, we selected 0.25 mg/kg 
+2. Methods esketamine and 0.8 μg/kg dexmedetomidine for this study [13–18]. 
+
+Drug A (dexmedetomidine) was infused intravenously over 15 min 
+2.1. Clinical trial registration and ethical approval before anesthesia induction, and Drug B (esketamine) was injected as a 
+
+bolus during induction. The timing of esketamine administration and 
+This study was approved by the Ethics Committee of the Second the dilution volume of dexmedetomidine were adjusted from the origi
+
+Affiliated Hospital of Fujian Medical University (Approval No. 2021- nally registered protocol based on preliminary safety observations, in 
+439) and conducted in accordance with institutional ethical standards. order to minimize peri-induction agitation, excessive sedation and he
+The trial was registered with the Chinese Clinical Trial Registry prior to modynamic fluctuations. The dosing regimens and intervention assign
+patient enrollment (ChiCTR2200062621; https://www.chictr.org. ments remained unchanged. Group assignments were as follows: C 
+cn/showproj.html?proj=174484; Principal Investigator: Zhi-Yuan group, 100 mL saline (Drug A) + 10 mL saline (Drug B); E group, 100 mL 
+Chen; Registration Date: August 14, 2022). Written informed consent saline (Drug A) + esketamine 0.25 mg/kg in 10 mL saline (Drug B); D 
+was obtained from all participants before inclusion. group, dexmedetomidine 0.8 μg/kg in 100 mL saline (Drug A) + 10 mL 
+
+saline (Drug B); and ED group, dexmedetomidine 0.8 μg/kg in 100 mL 
+2.2. Study population saline (Drug A) + esketamine 0.25 mg/kg in 10 mL saline (Drug B).
+
+Randomization was concealed using sequentially numbered, opaque 
+Eligible participants were adults scheduled for single-port video- envelopes. A research assistant, not involved in patient care or data 
+
+assisted thoracoscopic surgery (VATS), including pulmonary resection analysis, assigned patients to study groups one day prior to surgery and 
+and mediastinal lymphadenectomy. The anticipated enrollment period prepared the study medications on the day of the procedure. Blinding 
+registered in the Chinese Clinical Trial Registry was from October 2022 was maintained for the attending anesthesiologist (Anesthesiologist A), 
+to September 2023. Due to occasional delays related to preoperative the postoperative evaluator (Anesthesiologist B), and the statistician. 
+examinations and perioperative scheduling in some patients, the There was no exchange of perioperative information between care 
+enrollment and follow-up period was extended to December 2023 to providers.
+ensure completion of the planned sample size and data integrity. The 
+protocol remained unchanged, and the extension complied with the 2.4. Anesthetic management
+approved ethical timeline.
+
+Inclusion criteria: (1) age 45–80 years; (2) American Society of An All smokers were advised to abstain from smoking for at least two 
+esthesiologists (ASA) physical status II or III; (3) anticipated operative weeks before surgery. On the day of surgery, vital signs (blood pressure, 
+time of ≥2 h; (4) history of chronic obstructive pulmonary disease heart rate, oxygen saturation) were monitored, and baseline blood 
+(COPD)-related risk factors, clinical symptoms, and signs, with persis samples were collected. After preoxygenation and administration of 
+tent airflow limitation confirmed by preoperative pulmonary function drug a, anesthesia was induced with midazolam (0.05 mg/kg), sufen
+testing that met the diagnostic criteria of the 2021 revised Global tanil (0.4 μg/kg), propofol (1–2 mg/kg), cisatracurium (0.2 mg/kg), and 
+Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines; and drug b. A double-lumen endotracheal tube (DLT) was inserted following 
+(5) COPD severity classified as mild to moderate, defined by FEV1 ≥ 50 3 min of assisted ventilation, and its position was confirmed with 
+
+2 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+fiberoptic bronchoscopy. 2.5.2. Other secondary outcomes
+Patients were placed in the lateral decubitus position, and a T5 
+
+erector spinae plane block was performed using 20 mL of 0.5 % ropi (1) Perioperative parameters: Duration of anesthesia (from induction 
+vacaine under ultrasound guidance. Anesthesia was maintained with to cessation of anesthetics), surgery (from skin incision to 
+continuous infusions of propofol (3–6 mg/kg/h), remifentanil (0.1–0.2 closure), OLV, and time to extubation (from cessation of anes
+μg/kg/min), and cisatracurium (0.1 mg/kg/h), with a target bispectral thetics to tracheal tube removal) were recorded. Intraoperative 
+index of 40–55. blood loss was calculated as suction canister volume minus irri
+
+Mechanical ventilation parameters included volume-controlled gation fluid, with the change in gauze weight taken into account. 
+mode, FiO₂ of 100 %, flow rate of 1.5 L/min, and an inspiratory-to- Urine output from entry into the operating room to the end of 
+expiratory (I:E) ratio of 1:2. During two-lung ventilation, tidal volume surgery, total fluid infusion, and intraoperative dosages of 
+(VT) was 9 mL/kg with respiratory rate (RR) of 10–12/min; during OLV, intravenous anesthetics, analgesics, and cardiovascular drugs 
+VT was 6 mL/kg and RR adjusted to 12–20/min with a PEEP of 5 cm were documented.
+H2O. End-tidal CO2 (PetCO2) was maintained at 35–50 mmHg, and (2) Hemodynamics: Invasive mean arterial pressure (IMAP) and 
+SpO2 ≥ 92 %. Manual lung recruitment maneuvers (MRMs) were per heart rate (HR) were recorded at T0, T1, T2, T3, and T4.
+formed at predefined time points: (1) after resection of the diseased lung (3) Postoperative analgesia: Pain intensity was assessed at 6, 12, 24, 
+tissue and before closure of the thoracic cavity to re-expand the opera and 48 h postoperatively using the visual analog scale (VAS; 
+tive lung; (2) after resumption of two-lung ventilation and before Supplementary Material 2) and the Prince-Henry pain scale 
+tracheal extubation to re-expand both lungs; and (3) in each case, MRMs (Supplementary Material 3). Analgesic efficacy was further 
+were carried out after arterial blood sampling at T4. The procedure evaluated by the number of patient-controlled intravenous 
+consisted of airway suctioning followed by slow manual compression of analgesia (PCIA) presses and total analgesic consumption within 
+the anesthesia breathing bag to gradually increase airway pressure 48 h after surgery.
+(Paw) and maintain it at approximately 30 cm H2O for 10–15 s while (4) Adverse events: All adverse events within 48 h were recorded, 
+observing the surgical field and vital signs. including nausea, vomiting, dizziness, delirium, nightmares, 
+
+Hemodynamic parameters were maintained within ±20 % of base hallucinations, and postoperative nausea and vomiting (PONV; 
+line. Norepinephrine (0.04 mg/mL) was administered as needed. If Supplementary Material 4). Cardiovascular adverse events such 
+mean arterial pressure dropped >20 %, dopamine (1 mg/mL) and as hypertension, hypotension, and arrhythmias were also 
+metaraminol (0.5 mg/mL) were given. Atropine (0.3–0.5 mg) was used documented.
+for bradycardia. Remifentanil was titrated to manage inadequate anal
+gesia, as indicated by hypertension or tachycardia. 2.6. Statistical analysis
+
+Crystalloid (lactated Ringer’s) and colloid (hydroxyethyl starch) 
+solutions were infused at rates <5 mL/kg/h. Neuromuscular blockers 2.6.1. Sample size calculation
+were discontinued 30 min before the end of surgery. Analgesic bridging Sample size was calculated using G*Power 3.1 software based on 
+was achieved with ketorolac tromethamine (30 mg) and dezocine (5 mg) preliminary data for the primary outcomes measured at T4, including 
+20 min prior to wound closure. Propofol and remifentanil were dis Ppeak, IL-6, and MDA. Preliminary experiments indicated that changes 
+continued 5 min before surgery ended. in these parameters were minimal during the early ventilation period 
+
+In the post-anesthesia care unit (PACU), patient-controlled intrave (T1–T3) but became significant at T4. The selection of T4 as the main 
+nous analgesia (PCIA) was initiated using dezocine (25 mg), ketorolac evaluation time point was also supported by previous studies showing 
+tromethamine (120 mg), and dexmedetomidine (150 μg) diluted in 100 that lung injury and inflammation peak after prolonged mechanical 
+mL saline. PCIA settings were: basal rate 2 mL/h, bolus dose 3 mL, ventilation [19,20]. With a type I error (α) of 0.05 and power (1 − β) of 
+lockout interval 15 min. If the visual analog scale (VAS) pain score 0.95, the required sample sizes were: Ppeak: 60 patients (15 per group); 
+exceeded 4, a bolus was administered. If inadequate relief persisted after IL-6: 36 patients (9 per group); MDA: 52 patients (13 per group). Ac
+5 min, oxycodone (5 mg IV) was administered both in the PACU and in counting for an estimated dropout rate of 10 %, a total of 68 patients 
+the ward. were enrolled.
+
+2.6.2. Statistical methods
+2.5. Data collection and outcomes All analyses were performed using R software (version 4.3.0). 
+
+Normality was assessed using the Shapiro–Wilk test due to the small 
+2.5.1. Perioperative pulmonary function assessment sample size (N < 400). Normally distributed variables were expressed as 
+
+Primary outcomes: (1) Peak airway pressure (Ppeak) and plateau mean ± standard deviation (SD) and analyzed using one-way ANOVA 
+pressure (Pplat) were measured at T1 (immediately after tracheal intu with Tukey’s post hoc test for pairwise comparisons. Non-normally 
+bation and initiation of two-lung ventilation), T2 (end of two-lung distributed data were presented as median (Q1, Q3) and analyzed 
+ventilation), T3 (1 h after initiation of one-lung ventilation [OLV]), using Kruskal–Wallis tests. Categorical data were expressed as counts 
+and T4 (2 h after initiation of OLV). (2) Radial artery blood samples were and percentages and analyzed using chi-square or Fisher’s exact tests, as 
+collected at T0 (before drug administration) and T4 for determination of appropriate. A two-tailed P value <0.05 was considered statistically 
+plasma interleukin (IL)-6, IL-8, IL-10, tumor necrosis factor-α (TNF-α), significant.
+superoxide dismutase (SOD), and malondialdehyde (MDA) 
+concentrations. 3. Results
+
+Secondary outcomes: (1) Preoperative pulmonary function was 
+evaluated using the FEV1/FVC ratio and FEV1% predicted. (2) Dynamic 3.1. Patient enrollment and completion
+lung compliance (Cdyn) was recorded at T1–T4. (3) Arterial blood gases 
+(PaO₂ and PaCO2) were analyzed at T0, T2, T3, and T4. (4) Postoperative Of the 75 patients assessed for eligibility, seven were excluded (five 
+pulmonary complications (PPCs), including pneumonia (diagnosed by declined to provide informed consent and two for other reasons). The 
+the clinical pulmonary infection score [CPIS], Supplementary Table 2), remaining 68 patients with mild-to-moderate COPD were randomized 
+pneumothorax, atelectasis, pleural effusion, hypoxemia, acute lung equally into four groups. During the study, eight patients were further 
+injury (ALI), and respiratory failure, were documented during hospi excluded: two from the Control group (one due to frequent intra
+talization (Supplementary Material 1). operative multifocal ventricular tachycardia, one due to refractory 
+
+3 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+hypoxemia), two from the Esketamine group (one due to vascular injury 3.3. Intraoperative pulmonary function
+requiring transfusion, one with an OLV duration <120 min), two from 
+the Dexmedetomidine group (both with OLV duration <120 min), and 3.3.1. Airway pressure and dynamic compliance
+two from the Combination group (both with OLV duration <120 min). A In the C and D groups, both peak airway pressure (Ppeak) and 
+total of 60 patients (15 per group) completed the study and were plateau pressure (Pplat) progressively increased during mechanical 
+included in the final analysis. The patient enrollment, randomization, ventilation, while dynamic compliance (Cdyn) decreased. In contrast, in 
+follow-up, and analysis process is illustrated in Fig. 1. the E and ED groups, Ppeak and Pplat decreased slightly at 2 h after OLV 
+
+initiation (T4), relative to 1 h (T3). At T4, one-way analysis of variance 
+3.2. Baseline characteristics (ANOVA) followed by Tukey’s post hoc test showed that both Ppeak and 
+
+Pplat were significantly lower in the E and ED groups than in the C and D 
+3.2.1. Preoperative characteristics groups (P < 0.05), whereas Cdyn was significantly higher (P < 0.05) 
+
+The four groups were comparable in age, preoperative oxygen (Fig. 2).
+saturation (SpO2), smoking history (years), body mass index (BMI), 
+FEV1/FVC ratio, sex distribution, ASA classification, and prevalence of 3.3.2. Inflammatory and oxidative stress markers
+comorbidities including hypertension (31.7 %), coronary artery disease At baseline (T0), levels of inflammatory and oxidative stress markers 
+(8.3 %), and diabetes mellitus (8.3 %) (Table 1). No statistically sig did not differ significantly among the groups.
+nificant differences were observed. Inflammatory Markers: At T4, one-way ANOVA followed by Tukey’s 
+
+post hoc test showed that the concentrations of interleukin (IL)-6 and IL- 
+3.2.2. Intraoperative parameters 8 were significantly lower in the E and ED groups than in the C and D 
+
+No significant differences were observed among groups in extubation groups (P < 0.05) (Fig. 3A and C). Tumor necrosis factor-alpha (TNF-α) 
+time, duration of anesthesia, duration of one-lung ventilation (OLV), or was also significantly lower in the E and ED groups than in the C group 
+intraoperative doses of norepinephrine, metaraminol, or oxycodone. and lower in the ED group compared with the D group (P < 0.05) 
+However, there were significant differences in intraoperative urine (Fig. 3D). No significant differences were found between the C and D 
+output, colloid infusion volume, and total fluid administration. The total groups or between the E and ED groups for these markers. IL-10 levels 
+remifentanil dose also differed significantly (P = 0.044), with the lowest were significantly higher in the E and ED groups compared to the C and 
+median dose in the E group (0.82 mg) and the highest in the C group D groups, with the E group showing the highest values (P < 0.05) 
+(1.25 mg). Atropine administration differed significantly among groups (Fig. 3B).
+(P = 0.006), with the highest proportion in the D group (46.7 %) Oxidative Stress Markers: At T4, one-way ANOVA followed by 
+(Table 2). Tukey’s post hoc test showed that superoxide dismutase (SOD) levels 
+
+were significantly higher in the E and ED groups than in the C and D 
+groups (P < 0.05), with the highest values in the E group (Fig. 3E). 
+Malondialdehyde (MDA) levels were significantly lower in the E and ED 
+
+Fig. 1. Study flow diagram. A total of 75 patients with mild-to-moderate chronic obstructive pulmonary disease (COPD) scheduled for thoracoscopic surgery were 
+assessed for eligibility. Seven patients were excluded (five declined to provide informed consent and two for other reasons). Sixty-eight eligible patients were 
+randomized equally into four groups (C, D, E, and ED; 17 patients each). During follow-up, two patients in each group were lost for the reasons indicated, leaving 60 
+patients (15 per group) for final analysis.
+
+4 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+Table 1 
+Baseline demographic and clinical characteristics of the study participants by group.
+
+Variables Total (n = 60) C (n = 15) E (n = 15) D (n = 15) ED (n = 15) Statistic P
+
+Age, Mean ± SD 63.85 ± 7.25 66.67 ± 8.23 65.20 ± 5.77 60.60 ± 7.18 62.93 ± 6.80 F = 2.13 0.107
+Preoperative SpO2, Mean ± SD 96.60 ± 1.90 96.33 ± 1.59 96.87 ± 2.10 96.07 ± 2.34 97.13 ± 1.41 F = 0.99 0.406
+Smoking duration (years), Mean ± SD 36.32 ± 10.49 42.00 ± 13.20 33.67 ± 9.54 34.00 ± 10.31 35.60 ± 6.61 F = 2.18 0.101
+
+22.59 
+BMI, M (Q1, Q3) (21.30, 24.99) 23.00 (22.00,23.94) 22.00 (21.00,22.52) 24.40 (20.95,27.16) 22.89 (21.33,24.47) χ2 = 3.61# 0.306
+
+66.00 
+FEV1/FVC, M (Q1, Q3) 67.00 (57.75,70.50) 63.06 (56.70,68.62) 68.00 (64.00,68.88) 66.00 (56.00,68.50) χ2 = 1.50# 0.682
+
+(57.75, 69.25)
+FEV1 (% predicted) 79.12 ± 11.54 76.91 ± 13.20 80.12 ± 14.52 77.53 ± 7.86 81.90 ± 9.86 F = 0.59 0.622
+
+, Mean ± SD
+Gender, n(%) ​ ​ ​ ​ ​ – 0.353
+
+Male 49 (81.67) 14 (93.33) 13 (86.67) 10 (66.67) 12 (80.00) ​ ​
+Female 11 (18.33) 1 (6.67) 2 (13.33) 5 (33.33) 3 (20.00) ​ ​
+
+ASA, n(%) ​ ​ ​ ​ ​ – 0.348
+II 50 (83.33) 13 (86.67) 10 (66.67) 14 (93.33) 13 (86.67) ​ ​
+III 10 (16.67) 2 (13.33) 5 (33.33) 1 (6.67) 2 (13.33) ​ ​
+
+Hypertension, n(%) ​ ​ ​ ​ ​ – 1.000
+No 41 (68.33) 10 (66.67) 11 (73.33) 10 (66.67) 10 (66.67) ​ ​
+Yes 19 (31.67) 5 (33.33) 4 (26.67) 5 (33.33) 5 (33.33) ​ ​
+
+Coronary heart disease, n(%) ​ ​ ​ ​ ​ – 1.000
+No 55 (91.67) 14 (93.33) 14 (93.33) 14 (93.33) 13 (86.67) ​ ​
+Yes 5 (8.33) 1 (6.67) 1 (6.67) 1 (6.67) 2 (13.33) ​ ​
+
+Diabetes, n(%) ​ ​ ​ ​ ​ – 0.377
+No 55 (91.67) 15 (100.00) 12 (80.00) 14 (93.33) 14 (93.33) ​ ​
+Yes 5 (8.33) 0 (0.00) 3 (20.00) 1 (6.67) 1 (6.67) ​ ​
+
+F: ANOVA, #: Kruskal-waills test, − : Fisher exact.
+SD: standard deviation, M: Median, Q1: 1st Quartile, Q3: 3st Quartile.
+
+Table 2 
+Comparison of intraoperative characteristics, fluid management, and medication use between groups.
+
+Variables Total (n = 60) C (n = 15) E (n = 15) D (n = 15) ED (n = 15) Statistic P
+
+Time of extubation, min, 23.88 ± 10.23 23.73 ± 10.55 24.00 ± 9.10 24.13 ± 9.92 23.67 ± 12.17 F = 0.01 0.999
+Mean ± SD
+
+Operation duration, min, 
+Mean ± SD 198.55 ± 68.48 190.33 ± 47.67 163.00 ± 23.50 233.20 ± 95.10 207.67 ± 71.36 F = 3.08 0.035
+
+Propofol, mg, Mean ± SD 812.62 ± 296.85 918.33 ± 350.56 653.40 ± 176.20 690.67 ± 80.58 988.07 ± 350.55 F = 5.80 0.002
+Anesthesia duration, min, 237.50 (213.25, 265.00 225.00 255.00 240.00 χ2 =
+
+M (Q1, Q3) 6.69# 0.083
+292.50) (187.50,305.00) (192.50,235.00) (217.50,375.00) (222.50,300.00)
+
+OLV duration, min, M (Q1, 158.50 (130.00, 170.00 135.00 187.00 180.00 χ2 =
+Q3) 191.25) (129.00,179.00) (129.00,151.00) (156.00,235.00) (135.00,212.50) 6.30# 0.098
+
+Blood loss, ml, M (Q1, Q3) 20.00 (20.00, 20.00 (20.00,40.00) 20.00 (17.50,20.00) 20.00 (20.00,50.00) 20.00 (20.00,50.00) χ2 =
+50.00) 7.62# 0.055
+
+Urine volume, ml, M (Q1, 525.00 (300.00, 500.00 300.00 800.00 650.00 χ2 =
+Q3) 800.00) (250.00,650.00) (250.00,500.00) (475.00,950.00) (500.00,800.00) 15.36# 0.002
+
+Crystal Liquid, ml, M (Q1, 700.00 (700.00, 700.00 700.00 700.00 700.00 χ2 =
+Q3) 700.00) (650.00,700.00) (700.00,700.00) (600.00,700.00) (650.00,700.00) 1.53# 0.675
+
+Colloidal liquid, ml, M 500.00 (400.00, 600.00 300.00 600.00 600.00 χ2 =
+(Q1, Q3) 700.00) (450.00,750.00) (300.00,500.00) 12.26# 0.007
+
+(500.00,675.00) (500.00,700.00)
+Total Intake, ml, M (Q1, 1200.00 (1075.00, 1200.00 1000.00 1300.00 1300.00 χ2 =
+
+Q3) 1300.00) (1150.00,1350.00) (1000.00,1200.00) (1150.00,1325.00) (1150.00,1350.00) 9.32# 0.025
+Remifentanil, mg, M (Q1, χ2 =
+
+Q3)
+0.97 (0.77, 1.37) 1.25 (0.95,1.54) 0.82 (0.66,0.91) 1.12 (0.75,1.65) 1.05 (0.82,1.18) 8.11# 0.044
+
+Norepinephrine, mg, M χ2 =
+0.79 (0.48, 1.33) 0.80 (0.56,1.14) 0.51 (0.40,1.12) 0.76 (0.66,1.24) 0.80 (0.64,1.48)
+
+2.87# 0.412
+(Q1, Q3)
+
+Metaraminol, mg, M (Q1, 1.00 (0.00, 2.00) 1.00 (0.00,2.00) 0.50 (0.00,1.50) 1.00 (0.00,1.88) 2.00 (0.50,2.50) χ2 =
+Q3) 3.79# 0.285
+
+Type of surgery, n(%) ​ ​ ​ ​ ​ – 0.186
+Pulmonary lobectomy 38 (63.33) 9 (60.00) 11 (73.33) 10 (66.67) 8 (53.33) ​ ​
+Partial lobectomy 15 (25.00) 3 (20.00) 1 (6.67) 5 (33.33) 6 (40.00) ​ ​
+Cuneiform lobectomy 7 (11.67) 3 (20.00) 3 (20.00) 0 (0.00) 1 (6.67) ​ ​
+Operation site, n(%) ​ ​ ​ ​ ​ χ2 = 1.28 0.734
+
+Left 27 (45.00) 8 (53.33) 7 (46.67) 5 (33.33) 7 (46.67) ​ ​
+Right 33 (55.00) 7 (46.67) 8 (53.33) 10 (66.67) 8 (53.33) ​ ​
+
+Atropine, n(%) ​ ​ ​ ​ ​ – 0.006
+No 50 (83.33) 13 (86.67) 14 (93.33) 8 (53.33) 15 (100.00) ​ ​
+Yes 10 (16.67) 2 (13.33) 1 (6.67) 7 (46.67) 0 (0.00) ​ ​
+
+Hydrocodone, n(%) ​ ​ ​ ​ ​ – 1.000
+No 54 (90.00) 14 (93.33) 14 (93.33) 13 (86.67) 13 (86.67) ​ ​
+Yes 6 (10.00) 1 (6.67) 1 (6.67) 2 (13.33) 2 (13.33) ​ ​
+
+F: ANOVA, #: Kruskal-waills test, χ2: Chi-square test, − : Fisher exact.
+SD: standard deviation, M: Median, Q1: 1st Quartile, Q3: 3st Quartile.
+
+5 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+Fig. 2. Intraoperative Dynamic Pulmonary Function Parameters. Panels A, C, and E show peak airway pressure (Ppeak), plateau pressure (Pplat), and dynamic lung 
+compliance (Cdyn) measured at T1, T2, T3, and T4. Panels B, D, and F display between-group comparisons of Ppeak, Pplat, and Cdyn at T4. Data were analyzed using 
+one-way analysis of variance (ANOVA) followed by Tukey’s post hoc test. P < 0.05 (*), P < 0.01 (**), P < 0.001 (***).
+
+groups compared to the C group and lower in the ED group than in the D 3.5. Postoperative pain and complications
+group (P < 0.05) (Fig. 3F). No significant differences in SOD or MDA 
+were observed between the C and D groups. 3.5.1. Pulmonary complications
+
+The E and ED groups had the lowest clinical pulmonary infection 
+3.3.3. Arterial blood gas analysis score (CPIS), a statistically significant difference among groups. How
+
+Arterial oxygen tension (PaO2) peaked at the end of two-lung ever, the incidence of individual pulmonary complications-including 
+ventilation (T2) and declined during OLV in all groups. At T4, one- pneumothorax, atelectasis, pleural effusion, hypoxemia, and 
+way ANOVA followed by Tukey’s post hoc test showed that PaO2 was pneumonia-did not differ significantly among groups (Table 3).
+significantly higher in the ED group compared to the C and D groups (P 
+< 0.05) (Fig. 4A and B). No significant intergroup differences were 3.5.2. Postoperative pain
+found in arterial carbon dioxide tension (PaCO2) at any time point At 24 h postoperatively, one-way ANOVA followed by Tukey’s post 
+(Fig. 4C and D). hoc test showed that the visual analog scale (VAS) pain score was 
+
+significantly lower in the ED group than in the C and D groups (P < 0.05) 
+(Fig. 5A). At 48 h, both VAS and Prince-Henry scores were significantly 
+
+3.4. Intraoperative hemodynamics lower in the E and ED groups than in the C and D groups (P < 0.05) 
+(Fig. 5A and B). No significant differences were noted between the E and 
+
+No significant differences were observed among groups in invasive ED groups or between the C and D groups. Patient-controlled intrave
+mean arterial pressure (IMAP) or heart rate (HR) at any intraoperative nous analgesia (PCIA) usage within the first 48 h postoperatively was 
+time point (Fig. 4E-H). significantly lower in the ED group compared to the C and D groups, and 
+
+6 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+Fig. 3. Inflammatory Cytokines and Oxidative Stress Markers at T4. Panels A through D show serum levels of interleukin-6 (IL-6), interleukin-10 (IL-10), interleukin- 
+8 (IL-8), and tumor necrosis factor–α (TNF-α). Panels E and F display levels of superoxide dismutase (SOD) and malondialdehyde (MDA).Statistical significance was 
+assessed using one-way ANOVA with Tukey’s post hoc test. P < 0.05 (*), P < 0.01 (**), P < 0.001 (***).
+
+lower in the E group than in the D group (P < 0.05; Supplementary responses [21–24]. However, whether these agents exert comparable 
+Fig. S1). No significant differences were observed between the E and ED protective effects in patients with chronic obstructive pulmonary disease 
+groups or between the C and D groups. (COPD)-a population with preexisting airway hyperresponsiveness and 
+
+inflammation—undergoing video-assisted thoracoscopic surgery 
+3.5.3. Other adverse events (VATS) remains uncertain.
+
+No patients in any group reported neuropsychiatric adverse events To mitigate risk, this study excluded patients with severe COPD, for 
+such as nightmares or hallucinations. No significant differences were whom thoracic surgery is often contraindicated due to an increased 
+observed in PONV scores, dizziness, nausea, vomiting, hypotension, or likelihood of perioperative pulmonary and cardiovascular complica
+arrhythmias (Table 3). tions. This selection criterion enhanced patient safety and supported the 
+
+broader applicability of the findings to patients with mild-to-moderate 
+4. Discussion disease who are eligible for VATS.
+
+Several intraoperative factors contribute to elevated airway pres
+4.1. Pulmonary protective effects of esketamine combined with sures during VATS, including volume-controlled ventilation, double- 
+dexmedetomidine lumen tube (DLT) placement, intrinsic positive end-expiratory pres
+
+sure resulting from narrowed small airways, reduced lung recoil in 
+Esketamine and dexmedetomidine have been shown to contribute to COPD, and compression of lung tissue due to lateral decubitus posi
+
+airway stability and to modulate inflammatory and oxidative stress tioning [25]. Elevated peak (Ppeak) and plateau (Pplat) airway 
+
+7 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+Fig. 4. Arterial Blood Gas and Intraoperative Hemodynamic Parameters. 
+Panels A and C show arterial partial pressure of oxygen (PaO2) and carbon dioxide (PaCO2) at T0, T2, T3, and T4. Panels E and G present intraoperative mean blood 
+pressure (IMBP) and heart rate (HR) at T0, T1, T2, T3, T4, and T5. Panels B, D, F, and H show between-group comparisons of PaO2, PaCO2, IMBP, and HR at T4. 
+Statistical analysis was performed using one-way ANOVA with Tukey’s correction. P < 0.05 (*), P < 0.01 (**), P < 0.001 (***).
+
+pressures are associated with pulmonary edema and acute lung injury compliance declined. In contrast, the E and ED groups showed slight 
+(ALI) [26]. Therefore, controlling airway pressure and improving dy reductions in airway pressures at 2 h of OLV (T4), with concurrent im
+namic compliance are essential endpoints in evaluating lung-protective provements in compliance. These effects are consistent with esket
+strategies. amine’s known bronchodilatory properties, likely mediated through 
+
+In this study, Ppeak and Pplat increased progressively during one- NMDA receptor antagonism in the airways [27], suppression of vagal 
+lung ventilation (OLV) in the C and D groups, while dynamic reflexes [28], and inhibition of L-type calcium channels in smooth 
+
+8 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+Table 3 
+Comparison of postoperative complications and recovery outcomes.
+
+Variables Total (n = 60) C (n = 15) E (n = 15) D (n = 15) ED (n = 15) Statistic P
+
+CPIS, point, M (Q1, Q3) 2.00 (2.00, 4.00) 3.00 (2.00,5.00) 2.00 (1.00,2.00) 3.00 (2.00,4.50) 2.00 (2.00,3.50) χ2 = 10.46# 0.015
+PONV Score, point, M (Q1, Q3) 0.00 (0.00, 2.00) 0.00 (0.00,1.50) 0.00 (0.00,1.50) 1.00 (0.00,2.00) 1.00 (0.00,3.00) χ2 = 1.77# 0.621
+Pneumothorax, n(%) ​ ​ ​ ​ ​ – 0.271
+
+No 51 (85.00) 14 (93.33) 14 (93.33) 10 (66.67) 13 (86.67) ​ ​
+Yes 9 (15.00) 1 (6.67) 1 (6.67) 5 (33.33) 2 (13.33) ​ ​
+
+Pulmonary Atelectasis, n(%) ​ ​ ​ ​ ​ – 0.490
+No 52 (86.67) 13 (86.67) 14 (93.33) 11 (73.33) 14 (93.33) ​ ​
+Yes 8 (13.33) 2 (13.33) 1 (6.67) 4 (26.67) 1 (6.67) ​ ​
+
+Pleural Effusion, n(%) ​ ​ ​ ​ ​ χ2 = 4.05 0.257
+No 35 (58.33) 8 (53.33) 11 (73.33) 10 (66.67) 6 (40.00) ​ ​
+Yes 25 (41.67) 7 (46.67) 4 (26.67) 5 (33.33) 9 (60.00) ​ ​
+
+Hypoxemia, n(%) ​ ​ ​ ​ ​ – 0.111
+No 49 (81.67) 10 (66.67) 15 (100.00) 12 (80.00) 12 (80.00) ​ ​
+Yes 11 (18.33) 5 (33.33) 0 (0.00) 3 (20.00) 3 (20.00) ​ ​
+
+Pulmonary Infection, n(%) ​ ​ ​ ​ ​ – 0.073
+No 46 (76.67) 8 (53.33) 14 (93.33) 11 (73.33) 13 (86.67) ​ ​
+Yes 14 (23.33) 7 (46.67) 1 (6.67) 4 (26.67) 2 (13.33) ​ ​
+
+Dizziness and Nausea, n(%) ​ ​ ​ ​ ​ – 0.891
+No 42 (70.00) 11 (73.33) 11 (73.33) 11 (73.33) 9 (60.00) ​ ​
+Yes 18 (30.00) 4 (26.67) 4 (26.67) 4 (26.67) 6 (40.00) ​ ​
+
+Postoperative Hypotension, n(%) ​ ​ ​ ​ ​ – 0.283
+No 53 (88.33) 12 (80.00) 14 (93.33) 12 (80.00) 15 (100.00) ​ ​
+Yes 7 (11.67) 3 (20.00) 1 (6.67) 3 (20.00) 0 (0.00) ​ ​
+
+Arrhythmia, n(%) ​ ​ ​ ​ ​ – 0.179
+No 56 (93.33) 12 (80.00) 15 (100.00) 14 (93.33) 15 (100.00) ​ ​
+Yes 4 (6.67) 3 (20.00) 0 (0.00) 1 (6.67) 0 (0.00) ​ ​
+
+#: Kruskal-waills test, χ2: Chi-square test, − : Fisher exact.
+M: Median, Q1: 1st Quartile, Q3: 3st Quartile.
+
+Fig. 5. Postoperative Pain Scores. 
+Panel A shows Visual Analog Scale (VAS) scores at 6, 12, 24, and 48 h after surgery. Panel B shows Prince-Henry pain scores at the same time points. 
+Group differences were analyzed by one-way ANOVA with Tukey’s post hoc test. P < 0.05 (*), P < 0.01 (**), P < 0.001 (***).
+
+muscle cells [29]. role in intraoperative analgesia.
+Notably, the addition of dexmedetomidine did not significantly However, no significant differences in oxidative stress markers were 
+
+enhance these mechanical benefits compared to esketamine alone. found between the C and D groups, and the ED group showed lower IL- 
+Dexmedetomidine alone failed to significantly reduce airway pressures, 10 and SOD levels than the E group. These findings suggest that dex
+despite preclinical data suggesting it may have bronchodilatory activity medetomidine alone did not produce a substantial anti-inflammatory or 
+[30]. This discrepancy may reflect limited direct action on airway antioxidant effect, in contrast with earlier reports [35,36]. Possible ex
+smooth muscle, the use of a single pre-induction bolus, and the absence planations include lack of continuous infusion, insufficient dosing, and 
+of intraoperative maintenance dosing. physiological stressors specific to COPD such as hypercapnia and 
+
+Pulmonary injury during VATS also involves complex inflammatory elevated levels of granulocyte-macrophage colony-stimulating factor 
+and oxidative mechanisms, including alveolar shear stress, ischemia- [37].
+reperfusion injury of the collapsed lung, and exposure to surgical Oxygenation, reflected by arterial PaO₂, is also a key indicator of 
+trauma [31,32]. Hyperoxia further exacerbates oxidative stress, partic lung function during VATS. COPD-related changes-such as reduced 
+ularly in cancer patients with impaired antioxidant defenses [33,34]. compliance, ventilation-perfusion mismatch, and impaired hypoxic 
+These factors may initiate or perpetuate a cycle of pulmonary injury. pulmonary vasoconstriction (HPV)-contribute to hypoxemia [38]. While 
+
+Consistent with this, patients in the E and ED groups had signifi no patient developed clinically significant hypoxemia or hypercapnia, 
+cantly lower levels of proinflammatory cytokines (IL-6, IL-8, TNF-α) and PaO₂ declined during OLV in all groups. At T4, PaO₂ remained signifi
+malondialdehyde (MDA), alongside higher levels of IL-10 and superox cantly higher in the ED group than in the C and D groups. This modest 
+ide dismutase (SOD), suggesting reduced inflammation and enhanced improvement may have been partially obscured by routine suctioning, 
+antioxidant activity. The greatest effect was observed with esketamine alveolar recruitment, and high inspired oxygen concentrations across all 
+monotherapy. The observed opioid-sparing effect in this group, evi groups.
+denced by reduced remifentanil requirements, supports a synergistic Postoperative pulmonary complications (PPCs) are common in 
+
+9 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+patients with COPD and have been reported in up to 5 % of patients for chronic pain after thoracic surgery [46]. Therefore, this study eval
+undergoing general anesthesia, with higher rates in thoracic procedures uated acute pain within the first 48 h postoperatively.Although not 
+[39]. The structural and immune alterations caused by smoking and statistically significant, fewer patients in the E and ED groups required 
+chronic inflammation in COPD further increase the risk [40]. In our rescue analgesia with oxycodone. At 24 h, VAS scores were significantly 
+study, the lowest clinical pulmonary infection scores (CPIS) were lower in the ED group than in the C and D groups. At 48 h, both VAS and 
+observed in the E group, suggesting a sustained anti-inflammatory Prince-Henry scores were significantly lower in the E and ED groups. 
+benefit that may contribute to reduced PPC risk. PCIA activation counts were also significantly lower in these two groups.
+
+Collectively, these results support the pulmonary protective effects These findings support the analgesic and opioid-sparing benefits of 
+of low-dose esketamine when administered at induction. This effect is esketamine when administered at induction. This aligns with earlier 
+likely mediated through improved airway mechanics, suppression of work by Brinck et al. [47] and Jouguelet-Lacoste et al. [48], who re
+inflammation, and attenuation of oxidative stress. The addition of dex ported reduced postoperative pain and opioid requirements with low- 
+medetomidine contributed to improved oxygenation but did not dose intraoperative ketamine.Unexpectedly, dexmedetomidine did not 
+enhance anti-inflammatory or bronchodilatory outcomes, likely due to demonstrate superior analgesic efficacy compared to the Control group. 
+subtherapeutic dosing and the lack of intraoperative infusion. Possible reasons include the lack of continuous infusion, low dosing, and 
+
+delayed onset of action relative to the timing of pain assessments. 
+4.2. Hemodynamic effects of esketamine combined with dexmedetomidine Moreover, effective ESPB and the routine inclusion of dexmedetomidine 
+
+in PCIA may have minimized between-group differences.
+Older adults with COPD often exhibit reduced cardiovascular reserve Importantly, no patient experienced neuropsychiatric adverse effects 
+
+and are particularly vulnerable to perioperative hemodynamic insta such as hallucinations or nightmares. Rates of PONV, dizziness, and 
+bility. Ketamine and its isomers, including esketamine, stimulate cate hypotension were also comparable across groups. These findings suggest 
+cholamine release and inhibit their reuptake [41,42], and may also that sub-anesthetic doses of esketamine do not increase the risk of psy
+directly enhance myocardial contractility [43]. In contrast, dexmede chiatric or gastrointestinal side effects, possibly due to stable hemody
+tomidine reduces sympathetic tone and is associated with bradycardia namics, the mitigating effects of dexmedetomidine, and the inherently 
+and hypotension [44]. low emetogenicity of thoracoscopic surgery. The modest sample size 
+
+In the present study, vital signs were generally stable across groups. may also have limited the ability to detect rare adverse events.
+No excessive sympathetic activation was observed in the E or ED groups 
+at T2, and no cases of profound bradycardia were noted in the ED group. 4.4. Limitations
+Vasopressor requirements did not differ significantly among groups. 
+These findings may reflect the analgesic synergy of erector spinae plane This study has several limitations. First, the sample size was rela
+block and opioid therapy, as well as the low esketamine dose and the tively small and was calculated based on effect estimates for Ppeak, IL-6, 
+balanced autonomic effects of the combination regimen. and MDA. Consequently, the study may have been underpowered to 
+
+Interestingly, the D group exhibited an overall lower heart rate and detect differences in secondary outcomes, limiting the generalizability 
+the highest proportion of atropine use, suggesting that a single loading of those findings. For example, there was an approximately six-year 
+dose of dexmedetomidine still exerted sustained vagomimetic effects on mean age difference between the C and D groups, which was likely 
+both HR and mean arterial pressure (MAP). Notably, the mean age of due to the limited sample size and may have introduced confounding 
+patients in the D group was approximately 6 years lower than that in the related to age-dependent sensitivity to study drugs, vasoactive agents, or 
+C group. Although no statistically significant differences were found fluid therapy. We plan to expand patient enrollment in future trials to 
+between these two groups in the use of other vasoactive drugs, fluid minimize potential bias and improve clinical applicability. Second, the 
+administration, or other perioperative parameters except for heart rate, dexmedetomidine regimen did not include intraoperative maintenance 
+the age difference might influence sensitivity to the study drugs and infusion, which may have attenuated its potential therapeutic effects. 
+vasoactive agents as well as the hemodynamic response to fluid therapy. Third, future studies will incorporate analyses of covariance (ANCOVA) 
+Further studies with a larger sample size are warranted to minimize to further adjust for baseline covariates and enhance statistical rigor. 
+potential statistical bias and to clarify these age-related effects. The E Future investigations should also include larger cohorts, longer follow- 
+group required the least colloid and total fluid administration, consistent up periods, and optimized dosing protocols for both dexmedetomidine 
+with fluid-conservative strategies in thoracic anesthesia. and esketamine to better define their roles in perioperative lung pro
+
+These data suggest that esketamine at a sub-anesthetic dose (0.25 tection and recovery.
+mg/kg) supports hemodynamic stability without provoking excessive 
+sympathetic activity. This dose may be particularly useful in high-stress 5. Conclusion
+settings such as awake fiberoptic intubation or procedural sedation. 
+Moreover, when combined with dexmedetomidine, esketamine may In patients with mild-to-moderate chronic obstructive pulmonary 
+offset bradycardic and hypotensive effects, enhancing overall cardio disease undergoing video-assisted thoracoscopic surgery, the use of 
+vascular safety during surgery. dexmedetomidine (0.8 μg/kg) as a pre-induction loading dose combined 
+
+with a sub-anesthetic dose of esketamine (0.25 mg/kg) at induction was 
+4.3. Role in postoperative recovery and enhanced recovery after surgery associated with clinically meaningful pulmonary protection. Esketamine 
+(ERAS) contributed to reductions in airway pressure, suppression of inflamma
+
+tory responses, and mitigation of oxidative stress. When administered 
+Postoperative pain after VATS activates sympathetic responses, together, the two agents enhanced pulmonary oxygenation, supported 
+
+limits mobility, and impairs airway clearance, all of which increase the hemodynamic stability, reduced postoperative pain, and promoted more 
+risk of PPCs and delay recovery. Multimodal analgesia (MMA) is a rapid perioperative recovery.
+cornerstone of enhanced recovery after surgery (ERAS). Esketamine, as 
+an NMDA receptor antagonist, is the only intravenous anesthetic with Authors contribution
+intrinsic analgesic effects and has been recommended for perioperative 
+use in thoracic surgery by several expert groups [45]. Dexmedetomi All authors meet the authorship criteria recommended by the In
+dine, through activation of descending spinal inhibitory pathways, also ternational Committee of Medical Journal Editors. Conception and 
+enhances analgesia. Their combination may yield additive effects. design: X-Q Zhang, Y Liu, X-T Xu, and Z-Y Chen. Data collection and 
+
+Severe pain in the early postoperative period is a known risk factor assembly: Y Liu, W-X Xie, X-Q Zhang, Y Mao, A Liu, S Huang, W-P Hong, 
+
+10 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+Y-F Hong, and J-H Wu. Data analysis and interpretation: X-Q Zhang, Y [4] Z. Liu, C. Jin, R. Lui, et al., Video-assisted Thoracoscopic surgery for treatment of 
+Liu, X-T Xu, and Z-Y Chen. Manuscript writing: All authors. Final chronic obstructive pulmonary disease, Indian J. Surg. 78 (2) (Apr 2016) 112–116, 
+
+https://doi.org/10.1007/s12262-015-1328-2.
+approval of manuscript: All authors. [5] D. Lederman, J. Easwar, J. Feldman, V. Shapiro, Anesthetic considerations for lung 
+
+resection: preoperative assessment, intraoperative challenges and postoperative 
+CRediT authorship contribution statement analgesia, Ann Transl Med. 7 (15) (Aug 2019) 356, https://doi.org/10.21037/ 
+
+atm.2019.03.67.
+[6] B.M. Radvansky, K. Shah, A. Parikh, A.N. Sifonios, V. Le, J.D. Eloy, Role of 
+
+Xiao-Qi Zhang: Writing – review & editing, Writing – original draft, ketamine in acute postoperative pain management: a narrative review, Biomed. 
+Visualization, Validation, Software, Resources, Methodology, Investi Res. Int. 2015 (2015) 749837, https://doi.org/10.1155/2015/749837.
+
+[7] A. Nowacka, M. Borczyk, Ketamine applications beyond anesthesia - a literature 
+gation, Data curation, Conceptualization. Ying Liu: Visualization, review, Eur. J. Pharmacol. 860 (Oct 5 2019) 172547, https://doi.org/10.1016/j. 
+Validation, Software, Resources, Methodology, Investigation. Wen-Xi ejphar.2019.172547.
+Xie: Software, Resources, Methodology, Investigation. Yu Mao: Soft [8] Y. Zhang, M. Zhang, C.Y. Wang, A. Shen, Ketamine alleviates LPS induced lung 
+
+injury by inhibiting HMGB1-RAGE level, Eur. Rev. Med. Pharmacol. Sci. 22 (6) 
+ware, Resources, Data curation. Ang Liu: Methodology, Investigation. (Mar 2018) 1830–1836, https://doi.org/10.26355/eurrev_201803_14603.
+Shuo Huang: Software, Resources. Wan-Ping Hong: Resources, Data [9] C. Yang, Y. Song, H. Wang, Suppression of RAGE and TLR9 by ketamine 
+curation. Yi-Feng Hong: Data curation. Xiao-Ting Xu: Supervision, contributes to attenuation of lipopolysaccharide-induced acute lung injury, 
+
+J. Investig. Surg. 30 (3) (Jun 2017) 177–186, https://doi.org/10.1080/ 
+Project administration, Methodology, Investigation, Conceptualization. 08941939.2016.1232448.
+Zhi-Yuan Chen: Writing – review & editing, Writing – original draft, [10] C. Gastaldon, E. Raschi, J.M. Kane, C. Barbui, G. Schoretsanitis, Post-marketing 
+Visualization, Validation, Software, Resources, Project administration, safety concerns with Esketamine: a disproportionality analysis of spontaneous 
+
+Methodology, Investigation, Funding acquisition, Formal analysis, Data reports submitted to the FDA adverse event reporting system, Psychother. 
+Psychosom. 90 (1) (2021) 41–48, https://doi.org/10.1159/000510703.
+
+curation, Conceptualization. [11] A.R. Naemi, V. Kashanitabar, A. Kamali, A. Shiva, Comparison of the effects of 
+haloperidol, metoclopramide, Dexmedetomidine and ginger on postoperative 
+nausea and vomiting after laparoscopic cholecystectomy, J. Med. Life 13 (2) (Apr- 
+
+Consent for publication Jun 2020) 206–210, https://doi.org/10.25122/jml-2019-0070.
+[12] N.T. Nguyen, J.T. Anderson, M. Budd, et al., Effects of pneumoperitoneum on 
+
+Not applicable. intraoperative pulmonary mechanics and gas exchange during laparoscopic gastric 
+bypass, Surg. Endosc. 18 (1) (Jan 2004) 64–71, https://doi.org/10.1007/s00464- 
+002-8786-x.
+
+Ethics approval and consent to participate [13] J. Wang, J. Huang, S. Yang, et al., Pharmacokinetics and safety of Esketamine in 
+Chinese patients undergoing painless gastroscopy in comparison with ketamine: a 
+randomized, open-label clinical study, Drug Des. Devel. Ther. 13 (2019) 
+
+This study was conducted with the approval and under the guidelines 4135–4144, https://doi.org/10.2147/dddt.S224553.
+of the Medical Ethics Committee of the Second Affiliated Hospital of [14] X. Wang, C. Lin, L. Lan, J. Liu, Perioperative intravenous S-ketamine for acute 
+Fujian Medical University (approval No. 439, 2021). Informed consent postoperative pain in adults: a systematic review and meta-analysis, J. Clin. 
+
+Anesth. 68 (Feb 2021) 110071, https://doi.org/10.1016/j.jclinane.2020.110071.
+was obtained from all participants before inclusion in the study. [15] K. Hashimoto, T. Kakiuchi, H. Ohba, S. Nishiyama, H. Tsukada, Reduction of 
+
+dopamine D(2/3) receptor binding in the striatum after a single administration of 
+Funding esketamine, but not R-ketamine: a PET study in conscious monkeys, Eur. Arch. 
+
+Psychiatry Clin. Neurosci. 267 (2) (Mar 2017) 173–176, https://doi.org/10.1007/ 
+s00406-016-0692-7.
+
+This work was supported by the Guided projects of Fujian Provincial [16] K.A. Trujillo, C.Y. Heller, Ketamine sensitization: influence of dose, environment, 
+Science and Technology Department (2022Y0028). social isolation and treatment interval, Behav. Brain Res. 378 (Jan 27 2020) 
+
+112271, https://doi.org/10.1016/j.bbr.2019.112271.
+[17] S. Gao, Y. Wang, J. Zhao, A. Su, Effects of dexmedetomidine pretreatment on heme 
+
+oxygenase-1 expression and oxidative stress during one-lung ventilation, Int. J. 
+Declaration of competing interest Clin. Exp. Pathol. 8 (3) (2015) 3144–3149.
+
+[18] B. Li, Y. Li, S. Tian, et al., Anti-inflammatory effects of perioperative 
+The authors declare that they have no known competing financial Dexmedetomidine administered as an adjunct to general anesthesia: a Meta- 
+
+analysis, Sci. Rep. 5 (Jul 21 2015) 12342, https://doi.org/10.1038/srep12342.
+interests or personal relationships that could have appeared to influence [19] Y. Song, S. Yen, M. Preissner, et al., The association between regional 
+the work reported in this paper. transcriptome profiles and lung volumes in response to mechanical ventilation and 
+
+lung injury, Respir. Res. 23 (1) (Feb 19 2022) 35, https://doi.org/10.1186/s12931- 
+022-01958-2.
+
+Acknowledgments [20] M.S. Valentine, C. Weigel, F. Kamga Gninzeko, et al., S1P lyase inhibition prevents 
+lung injury following high pressure-controlled mechanical ventilation in aging 
+
+Not applicable. mice, Exp. Gerontol. 173 (Mar 2023) 112074, https://doi.org/10.1016/j. 
+exger.2022.112074.
+
+[21] G. Mylavarapu, R.J. Fleck, M.S. Ok, et al., Effects on the upper airway morphology 
+Appendix A. Supplementary data with intravenous addition of ketamine after Dexmedetomidine Administration in 
+
+Normal Children, J. Clin. Med. 9 (11) (Nov 20 2020), https://doi.org/10.3390/ 
+jcm9113723.
+
+Supplementary data to this article can be found online at https://doi. [22] M.M. Zhu, Q.H. Zhou, M.H. Zhu, et al., Effects of nebulized ketamine on allergen- 
+org/10.1016/j.intimp.2025.115860. induced airway hyperresponsiveness and inflammation in actively sensitized 
+
+Brown-Norway rats, J. Inflamm. (Lond). 4 (May 4 2007) 10, https://doi.org/ 
+10.1186/1476-9255-4-10.
+
+Data availability [23] C.A. Flanders, A.S. Rocke, S.A. Edwardson, J.K. Baillie, T.S. Walsh, The effect of 
+dexmedetomidine and clonidine on the inflammatory response in critical illness: a 
+
+Data will be made available on request. systematic review of animal and human studies, Crit. Care 23 (1) (Dec 11 2019) 
+402, https://doi.org/10.1186/s13054-019-2690-4.
+
+[24] Y. Zhou, X. Du, Q. Wang, et al., Dexmedetomidine protects against airway 
+References inflammation and airway remodeling in a murine model of chronic asthma through 
+
+TLR4/NF-κB signaling pathway, Mediat. Inflamm. 2023 (2023) 3695469, https:// 
+[1] A. Agustí, B.R. Celli, G.J. Criner, et al., Global Initiative for Chronic Obstructive doi.org/10.1155/2023/3695469.
+
+Lung Disease 2023 Report: GOLD Executive Summary, Am. J. Respir. Crit. Care [25] B. Burrows, Differential diagnosis of chronic obstructive pulmonary disease, Chest 
+Med. 207 (7) (Apr 1 2023) 819–837, https://doi.org/10.1164/rccm.202301- 97 (2 Suppl) (Feb 1990) 16s–18s, https://doi.org/10.1378/chest.97.2_ 
+0106PP. supplement.16s.
+
+[2] C. Qi, S.W. Sun, X.Z. Xiong, From COPD to lung Cancer: mechanisms linking, [26] J. Lohser, P. Slinger, Lung injury after one-lung ventilation: a review of the 
+diagnosis, treatment, and prognosis, Int. J. Chron. Obstruct. Pulmon. Dis. 17 pathophysiologic mechanisms affecting the ventilated and the collapsed lung, 
+(2022) 2603–2621, https://doi.org/10.2147/copd.S380732. Anesth. Analg. 121 (2) (Aug 2015) 302–318, https://doi.org/10.1213/ 
+
+[3] A.M. Gillinov, R.F. Heitmiller, Strategies to reduce pulmonary complications after ane.0000000000000808.
+transhiatal esophagectomy, Dis. Esophagus 11 (1) (Nov 1 2017) 43–47, https:// [27] T. Sato, K. Hirota, A. Matsuki, E.K. Zsigmond, S.F. Rabito, The role of the N-methyl- 
+doi.org/10.1093/dote/11.1.43. D-aspartic acid receptor in the relaxant effect of ketamine on tracheal smooth 
+
+11 
+
+
+
+X.-Q. Zhang et al.                                                                                                                                                                            I n  t e r n  a  t i o  n a  l   I m   m  u  n  o  p h  a  r m   a  c o  l o  g y  168 (2026) 115860 
+
+muscle, Anesth. Analg. 87 (6) (Dec 1998) 1383–1388, https://doi.org/10.1097/ [39] A. Fernandez-Bustamante, G. Frendl, J. Sprung, et al., Postoperative pulmonary 
+00000539-199812000-00033. complications, early mortality, and hospital stay following noncardiothoracic 
+
+[28] J. Nehama, R. Pass, A. Bechtler-Karsch, C. Steinberg, D.A. Notterman, Continuous surgery: a multicenter study by the perioperative research network investigators, 
+ketamine infusion for the treatment of refractory asthma in a mechanically JAMA Surg 152 (2) (Feb 1 2017) 157–166, https://doi.org/10.1001/ 
+ventilated infant: case report and review of the pediatric literature, Pediatr. Emerg. jamasurg.2016.4065.
+Care 12 (4) (Aug 1996) 294–297, https://doi.org/10.1097/00006565-199608000- [40] S.T. Lugg, T. Tikka, P.J. Agostini, et al., Smoking and timing of cessation on 
+00015. postoperative pulmonary complications after curative-intent lung cancer surgery, 
+
+[29] C.M. Pabelick, K.A. Jones, K. Street, R.R. Lorenz, D.O. Warner, Calcium J. Cardiothorac. Surg. 12 (1) (Jun 19 2017) 52, https://doi.org/10.1186/s13019- 
+concentration-dependent mechanisms through which ketamine relaxes canine 017-0614-4.
+airway smooth muscle, Anesthesiology 86 (5) (May 1997) 1104–1111, https://doi. [41] M. Mazzeffi, K. Johnson, C. Paciullo, Ketamine in adult cardiac surgery and the 
+org/10.1097/00000542-199705000-00014. cardiac surgery intensive care unit: an evidence-based clinical review, Ann. Card. 
+
+[30] H. Groeben, W. Mitzner, R.H. Brown, Effects of the alpha2-adrenoceptor agonist Anaesth. 18 (2) (Apr-Jun 2015) 202–209, https://doi.org/10.4103/0971- 
+dexmedetomidine on bronchoconstriction in dogs, Anesthesiology 100 (2) (Feb 9784.154478.
+2004) 359–363, https://doi.org/10.1097/00000542-200402000-00026. [42] M. Miller, N. Kruit, C. Heldreich, et al., Hemodynamic response after rapid 
+
+[31] A.S. Slutsky, V.M. Ranieri, Ventilator-induced lung injury, N. Engl. J. Med. 369 sequence induction with ketamine in out-of-hospital patients at risk of shock as 
+(22) (Nov 28 2013) 2126–2136, https://doi.org/10.1056/NEJMra1208707. defined by the shock index, Ann. Emerg. Med. 68 (2) (Aug 2016), https://doi.org/ 
+
+[32] P.P. Terragni, G.L. Rosboch, A. Lisi, A.G. Viale, V.M. Ranieri, How respiratory 10.1016/j.annemergmed.2016.03.041, 181–188.e2.
+system mechanics may help in minimising ventilator-induced lung injury in ARDS [43] G. Mion, S. Himmelseher, Esketamine: less drowsiness, more analgesia, Anesth. 
+patients, Eur. Respir. J. Suppl. 42 (Aug 2003) 15s–21s, https://doi.org/10.1183/ Analg. 139 (1) (Jul 1 2024) 78–91, https://doi.org/10.1213/ 
+09031936.03.00420303. ane.0000000000006851.
+
+[33] Y. Yang, Z.Z. Wu, Y.L. Cheng, W. Lin, C. Qu, Resveratrol protects against oxidative [44] M.A.S. Weerink, M. Struys, L.N. Hannivoort, C.R.M. Barends, A.R. Absalom, 
+damage of retinal pigment epithelium cells by modulating SOD/MDA activity and P. Colin, Clinical pharmacokinetics and pharmacodynamics of dexmedetomidine, 
+activating Bcl-2 expression, Eur. Rev. Med. Pharmacol. Sci. 23 (1) (Jan 2019) Clin. Pharmacokinet. 56 (8) (Aug 2017) 893–913, https://doi.org/10.1007/ 
+378–388, https://doi.org/10.26355/eurrev_201901_16786. s40262-017-0507-7.
+
+[34] S. Kartal, G. Kip, A. Küçük, et al., The effects of Dexmedetomidine and ketamine on [45] F. Piccioni, M. Segat, S. Falini, et al., Enhanced recovery pathways in thoracic 
+oxidative injuries and histological changes following blunt chest trauma, Drug Des. surgery from Italian VATS group: perioperative analgesia protocols, J. Thorac. Dis. 
+Devel. Ther. 14 (2020) 2937–2943, https://doi.org/10.2147/dddt.S258921. 10 (Suppl. 4) (Mar 2018) S555–s563, https://doi.org/10.21037/jtd.2017.12.86.
+
+[35] P. Li, J. Han, D. Zhang, S. Cao, C. Su, Effects of dexmedetomidine on oxidative [46] S.K. Abd-Elshafy, F. Abdallal, E.Z. Kamel, et al., Paravertebral Dexmedetomidine in 
+stress and inflammatory response in lungs during mechanical ventilation in COPD video-assisted thoracic surgeries for acute and chronic pain prevention, Pain 
+rats, Exp. Ther. Med. 19 (2) (Feb 2020) 1219–1224, https://doi.org/10.3892/ Physician 22 (3) (May 2019) 271–280.
+etm.2019.8341. [47] E.C.V. Brinck, K. Maisniemi, J. Kankare, L. Tielinen, P. Tarkkila, V.K. Kontinen, 
+
+[36] S. Zhong, Q. Sun, J. Wen, et al., Dexmedetomidine attenuates inflammatory Analgesic effect of intraoperative intravenous S-ketamine in opioid-naïve patients 
+response and chronic pain following video-assisted thoracoscopic surgery for lung after major lumbar fusion surgery is temporary and not dose-dependent: a 
+cancer, Surgery 176 (4) (Oct 2024) 1263–1272, https://doi.org/10.1016/j. randomized, double-blind, placebo-controlled clinical trial, Anesth. Analg. 132 (1) 
+surg.2024.06.001. (Jan 2021) 69–79, https://doi.org/10.1213/ane.0000000000004729.
+
+[37] R. Vlahos, S. Bozinovski, J.A. Hamilton, G.P. Anderson, Therapeutic potential of [48] J. Jouguelet-Lacoste, L. La Colla, D. Schilling, J.E. Chelly, The use of intravenous 
+treating chronic obstructive pulmonary disease (COPD) by neutralising infusion or single dose of low-dose ketamine for postoperative analgesia: a review 
+granulocyte macrophage-colony stimulating factor (GM-CSF), Pharmacol. Ther. of the current literature, Pain Med. 16 (2) (Feb 2015) 383–403, https://doi.org/ 
+112 (1) (Oct 2006) 106–115, https://doi.org/10.1016/j.pharmthera.2006.03.007. 10.1111/pme.12619.
+
+[38] K.J. Dunham-Snary, D. Wu, E.A. Sykes, et al., Hypoxic pulmonary vasoconstriction: 
+from molecular mechanisms to medicine, Chest 151 (1) (Jan 2017) 181–192, 
+https://doi.org/10.1016/j.chest.2016.09.001.
+
+12

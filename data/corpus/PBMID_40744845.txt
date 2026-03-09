@@ -1,0 +1,693 @@
+﻿Journal of Microbiology, Immunology and Infection 59 (2026) 54–61 
+
+Contents lists available at ScienceDirect
+
+Journal of Microbiology, Immunology and Infection
+journal homepage: www.e-jmii.com
+
+Maraviroc treatment for hospitalized participants with non-severe 
+COVID-19 at risk of progression: a randomized, proof-of-concept 
+clinical trial
+Carmen Gasca-Capote a,r, José Manuel Lomas-Cabezas a,r, Abraham Saborido-Alconchel a,  
+Cristina Moral-Turón a, María Dolores Navarro a, Antonio Ramos b, Manuel Poyato-Borrego a,  
+Angela María Villalba c, Inmaculada Rivas-Jeremías a, Monserrat Domínguez a, Julia Praena a,  
+José Miguel Cisneros a, Luis F. López-Cortés a,* , Ezequiel Ruiz-Mateos a,**, Virgen del Rocío 
+Hospital COVID-19 Working Teams
+
+a Institute of Biomedicine of Seville (IBiS), Virgen del Rocío University Hospital, Spanish National Research Council (CSIC), University of Seville, Clinical Unit of 
+Infectious Diseases, Microbiology and Parasitology, Seville, Spain
+b Internal Medicine. Virgen del Rocío University Hospital, Seville, Spain
+c Institute of Biomedicine of Seville (IBiS), Virgen del Rocío University Hospital, Spanish National Research Council (CSIC), University of Seville, Pharmacy Unit, Seville, 
+Spain
+
+A R T I C L E  I N F O A B S T R A C T
+
+Keywords: Background: Therapeutic options for hospitalized people with COVID-19 remain limited, especially for people 
+Maraviroc with non-severe COVID-19 at risk of progression. The anti-inflammatory role of maraviroc, a CCR5 antagonists, 
+COVID-19 makes it a good candidate for therapeutic strategies for COVID-19.
+Neutrophil/lymphocyte ratio Methods: This was a proof-of-concept, phase II, parallel, open label clinical trial, to evaluate the safety and ef
+CCR5
+IL-6 and TNF-α ficacy of maraviroc (300 mg, bid), CCR5 antagonist, combined with standard of care (SoC) treatment compared 
+
+to SoC alone during 14 days, in hospitalized people with mild COVID-19 with pneumonia and ambient air oxygen 
+saturation >94 %. Demographical, clinical, and analytical data were assayed at day 0, 7, 14 and 28.
+Results: Thirty-three participants were included, 17 in the control and 16 in the maraviroc group. The proportion 
+of participants who experienced COVID-19 progression was 2.8 times higher in the control group than in the 
+maraviroc group, with three participants admitted in intensive care unit versus none in the maraviroc group. The 
+only variable associated with the time to severe COVID-19 progression was maraviroc treatment. The median 
+time on oxygen therapy was 11 days in the control group, while the two participants in the maraviroc group had 
+oxygen therapy for one and four days. Grade 3–4 events were only present in the control group. Maraviroc 
+treatment was associated with a better neutrophil/lymphocyte ratio and lactate dehydrogenase, IL-6 and TNF-α 
+levels at day 7.
+Conclusions: We observed a beneficial role of maraviroc in hospitalized participants with mild COVID-19 at risk of 
+progression at admission.
+
+* Corresponding author. Clinic Unit of Infectious Diseases, Clinical Microbiology and Parasitology. Virgen del Rocío University Hospital. Biomedicine Institute of 
+Seville (IBIS). Avda. Manuel Siurot s/n. CP 41013, Seville, Spain.
+
+** Corresponding author. Clinic Unit of Infectious Diseases, Clinical Microbiology and Parasitology. Virgen del Rocío University Hospital. Biomedicine Institute of 
+Seville (IBIS). Avda. Manuel Siurot s/n. CP 41013, Seville, Spain.
+
+E-mail addresses: luisfernando@lopezcortes.net (L.F. López-Cortés), eruizmateos-ibis@us.es (E. Ruiz-Mateos). 
+r These authors contributed equally to this work. Author order was determined alphabetically.
+s Study Group team members are listed in the Acknowledgments.
+
+https://doi.org/10.1016/j.jmii.2025.07.007
+Received 7 January 2025; Received in revised form 4 July 2025; Accepted 14 July 2025  
+Available online 24 July 2025 
+1684-1182/© 2025 Taiwan Society of Microbiology. Published by Elsevier Taiwan LLC. This is an open access article under the CC BY-NC-ND license 
+( http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+
+
+
+C. Gasca-Capote et al.                                                                                                                                                   J  o u  r n  a  l   o  f  M   i c r o  b  i o l o  g y  ,   I m   m  u  n  o  l o g  y   a n  d    I n  f e c  t i on 59 (2026) 54–61 
+
+1. Introduction SARS-CoV-2 RNA by PCR or positive antigen test during the first seven 
+days after symptoms onset (in any case, symptoms lasting for less than 
+
+COVID-19 vaccines have dramatically changed the natural history of 12 days), hospitalized with mild or moderate pneumonia, confirmed by 
+the pandemic.1 Despite certain SARS-CoV-2 variants of concern (VOCs), conventional radiological image of computed axial tomography and 
+fatalities and hospitalizations decreased, mostly affecting immunosup ambient air oxygen saturation (SatO2) >94 %. Women at childbearing 
+pressed and comorbid patients.2 COVID-19 progression also occurs more age required a negative pregnancy test and effective contraceptive 
+frequently in settings with poor access to the vaccine and with the lifting methods (intrauterine device, bilateral tubal occlusion, vasectomized 
+of COVID-19 containment policies, as it was demonstrated in the last partner, and sexual abstinence) during the study. After recruitment, 
+massive outbreaks in China.3 Despite vaccines, COVID-19 hospitaliza participants were centrally randomized 1:1 using the WINPEP1 program 
+tions persist, and therapeutic options remain limited. In people with with stratified block randomization to receive maraviroc (300 mg, bid) 
+severe COVID-19, beyond antivirals, there are several options such as: plus SoC treatment during 14 days (Maraviroc group) or SoC treatment 
+corticosteroids, IL-6 receptor blockers and baricitinib.4 However, (Control group). Participants were followed up for 28 days, and de
+treatment options for non-severe COVID-19 remain limited, particularly mographic, clinical, and analytical data were assayed following routine 
+for preventing progression in pneumonia patients at risk. At the begin clinical procedures and registered at day 0, 7, 14 and 28. Participants 
+ning of the pandemic, only antivirals or monoclonal antibodies with had a chest X-ray image at day 14 (Fig. 1). During hospitalization, 
+limited efficacy were available.5 Current guidelines recommend the use clinical data were registered daily. The primary endpoints were the 
+of nirmatrelvir-ritonavir,4 although it has proved a clear benefit in a safety and efficacy of maraviroc combined with standard care, both 
+selected group of patients, mainly those with severe immunosuppres assessed during follow-up by monitoring adverse drug reactions and 
+sion,4 timing of administration and drug interactions prevent its use in evaluating the reduction in the COVID-19 severity ordinal scale.15 The 
+certain groups of patients, especially in transplant recipients. secondary endpoints included i) clinical and biochemical variables 
+
+Maraviroc, a CCR5 inhibitor approved for HIV treatment,6,7 blocks related to COVID-19 progression, such as intensive care unit admission, 
+interactions with CCR5 ligands, MIP1-α, MIP1-β and RANTES, pre death, time of hospitalization, time on oxygen therapy and minimum 
+venting intracellular signaling and chemoattraction.8 In addition to its SatO2 without oxygen therapy; and ii) inflammatory markers associated 
+antiviral efficacy,9 maraviroc exhibits immunomodulatory effects.10,11 with disease severity.
+COVID-19 progression is associated with a hyperinflammatory 
+response,12 with monocytes and T-cells infiltrates and increased CCR5 2.2. Ethics declarations
+ligand levels in severe cases.13,14 All these data prompted us to design a 
+clinical trial using maraviroc, a CCR5 blocker, to avoid an exacerbated Signed written or oral informed consent was obtained from all par
+inflammatory response in people with pneumonia at risk of COVID-19 ticipants. The clinical trial was designed and conducted according to the 
+progression. principles of the Declaration of Helsinki and was approved by the Drug 
+
+Research Ethics Committee of Seville (internal protocol code “COVI
+2. Methods MAR”; EudraCT: 2020-005555-20; NCT04710199 (January 14, 2021)). 
+
+The CONSORT reporting guidelines were followed.16
+
+2.1. Study design
+2.3. Pro-inflammatory cytokines quantification
+
+This proof of concept, phase II, parallel, open label clinical trial 
+evaluated the safety and efficacy of maraviroc combined with standard Eight pro-inflammatory cytokines, interleukin-6 (IL-6), tumor ne
+of care (SoC) treatment versus SoC treatment alone in hospitalized pa crosis factor alpha (TNF-α), interferon-gamma-inducible protein-10 (IP- 
+tients with mild COVID-19 at risk of progression. Maraviroc and SoC 10), interleukin-8 (IL-8), macrophage inflammatory proteins-1 beta 
+treatment, consisting of enoxaparin, as an anticoagulant, and symp (MIP-1β), interferon-gamma (IFN-γ), macrophage inflammatory 
+tomatic treatment, were supplied by Virgen del Rocío University Hos proteins-1 alpha (MIP-1α) and interleukin-1 beta (IL-1β), were quanti
+pital (Seville, Spain). The clinical trial was conducted at the Clinical Unit fied from plasma samples at day 0 and 7 by a multiplex bead-based 
+of Infectious Diseases, Microbiology and Parasitology at Virgen del immunoassay, MILLIPLEX® Human Cytokine/Chemokine/Growth Fac
+Rocío University Hospital and COVID-19 Emergency Hospital (Seville, tor Panel A kit (Millipore), using a Bio-Plex 200 System (Bio-Rad). Data 
+Spain) by February 23rd to June 8th, 2021. Eligibility criteria included were analyzed using the Belysa® analysis software version 1.2.0 (Merck 
+adults ≥18 years old with SARS-CoV-2 infection confirmed with positive KGaA, Darmstadt, Germany).
+
+Fig. 1. Clinical trial design. Thirty-three participants with SARS-CoV-2 infection and hospitalized with mild or moderate pneumonia were enrolled in the study: 17 in 
+the control (SoC) and 16 in the maraviroc (300 mg) + SoC treatment groups. After the screening, participants were randomized to receive Maraviroc + Soc or SoC. 
+Participants were follow-up for 28 days, blood samples were extracted at 0,7,14 and 28 day (indicated by arrows). Participants had a chest X-ray image at visit 4.
+
+55 
+
+
+
+C. Gasca-Capote et al.                                                                                                                                                   J  o u  r n  a  l   o  f  M   i c r o  b  i o l o  g y  ,   I m   m  u  n  o  l o g  y   a n  d    I n  f e c  t i on 59 (2026) 54–61 
+
+2.4. Statistical analysis Table 1 
+Characteristics of the study participants.
+
+Continuous variables were expressed as median and interquartile Control (17) Maraviroc (16) p
+range (IQR) and categorical variables were expressed as numbers and 
+
+Age (years) 51.8 [39.0–60.5] 44.4 0.110
+percentages. Bivariate and multivariate analyses, following a logistic [37.3–47.6]
+regression model, were applied for the analysis of factors associated with Sex (male), n(%) 7 (41.2) 11 (68.8) 0.112
+maraviroc treatment. The dependent variable was the maraviroc group. Time since symptoms onset, 9 [6− 10] 7 [6–8] 0.099
+For the analysis of time to efficacy endpoint variables, the time to the (days)
+
+endpoint variable was the dependent variable. Log rank test and Oxygen saturation, (SatO2), (%) 97 [97–98] 97 [96–97] 0.165
+Ordinal scale at admission* 3 [3–3] 3 [3–3] 1.000
+
+Kaplan–Meier survival curves were generated, and the log-rank test was Comorbidities, n (%)
+used to compared the time to event in both groups. All variables with p Obesity, n (%) 2 (11.8) 3 (18.8) 0.576
+value < 0.1 were included in the multivariate analysis, and p value < Diabetes, n (%) 0 0 1.000
+0.05 was considered statistically significant. Differences in cytokines’ Hypertension, n (%) 5 (29.4) 1 (6.3) 0.085
+
+Previous serious diseases, n (%) 6 (35.3) 6 (37.5) 0.897
+levels between day 0 and 7 in the control and maraviroc treatment Leukocyte counts, (103 cells/μL) 4.9 [4.1–6.1] 5.8 [4.9–7.9] 0.087
+group, and between both groups at day 0 and 7, were tested for statis Lymphocyte counts, (103 cells/ 1.3 [0.8–1.7] 1.6 [1.2–2.3] 0.121
+tical significance using Wilcoxon signed-rank test (two-tailed) and μL)
+Mann-Whitney U tests (two-tailed), respectively. Additionally, a Šidák Lymphocytes, (%) 24.7 [18.1–28.4] 27.9 0.145
+
+multiple comparison test was performed between the control and mar [19.0–39.2]
+Neutrophil counts, (103 cells/μL) 3.8 [3.0–4.9] 3.6 [3.2–6.5] 0.624
+
+aviroc treatment group at both time points. Correlations between vari Neutrophils, (%) 73.5 [68.1–81.0] 67.4 0.211
+ables were assessed using the Spearman rank test (two-tailed). All p [61.0–75.9]
+values < 0.05 were considered statistically significant. Statistical ana Monocyte counts, (103 cells/μL) 0.4 [0.2–0.5] 0.4 [0.3–0.5] 0.394
+lyses were performed using SPSS software version 22 (IBM SPSS, Chi Monocytes, (%) 6.3 [4.5–9.3] 6.9 [5.6–8.6] 0.295
+
+Platelet counts, (103 cells/μL) 169 [157− 226] 199 [157− 268] 0.358
+cago, Illinois) and graphs were generated with Prism, version 6.0 Lactate dehydrogenase (LDH), 282 [228− 337] 260 [200− 284] 0.313
+(GraphPad Software, Inc.). (U/L)
+
+C-Reactive Protein (CRP), (mg/L) 81.7 32.3 0.221
+3. Results [18.3–124.3] [20.6–75.0]
+
+D-Dimers, (ng/mL) 480 [370− 665] 313 [240− 676] 0.175
+Ferritin, (ng/mL) 440 [196− 979] 368 [193− 802] 0.540
+
+3.1. Characteristics of the study participants
+Categorical variables are expressed as number and percentages (%), and 
+
+Forty-four participants were recruited. Eleven patients were continuous variables are expressed as median (interquartile ranges [IQR]). Chi- 
+excluded: five patients were excluded because of screening failure; three square test and a Mann-Whitney U test were used to compare categorical and 
+
+continuous variables, respectively. p value < 0.05 was considered statistically 
+patients revoked the informed consent and three patients were lost to significant. *Ordinal scale score of COVID severity based on Beigel et al. (20).
+follow-up before the second visit (day 7). Thirty-three participants were 
+included, 17 in the control and 16 in the maraviroc treatment group 
+(Fig. 1). admission to intensive care unit admission, was maraviroc treatment, as 
+
+All participants were hospitalized without the need of oxygen supply stated above, three participants in the control group were admitted at 
+at study entry. There were no statistical differences in any of the clinical intensive care unit at day 6, 10 and 13 from hospital admission by none 
+and analytical variables analyzed (Table 1). in the control group (Fig. 2). Age, sex, days from symptoms onset, 
+
+comorbidities, SatO2 at screening, and other analytical variables were 
+not associated with the time to severe outcome (Table S2).
+
+3.2. Efficacy and safety of maraviroc treatment Maraviroc treatment was well tolerated and interestingly, grade 3–4 
+events were only present in the control group (Table 2). These events 
+
+Participants, in both groups, were hospitalized for a median of four were: respiratory failure (n = 2), hypertransaminasemia (n = 2), 
+days. Regarding the primary endpoint of efficacy, the incidence of hyperbilirubinemia (n = 1) and pneumonia by Klebsiella pneumoniae (n 
+COVID-19 progression was 2.8-fold higher in the control group than in 
+
+= 1). All these events were resolved after 8.5 [4.5–37.5] days.
+the maraviroc treatment group (Table 2). Three out of six participants 
+that showed a COVID-19 progression in the control group were admitted 3.3. Analytical cellular and soluble biomarkers levels associated with 
+in the intensive care unit, while none of the participants in the maraviroc maraviroc treatment
+treatment group progressed to severe COVID-19 (Table 2). In terms of 
+secondary endpoints, the median time on oxygen therapy of those pa No differences in monocyte levels along the follow-up were observed 
+tients in the control group was 11 [5.8–60.3] days, while the two par between groups (Table S1). However, treatment with maraviroc was 
+ticipants in the maraviroc treatment group that needed oxygen therapy, associated with higher levels of lymphocytes and lower levels of neu
+had it for one and four days (p = 0.046). The minimum SatO2 levels trophils at day 7, no differences were observed at day 14, 21 and 28 
+without oxygen therapy were lower in the control group compared to (Table S1). According to these differences, the neutrophil/lymphocyte 
+participants treated with maraviroc (Table 2). There were no differences ratio (NLR) was increased in the control group at day 7 (Table 2). 
+in COVID-19 progression ordinal scale at day 7, 14, 21 and 28 Interestingly, lactate dehydrogenase (LDH) levels were lower in the 
+(Table S1). However, SatO2 tended to be higher in the maraviroc maraviroc treatment group at day 7 (Table 2). D-dimer levels were two- 
+treatment group at day 7 (Table S1). The proportion of hospitalized fold higher in the control group and were above normal levels (500 ng/ 
+participants was not statistically different between groups along the mL) compared to the maraviroc treatment group at day 7 (Table 2). 
+follow-up. However, hospitalization was 1.9-fold higher in the control Nevertheless, not statistical differences were observed at that time-point 
+group at day 7, and no participant was hospitalized in the maraviroc or along the follow-up despite the different kinetic at day 7 (Fig. S1). 
+treatment group at day 14 compared with 12.5 % in the control group After adjusting for severe COVID-19 progression, NLR levels were 
+(Table S1). Regarding treatments, dexamethasone was administered independently associated with maraviroc treatment (p; B (IC 95 %), 
+2.2-fold higher in the control group compared to the maraviroc treat 0.043; 4.563 [1.047–19.884]).
+ment group (Table 2).
+
+In a sensitivity analysis, the only variable associated with the time to 
+severe COVID-19 progression, defined as the time from hospital 
+
+56 
+
+
+
+C. Gasca-Capote et al.                                                                                                                                                   J  o u  r n  a  l   o  f  M   i c r o  b  i o l o  g y  ,   I m   m  u  n  o  l o g  y   a n  d    I n  f e c  t i on 59 (2026) 54–61 
+
+Table 2 although these levels were not statistically different (Fig. 4a). Similarly, 
+Main study endpoint results. IL-8 levels decreased at day 7 in the control (p = 0.0037) but not in the 
+
+Control (17) Maraviroc p maraviroc treatment group (p = 0.5416) (Fig. 4b). Nevertheless, no 
+(16) significant differences between groups were found at day 7 (3.03 [IQR, 
+
+Progression to ordinal scale* >3, n/N 6/17 (35.3) 2/16 (12.5) 0.127 1.55–3.58] vs 4.08 [IQR, 3.21–6.42] pg/ml)] (Fig. 4b, right and middle 
+(%) panel; respectively). Curiously, we found the opposite phenomenon in 
+
+Progression to ordinal scale ≥5, n/N 3/17 (17.6) 0/16 (0) 0.078 MIP-1β levels, being higher at day 7 in comparison with day 0 (p =
+(%) 0.0091) (Fig. S2). Significant differences were not found in the control 
+
+Intensive Care Unit admission, n/N 3/17 (17.6) 0/16 (0) 0.078
+(%) group (p = 0.0797) (Fig. S2; middle panel). However, a tendency was 
+
+Exitus, n/N (%) 0/17 (0) 0/16 (0) 1.000 observed in the maraviroc treatment group (p = 0.0676) (Fig. S2; right 
+Time of hospitalization, (days) 4 [3–7] 4 [3–6] 0.464 panel) being higher the MIP-1β levels at day 7 in the maraviroc treat
+Time on oxygen therapy, (days)¶ 11 [5.8–60.3] 2.5 [1− ] 0.046 ment group in comparison with the control. No differences were found 
+Minimum SatO2 without oxygen 96 [93–97] 97 [97–98] 0.035 between control and maraviroc treatment group in IFN-γ (Fig. S3a), 
+
+therapy, (%)
+Minimum SatO2 without oxygen 10/17 (58.8) 3/15 (20.0) 0.026 MIP-1α (Fig. S3b) and IL-1β (Fig. S3c) levels between day 0 and 7 neither 
+
+therapy < 96 %, n (%) in all the participants (p = 0.7793, p = 0.2336, p = 0.1353; respectively) 
+NLR at day 7, ratio 3.4 [1.8–4.3] 1.8 [1.7–2.1] 0.014 (Fig. S3, left panel) nor in both groups separately (p = 0.8536 for the 
+NLR at day 14, ratio 2.0 [1.7–3.7] 1.9 [1.7–2.3] 0.475 control group and p = 0.9515 for the maraviroc group, p = 0.3116 for 
+NLR at day 21, ratio 1.8 [1.4–2.2] 1.8 [1.6–2.0] 0.945
+NLR at day 28, ratio 1.9 [1.2–2.8] 1.6 [1.3–2.2] 0.770 the control group and p = 0.5830 for the maraviroc group, p = 0.1454 
+Lactate dehydrogenase (LDH) at day 7, 275 213 0.045 for the control group and p = 0.4267 for the maraviroc group; respec
+
+(U/L) [228− 295] [191− 282] tively) (Fig. S3, middle and right panel; respectively).
+Lactate dehydrogenase (LDH) at day 205 201 0.945 Finally, a significant positive correlation was found between IL-6 
+
+14, (U/L) [182− 238] [181− 247] levels and D-dimers at day 7 in the control group (Fig. 5a). However, 
+Lactate dehydrogenase (LDH) at day 191 184 0.944
+
+21, (U/L) [168− 229] [173− 209] this positive correlation was not found in the maraviroc treatment 
+Lactate dehydrogenase (LDH) at day 189 196 0.622 group, in fact, a negative correlation was observed (Fig. 5b). Significant 
+
+28, (U/L) [155− 210] [169− 205] negative correlations were also found between IL-6 levels and NLR ratio 
+D- Dimers at day 7, (ng/mL) 600 310 0.129 at day 7 in the maraviroc treatment group (Fig. 5d), but not in the 
+
+[308− 1008] [173− 649]
+D- Dimers at day 14, (ng/mL) 310 330 0.574 control group (Fig. 5c).
+
+[260− 860] [158− 630]
+D- Dimers at day 21, (ng/mL) 340 200 0.182 4. Discussion
+
+[200− 720] [170− 510]
+D- Dimers at day 28, (ng/mL) 320 265 0.642 COVID-19 vaccines have significantly impacted the pandemic,1
+
+[210− 410] [178− 655]
+Treatment with: however, treatment options are scarce and vaccine coverage is vari
+
+Dexametasone, n, N (%) 7/17 (41.2) 3/16 (18.8) 0.161 able.17 Specially challenging are patients with pneumonia and no oxy
+Tocilizumab, n, N (%) 3/17 (17.6) 0/16 (0) 0.078 gen requirement who progress to acute respiratory distress syndrome. 
+Enoxaparine, n, N (%) 17/17 (100) 16/16 (100) 1.000 While neutralizing antibodies have shown efficacy in certain cases,18
+
+Adverse Events, n, N (%) 11/17 (64.7) 11/16 (68.8) 0.805
+Grade 3–4 events, n, N (%) 6/17 (35.2) 0/16 (0) 0.009 access to antivirals agents, such as nirmatrelvir/ritonavir is restricted for 
+
+some people due to frequent drug interactions. Other antivirals, such as 
+Categorical variables are expressed as number and percentages (%), and remdesivir, are indicated for severe pneumonia characterized by 
+continuous variables are expressed as median (interquartile ranges [IQR]). Chi- ambient air oxygen saturation (SatO2) <94 %.19 Moreover, the use of 
+square test and a Mann-Whitney U test were used to compare categorical and 
+continuous variables, respectively. p value < 0.05 was considered statistically convalescent plasma has not reduced mortality and has little to no 
+significant. *Ordinal scale score of COVID severity based on Beigel et al. (20). ¶ impact on clinical improvement.20 Taken together, these limitations 
+Calculated only for patients on oxygen therapy. underscore the need of additional antiviral or alternative therapies to 
+
+effectively treat COVID-19, particularly in patients with mild COVID-19 
+3.4. Inflammatory cytokines levels associated with maraviroc treatment at risk of progression.
+
+In this proof of concept, phase II clinical trial, none of the partici
+IL-6 and TNF-α levels decreased at day 7 (p = 0.0022 and p = 0.0058; pants treated with maraviroc progressed to severe COVID-19, and the 
+
+respectively) (Fig. 3a and b, left panel; respectively). This decrease was time on oxygen therapy was much longer in the control group with a 
+significant only in the maraviroc treatment group for both IL-6 (p median of 11 days and with two patients belonging to the control group 
+
+=
+0.0017) and TNF-α (p = 0.0245) (Fig. 3, right panel), but not in the being hospitalized for more than 50 days. These results may be attrib
+control group (p = 0.1901 and p = 0.1089; respectively) (Fig. 3, middle uted to the immunomodulatory effects of maraviroc. Originally 
+panel). It is noteworthy that three out of six participants that showed a designed to block HIV entry,8 maraviroc also exhibits immunomodula
+
+tory effects,6,7,9–11
+COVID-19 progression in the control group (represented as unfilled demonstrating anti-inflammatory benefits in graft 
+circles) did not decrease IL-6 levels at day 7 while the two participants in versus host diseases by inhibiting T-cell trafficking,21 improving 
+
+atherosclerotic profile in vivo,22 aiding pulmonary hypertension23
+the maraviroc treatment group did (Fig. 3a, middle and right panel; and 
+respectively). It is important to highlight that after adjusting for severe preventing neurocognitive impairment in SIV and HIV infection24.. The 
+COVID-19 progression levels at day 7, IL-6 and NLR levels were inde basis of maraviroc anti-inflammatory effect in this trial might be based 
+pendently associated with maraviroc treatment (p; B (IC 95 %), 0.030; on avoiding an exacerbate lymphocyte infiltration to inflammatory 
+1.969 [1.069–3.629] and p; B (IC 95 %), 0.042; 11.767 foci,21 eluding also neutrophil trafficking, recruitment and tissue dam
+[1.096–126.355]; respectively). age,25 with the consequent decrease in LDH and pro-inflammatory 
+
+Furthermore, a significant decrease was found in IP-10 levels be cytokine levels. As a result, a lower NLR, LDH and pro-inflammatory 
+tween day 0 and day 7 in all the participants (p < 0.0001) and in both cytokines levels, accepted prognostic markers of COVID-19 pro
+groups (p < 0.0001 for the control group and p = 0.0001 for the mar gression,26–28 were observed in participants treated with maraviroc at 
+aviroc treatment group) (Fig. 4a). At day 7, IP-10 levels were lower in day 7 after adjusting by disease severity. It is noteworthy that IL-6 and 
+the maraviroc treatment group (244.52 [IQR, 189.79–365.46] pg/ml) in TNF-α levels only decreased significantly in the maraviroc treatment 
+comparison with the control (380.45 [IQR, 252.01–974.82] pg/ml) group, proving its anti-inflammatory effect, as previously reported in 
+
+HIV scenario.29 Indeed, three out of six participants that showed a 
+
+57 
+
+
+
+C. Gasca-Capote et al.                                                                                                                                                   J  o u  r n  a  l   o  f  M   i c r o  b  i o l o  g y  ,   I m   m  u  n  o  l o g  y   a n  d    I n  f e c  t i on 59 (2026) 54–61 
+
+Fig. 2. Kaplan–Meier survival curves comparing the time to be admitted to the Intensive Care Unit from hospital admission between participants treated with 
+maraviroc and those in the control group. The x axis represents days from hospital admission to Intensive Care Unit admission; and the y-axis shows one minus the 
+probability to be admitted in Intensive Care Unit. The log-rank test was used for this survival time to event analysis comparing control and maraviroc groups.
+
+6000 6000 30
+4000 4000
+2000 2000
+
+100 100
+20
+
+80 80
+60 60
+40 40 10
+
+20 20
+0 0 0
+
+Day 0 Day 7 Day 0 Day 7 Day 0 Day 7
+
+600 600 600
+400 400 400
+200 200 200
+200 200 200
+
+150 150 150
+
+100 100 100
+
+50 50 50
+
+0 0 0
+Day 0 Day 7 Day 0 Day 7 Day 0 Day 7
+
+Fig. 3. IL-6 and TNF-α levels in the control and maraviroc group at day 0 and 7. IL-6 levels in all the participants (a, left panel) and in the control (a, middle panel) 
+and maraviroc group (a, right panel) at day 0 and 7. TNF-α levels in all the participants (b, left panel) and in the control (b, middle panel) and maraviroc group (b, 
+right panel) at day 0 and 7. Unfilled dots represent patients with COVID-19 progression. Wilcoxon signed-rank test was used to compared IL-6 and TNF-α levels at day 
+0 and 7. p value < 0.05 was considered statistically significant.
+
+COVID-19 progression in the control group increased IL-6 levels at day 7 and TNF- α levels, lower levels of IP-10 and IL-8 were also observed 
+whereas those treated with maraviroc decreased it. In fact, IL-6 levels with maraviroc treatment at day 7. On the contrary, MIP-1β levels 
+correlated with D-dimers at day 7, positively in the control group and tended to be higher at day 7 with maraviroc treatment. MIP-1β is one of 
+negatively in participants treated with maraviroc. Interestingly, IL-6 the ligands of CCR5, it is known that maraviroc through the CCR5 re
+levels also correlated negatively with NLR in the maraviroc treatment ceptor blockage decreases the internalization of the CCR5 and its li
+group but not in the control. These results suggest that maraviroc gands, increasing the CCR5 expressed on the cell surface and the 
+treatment reduces IL-6 expression, as previously reported.30 This finding circulating levels of CCR5 ligands as MIP-1β, resulting in T-cell activa
+is crucial since increased IL-6 has previously been associated to long tion through other ligand-dependent pathways.32
+
+COVID-19.31 Although the differences were more remarkable for IL-6 The World Health Organization estimates that 10–20 % of people 
+
+58 
+
+TNF-  (pg/ml) IL-6 (pg/ml)
+
+TNF-  (pg/ml) IL-6 (pg/ml)
+Control group Control group
+
+TNF-  (pg/ml) IL-6 (pg/ml)
+Maraviroc group Maraviroc group
+
+
+
+C. Gasca-Capote et al.                                                                                                                                                   J  o u  r n  a  l   o  f  M   i c r o  b  i o l o  g y  ,   I m   m  u  n  o  l o g  y   a n  d    I n  f e c  t i on 59 (2026) 54–61 
+
+60000 60000 60000
+40000 40000 40000
+20000 20000 20000
+8000 8000 8000
+
+6000 6000 6000
+
+4000 4000 4000
+
+2000 2000 2000
+
+0 0
+Day 0 Day 7 Day 0 Day 7 Day 0 Day 7
+
+25 25 25
+
+20 20 20
+
+15 15 15
+
+10 10 10
+
+5 5 5
+
+0 0 0
+Day 0 Day 7 Day 0 Day 7 Day 0 Day 7
+
+Fig. 4. IP-10 and IL-8 levels in the control and maraviroc group at day 0 and 7. IP-10 levels in all the participants (a, left panel) and in the control (a, middle panel) 
+and maraviroc group (a, right panel) at day 0 and 7. IL-8 levels in all the participants (b, left panel) and in the control (b, middle panel) and maraviroc group (b, right 
+panel) at day 0 and 7. Unfilled dots represent patients with COVID-19 progression. Wilcoxon signed-rank test was used to compared IP-10 and IL-8 levels at day 0 and 
+7. p value < 0.05 was considered statistically significant.
+
+6000 15
+4000
+2000
+
+20
+10
+
+15
+
+10 5
+p p
+
+5
+
+0 0
+200 400 600 800 1000 13000 500 1000 1500
+
+D-dimers (ng/ml) at day 7 D-dimers (ng/ml) at day 7
+
+6000 8
+4000
+2000
+
+20 6
+
+15 4
+10
+
+2
+5 p p
+
+0 0
+1 2 3 4 5 10 15 1.0 1.5 2.0 2.5 3.0
+
+NLR (ratio) at day 7 NLR (ratio) at day 7
+
+Fig. 5. Associations of IL-6 levels with analytical COVID-19 progression markers at day 7. Correlations between IL-6 levels and D-dimers in the control (a) and 
+maraviroc group (b) at day 7. Correlation between IL-6 levels and NLR in the control (c) and maraviroc group (d) at day 7. Unfilled dots represent patients with 
+COVID-19 progression. Spearman test was used for non-parametric correlations. p value < 0.05 was considered statistically significant.
+
+continue to have or develop at least one symptom more than three of maraviroc in long-COVID by reducing different validate clinical 
+months after SARS-CoV-2 infection.33 More than 200 symptoms asso scores together with decreased levels of the vascular markers, sCD40L 
+ciated with long-COVID have shown to have a negative impact on and VEGF.36 However, it is unknown whether maraviroc treatment 
+multiple organ system.34 In our study, maraviroc has proven to be a during acute infection may affect the onset of long-COVID symptoms, 
+promising drug to decrease IL-6 and TNF-α levels, cytokines associated likewise it also unknown whether a potential antiviral effect of mar
+with the development of long-COVID.35 Furthermore, our results are in aviroc, previously shown in in vitro experiments,37 is playing a role in 
+accordance with recent findings that showed the anti-inflammatory role this trial.
+
+59 
+
+IL-6 (pg/ml) at day 7 IL-6 (pg/ml) at day 7 IP-10 (pg/ml)
+IL-8 (pg/ml)
+
+IP-10 (pg/ml)
+IL-8 (pg/ml) Control group
+
+Control group
+
+IL-6 (pg/ml) at day 7 IL-6 (pg/ml) at day 7
+IP-10 (pg/ml)
+
+IL-8 (pg/ml) Maraviroc group
+Maraviroc group
+
+
+
+C. Gasca-Capote et al.                                                                                                                                                   J  o u  r n  a  l   o  f  M   i c r o  b  i o l o  g y  ,   I m   m  u  n  o  l o g  y   a n  d    I n  f e c  t i on 59 (2026) 54–61 
+
+Another important aspect to highlight is the absence of grade 3–4 Investigation. Inmaculada Rivas-Jeremías: Writing – review & edit
+events in the maraviroc treatment group. These were mainly due to ing, Validation, Software, Data curation. Monserrat Domínguez: 
+hypertransaminasemia and hyperbilirubinemia, which might be caused Writing – review & editing, Validation, Software, Data curation. Julia 
+by the infection itself. SARS-CoV-2 has been proposed to infect liver Praena: Writing – review & editing, Formal analysis, Data curation. 
+cells, and the subsequent cytolytic effect increases liver enzymes.38 This José Miguel Cisneros: Supervision, Resources, Project administration, 
+is in agreement with maraviroc preventing liver fibrosis and hepato Methodology, Formal analysis, Conceptualization. Luis F. López- 
+cellular carcinoma in a mouse model because of immunomodulatory Cortés: Writing – review & editing, Visualization, Validation, Supervi
+effects associated to macrophage response.39,40 The absence of serious sion, Resources, Project administration, Methodology, Investigation, 
+adverse event in the maraviroc treatment group is important, since the Funding acquisition, Conceptualization. Ezequiel Ruiz-Mateos: 
+approved antiviral therapy, nirmatrelvir-ritonavir,4 has got a high fre Writing – review & editing, Writing – original draft, Visualization, 
+quency of adverse events and additionally shows much more drug in Validation, Supervision, Resources, Project administration, Methodol
+teractions than maraviroc. This fact is especially relevant in transplant ogy, Investigation, Funding acquisition, Formal analysis, Conceptuali
+patients. zation. Virgen del Rocío Hospital COVID-19 Working Team: Data 
+
+This study has several limitations. The sample size was limited, as curation, Resources, Investigation.
+recruitment ended in accordance with the predefined enrollment period 
+of the clinical trial and considering the evolving nature of the pandemic Funding
+to ensure homogeneous pandemic period. As an open proof-of-concept 
+clinical trial the small sample size limited adjustments by multiple This work was supported by the Instituto de Salud Carlos III 
+variables. However, bias should be minimal since baseline variables (research contract FI19/00083 to CGC, and research projects PI19/ 
+were comparable between groups. In this sense, the absence of multiple 01127 and PI22/01796 to ERM), co-financed by the European Union, 
+adjustments was justified as variables with differences along the follow- Fondos FEDER, “A way to make Europe” and Consejería de Trans
+up (time on oxygen therapy, minimum SatO2 without oxygen therapy formación Económica, Industria, Conocimiento y Universidades (P20/ 
+and minimum SatO2 without oxygen therapy< 96 %) were co-lineal. 01276 to ERM). ERM was granted by the Spanish National Research 
+Adjustment for NLR ratio and COVID-19 progression showed that only Council (CSIC).
+maraviroc treatment was associated with a better profile of NLR ratio. 
+Another caveat was the early onset of the progression events (before day Declaration of competing interest
+7) that were not aligned with study follow-up time points (day 7, 14 and 
+28). However, clinical variables were recorded every day during hos The author(s) declare no conflicts of interest.
+pitalization, allowing monitoring the variables associated with respira
+tory distress during the first week of admission. The first blood Acknowledgments
+extraction at day 7 prevented to analyze the early kinetic of soluble 
+factors associated with COVID-19 progression at this short-time period. This study would not have been possible without the collaboration of 
+However, some of these disturbances remained at day 7 and informed all the participants, medical and nursing staff, and data managers who 
+about the early anti-inflammatory effect of maraviroc treatment. Lastly, have taken part in this project.
+this trial was conducted during the third wave of SARS-CoV-2 infections **THE VIRGEN DEL ROCÍO HOSPITAL COVID-19 WORKING TEAM.
+in Spain, the population was not vaccinated and there were no VOC in José Miguel Cisneros1, Sonsoles Salto-Alejandre1, Judith Berastegui- 
+circulation. Nevertheless, this fact does not undermine the impact of the Cabrera1, Pedro Camacho-Martínez1, Carmen Infante- Domínguez1, 
+results, since currently there are settings of poor vaccine coverage Marta Carretero-Ledesma1, Juan Carlos Crespo-Rivas1, Eduardo 
+worldwide and the data presented herein may not avoid the use of Márquez4, José Manuel Lomas1, Claudio Bueno5, Rosario Amaya6, José 
+maraviroc in hospitalized people after vaccination independently of the Antonio Lepe1, Jerónimo Pachón1,7, Elisa Cordero1,7, Javier Sánchez- 
+virus variant. Céspedes1, Manuela Aguilar- Guisado1, Almudena Aguilera8, Clara 
+
+In this proof-of-concept clinical trial, we observed a beneficial profile Aguilera9, Teresa Aldabo-Pallas5, Verónica Alfaro-Lara10, Cristina 
+of maraviroc treatment in hospitalized participants with mild COVID-19 Amodeo11, Javier Ampuero12, María Dolores Avilés5, Maribel Asensio4, 
+at risk of progression on admission. Bosco Barón-Franco10, Lydia Barrera-Pulido1, Rafael Bellido-Alba5, 
+
+Together, these findings turn maraviroc into a potential candidate to Máximo Bernabeu-Wittel10, Candela Caballero-Eraso4, Macarena Cab
+be integrated into current COVID-19 therapeutic strategies. However, rera12, Enrique Calderón5, Jesús Carbajal-Guerrero5, Manuela Cid- 
+further studies may be needed in a larger cohort of patients to confirm Cumplido5, Yael Corcia- Palomo5, Juan Delgado10, Antonio Domínguez- 
+these results, and to recommend the use of maraviroc in combination Petit5, Alejandro Deniz13, Reginal Dusseck-Brutus5, Ana Escoresca- 
+with other treatments as a promising drug in hospitalized participants Ortega5, Fátima Espinosa10, Nuria Espinosa1, Michelle Espinoza4, Car
+with mild COVID-19 at risk of progression on admission, to shorten or men Ferrándiz-Millón5, Marta Ferrer4, Teresa Ferrer11, Ignacio Gallego- 
+avoid oxygen therapy, to reduce hospital admissions and inflammation, Texeira5, Rosa Gámez-Mancera10, Emilio García4, Horacio García-Del
+and to prevent long-COVID. gado5, Manuel García-Gutiérrez1, María Luisa Gascón-Castillo5, Aurora 
+
+González-Estrada10, Demetrio González4, Carmen Gómez-González5, 
+CRediT authorship contribution statement Rocío González-León10, Carmen Grande-Cabrerizo14, Sonia Gutiérrez10, 
+
+Carlos Hernández-Quiles10, Inmaculada Concepción Herrera-Melero5, 
+Carmen Gasca-Capote: Writing – review & editing, Visualization, Marta Herrero-Romero1, Luis Jara4, Carlos Jiménez- Juan10, Silvia 
+
+Validation, Supervision, Methodology, Investigation, Data curation, Jiménez-Jorge1, Mercedes Jiménez-Sánchez5, Julia Lanseros-Tenl
+Conceptualization. José Manuel Lomas-Cabezas: Writing – review & lado10, Carmina López10, Isabel López5, Álvaro López- Barrios5, Luis F. 
+editing, Visualization, Validation, Supervision, Methodology, Investi López-Cortés1, Rafael Luque-Márquez1, Daniel Macías-García12, Guil
+gation, Data curation, Conceptualization. Abraham Saborido-Alcon lermo Martín-Gutiérrez1, Luis Martín-Villén5, José Molina1, Aurora 
+chel: Writing – review & editing, Investigation. Cristina Moral-Turón: Morillo5, María Dolores Navarro-Amuedo1, Dolores Nieto-Martín10, 
+Writing – review & editing, Investigation. María Dolores Navarro: Francisco Ortega4, María Paniagua-García1, Amelia Peña-Rodríguez8, 
+Writing – review & editing, Formal analysis, Data curation. Antonio Esther Pérez5, Manuel Poyato1, Julia Praena-Segovia1, Rafaela Ríos5, 
+Ramos: Writing – review & editing, Formal analysis, Data curation. Cristina Roca-Oporto1, Jesús F. Rodríguez5, María Jesús Rodríguez- 
+Manuel Poyato-Borrego: Writing – review & editing, Formal analysis, Hernández1, Santiago Rodríguez-Suárez10, Ángel Rodríguez-Villodres1, 
+Data curation. Angela María Villalba: Writing – review & editing, Nieves Romero- Rodríguez8, Ricardo Ruiz15, Zida Ruiz de Azua6, Celia 
+
+60 
+
+
+
+C. Gasca-Capote et al.                                                                                                                                                   J  o u  r n  a  l   o  f  M   i c r o  b  i o l o  g y  ,   I m   m  u  n  o  l o g  y   a n  d    I n  f e c  t i on 59 (2026) 54–61 
+
+Salamanca1, Sonia Sánchez5, Víctor Manuel Sánchez-Montagut10, César 11. Romero-Sánchez MC, Álvarez-Ríos AI, Bernal-Morell E, et al. Maintenance of 
+Sotomayor1, Alejandro Suárez Benjumea14 and Javier Toral5. virologic efficacy and decrease in levels of β2-microglobulin, soluble CD40L and 
+
+1 soluble CD14 after switching previously treated HIV-infected patients to an NRTI- 
+Institute of Biomedicine of Seville (IBiS), Virgen del Rocío Univer sparing dual therapy. Antivir Res. 2014;111:26–32.
+
+sity Hospital/CSIC/University of Seville, Seville, Spain. Clinical Unit of 12. Siddiqi HK, Mehra MR. COVID-19 illness in native and immunosuppressed states: a 
+Infectious Diseases, Microbiology, and Preventive Medicine, Virgen del clinical–therapeutic staging proposal. J Heart Lung Transplant. 2020;39:405–407.
+
+13. Xu Z, Shi L, Wang Y, et al. Pathological findings of COVID-19 associated with acute 
+Rocío University Hospital, Seville, Spain. respiratory distress syndrome. Lancet Respir Med. 2020;8:420–422.
+
+4Medico-Surgical Unit of Respiratory Diseases, Virgen del Rocío 14. Xiong Y, Liu Y, Cao L, et al. Transcriptomic characteristics of bronchoalveolar lavage 
+University Hospital, Seville, Spain. fluid and peripheral blood mononuclear cells in COVID-19 patients. Emerg Microb 
+
+5Unit of Emergencies, Virgen del Rocío University Hospital, Seville, Infect. 2020;9:761–770.
+15. Beigel JH, Tomashek KM, Dodd LE, et al. Remdesivir for the treatment of covid-19 
+
+Spain. — final report. N Engl J Med. 2020;383:1813–1826.
+6Intensive Care Unit, Virgen del Rocío University Hospital, Seville, 16. Schulz KF, Altman DG, Moher D, for the CONSORT Group. CONSORT 2010 
+
+Spain. Statement: Updated Guidelines for Reporting Parallel Group Randomised Trials.
+7 17. Kunyenje CA, Chirwa GC, Mboma SM, et al. COVID-19 vaccine inequity in African 
+Department of Medicine, University of Seville, Seville, Spain. low-income countries. Front Public Health. 2023;11.
+
+8Cardiology and Cardiovascular Surgery Unit, Virgen del Rocío 18. Chen P, Nirula A, Heller B, et al. SARS-CoV-2 neutralizing antibody LY-CoV555 in 
+University Hospital, Seville, Spain. outpatients with covid-19. N Engl J Med. 2021;384:229–237.
+
+9 19. Levien TL, Baker DE, Remdesivir. Hospital Pharmacy. vol. 58. SAGE Publications Ltd; 
+Rheumatology Unit, Virgen del Rocío University Hospital, Seville, 2023:420–430.
+
+Spain. 20. Simonovich VA, Burgos Pratx LD, Scibona P, et al. A randomized trial of 
+10Internal Medicine Unit, Virgen del Rocío University Hospital, convalescent plasma in covid-19 severe pneumonia. N Engl J Med. 2021;384: 
+
+619–629.
+Seville, Spain. 21. Reshef R, Luger SM, Hexner EO, et al. Blockade of lymphocyte chemotaxis in 
+
+11Digestive and Hepatobiliary Unit, Virgen del Rocío University visceral graft-versus-host disease. N Engl J Med. 2012;367:135–145.
+Hospital, Seville, Spain. 22. Cipriani S, Francisci D, Mencarelli A, et al. Efficacy of the CCR5 antagonist 
+
+12 maraviroc in reducing early, ritonavir-induced atherogenesis and advanced plaque 
+Neurology and Clinical Neurophysiology Unit, Virgen del Rocío progression in mice. Circulation. 2013;127:2114–2124.
+
+University Hospital, Seville, Spain. 23. Amsellem V, Lipskaia L, Abid S, et al. CCR5 as a treatment target in pulmonary 
+13Endocrinology and Nutrition Unit, Virgen del Rocío University arterial hypertension. Circulation. 2014;130:880–891.
+
+Hospital, Seville, Spain. 24. Kelly KM, Beck SE, Pate KAM, et al. Neuroprotective maraviroc monotherapy in 
+simian immunodeficiency virus-infected macaques. AIDS. 2013;27:F21–F28.
+
+14Urology and Nephrology Unit, Virgen del Rocío University Hos 25. Wang J, Yang X, Li Y, Huang J an, Jiang J, Su N. Specific cytokines in the 
+pital, Seville, Spain. inflammatory cytokine storm of patients with COVID-19-associated acute 
+
+15Unit of Clinical Investigation and Clinical Trials, Virgen del Rocío respiratory distress syndrome and extrapulmonary multiple-organ dysfunction. Virol 
+J. 2021;18:117.
+
+University Hospital, Seville, Spain. 26. Yan X, Li F, Wang X, et al. Neutrophil to lymphocyte ratio as prognostic and 
+predictive factor in patients with coronavirus disease 2019: a retrospective cross- 
+
+Appendix A. Supplementary data sectional study. J Med Virol. 2020;92:2573–2581.
+27. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel 
+
+coronavirus in Wuhan, China. Lancet. 2020;395:497–506.
+Supplementary data to this article can be found online at https://doi. 28. Del Valle DM, Kim-Schulze S, Huang HH, et al. An inflammatory cytokine signature 
+
+org/10.1016/j.jmii.2025.07.007. predicts COVID-19 severity and survival. Nat Med. 2020;26:1636–1643.
+29. Francisci D, Falcinelli E, Baroncelli S, et al. Potential anti-inflammatory effects of 
+
+maraviroc in HIV-positive patients: a pilot study of inflammation, endothelial 
+References dysfunction, and coagulation markers. Scand J Infect Dis. 2014;46:466–470.
+
+30. Wu C, Chen X, Cai Y, et al. Risk factors associated with acute respiratory distress 
+1. Mallapaty S, Callaway E, Kozlov M, Ledford H, Pickrell J, Van Noorden R. How syndrome and death in patients with coronavirus disease 2019 pneumonia in 
+
+COVID vaccines shaped 2021 in eight powerful charts. Nature. 2021;600:580–583. wuhan, China. JAMA Intern Med. 2020;180:934.
+2. See KC. Vaccination for the prevention of infection among immunocompromised 31. Yin JX, Agbana YL, Sun ZS, et al. Increased interleukin-6 is associated with long 
+
+patients: a concise review of recent systematic reviews. Vaccines (Basel). 2022;10: COVID-19: a systematic review and meta-analysis. Infect Dis Poverty. 2023;12:43.
+800. 32. Hunt PW, Shulman NS, Hayes TL, et al. The immunologic effects of maraviroc 
+
+3. Wang G, Yao Y, Wang Y, et al. Determinants of COVID-19 vaccination status and intensification in treated HIV-infected individuals with incomplete CD4+ T-cell 
+hesitancy among older adults in China. Nat Med. 2023;29:623–631. recovery: a randomized trial. Blood. 2013;121:4635–4646.
+
+4. https://www.who.int/publications/i/item/WHO-2019-nCoV-therapeutics-2023.1. 33. Post COVID-19 condition (Long COVID) (who.int). https://www.who. 
+5. Butler CC, Hobbs FDR, Gbinigie OA, et al. Molnupiravir plus usual care versus usual int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid).
+
+care alone as early treatment for adults with COVID-19 at increased risk of adverse 34. Davis HE, McCorkell L, Vogel JM, Topol EJ. Long COVID: major findings, 
+outcomes (PANORAMIC): an open-label, platform-adaptive randomised controlled mechanisms and recommendations. Nat Rev Microbiol. 2023;21:133–146.
+trial. Lancet. 2023;401:281–293. 35. Schultheiß C, Willscher E, Paschold L, et al. The IL-1β, IL-6, and TNF cytokine triad is 
+
+6. Gulick RM, Lalezari J, Goodrich J, et al. Maraviroc for previously treated patients associated with post-acute sequelae of COVID-19. Cell Rep Med. 2022;3, 100663.
+with R5 HIV-1 infection. N Engl J Med. 2008;359:1429–1441. 36. Patterson BK, Yogendra R, Guevara-Coto J, et al. Case series: maraviroc and 
+
+7. Fätkenheuer G, Nelson M, Lazzarin A, et al. Subgroup analyses of maraviroc in pravastatin as a therapeutic option to treat long COVID/Post-acute sequelae of 
+previously treated R5 HIV-1 infection. N Engl J Med. 2008;359:1442–1455. COVID (PASC). Front Med. 2023;10.
+
+8. Dorr P, Westby M, Dobbs S, et al. Maraviroc (UK-427,857), a potent, orally 37. Shamsi A, Mohammad T, Anwar S, et al. Glecaprevir and Maraviroc are high-affinity 
+bioavailable, and selective small-molecule inhibitor of chemokine receptor CCR5 inhibitors of SARS-CoV-2 main protease: possible implication in COVID-19 therapy. 
+with broad-spectrum anti-human immunodeficiency virus type 1 activity. Antimicrob Biosci Rep. 2020;40.
+Agents Chemother. 2005;49:4721–4732. 38. Choaib A, Issa E, El Choueiry F, et al. SARS-CoV-2-mediated liver injury: 
+
+9. Hardy WD, Gulick RM, Mayer H, et al. Two-year safety and virologic efficacy of pathophysiology and mechanisms of disease. Inflamm Res. 2023;72:301–312.
+maraviroc in treatment-experienced patients with CCR5-tropic HIV-1 infection: 96- 39. Passman AM, Strauss RP, McSpadden SB, et al. Maraviroc prevents HCC 
+week combined analysis of MOTIVATE 1 and 2. J Acquir Immune Defic Syndr. 2010; development by suppressing macrophages and the liver progenitor cell response in a 
+55:558–564. murine chronic liver disease model. Cancers (Basel). 2021;13:4935.
+
+10. Romero-Sánchez MC, Machmach K, Gonzalez-Serna A, et al. Effect of maraviroc on 40. Perez-Martinez L, Perez-Matute P, Aguilera-Lizarraga J, et al. Maraviroc, a CCR5 
+HIV disease progression-related biomarkers. Antimicrob Agents Chemother. 2012;56: antagonist, ameliorates the development of hepatic steatosis in a mouse model of 
+5858–5864. non-alcoholic fatty liver disease (NAFLD). J Antimicrob Chemother. 2014;69: 
+
+1903–1910.
+
+61

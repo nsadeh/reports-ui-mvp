@@ -1,0 +1,16 @@
+Impact of Alpha Lipoic Acid as an Adjuvant Therapy on Inflammation and Fibrosis in Type 2 Diabetic Patients with Ischemic Cardiomyopathy: A Randomized Controlled Trial
+Aya M Shama 1, Noha A El-Bassiouny 1, Yasser E Bahnacy 2, Rehab H Werida 1
+Affiliations Expand
+PMID: 41400270 DOI: 10.1080/19390211.2025.2601020
+Abstract
+Background: Ischemic cardiomyopathy (ICM) is caused by oxidative stress, inflammation, and apoptosis. Alpha-lipoic acid (ALA) has antioxidant and anti-inflammatory effects. However, its effects on left ventricular dysfunction and myocardial fibrosis remain unclear.
+
+Objective: This study aims to investigate the effects of ALA on cardiac inflammation, fibrosis, and myocardial function as an adjuvant therapy for ICM.
+
+Methods: This double-blind, randomized, placebo-controlled, single-center trial enrolled 67 diabetic patients with ICM, who were randomized to receive either ALA 600 mg once daily or placebo for three months, in addition to ICM medications. Both groups were evaluated for tumor necrosis factor-alpha (TNF-α), C-reactive protein (CRP), tissue growth factor-β1 (TGF-β1), matrix metalloproteinase-2 (MMP-2), and some echocardiographic indices before and after treatment.
+
+Results: Sixty patients (aged 45-75 years; 70% males) completed the study (ALA group n = 30; placebo group n = 30). After three months, the ALA group exhibited significantly lower levels of TNF-α [443 (326/515) vs. 499 (448/657) pg/ml], CRP [4.5 (4.2/6.1) vs. 11 (6.3/12.1) mg/l], TGF-β1 [161 (104/189) vs. 206 (158/248) pg/ml], and MMP-2 [1450 (1164/1894) vs. 1815 (1339/2133) pg/ml] (p < 0.05) compared to the placebo group. Furthermore, in the ALA group, there was a significant increase in LVEF [36% (34/40) vs. 28% (25/31.8)], whereas LVESD, LVEDD, and LAD were significantly decreased compared to the placebo group [4.7 (3.9/5.8) vs. 5.6 (5.1/5.6) cm; 6.1 ± 0.7 vs. 6.5 ± 0.5 cm; 4.2 (3.9/4.7) vs. 4.8 (4.4/5.1) cm] (p < 0.05), respectively.
+
+Conclusion: Adjunctive ALA therapy considerably reduced inflammation and improved cardiac function in patients with ICM. Additionally, our findings suggest that ALA may influence profibrotic signaling.
+
+Keywords: Alpha-lipoic acid; echocardiography; inflammation; ischemic cardiomyopathy; left ventricular function; myocardial fibrosis.

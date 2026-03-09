@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sarah Thornton",
+    "initials": "ST",
+    "role": "Senior Analyst",
+    "status": "online",
+    "last_active": "2026-03-09T09:15:00Z"
+  },
+  {
+    "name": "Mike Reeves",
+    "initials": "MR",
+    "role": "Associate",
+    "status": "recently_active",
+    "last_active": "2026-03-09T08:42:00Z"
+  },
+  {
+    "name": "James Park",
+    "initials": "JP",
+    "role": "Principal",
+    "status": "offline",
+    "last_active": "2026-03-08T17:30:00Z"
+  },
+  {
+    "name": "Zach Morrison",
+    "initials": "ZM",
+    "role": "Analyst",
+    "status": "online",
+    "last_active": "2026-03-09T09:20:00Z"
+  }
+]

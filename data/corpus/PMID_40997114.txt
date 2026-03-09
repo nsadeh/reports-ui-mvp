@@ -1,0 +1,610 @@
+﻿Inflammatory Bowel Diseases, 2026, 32, 87–96
+https://doi.org/10.1093/ibd/izaf199
+Advance access publication 25 September 2025
+Original Research Article - Clinical
+
+Anti-TNF Therapies Promote a Proximal-to-Distal Healing 
+Pattern in Moderate-to-Severe Ulcerative Colitis
+Emily C.L. Wong, BHSc1, , Parambir S. Dulai, MD2, John K. Marshall, MD, MSc1,  
+Vipul Jairath, MD, PhD3, Walter Reinisch, MD, PhD4,†, , Neeraj Narula, MD, MPH1,*,†,
+
+1Division of Gastroenterology, Department of Medicine and Farncombe Family Digestive Health Research Institute, McMaster University, 
+Hamilton, ON, Canada
+2Division of Gastroenterology, Northwestern University, Chicago, IL, United States
+3Division of Gastroenterology, Department of Medicine, Western University, London, ON, Canada
+4Division of Gastroenterology and Hepatology, Department of Internal Medicine III, Medical University of Vienna, Vienna, Austria
+*Corresponding author: Neeraj Narula, MD, MPH, McMaster University Medical Centre, 1280 Main Street West, Unit 3V42, Hamilton, ON, Canada L8S 4K1 
+(neeraj.narula@medportal.ca).
+†W.R. and N.N contributed equally.
+
+Abstract
+Background: Ulcerative colitis (UC) is a chronic inflammatory disease of the colonic mucosa, extending proximally from the rectum. However, 
+the segmental pattern of healing in UC remains unclear. Endoscopic improvement (EI), a key therapeutic endpoint, is typically assessed using the 
+Mayo endoscopic score (MES), which scores the worst affected area and may miss partial/segmental healing. This study evaluates healing patterns 
+in UC and compares conventional MES with a 3-segment MES approach for detecting treatment effects in clinical trials.
+Methods: A post hoc analysis of HIBISCUS I/II and GARDENIA trials was conducted in UC patients with moderate-to-severe disease (MES >2 
+up to the descending colon). The primary outcome was the proportion of anti-tumor necrosis factor–treated participants achieving MES ≤1 in the 
+descending colon, sigmoid colon, and rectum at week 10. Secondary outcomes included conventionally measured EI, segmental MES improve-
+ments, clinical response, and Patient-Reported Outcome 2 (PRO2) normalization. Outcomes were compared between adalimumab, infliximab, 
+and placebo groups.
+Results: Among 300 participants, 217 received infliximab or adalimumab, while 83 received placebo. Healing followed a proximal-to-distal pattern, 
+with the highest EI in the descending colon and the lowest in the rectum. Infliximab-treated patients continued this trend at week 54. Anti-tumor 
+necrosis factor therapy significantly improved EI vs placebo (42.9% vs 19.3%; P < .001). No segmental MES approach outperformed conventional 
+MES for detecting treatment effects. Combined endpoints (MES ≤1 + PRO2 normalization) better captured therapeutic benefits than PRO2 alone 
+(28.6% vs 13.3%; P = .006).
+Conclusions: UC healing follows a proximal-to-distal pattern. Conventional MES remains superior for detecting treatment effects over segmental 
+MES. Further studies should explore alternative endoscopic scoring methodologies.
+
+Key words: ulcerative colitis, Mayo endoscopic score, endoscopic improvement
+
+Lay Summary
+Anti-tumor necrosis factor therapies in moderate-to-severe ulcerative colitis promote a proximal-to-distal healing pattern. The conventional Mayo 
+endoscopic score best detects treatment effects over segmental scoring. Combining the Mayo endoscopic score with clinical symptom scores 
+enhances therapeutic benefit assessment in clinical trials.
+
+Received for publication: May 20, 2025. Editorial Decision: August 01, 2025. 
+© The Author(s) 2025. Published by Oxford University Press on behalf of Crohn’s & Colitis Foundation.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), 
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+
+
+88 Wong et al.
+
+who had severe endoscopic disease throughout their colon and 
+Key Messages was scored MES 3 who achieved healing of most of their colon 
+
+after initiation of active therapy but still had persistent rectal 
+What is already known? ulceration would continue to score an MES 3, despite improve-
+•	 Ulcerative colitis (UC) typically extends in a continuous man- ment in the remainder of the colon. Given this limitation, there 
+
+ner from the rectum proximally. is growing interest in assessing segmental EI in UC.9,10
+
+•	 Endoscopic improvement (EI), measured by the Mayo endo- In this study, our aim was to elucidate patterns of healing in 
+scopic score (MES), is a validated and widely used endpoint moderate-severe UC. Further, we aimed to assess whether a 
+in UC clinical trials. segmental endoscopic scoring approach in patients with mod-
+
+•	 Healing of the colonic mucosa is associated with better long- erate-severely active disease up to the descending colon is better 
+term clinical outcomes, including reduced risk of relapse and able to detect treatment effect compared with the convention-
+need for colectomy. ally used worst-affected area as scored by the MES. Addition-
+
+ally, we investigate the extent to which improvements in 
+What is new here? specific segments correlate with overall clinical outcomes.
+•	 This study is the first to demonstrate a proximal-to-distal healing 
+
+pattern in UC using centralized endoscopic assessments. Methods
+•	 Despite limitations in granularity, the conventional MES 
+
+remains the most effective metric for detecting treatment Data acquisition
+effects over more complex segmental scoring systems. This was a post hoc analysis of participant-level clinical trial 
+
+•	 Combining endoscopic and symptomatic endpoints (MES ≤1 data from HIBISCUS I (NCT02163759), HIBISCUS II 
++ Patient-Reported Outcome 2 normalization) provides better (NCT02171429), and GARDENIA (NCT02136069). Data 
+discrimination of treatment response compared with were obtained by permission from Roche Inc. and accessed 
+Patient-Reported Outcome 2 alone. through Vivli (protocol #00010343). Details regarding eligi-
+
+How can this study help patient care? bility criteria and study methodology are detailed in previous 
+publications.11,12 The Hamilton Integrated Research Ethics 
+
+•	 Highlights that persistent rectal inflammation at early fol- Board determined that a local ethics review was not necessary 
+low-up may not indicate treatment failure if proximal healing as previously deidentified data were used; therefore, no 
+is evident—this could inform timing of therapeutic informed consent was required.
+decisions. In short, HIBISCUS I and II were head-to-head induction 
+
+•	 Supports the continued use of conventional MES as a practical trials evaluating etrolizumab, a gut-targeted anti-β7 integrin 
+and sensitive endpoint in both trials and clinical practice. monoclonal antibody, against an active comparator, adalim-
+
+•	 Suggests that integrating objective endoscopic data with umab, and placebo. Patients with moderate-severe UC (defined 
+patient-reported outcomes improves evaluation of therapeutic by a total Mayo score [MS] of 6-12 with an endoscopic subscore 
+response and may guide personalized treatment strategies. ≥2, rectal bleeding subscore [RBS] ≥1, and stool frequency sub-
+
+score ≥1) and who were naïve to anti-tumor necrosis factor 
+(TNF) agents were eligible. The primary endpoint was clinical 
+
+Introduction remission at week 10 (MS ≤2, with no individual subscores >1, 
+and RBS of 0). GARDENIA was a maintenance study evaluat-
+
+Ulcerative colitis (UC) is a chronic inflammatory disease of the ing etrolizumab against an active comparator, infliximab. Sim-
+colon, characterized by continuous mucosal inflammation that ilar to HIBISCUS I and II, participants were eligible if they had 
+progresses proximally from the rectum.1 The pattern in which moderate-severe UC (MS of 6-12 and an endoscopic subscore 
+UC heals is unclear. The assessment of therapeutic efficacy in of ≥2, RBS ≥1, and stool frequency subscore ≥1). The primary 
+UC relies on endoscopic scoring systems, which quantify the endpoint was clinical response at week 10 (reduction in MS of 
+severity of inflammation and degree of mucosal healing. Among at least 3 points and ≥30% reduction from baseline, in addition 
+these scoring systems, the Mayo endoscopic score (MES) is to a reduction of at least 1 point in RBS or absolute RBS of 0 
+widely used in clinical trials and practice. Endoscopic improve- or 1) and clinical remission at week 54 (MS ≤2 with no indi-
+ment (EI), conventionally defined as MES ≤1, is an important vidual subscores >1). In all 3 studies, endoscopy (sigmoidoscopy 
+endpoint for therapies for UC, as EI is associated with a reduced or colonoscopy) occurred at baseline and week 10, and in the 
+need for colectomy, hospitalization and relapse risk.2–6 case of GARDENIA, also at week 54. All endoscopies were 
+
+The importance of EI has been emphasized by STRIDE centrally read and scored using the MES. This study was a post 
+(Selecting Therapeutic Targets in Inflammatory Bowel Disease) hoc analysis that relied on the endoscopic scores provided by 
+initiative of the International Organization for the Study of the source clinical trials. No independent re-reading or adjudi-
+Inflammatory Bowel Diseases, with guidelines suggesting cation of the endoscopic assessments was performed. Data for 
+assessment within 3 to 6 months after starting therapy.7 How- anti-TNF– and placebo-treated patients were provided by 
+ever, the ability of the MES to capture total endoscopic inflam- Roche Inc. Data on etrolizumab-treated patients were not made 
+matory burden may be limited by its lack of granularity, available for this analysis.
+particularly at the segmental level, as the MES is scored from 
+0 (normal or inactive disease) and 3 (severe disease) based on Participants
+the worst-affected area of the colon.8 There is concern that To demonstrate patterns of healing, we included participants 
+within clinical trials, use of the conventional MES could limit with moderate-severely active disease (defined as MES 2 or 3) 
+the ability to detect treatment effect. For instance, a patient in the descending colon who had available endoscopic data at 
+
+
+
+UC Healing Patterns 89
+
+baseline and week 10. In all 3 studies, a total of 401 partici- 144 were treated with adalimumab, 73 were treated with inflix-
+pants treated with anti-TNF or placebo had disease in the imab, and 83 received placebo. The mean age of participants 
+descending colon, of which 372 had week 10 scores available. was 38.8 ± 13.0 years, and 41.3% of participants were female. 
+Of these participants, a total of 300 had baseline MES 2 or 3 The average disease duration was 5.9 ± 6.3 years, and baseline 
+in the descending colon and were included in the current endoscopic disease severity, as measured by the conventional 
+analysis. MES (mean 2.5 ± 0.5) and segmental MES (mean 7.0 ± 1.5), 
+
+was similar across groups. There were no significant differences 
+MES definitions in concomitant steroid use, concomitant immunomodulator 
+In this analysis, the MES scored out of 3 is referred to as “con- use, C-reactive protein levels, RBS, or stool frequency subscore 
+ventional MES.” The “segmental MES” was calculated as the between groups. However, baseline fecal calprotectin levels 
+sum of the conventional MES in each colonic segment assessed were significantly higher in the infliximab group compared with 
+(ie, descending colon, sigmoid colon, and rectum), and was the adalimumab and placebo groups (mean 4860.3 µg/g vs 
+scored out of 9. 2981.1 µg/g and 2589.2 µg/g; P = .005).
+
+Outcome definitions Segmental patterns of healing
+The primary outcome of this study was to evaluate the propor- Segmental analysis of healing among anti-TNF–treated par-
+tions of anti-TNF–treated participants with moderate-severe ticipants revealed that proximal segments (ie, descending 
+UC who achieved MES ≤1 in the descending colon, sigmoid colon) showed more rapid improvement compared with distal 
+colon, and rectum after 10 weeks of active therapy. Long-term segments (ie, sigmoid colon and rectum). As demonstrated in 
+patterns of healing were assessed among infliximab-treated Figure 1, by week 10, a greater proportion of anti-TNF–
+patients in GARDENIA, as this was the only included study treated participants achieved MES ≤1 in the descending colon 
+with available endoscopic data at week 54. The main secondary (55.3%) compared with the sigmoid colon (43.3%; P = .016) 
+outcome was to evaluate treatment effect between anti-TNF– and rectum (40.7%; P = .003). By week 10, a significantly 
+and placebo-treated patients at week 10 using EI (defined as greater proportion of anti-TNF–treated participants achieved 
+conventionally measured MES ≤1) and alternative definitions segmental MES 0 in the descending colon (38.3%) compared 
+of endoscopic response assessed based on segmental (descend- with placebo (22.9%) (P = .013) (Supplemental Table 1). Sim-
+ing colon, sigmoid colon, rectum) MES improvements. Other ilar trends were observed in the sigmoid colon and rectum. 
+secondary outcomes included clinical outcomes at week 10, Further analysis among infliximab-treated patients in GAR-
+including clinical response (reduction in total MS ≥3 points DENIA demonstrated that the trend for proximal-to-distal 
+and ≥30% from baseline with an accompanying decrease in healing continues, as 22 (57.9%) of 38 patients who had MES 
+RBS of ≥1 point or absolute RBS of ≤1 point) and various 2 or 3 in the rectum at week 10 were able to attain MES 0 or 
+definitions of Patient-Reported Outcome 2 (PRO2) normaliza- 1 by week 54 (Figure 2). Sensitivity analyses were performed 
+tion, which were selected to explore different measures of among participants with MES of 2 or 3 in the sigmoid colon 
+symptom improvement and to assess the additional benefit of without any involvement in the descending colon (Supplemen-
+PRO2 normalization. Sensitivity analyses were performed for tal Figure 1). Again, by week 10, a greater proportion of anti-
+clinical outcomes among patients with mild endoscopic disease TNF–treated participants achieved MES ≤1 in the sigmoid 
+at week 10 (MES ≤1). All outcomes were compared between colon as compared with the rectum (48.0% vs 37.6%; 
+anti-TNF–treated (adalimumab or infliximab) and place- P = .001).
+bo-treated participants. Sensitivity analyses were also per-
+formed to compare all outcomes between all 3 treatment Endoscopic outcomes at week 10
+groups individually (adalimumab vs infliximab vs placebo). By week 10, participants treated with adalimumab or inflix-
+
+imab demonstrated significant improvements in endoscopic 
+Statistical analysis outcomes compared with the placebo group. The mean seg-
+Descriptive statistics were used to summarize the baseline char- mental MES was lower in the anti-TNF–treated groups (adali-
+acteristics of the study population. Categorical variables were mumab/infliximab combined mean 4.6 ± 3.1) compared with 
+reported as proportions or percentages and continuous variables placebo (mean 5.5 ± 2.6) (P = .028) (Tables 2 and 3). Declines 
+were reported as mean ± SD or median (interquartile range). in segmental MES from baseline were also significantly greater 
+Chi-square tests and 1-way analysis of variance were used to among patients treated with adalimumab/infliximab (mean 
+compare the proportions of participants achieving outcomes. −35.2 ± 43.5%) compared with placebo (mean −18.5 ± 36.3%) 
+Outcomes at week 10 were compared between treatment groups. (P = .028). Similarly, the conventional MES was significantly 
+All analyses were performed on an intention-to-treat basis. All lower in the adalimumab/infliximab group (mean 1.7 ± 1.1) 
+analyses were performed as intention-to-treat in the included compared with placebo (mean 2.1 ± 0.9) (P = .001). Declines 
+population. A 2-sided P value <.05 was considered statistically in conventional MES from baseline were significantly greater 
+significant. All analyses were performed using Stata IC version among adalimumab/infliximab-treated patients (mean −33.6 ± 
+18 (StataCorp). 43.5%) compared with placebo-treated patients (mean −12.9 
+
+± 35.7%) (P < .001).
+The proportion of participants achieving conventional EI 
+
+Results (MES ≤1) and conventional endoscopic remission (MES of 0) 
+was significantly higher in the anti-TNF–treated groups than 
+
+Baseline characteristics in the placebo group (42.9% vs 19.3%; P < .001; and 19.8% 
+Table 1 demonstrates the baseline characteristics of the study vs 6.0%; P = .004, respectively). While other definitions of 
+population. A total of 300 participants were included, of whom endoscopic response using segmental MES at week 10 
+
+
+
+90 Wong et al.
+
+Table 1.  Baseline characteristics of the study population.
+
+Overall Adalimumab Infliximab Adalimumab/ Placebo (n = 83) P value P value 
+(n = 300) (n = 144) (n = 73) infliximab (n = 217) (adalimumab (drug vs 
+
+vs infliximab placebo)
+vs placebo)
+
+Age, y 38.8 ± 13.0 39.2 ± 12.9 37.2 ± 13.2 38.5 ± 13.0 39.6 ± 12.9 .456 .511
+Female 124 (41.3) 58 (40.3) 26 (35.6) 84 (38.7) 40 (48.2) .264 .136
+Disease duration, y 5.9 ± 6.3 5.6 ± 5.8 6.5 ± 6.9 6.1 ± 6.4 6.1 ± 6.4 .564 .833
+Disease extent
+  Left sided 187 (62.3) 83 (57.6) 69 (94.5) 152 (70.0) 35 (42.2) .635 .286
+  Pancolitis 113 (37.7) 61 (42.4) 4 (5.5) 65 (30.0) 48 (57.8)
+Concomitant corticoste- 126 (42.0) 62 (43.1) 33 (45.2) 95 (43.8) 31 (37.3) .636 .672
+roid use
+Concomitant immuno- 96 (32.0) 50 (34.7) 24 (32.9) 74 (34.1) 22 (26.5) .247 .363
+modulator use
+Baseline C-reactive 11.0 ± 16.7 12.7 ± 20.2 9.4 ± 12.2 11.6 ± 18.0 9.3 ± 12.6 .222 .298
+protein, mg/dL
+Baseline fecal  3313.6 ± 2981.1 ± 3218.4 4860.3 ± 6466.6 3582.1 ± 4585.7 2589.2 ± 3922.3 .005 .102
+calprotectin, μg/g 4431.1
+Baseline segmental MES 7.0 ± 1.5 7.0 ± 1.5 7.1 ± 1.3 7.0 ± 1.5 6.8 ± 1.7 .482 .271
+(out of 9)
+Baseline descending colon 2.3 ± 0.5 2.4 ± 0.5 2.3 ± 0.5 2.4 ± 0.5 2.3 ± 0.5 .239 .683
+MES (out of 3)
+Baseline sigmoid colon 2.4 ± 0.7 2.3 ± 0.7 2.5 ± 0.6 2.4 ± 0.7 2.3 ± 0.7 .654 .636
+MES (out of 3)
+Baseline rectum MES  2.3 ± 0.8 2.3 ± 0.8 2.3 ± 0.8 2.3 ± 0.8 2.2 ± 0.9 .453 .538
+(out of 3)
+Baseline conventional 2.5 ± 0.5 2.5 ± 0.5 2.6 ± 0.5 2.5 ± 0.5 2.5 ± 0.5 .637 .680
+MES (out of 3)
+Baseline rectal bleeding .590 .083
+subscore
+  0 3 (1.0) 0 3 (4.1) 3 (1.4) 0
+  1 87 (29.0) 42 (29.2) 23 (31.5) 65 (30.0) 22 (26.5)
+  2 180 (60.0) 90 (62.5) 39 (53.4) 129 (59.5) 51 (61.5)
+  3 30 (10.0) 12 (8.3) 8 (11.0) 20 (9.2) 10 (12.1)
+Baseline stool frequency .760 .787
+subscore
+  0 4 (1.3) 1 (0.7) 1 (1.4) 2 (0.9) 2 (2.4)
+  1 54 (18.0) 23 (16.0) 17 (23.3) 40 (18.4) 14 (16.9)
+  2 119 (39.7) 58 (40.3) 27 (37.0) 85 (39.2) 34 (41.0)
+  3 123 (41.0) 62 (43.1) 28 (38.4) 90 (41.5) 33 (39.8)
+
+Values are mean ± SD or n (%).
+Abbreviation: MES, Mayo endoscopic score.
+
+demonstrated significant differences, the conventional EI out- other segment from baseline, although this did not reach sta-
+come had the greatest delta in treatment effect between anti- tistical significance.
+TNF– and placebo-treated patients compared with any other 
+endoscopic outcome definitions assessed herein irrespective of Clinical and combined clinical-endoscopic 
+segmental analyses approaches. In terms of segmental MES outcomes at week 10
+outcomes, a significantly greater proportion of anti-TNF– Table 4 demonstrates the proportion of participants achieving 
+treated participants achieved these outcomes at week 10, clinical outcomes at week 10. Clinical response, defined as a 
+including segmental MES ≤3 with no individual segmental reduction in the total Mayo score by at least 3 points and 30%, 
+score >1 (30.4% vs 14.5%; P = .005) and segmental MES ≤1 with RBS reduction ≥1 or RBS ≤1, was observed in 57% of 
+in at least 1 segment that was previously MES 2 or 3 at baseline participants. PRO2 remission (PRO2 score of 0) was observed 
+and MES improvement ≥1 in another segment (48.9% vs among 20% of participants. PRO2 response alternatively 
+30.1%; P = .003). Improvements in segmental MES were also defined as PRO2 score ≤1 in which RBS was 0 and the stool 
+assessed, with significant differences observed between anti- frequency subscore was ≤1 was achieved among 37.3% of par-
+TNF–treated and placebo groups for segmental MES improve- ticipants. No significant differences between treatment groups 
+ment ≥2 or conventional MES ≤1. However, no significant were observed for these outcomes, largely due to high response 
+differences between groups were observed for segmental MES rates among placebo-treated patients. However, a significantly 
+improvement based on percent improvement. A greater number greater proportion of anti-TNF–treated participants achieved 
+of anti-TNF–treated participants achieved MES ≤1 in at least a combination of PRO2 response and a conventional MES ≤1 
+1 segment without worsening of endoscopic disease in any compared with placebo (28.6% vs 13.3%; P = .006).
+
+
+
+UC Healing Patterns 91
+
+Figure 1.  Baseline and week 10 endoscopic scores of the descending colon, sigmoid colon, and rectum among adalimumab- or infliximab-treated 
+participants.
+
+Among 114 participants with a conventional MES ≤1 at had higher rates of healing compared with distal segments such 
+week 10, 82.9% (n = 97 of 114) experienced clinical response, as the rectum by week 10. Based on our analysis, this pattern 
+39.5% (n = 45 of 114) achieved PRO2 normalization (PRO2 of healing continues to move proximally to distally as over half 
+score of 0) and 64.9% achieved PRO2 normalization alterna- of participants in GARDENIA with MES of 2 or 3 in the rec-
+tively defined as PRO2 score ≤1 in which RBS was 0 and stool tum at week 10 had improvement of the rectum by week 54. 
+frequency subscore was ≤1. Again, no significant differences This aligns with prior hypotheses that proximal segments may 
+between treatment groups were observed for these outcomes. respond more rapidly to treatment due to differences in disease 
+
+pathophysiology or mucosal characteristics.13 These findings 
+also suggest that segmental evaluation of disease could be used 
+
+Discussion as an adjunctive strategy to assess endoscopic burden in clinical 
+In our study, several key observations were made. First, we trials for UC, and may help to select patients who are having 
+found that proximal segments, such as the descending colon, improvement in their endoscopic burden of disease despite 
+
+
+
+92 Wong et al.
+
+Figure 2.  Week 54 endoscopic scores of the rectum among participants treated with infliximab in GARDENIA who had week 10 endoscopic scores of 2 
+or 3 in the rectum. MES, Mayo endoscopic score.
+
+Table 2.  Conventional endoscopic outcomes at week 10 among the study population.
+
+Week 10 Overall (n = 300) Adalimumab Infliximab Adalimumab/ Placebo (n = 83) P value P value 
+outcome (n = 144) (n = 73) infliximab (adalimumab (drug vs 
+
+(n = 217) vs infliximab placebo)
+vs placebo)
+
+Conventional 1.8 ± 1.1 1.7 ± 1.2 1.6 ± 1.0 1.7 ± 1.1 2.1 ± 0.9 .032 .001
+MES (out of 3)
+Conventional 109 (36.3) 54 (37.5) 39 (53.4) 93 (42.9) 16 (19.3) <.001 <.001
+MES ≤1
+Conventional 48 (16.0) 33 (22.9) 10 (13.7) 43 (19.8) 5 (6.0) .003 .004
+MES of 0
+Percent change in −27.9 ± 42.5 −32.1 ± 45.5 −36.8 ± 39.5 −33.6 ± 43.5 −12.9 ± 35.7 <.001 <.001
+conventional 
+MES
+
+Values are mean ± SD or n (%).
+Abbreviation: MES, Mayo endoscopic score.
+
+having a worst-affected area of MES 2 or 3 still present at the The ability to detect early healing is important for clinical 
+completion of induction therapy. trials evaluating novel therapies for UC. Prior to their approval, 
+
+It is widely believed that in UC, disease extension occurs novel therapies must demonstrate the ability to heal the colonic 
+from distal to proximal colon,14 and that healing occurs in an mucosa as part of primary or co-primary endpoints in place-
+opposite fashion from proximal to distal; however, no pub- bo-controlled clinical trials. Although segmental MES offered 
+lished studies to date have revealed endoscopic patterns of a more nuanced understanding of endoscopic disease burden 
+healing in UC by anatomical location within the colon. This and the expected pattern of healing, we demonstrated that EI 
+study demonstrates segmental patterns of endoscopic healing as defined by conventional MES ≤1 had the greatest delta at 
+in UC and highlights the utility of granular endoscopic scoring week 10 compared with any other definition of EI assessed, 
+systems for evaluating treatment efficacy in specific segments including improvements in segmental MES. This was likely 
+of the colon. Our findings demonstrate that in moderate-severe due to the segmental approach being limited by very high 
+UC, healing follows a proximal-to-distal pattern, with the response rates in placebo-treated patients, which diluted the 
+descending colon demonstrating higher rates of healing by ability to detect differences in treatment effects between anti-
+week 10 compared with the sigmoid colon and rectum. We also TNF– and placebo-treated groups. This highlights the chal-
+did not find enhanced detection of treatment effect when using lenge of utilizing more granular scoring systems in settings in 
+a segmental scoring approach as compared with conventionally which placebo response is substantial and obscures the incre-
+measured MES. mental benefits of active therapy.15 Therefore, our findings 
+
+
+
+UC Healing Patterns 93
+
+Table 3.  Segmental endoscopic outcomes at week 10 among the study population.
+
+Week 10 outcome Overall Adalimumab Infliximab Adalimumab/ Placebo P value P value 
+(n = 300) (n = 144) (n = 73) infliximab (n = 83) (adalimumab (drug vs 
+
+(n = 217) vs infliximab placebo)
+vs placebo)
+
+Segmental MES (out of 9) 4.9 ± 3.0 4.7 ± 3.1 4.5 ± 2.9 4.6 ± 3.1 5.5 ± 2.6 .085 .028
+Percent change in segmental MES from −30.6 ± 42.2 −35.2 ± 43.7 −35.2 ± 43.7 −35.2 ± 43.5 −18.5 ± 36.3 .025 .028
+baseline
+Segmental MES ≤3 with no individual 78 (26.0) 42 (29.2) 24 (32.9) 66 (30.4) 12 (14.5) .016 .005
+segmental score >1
+Segmental MES ≤1 in at least 1 segment 131 (43.7) 66 (45.8) 40 (54.8) 106 (48.9) 25 (30.1) .006 .003
+that was previously MES 2 or 3 at 
+baseline and MES improvement ≥1 in 
+another segment
+At least 1 segment achieved MES ≤1 156 (52.0) 76 (52.8) 44 (60.3) 120 (55.3) 36 (43.4) .105 .064
+without worsening of endoscopic disease 
+in any other segment from baseline
+Segmental MES improvement ≥1 or 204 (68.0) 101 (70.1) 52 (71.2) 153 (70.5) 51 (61.5) .318 .132
+conventional MES ≤1
+Segmental MES improvement ≥2 or 164 (54.7) 83 (57.6) 47 (64.4) 130 (59.9) 34 (41.0) .008 .003
+conventional MES ≤1
+Segmental MES improvement ≥3 or 145 (48.3) 72 (50.0) 42 (57.5) 114 (52.5) 31 (37.4) .036 .019
+conventional MES ≤1
+Segmental MES improvement ≥4 or 124 (41.3) 60 (41.7) 41 (56.2) 101 (46.5) 23 (27.7) .002 .003
+conventional MES ≤1
+Segmental MES improvement ≥5 or 119 (39.7) 58 (40.3) 40 (54.8) 98 (45.2) 21 (25.3) .001 .002
+conventional MES ≤1
+Segmental MES improvement ≥6 or 114 (38.0) 56 (38.9) 40 (54.8) 96 (44.2) 18 (21.7) <.001 <.001
+conventional MES ≤1
+Segmental MES improvement ≥7 or 113 (37.7) 55 (38.2) 40 (54.8) 95 (43.8) 18 (21.7) <.001 <.001
+conventional MES ≤1
+Segmental MES improvement ≥8 or 112 (37.3) 54 (37.5) 40 (54.8) 94 (43.3) 18 (21.7) .001 <.001
+conventional MES ≤1
+Segmental MES improvement ≥9 or 111 (37.0) 54 (37.5) 39 (53.2) 93 (42.9) 18 (21.7) <.001 .001
+conventional MES ≤1
+Segmental MES improvement ≥10% 44 (14.7) 20 (13.9) 10 (13.7) 30 (13.8) 14 (16.9) .800 .505
+Segmental MES improvement ≥20% 26 (8.7) 9 (6.3) 5 (6.9) 14 (6.5) 12 (14.5) .087 .027
+Segmental MES improvement ≥30 8 (2.7) 3 (2.1) 2 (2.7) 5 (2.3) 3 (3.6) .788 .529
+Segmental MES improvement ≥40% 4 (1.3) 2 (1.4) 2 (2.7) 4 (1.8) 0 .329 .213
+Segmental MES improvement ≥50% 3 (1.0) 2 (1.4) 1 (1.4) 3 (1.4) 0 .560 .282
+
+Values are mean ± SD or n (%).
+Abbreviation: MES, Mayo endoscopic score.
+
+suggest continued use of the conventionally scored MES for Beyond EI, novel therapies are required to demonstrate 
+assessment of endoscopic burden in UC. However, there may improvement in symptoms within clinical trials in order to gain 
+be other approaches in which measuring endoscopic burden regulatory approval. However, there continues to be debate 
+beyond worst-affected area as accomplished by the MES helps about the best ways to measure clinical symptom improvement, 
+to enhance detection of treatment effect. For example, a post and in particular whether relying on scoring systems that incor-
+hoc analysis of endoscopic data from UNIFI demonstrated porate more subjective measures such as symptoms or physi-
+that spatial mapping of the MES, termed the Cumulative Dis- cian global assessment could lessen detection of treatment effect 
+ease Score, reduced the sample size needed to detect endo- in from potentially effective therapies.14,18 Our study found that 
+scopic differences between ustekinumab and placebo by 50%. reliance upon PRO2 normalization (PRO2 ≤1) alone did a poor 
+Compared with the MES, the Cumulative Disease Score job at distinguishing between anti-TNF– and placebo-treated 
+demonstrated superior sensitivity to treatment effects as it is patients at week 10 (39.2% vs 32.5%; P = .287). However, 
+the sum score of MES-squared values of 50 evenly spaced assessing for EI in addition to PRO2 normalization enhanced 
+increments in the left colon and rectum, accounting for the detection of treatment effect between anti-TNF– and place-
+total endoscopic disease burden.10 Future investigation is war- bo-treated patients (anti-TNF–treated vs placebo 28.6% vs 
+ranted to determine if segmental scoring can enhance the 13.3%; P = .006). The limitations of relying solely on PRO2 
+detection of treatment response when used with more granular scores are evident in their reduced sensitivity to treatment-
+endoscopic indices. These indices, such as the Ulcerative Coli- specific effects. PRO2 normalization often focuses on patient-
+tis Endoscopic Index of Severity and the Ulcerative Colitis reported outcomes like rectal bleeding, and stool frequency, 
+Colonoscopic Index of Severity, provide detailed assessments which, while important, may not fully reflect the degree of 
+of ulcer depth and extent.16,17 mucosal healing achieved. By contrast, the MES provides an 
+
+
+
+94 Wong et al.
+
+Table 4.  Clinical outcomes at week 10 among the study population.
+
+Overall Adalimumab Infliximab Adalimumab/ Placebo P value P value 
+(n = 300) (n = 144) (n = 73) infliximab (n = 83) (adalimumab (drug vs 
+
+(n = 217) vs infliximab placebo)
+vs placebo)
+
+Clinical response (reduction in total 171 (57.0) 81 (56.3) 49 (67.1) 130 (59.9) 41 (49.4) .080 .100
+Mayo score ≥3 points and ≥30% from 
+baseline with an accompanying decrease 
+in RBS of ≥1 point or absolute RBS of ≤1 
+point) at week 10
+PRO2 normalization (PRO2 score of 0) 60 (20.0) 29 (20.1) 20 (27.4) 49 (22.6) 11 (13.3) .088 .071
+at week 10
+PRO2 normalization (PRO2 score ≤1 in 112 (37.3) 51 (35.4) 34 (46.6) 85 (39.2) 27 (32.5) .156 .287
+which RBS = 0 and SFS ≤1) at week 10
+PRO2 ≤1 and MES ≤1 73 (24.3) 36 (25.0) 26 (35.6) 62 (28.6) 11 (13.3) .005 .006
+Clinical response (reduction in total 97/114 (82.9) 48/56 (85.7) 35/40 (87.5) 83/96 (86.5) 14/18 (77.8) .971 .837
+Mayo score ≥3 points and ≥30% from 
+baseline with an accompanying decrease 
+in RBS of ≥1 point or absolute RBS of ≤1 
+point) among participants with MES ≤1 
+at week 10
+PRO2 normalization (PRO2 score of 0) 45/114 (39.5) 22/56 (39.3) 17/40 (42.5) 39/96 (40.6) 6/18 (33.3) .803 .561
+among participants with MES ≤1 at week 
+10
+PRO2 normalization (PRO2 score ≤1 in 74/114 (64.9) 37/56 (66.1) 26/40 (65.0) 63/96 (65.6) 11/18 (61.1) .929 .713
+which RBS = 0 and SFS ≤1) among 
+participants with MES ≤1 at week 10
+
+Values are mean ± SD, n (%), or n/n (%).
+Abbreviations: MES, Mayo endoscopic score; PRO2, Patient-Reported Outcome 2; RBS, rectal bleeding subscore; SFS, stool frequency subscore.
+
+objective measure of EI, which is a critical component of long- dynamics across colonic segments. Furthermore, our study 
+term disease control and a predictor of favorable outcomes provides valuable insights into the added utility of combined 
+such as sustained remission and reduced hospitalization rates. clinical and endoscopic endpoints, which better capture treat-
+Combining PRO2 and MES ensures a more robust evaluation ment effects compared with isolated measures like PRO2 nor-
+of therapeutic benefit, which could guide clinicians in selecting malization. These findings have important implications for 
+optimal treatments for patients. From a clinical perspective, both clinical practice and UC trials. The observed proxi-
+the study emphasizes the importance of integrating endoscopic mal-to-distal healing pattern suggests that clinicians should be 
+outcomes with clinical response measures, such as PRO2 nor- cautious when making decisions about treatment efficacy based 
+malization, to fully capture therapeutic benefits. Participants solely on early follow-up of the distal colon. For example, 
+achieving a combination of PRO2 normalization and MES ≤1 persistent rectal inflammation at week 10 may not signify an 
+were significantly more common in the treatment groups, rein- overall treatment failure if more proximal segments are show-
+forcing the role of biologics in achieving both symptomatic ing EI. This could inform the timing of decisions about switch-
+relief and mucosal healing. ing therapies, potentially preventing premature discontinuation 
+
+Previously, Christensen et al19 demonstrated that most patients of an effective treatment. Furthermore, these findings support 
+with UC (88%) experienced histologic healing in a proxi- the utility of performing a more extensive endoscopic evalua-
+mal-to-distal direction, with segmental histological normaliza- tion (eg, flexible sigmoidoscopy to at least the splenic flexure) 
+tion occurring in one-third of participants. However, segmental to accurately assess the full extent of mucosal healing, rather 
+histological normalization was not associated with improved than relying on a limited distal assessment. Our study was 
+clinical outcomes based on PRO2 normalization in their study. restricted to patients with active disease up to the descending 
+Moreover, this study did not identify a proximal-to-distal healing colon and therefore cannot definitively conclude whether this 
+pattern. While histology was not assessed in our study, given the healing pattern applies to more proximal segments in extensive 
+correlation between histologic and endoscopic disease severity, colitis (E3 disease), or on whether certain segments heal quicker 
+the lack of association between segmental histological normal- than others. Future studies focusing on patients with pancolitis 
+ization and PRO2-based outcomes reinforces our finding that are needed to clarify these patterns.
+relying solely on PROs to gauge disease improvement is insuffi- However, several limitations are worth noting. As a post hoc 
+cient compared with additional of more objective measures such analysis, our results are inherently exploratory and require 
+as endoscopy or histology. validation in prospective studies. Additionally, the follow-up 
+
+This study has several notable strengths. First, it leverages period of 10 weeks may not fully capture the long-term effects 
+individual participant-level data from multiple randomized, of biologic therapies on mucosal healing and clinical outcomes. 
+placebo-controlled clinical trials. The use of both conventional The study population, drawn from clinical trials, may also 
+and segmental MES allowed for a detailed exploration of differ from real-world UC populations in terms of disease sever-
+mucosal healing patterns, highlighting differences in healing ity, comorbidities, and treatment history, potentially limiting 
+
+
+
+UC Healing Patterns 95
+
+generalizability. Specifically, we restricted our analyses to treat- Fresenius Kabi, Janssen, Lilly, Lupin, Organon, Paladin, Pfizer, 
+ment-naïve patients with an MES of 2 or 3 in the descending Pharmascience, Qu Biologics, Roche, Sandoz, SCOPE, Takeda, 
+colon. We were only able to assess patients treated with adali- Teva, and Viatris. W.R. has served as a speaker for AbbVie, 
+mumab or infliximab against placebo, and while both biologics Celltrion, Ferring, Janssen, Galapagos Medice, MSD, Roche, 
+showed comparable efficacy in most outcomes, it is worth Pfizer, Sobi, and Takeda; served as a consultant for AbbVie, 
+noting that infliximab-treated participants demonstrated Amgen, AOP Orphan, Boehringer Ingelheim, Bristol Myers 
+slightly higher proportions of complete mucosal healing Squibb, Calyx, Celltrion, Eli Lilly, Galapagos, Gilead, Index 
+(MES = 0) and segmental MES improvement. These observa- Pharma, Janssen, Medahead, Microbiotica, Pfizer, and Takeda; 
+tions, while not statistically significant, may warrant further served as an advisory board member for AbbVie, Amgen, Boeh-
+investigation into potential differences in efficacy profiles ringer Ingelheim, Bristol Myers Squibb, Celltrion, Galapagos, 
+between these agents. In addition, while the segmental MES Janssen, and Pfizer; and received research funding from AbbVie, 
+provided greater granularity, it introduces complexity that may Janssen, Sandoz, Sanofi, and Takeda. V.J. has received has 
+not be practical for routine clinical use. Last, we did not assess received consulting/advisory board fees from AbbVie, Alimentiv 
+variables associated with proximal healing given the skew of Inc., Arena Pharmaceuticals, Asahi Kasei Pharma, Asieris, Astra-
+our study population toward those with left-sided disease. Zeneca, Avoro Capital, Bristol Myers Squibb, Celltrion, Eli Lilly, 
+
+In conclusion, this study confirmed a proximal-to-distal pat- Endpoint Health, Enthera, Ferring, Flagship Pioneering, Frese-
+tern of healing in UC. Although EI as measured conventionally nius Kabi, Galapagos, Gilde Healthcare, GlaxoSmithKline, 
+demonstrated the largest treatment effect between biologic- and Genentech, Gilead, Innomar, JAMP, Janssen, Merck, Metacrine, 
+placebo-treated patients in this study, there may be utility for Mylan, Pandion, Pendopharm, Pfizer, Protagonist, Prometheus 
+measurement of endoscopic burden beyond conventional MES Biosciences, Reistone Biopharma, Roche, Roivant, Sandoz, 
+scoring. Future studies should address these limitations by SCOPE, Second Genome, Sorriso, Takeda, TD Securities, Teva, 
+exploring segmental MES in diverse, real-world cohorts treated Topivert, Ventyx, and Vividion; and speaker fees from AbbVie, 
+with a wider variety of biologics and followed over longer Ferring, Bristol Myers Squibb, Galapagos, Janssen Pfizer Shire, 
+durations to explore how segmental MES improvements cor- Takeda, and Fresenius Kabi.
+relate with long-term outcomes, such as relapse prevention and 
+sustained remission.
+
+Data Availability
+
+Author Contributions This publication (Vivli protocol #00010343) is based on 
+research using data from Roche Inc that has been made avail-
+
+E.C.L.W.—acquisition and compilation of data; statistical anal- able through Vivli, Inc. Vivli has not contributed to or 
+ysis; drafting of the manuscript. P.S.D.—study concept and approved, and is not in any way responsible for, the contents 
+design; statistical analysis; data interpretation; drafting of the of this publication. Data can be made available upon request.
+manuscript; J.K.M.—study concept and design; data interpre-
+tation; drafting of the manuscript; V.J.—study concept and 
+design; data interpretation; drafting of the manuscript; W.R.— References
+study concept and design; acquisition and compilation of data; 
+
+	 1.	 Gajendran M, Loganathan P, Jimenez G, et al. A comprehensive 
+data interpretation; drafting of the manuscript; N.N.—study review and update on ulcerative colitis. Dis Mon. 2019;65:100851.
+concept and design; acquisition and compilation of data; sta- 	 2.	 D’Haens G, Sandborn WJ, Feagan BG, et al. A review of activity 
+tistical analysis; data interpretation; drafting of the indices and efficacy end points for clinical trials of medical therapy 
+manuscript. in adults with ulcerative colitis. Gastroenterology. 2007;132: 
+
+763-786.
+	 3.	 Ardizzone S, Cassinotti A, Duca P, et al. Mucosal healing predicts 
+
+Supplementary Data late outcomes after the first course of corticosteroids for newly 
+Supplementary data is available at Inflammatory Bowel Dis- diagnosed ulcerative colitis. Clin Gastroenterol Hepatol. 
+eases online. 2011;9:483-489.e3.
+
+	 4.	 Lobatón T, Bessissow T, De Hertogh G, et al. The Modified Mayo 
+Endoscopic Score (MMES): a new index for the assessment of 
+
+Funding extension and severity of endoscopic activity in ulcerative colitis 
+patients. J Crohns Colitis. 2015;9:846-852.
+
+N.N. holds a McMaster University AFP Clinician Researcher 	 5.	 Ikeya K, Hanai H, Sugimoto K, et al. The ulcerative colitis endo-
+Award. scopic index of severity more accurately reflects clinical outcomes 
+
+and long-term prognosis than the mayo endoscopic score. J Crohns 
+Colitis. 2016;10:286-295.
+
+Conflicts of Interest 	 6.	 Feuerstein JD, Isaacs KL, Schneider Y, Siddique SM, Falck-Ytter Y, 
+N.N. has received honoraria from Janssen, AbbVie, Takeda, Singh S; AGA Institute Clinical Guidelines Committee. AGA Clin-
+Pfizer, Sandoz, Novartis, Iterative Health, Innomar Strategies, ical practice guidelines on the management of moderate to severe 
+
+Fresinius Kabi, Amgen, Organon, Eli Lilly, and Ferring. P.S.D. ulcerative colitis. Gastroenterology. 2020;158:1450-1461.
+	 7.	 Peyrin-Biroulet L, Sandborn W, Sands BE, et al. Selecting Thera-
+
+has received research support, consulting, and/or speaker fees peutic Targets in Inflammatory Bowel Disease (STRIDE): determin-
+from AbbVie, Abivax, Adiso, Bristol Myers Squibb, GSK, Jans- ing therapeutic goals for Treat-to-Target. Am J Gastroenterol. 
+sen, Lilly, Pfizer, Roivant, and Takeda; and royalties from the 2015;110:1324-1338.
+University of California San Diego. J.K.M. has received consult- 	 8.	 Viscido A, Valvano M, Stefanelli G, et al. Systematic review and 
+ing and/or speaking fees from AbbVie, Alimentiv, Amgen, Astra- meta-analysis: the advantage of endoscopic Mayo score 0 over 1 
+Zeneca, Bausch Health, Bristol Myers Squibb, Celltrion, Ferring, in patients with ulcerative colitis. BMC Gastroenterol. 2022;22:92.
+
+
+
+96 Wong et al.
+
+	 9.	 Narula N, Merat S, Liu D, Pugatch D, Reinisch W. Time to endorse 	14.	 Roda G, Narula N, Pinotti R, et al. Systematic review with meta‐
+a sensitive method for scoring endoscopic activity of ulcerative analysis: proximal disease extension in limited ulcerative colitis. 
+colitis in clinical research. J Crohns Colitis. 2023;17:302-304. Aliment Pharmacol Ther. 2017;45:1481-1492.
+
+	10.	 Stidham RW, Cai L, Cheng S, et al. Using computer vision to 	15.	 Wong EC, Dulai PS, Marshall JK, Jairath V, Reinisch W, Narula 
+improve endoscopic disease quantification in therapeutic clin- N. Predictors of placebo induction response and remission in 
+ical trials of ulcerative colitis. Gastroenterology. 2024;166: ulcerative colitis. Clin Gastroenterol Hepatol. 2023;21:1050-
+155-167. e2. 1060. e9.
+
+	11.	 Danese S, Colombel J-F, Lukas M, et al. ; GARDENIA Study Group. 	16.	 Travis SPL, Schnell D, Krzeski P, et al. Developing an instrument 
+Etrolizumab versus infliximab for the treatment of moderately to to assess the endoscopic severity of ulcerative colitis: the Ulcerative 
+severely active ulcerative colitis (GARDENIA): a randomised, dou- Colitis Endoscopic Index of Severity (UCEIS). Gut. 
+ble-blind, double-dummy, phase 3 study. Lancet Gastroenterol 2012;61:535-542.
+Hepatol. 2022;7:118-127. 	17.	 Thia KT, Loftus EV, Pardi DS, et al. Measurement of disease activity 
+
+	12.	 Rubin DT, Dotan I, DuVall A, et al. ; HIBISCUS Study Group. in ulcerative colitis: interobserver agreement and predictors of 
+Etrolizumab versus adalimumab or placebo as induction therapy severity. Inflamm Bowel Dis. 2011;17:1257-1264.
+for moderately to severely active ulcerative colitis (HIBISCUS): two 	18.	 Sandborn WJ, Sands BE, Uddin S, Qasim Khan RM, Sagar Mukher-
+phase 3 randomised, controlled trials. Lancet Gastroenterol Hepa- jee R. Clinical trial design in ulcerative colitis: interpreting evolving 
+tol. 2022;7:17-27. endpoints based on post hoc analyses of the vedolizumab phase 3 
+
+	13.	 Lenfant M, Verstockt B, Sabino J, Vermeire S, Ferrante M. The trials GEMINI 1 and VISIBLE 1. Crohns Colitis 360. 2024;6:otad076.
+assessment of segmental healing by the Modified Mayo Endoscopic 	19.	 Christensen B, Hanauer SB, Gibson PR, Turner JR, Hart J, Rubin 
+Score (MMES) complements the prediction of long‐term clinical DT. Segmental histological normalisation occurs in ulcerative colitis 
+outcomes in patients with ulcerative colitis. Aliment Pharmacol but does not improve clinical outcomes. J Crohns Colitis. 
+Ther. 2024;59:64-70. 2020;14:1345-1353.
+
+© The Author(s) 2025. Published by Oxford University Press on behalf of Crohn’s & Colitis Foundation. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), 
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. Inflammatory Bowel Diseases 
+2026 32(1) 87–96 
+https://doi.org/10.1093/ibd/izaf199  
+Original Research Article - Clinical

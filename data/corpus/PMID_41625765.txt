@@ -1,0 +1,528 @@
+﻿TYPE  Clinical Trial
+PUBLISHED  16 January 2026
+DOI  10.3389/fmed.2025.1702293
+
+Colchicine reduces inflammatory 
+OPEN ACCESS cytokines and improves 
+EDITED BY
+Youhua Wang,  symptoms in HFpEF: an 
+Shanghai University of Traditional Chinese 
+Medicine, China observational pilot study
+REVIEWED BY
+Ricardo Adrian Nugraha,  
+Universitas Airlangga—Dr. Soetomo General Meijing Shi 1, Xinyue Zhang 1, Lizhuo Li 2, Yu Wang 2, 
+Hospital, Indonesia
+Phillip Suwalski,  Qingzhen Zhao 2, Yuzhi Zhen 2, Yaomeng Huang 3* and 
+Charité Universitätsmedizin Berlin, Germany
+
+Chao Liu 2*
+*CORRESPONDENCE
+Chao Liu  1School of Graduate, Hebei Medical University, Shijiazhuang, China, 2Department of Cardiology,  
+
+ liuchao@hebmu.edu.cn The First Affiliated Hospital of Hebei Medical University, Shijiazhuang, China, 3Laboratory Center, The 
+Yaomeng Huang  First Affiliated Hospital of Hebei Medical University, Shijiazhuang, China
+
+ 59203728@hebmu.edu.cn
+
+RECEIVED 09 September 2025
+REVISED 26 November 2025
+ACCEPTED 15 December 2025
+PUBLISHED 16 January 2026 Objective: The objective of this study was to investigate whether colchicine 
+
+could safely and effectively reduce inflammatory marker levels and improve the 
+CITATION
+Shi M, Zhang X, Li L, Wang Y, Zhao Q, Zhen Y, prognosis in patients with heart failure with preserved ejection fraction (HFpEF).
+Huang Y and Liu C (2026) Colchicine reduces Methods: This study enrolled patients diagnosed with HFpEF. Venous blood 
+inflammatory cytokines and improves samples were collected to assess the levels of inflammatory markers such as 
+symptoms in HFpEF: an observational pilot 
+study. IL-6, IL-8, and TNF-α. If these markers were elevated, patients were treated 
+Front. Med. 12:1702293. with colchicine 0.5 mg once daily. Inflammatory markers were reassessed after 
+doi: 10.3389/fmed.2025.1702293 2 weeks of treatment in the outpatient department. The primary endpoint was 
+COPYRIGHT the change in inflammatory factor levels before and after colchicine treatment. 
+© 2026 Shi, Zhang, Li, Wang, Zhao, Zhen, 
+
+Secondary outcomes included assessments of anxiety (HAMA), depression 
+Huang and Liu. This is an open-access article 
+distributed under the terms of the Creative (HAMD), and quality of life (KCCQ) after 1 month of colchicine treatment. The 
+Commons Attribution License (CC BY). The clinical trial was registered at Chinese Clinical Trail Registry (ChiCTR2500103522).
+use, distribution or reproduction in other 
+
+Results: A total of 126 patients were included. The serum inflammatory markers 
+forums is permitted, provided the original 
+author(s) and the copyright owner(s) are most notably elevated in the HFpEF cohort were IL-8 and IL-6, with IL-8 
+credited and that the original publication in showing the most significant increase. After 2 weeks of colchicine treatment, 
+this journal is cited, in accordance with 
+
+serum levels of inflammatory markers decreased significantly. IL-8 levels 
+accepted academic practice. No use, 
+distribution or reproduction is permitted decreased by −28.65 (95% CI: −54.20 to −11.47, p = 0.0010), a 65.5% reduction 
+which does not comply with these terms. (95% CI: −82.0% to −45.0%). IL-6 levels decreased by −1.925 (95% CI: −4.510 
+
+to −0.29, p = 0.0028), reflecting a 30.5% reduction (95% CI: −54.0% to −5.0%). 
+After 1 month of colchicine treatment, patients’ overall quality of life improved 
+significantly. Anxiety (HAMA) decreased by −1 (95% CI: −1.0 to −1.0, p < 0.0001), 
+depression (HAMD) decreased by −1 (95% CI: −1.0 to 0.0, p < 0.0001), and 
+quality of life (KCCQ) increased by 10 points (95% CI: 9.0 to 12.0, p < 0.0001).
+Conclusion: This study is the first to explore colchicine as an anti-inflammatory 
+treatment for HFpEF. Our results indicate that colchicine can safely and 
+effectively reduce inflammatory markers such as IL-8 and IL-6. After 1 month 
+of treatment, significant improvements were observed in anxiety, depression, 
+and quality of life. These findings support colchicine’s potential as a therapeutic 
+option for managing inflammation and improving outcomes in patients with 
+HFpEF.
+
+KEYWORDS
+
+colchicine, heart failure with preserved ejection fraction, inflammatory cytokines, 
+observational pilot study, symptoms
+
+Frontiers in Medicine 01 frontiersin.org
+
+
+
+Shi et al. 10.3389/fmed.2025.1702293
+
+1 Introduction 2.2 Trial population
+
+Heart failure (HF) is a multifactorial clinical syndrome resulting Inclusion criteria were as follows:
+from structural or functional impairments of the heart, and it 
+represents the final stage of various cardiac diseases (1). Among the 	(a)	 Diagnosed with HFpEF: The diagnosis was based on 
+different types of heart failure, heart failure with preserved ejection hemodynamic measurements obtained through left heart 
+fraction (HFpEF) accounts for at least 50% of all cases, and its catheterization, which is considered the gold standard for 
+prevalence is steadily increasing, making it the most common form of HFpEF diagnosis (12). Resting left ventricular end-diastolic 
+heart failure (2, 3). Emerging evidence indicates that multiple pressure (LVEDP) > 15 mmHg, or clinical diagnosis was 
+inflammatory mediators, including IL-1β, IL-6, TNF-α, and others, further supported by a straight leg raising test, with a LVEDP 
+along with their associated signaling pathways, play pivotal roles in ≥19 mmHg when LVEDP was measured to be >10 mmHg but 
+myocardial remodeling, endothelial dysfunction, and diastolic ≤15 mmHg at rest.
+impairment in HFpEF, with elevated circulating levels correlating 	(b)	 Elevated inflammatory markers: Patients with one or more 
+closely with disease severity, clinical manifestations, and adverse inflammatory markers above the normal range were included.
+prognosis (4–8).
+
+Colchicine is a well-established anti-inflammatory agent whose Exclusion criteria included:
+primary mechanisms of action include disruption of microtubule 
+function, inhibition of selectin expression, reduction of neutrophil– 	•	 Echocardiographic evidence of an ejection fraction <50%.
+platelet interactions, and suppression of NLRP3 inflammasome 	•	 Patients under 18 years of age.
+activation, thereby downregulating the release of inflammatory 	•	 Evidence of myocardial ischemia on coronary angiography that 
+cytokines such as IL-1β and IL-6 (9, 10). Clinically, colchicine has required interventional therapy.
+established applications in gout, familial Mediterranean fever, and 	•	 Congenital heart disease, restrictive cardiomyopathy, pulmonary 
+other inflammatory cardiovascular conditions. In addition, arterial hypertension.
+low-dose colchicine is commonly used for the prevention of 	•	 Severe hepatic or renal dysfunction, advanced malignancy, 
+recurrent pericarditis and as secondary prevention in patients with autoimmune disease, multi-organ failure, or any other condition 
+coronary artery disease, demonstrating favorable safety and that might interfere with the study outcomes.
+efficacy in large clinical trials. Common adverse effects include 
+mild gastrointestinal symptoms and liver function abnormalities, 
+with rare occurrences of myelosuppression; caution is advised 2.3 Trial procedures
+when used at high doses or in patients with impaired renal 
+function (11). Eligible participants were administered colchicine at a dose of 
+
+Given the pivotal role of inflammation in the pathogenesis of 0.5 mg once daily. Inflammatory marker levels were reassessed after 
+HFpEF and the limited evidence regarding the anti-inflammatory 2 weeks of treatment at the outpatient clinic. Additionally, quality of 
+potential of colchicine in this population, this study proposes the life assessments were performed before and after 1 month of 
+novel use of colchicine as an anti-inflammatory therapy for HFpEF. We treatment.
+comprehensively evaluated multiple cytokines related to inflammatory 
+pathways to explore whether colchicine can safely and effectively 
+reduce systemic inflammation and improve short-term clinical 2.4 Cytokine measurements
+outcomes in these patients.
+
+Venous blood samples were collected at baseline and after 2 weeks 
+of treatment, with cytokine levels measured on the same day. All 
+
+2 Methods assays were performed using cytokine detection kits based on 
+magnetic particle luminescence (Su, 20,220,256) according to the 
+
+2.1 Trial design manufacturer’s instructions. Each sample was measured in duplicate, 
+and the mean value was used for analysis. Standard curves were 
+
+This was a single-center, single-arm, prospective interventional generated for each assay, and intra- and inter-assay coefficients of 
+study conducted at the First Affiliated Hospital of Hebei Medical variation were strictly maintained below 10%. Negative and positive 
+University. A total of 126 patients with HFpEF were enrolled from controls were included to ensure the accuracy and reproducibility of 
+June to August 2025. The study included measurements of the measurements.
+inflammatory markers in the venous blood of patients, and if elevated 
+levels of these markers were detected, patients received colchicine 
+0.5 mg daily. Follow-up assessments were performed accordingly. The 2.5 Trial endpoints
+study protocol and data analysis were approved by the Ethics 
+Committee of the First Affiliated Hospital of Hebei Medical University The primary efficacy endpoint was the change in inflammatory 
+in accordance with the Declaration of Helsinki (Approval number: factor concentrations from baseline to 2 weeks. Exploratory endpoints 
+2025-072-01). Written informed consent was obtained from all included the assessment of patient symptoms using the Hamilton 
+participants prior to enrollment. The clinical trial was registered at Anxiety Scale (HAMA), the Hamilton Depression Scale (HAMD), and 
+Chinese Clinical Trail Registry (ChiCTR2500103522). the Kansas City Cardiomyopathy Questionnaire (KCCQ). Safety 
+
+Frontiers in Medicine 02 frontiersin.org
+
+
+
+Shi et al. 10.3389/fmed.2025.1702293
+
+endpoints of particular interest included the evaluation of 65.5% (95% CI: −82.0% to −45.0%). Similarly, IL-6 levels decreased 
+gastrointestinal reactions, liver function, and renal function. by −1.925 (95% CI: −4.510 to −0.29, p = 0.0028), reflecting a 
+
+percentage change of −30.5% (95% CI: −54.0% to −5.0%; Table 2; 
+Supplementary Figure 1).
+
+2.6 Statistical analysis
+
+Statistical analyses were performed using SPSS 26.0 software. 3.3 Secondary efficacy outcomes
+Quantitative data that were normally distributed were expressed as 
+mean ± standard deviation (SD), while non-normal data were For secondary endpoints, a significant improvement in patients’ 
+presented as median (first, third quartile). Paired t-tests were used for overall quality of life was observed after 1 month of colchicine 
+comparisons of data between baseline and follow-up. Statistical treatment, as compared to baseline (Figure 4). Specifically, the HAMA 
+significance was set at p < 0.05. showed a change of −1 (95% CI: −1.0 to −1.0, p < 0.0001), with a 
+
+percentage change of −25% (95% CI: −32.0% to −20.0%). Similarly, 
+the HAMD exhibited a change of −1 (95% CI: −1.0 to 0.0, p < 0.0001), 
+
+3 Results with a percentage change of −17% (95% CI: −25.0 to 0.0%). The 
+KCCQ showed a change of 10 (95% CI: 9.0 to 12.0, p < 0.0001), with 
+
+3.1 Baseline characteristics a percentage change of 14.5% (95% CI: 12.0 to 17.0%; Table 3; 
+Supplementary Figure 2).
+
+During the study period, 365 subjects underwent left heart 
+catheterization and inflammatory marker assessment at the First 
+Hospital of Hebei Medical University, of whom 126 met the inclusion 3.4 Safety outcome
+criteria (Figure 1). The baseline clinical characteristics of the study 
+population are summarized in Table 1. During the colchicine treatment period, the incidence of 
+
+Among the enrolled HFpEF patients, IL-8 and IL-6 were the adverse reactions was observed to be 4.1%. Importantly, these 
+primary inflammatory markers analyzed. Both cytokines showed adverse reactions were mild, with no serious adverse events 
+elevated levels in a majority of patients, with IL-8 demonstrating the reported. The most common side effects were gastrointestinal in 
+most pronounced increase (Figure 2; Supplementary Table 1). nature, occurring in four patients, and primarily manifested as 
+
+diarrhea and flatulence. Additionally, three patients experienced 
+transient renal function abnormalities, characterized by a decrease 
+
+3.2 Primary efficacy outcome in estimated glomerular filtration rate (eGFR) of more than 30 mL/
+min/1.73m2 from baseline. However, these patients did not show 
+
+After 2 weeks of colchicine treatment, a reduction in serum any clinical symptoms, and renal disease-related tests did not 
+inflammatory factors was observed (Figure 3). Specifically, the indicate any significant abnormalities. After appropriate dose 
+concentration of IL-8 decreased from baseline by −28.65 (95% CI: adjustment, renal function returned to normal values in all affected 
+−54.20 to −11.47, p = 0.0010), representing a percentage reduction of patients.
+
+FIGURE 1
+The flowchart shows the enrolment pathway in this study.
+
+Frontiers in Medicine 03 frontiersin.org
+
+
+
+Shi et al. 10.3389/fmed.2025.1702293
+
+TABLE 1  Baseline characteristics of the patients. diastolic dysfunction (24). Colchicine, an anti-inflammatory agent, 
+Characteristics Overall appears to mitigate this pathway by inhibiting IL-8 secretion, reducing 
+Age, mean (SD), y 60.45 (±10.20) titin phosphorylation, and restoring the balance of the N2BA: N2B 
+
+ratio, thus improving myocardial stiffness and alleviating diastolic 
+Male, No. (%) 65 (60%) dysfunction (25).
+BMI, mean (SD), (Kg/m2) 25.59 (±3.39) Currently, only two randomized clinical trials have explored the 
+SBP (mmHg) 128 (122, 144) effect of colchicine on heart failure. The study by Deftereos et al. 
+DBP (mmHg) 79.5 (72.25, 88.75) showed that colchicine could reduce C-reactive protein (CRP) and 
+
+IL-6 levels in patients with chronic stable heart failure but did not 
+Hypertension, No. (%) 68 (63%) affect cardiac function or reduce hospital readmissions (26). Similarly, 
+Diabetes, No. (%) 21 (19%) the COLICA trial by Pascual-Figal et al. found that colchicine reduced 
+Dyslipidemia, No. (%) 56 (52%) inflammatory markers such as CRP and IL-6 in patients with acute 
+Atrial fibrillation, No. (%) 10 (9%) heart failure, but it did not significantly lower NT-proBNP levels, 
+
+which is basically consistent with our research results 
+Other types of arrhythmia, No. (%) 23 (21%)
+
+(Supplementary Figure 3). Our study aligns with these findings, as we 
+Treatment observed no significant difference in BNP levels before and after 
+Diuretic agent, No. (%) 29 (27%) colchicine treatment, confirming that colchicine’s anti-inflammatory 
+MRA, No. (%) 33 (31%) effects do not directly translate into immediate changes in cardiac 
+ACEI/ARB, No. (%) 4 (4%) biomarkers such as BNP (Supplementary Table 2) (27).
+
+This study is the first to investigate the effects of colchicine on 
+Beta-blocker, No. (%) 66 (61%) inflammatory responses in HFpEF patients. Colchicine significantly 
+CCB, No. (%) 25 (23%) reduced IL-6 (~30%) and IL-8 (65%) levels, suggesting potential 
+ARNI, No. (%) 38 (35%) efficacy in modulating HFpEF-related inflammatory pathways. 
+
+BMI, Body Mass Index; SBP, Systolic Blood Pressure; DBP, Diastolic Blood Pressure; MRA, Assessment using HAMA, HAMD, and KCCQ indicated 
+Mineralocorticoid Receptor Antagonists; ACEI, Angiotensin-Converting Enzyme Inhibitors; improvements in anxiety, depression, and cardiac-related quality of 
+ARB, Angiotensin II Receptor Blockers; CCB, Calcium Channel Blockers; ARNI, life (HAMA decreased by 25%, HAMD by 17%, and KCCQ increased 
+Angiotensin Receptor-Neprilysin Inhibit.
+
+by 15%), suggesting potential benefits beyond anti-inflammatory 
+effects. Low-dose colchicine (0.5 mg daily) was well tolerated, with no 
+
+No liver function impairment was observed in any of the serious adverse events or treatment discontinuations observed, 
+participants throughout the study (Table 4). These findings suggest indicating a favorable risk–benefit profile. These findings support 
+that colchicine is both safe and well-tolerated when used for the colchicine as a potential anti-inflammatory intervention that may also 
+treatment of HFpEF, with adverse reactions being limited to mild improve quality of life in patients with HFpEF.
+gastrointestinal and transient renal changes, all of which were The safety data from this study indicate that colchicine was 
+reversible with proper management. generally well tolerated, with a low incidence of adverse events. We 
+
+specifically monitored gastrointestinal adverse events, including 
+diarrhea, nausea, bloating, gastrointestinal bleeding, as well as liver 
+
+4 Discussion and kidney function. The most common adverse effects observed were 
+mild gastrointestinal symptoms, such as diarrhea and bloating. Based 
+
+Our study demonstrated that inflammatory factors, particularly on the literature and clinical practice, the predefined discontinuation 
+IL-8 and IL-6, were elevated in patients with early-stage HFpEF, criteria included severe gastrointestinal discomfort, liver function 
+consistent with findings from the Patrick study, which reported abnormalities (ALT/AST ≥ 3 × upper limit of normal), and a decline 
+increased levels of IL-8, IL-6, and MCP-1 in the blood of 181 HFpEF in glomerular filtration rate (≥30%). In this study, no liver or kidney 
+patients (13–15). These findings further substantiate the role of dysfunction was observed, and treatment did not lead to an increased 
+inflammatory mediators in the pathogenesis of HFpEF and highlight discontinuation rate, even among elderly patients. These findings 
+the potential for targeting inflammation as part of the therapeutic indicate that low-dose colchicine (0.5 mg daily) has a favorable safety 
+approach (16–18). profile and tolerability, making it a promising therapeutic option for 
+
+Left ventricular diastolic dysfunction remains the hallmark patients with HFpEF.
+pathophysiological feature of HFpEF. Previous research has shown 
+that titin, a key regulator of myocardial passive tension, plays a central 
+role in this dysfunction (19). Specifically, the transition of titin from 4.1 Limitations
+the compliant N2BA isotype to the stiffer N2B isotype has been 
+implicated in the development of diastolic dysfunction (20, 21). Our Despite these encouraging findings, several limitations of this 
+study suggests that IL-8, through binding to the CXCR1 and CXCR2 study should be acknowledged. As a single-arm trial without a control 
+receptors on myocardial cells, may activate the phosphoinositide- group, definitive conclusions regarding the efficacy of colchicine in 
+specific phospholipase C pathway, leading to the activation of protein patients with HFpEF cannot be drawn. Future multi-center, 
+kinase C (PKC) (22, 23). This cascade ultimately results in the randomized, double-blind, placebo-controlled trials are warranted to 
+phosphorylation of titin, decreasing the N2BA: N2B ratio, reducing confirm the precise therapeutic effects of colchicine in this population. 
+cardiomyocyte compliance, and contributing to left ventricular A subset of patients included in this study had mild to moderate 
+
+Frontiers in Medicine 04 frontiersin.org
+
+
+
+Shi et al. 10.3389/fmed.2025.1702293
+
+FIGURE 2
+Characterised by elevated levels of inflammatory factors at baseline. The primary inflammatory markers assessed were IL-8 and IL-6.
+
+FIGURE 3
+Changes in inflammatory cytokine levels in HFpEF patients before and after treatment. (A) IL-1β; (B) IL-2; (C) IL-4; (D) IL-5; (E) IL-6; (F) IL-8; (G) IL-10; 
+(H) TNF-α. NS: no sense; **P < 0.05.
+
+coronary atherosclerosis (stenosis <50%) without evidence of acute burden relied primarily on total scores from HAMA, HAMD, and 
+ischemia or an indication for coronary intervention. Because coronary KCCQ, lacking detailed domain-specific analysis; thus, it remains 
+artery disease itself involves inflammatory processes, it may have unclear which aspects of psychological or functional status were most 
+influenced inflammatory biomarkers. Future studies should further affected. Long-term follow-up is needed to evaluate the sustained 
+exclude or stratify patients with coronary artery disease to better impact of colchicine on HFpEF progression, patient-reported 
+clarify its potential impact on the observed outcomes. Furthermore, outcomes, and overall clinical prognosis. Future studies should also 
+although short-term improvements in symptoms and inflammatory explore individualized treatment regimens based on patient 
+markers were observed, assessments of quality of life and symptom characteristics to maximize therapeutic benefits while ensuring safety.
+
+Frontiers in Medicine 05 frontiersin.org
+
+
+
+Shi et al. 10.3389/fmed.2025.1702293
+
+TABLE 2  Changes in the levels of inflammatory factors before and after treatment with colchicine application.
+
+Inflammatory Before-treatment After-treatment Changing value Percentage change p value 
+factor (median) (median) (Wilcoxon 
+
+test)
+2.045 (1.285, 2.605) 1.615 (1.083, 3.000) −0.135 (−1.618, 1.288) −10.5% (−62.5%，89.25%)
+
+IL-1B 0.7285
+(95%CI: 1.520 ~ 2.390) (95%CI: 1.320 ~ 2.070) (95%CI: −0.690 ~ 0.480) (95%CI: −38.00% ~ 30.00%)
+
+1.895 (1.043, 2.550) 1.320 (0.7825, 2.543) −0.380 (−1.405, 0.735) −20.5% (−62.75%, 46%)
+IL-2 0.0787
+
+(95%CI: 1.460 ~ 2.210) (95%CI: 1.050 ~ 1.630) (95%CI: −0.860 ~ 0.220) (95%CI: −45.00% ~ 18.00%)
+
+1.370 (0.8675, 2.463) 0.815 (0.3900, 1.395) −0.345 (−1.495, 0.5525) −34.5% (−78%, 69%)
+IL-4 0.0936
+
+(95%CI: 1.080 ~ 1.780) (95%CI: 0.60 ~ 1.080) (95%CI: −1.040 ~ 0.01) (95%CI: −58% ~ 1.0%)
+
+1.270 (0.8850, 1.715) 1.245 (0.6125, 1.635) −0.120 (−0.735, 0.530) −12% (−48.25%, 50.75%)
+IL-5 0.4534
+
+(95%CI: 1.110 ~ 1.510) (95%CI: 1.080 ~ 1.490) (95%CI: −0.450 ~ 0.230) (95%CI: −31.0% ~ 22.0%)
+
+8.310 (3.965, 14.26) 4.310 (2.563, 7.723) −1.925 (−10.25, 1.163) −30.5% (−73.75%, 28.25%)
+IL-6 0.0028
+
+(95%CI: 5.340 ~ 10.35) (95%CI: 3.520 ~ 6.080) (95%CI:-4.510 ~ −0.29) (95%CI: −54.0% ~ −5.0%)
+
+61.51 (30.71, 189.6) 15.92 (6.038, 53.74) −28.65 (−149.8, 7.163) −65.5% (−95%, 27%)
+IL-8 0.0010
+
+(95%CI: 43.95 ~ 94.74) (95%CI: 10.93 ~ 20.68) (95%CI: −54.20 ~ −11.47) (95%CI: −82.0% ~ −45.0%)
+
+3.140 (2.383, 4.678) 2.935 (1.988, 4.208) −0.57 (−1.565, 1.305) −14.5% (−48%, 53%)
+IL-10 0.3346
+
+(95%CI: 2.640 ~ 4.060) (95%CI: 2.270 ~ 3.350) (95%CI: −1.070 ~ 0.770) (95%CI: −37.0% ~ 32.0%)
+
+2.840 (2.045, 3.720) 2.180 (1.400, 3.315) −0.29 (−1.575, 0.665) −14% (−47%, 33.5%)
+TNF-α 0.1262
+
+(95%CI: 2.310 ~ 3.320) (95%CI: 1.730 ~ 2.860) (95%CI: −1.030 ~ 0.09) (95%CI: −36.0% ~ 4.0%)
+
+FIGURE 4
+Changes in patients’ overall quality of life before and after treatment. (A) HAMA scores for anxiety; (B) HAMD scores for depression; (C) KCCQ scores 
+for quality of life. **P <0.05.
+
+TABLE 3  Changes in quality of life before and after treatment with colchicine application.
+
+Scale Before –treatment After –treatment Descending value Percentage of p value 
+(median) (median) descend (Wilcoxon test)
+
+4.000 (3.000, 10.000) 3.000 (2.000, 7.750) −1 (−2, 0) −25% (−39.5%, 0%)
+HAMA <0.0001
+
+(95%CI: 4.0 ~ 5.0) (95%CI: 3.0 ~ 4.0) (95%CI: −1.0 ~ −1.0) (95%CI: −32.0% ~ 20.0%)
+
+4.000 (3.000, 6.750) 3.000 (2.000, 5.000) −1 (−1, 0) −17% (−33%, 0%)
+HAMD <0.0001
+
+(95%CI: 3.0 ~ 4.0) (95%CI: 3.0 ~ 4.0) (95%CI: −1.0 ~ 0.0) (95%CI: −25.0% ~ 0.0%)
+
+71.00 (65.00, 76.00) 82.00 (75.00, 86.00) 10 (6.25, 14.75) 14.5% (9%, 21.75%)
+KCCQ <0.0001
+
+(95%CI: 69.0 ~ 72.0) (95%CI: 80.0 ~ 84.0) (95%CI: 9.0 ~ 12.0) (95%CI: 12.0% ~ 17.0%)
+
+HAMA, Hamilton Anxiety Scale; HAMD, Hamilton Depression Scale; KCCQ, Kansas City Cardiomyopathy Questionnaire.
+
+inflammatory factors such as IL-8 and IL-6. In addition, colchicine 
+5 Conclusion treatment was associated with improvements in patients’ quality of 
+
+life and symptoms, as assessed by validated clinical scales. Further 
+In conclusion, this study is the first to explore the use of research is warranted to confirm these findings and to explore the 
+
+colchicine for anti-inflammatory treatment in HFpEF patients. Our underlying mechanisms, providing a potential therapeutic option 
+findings indicate that colchicine can safely and effectively reduce for HFpEF.
+
+Frontiers in Medicine 06 frontiersin.org
+
+
+
+Shi et al. 10.3389/fmed.2025.1702293
+
+TABLE 4  Safety endpoints of colchicine application. Supervision, Validation, Visualization, Writing – original draft, 
+Adverse reaction Number of cases Writing – review & editing. CL: Conceptualization, Data 
+Gastrointestinal manifestations 4 curation, Methodology, Supervision, Validation, Visualization, 
+
+Writing – original draft, Writing – review & editing.
+  Diarrhea 2
+
+  Nausea 0
+
+  Flatulence 2 Funding
+  Gastrointestinal hemorrhage 0
+
+The author(s) declared that financial support was received for this 
+Hepatotoxicity (AST or ALT > 3 times 
+
+0 work and/or its publication. This study was funded by the Project of 
+normal) Investigating the Efficacy and Molecular Mechanisms of Glucocorticoid 
+Nephrotoxicity (a ≥ 30% decline in eGFR) 0 Therapy in Heart Failure with Diuretic Resistance (Grant No. ZF2025057) 
+
+AST, Aspartate aminotransferase; ALT, alanine aminotransferase; eGFR, estimated and the Natural Science Foundation of Hebei Province (Grant No. 
+glomerular filtration rate. H2024206415).
+
+Data availability statement Conflict of interest
+
+The raw data supporting the conclusions of this article The author(s) declared that this work was conducted in the 
+will be made available by the authors, without undue absence of any commercial or financial relationships that could be 
+reservation. construed as a potential conflict of interest.
+
+Ethics statement Generative AI statement
+
+The studies involving humans were approved by the First The author(s) declared that Generative AI was not used in the 
+Affiliated Hospital of Hebei Medical University. The studies were creation of this manuscript.
+conducted in accordance with the local legislation and Any alternative text (alt text) provided alongside figures in this 
+institutional requirements. The participants provided their article has been generated by Frontiers with the support of artificial 
+written informed consent to participate in this study. Written intelligence and reasonable efforts have been made to ensure accuracy, 
+informed consent was obtained from the individual(s) for the including review by the authors wherever possible. If you identify any 
+publication of any potentially identifiable images or data included issues, please contact us.
+in this article.
+
+Publisher’s note
+Author contributions
+
+All claims expressed in this article are solely those of the authors 
+MS: Conceptualization, Data curation, Formal analysis, and do not necessarily represent those of their affiliated organizations, 
+
+Investigation, Methodology, Project administration, Software, or those of the publisher, the editors and the reviewers. Any product 
+Validation, Visualization, Writing – original draft, Writing – that may be evaluated in this article, or claim that may be made by its 
+review & editing. XZ: Data curation, Formal analysis, manufacturer, is not guaranteed or endorsed by the publisher.
+Methodology, Supervision, Writing – original draft, Writing – 
+review & editing. LL: Data curation, Supervision, Writing – 
+original draft, Writing – review & editing. YW: Data curation, Supplementary material
+Supervision, Writing – original draft, Writing – review & editing. 
+QZ: Data curation, Supervision, Writing – original draft, Writing The Supplementary material for this article can be found online 
+– review & editing. YZ: Supervision, Writing – original draft, at: https://www.frontiersin.org/articles/10.3389/fmed.2025.1702293/
+Writing – review & editing. YH: Data curation, Methodology, full#supplementary-material
+
+References
+	1.	McDonagh, TA, Metra, M, Adamo, M, Gardner, RS, Baumbach, A, Böhm, M, et al. preservada: resultados del Registro RICA. Med Clín. (2021) 157:1–9. doi: 10.1016/j.
+
+2021 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure. medcli.2020.05.059
+Eur Heart J. (2021) 42:3599–726. doi: 10.1093/eurheartj/ehab368 	4.	DeBerge, M, Shah, SJ, Wilsbacher, L, and Thorp, EB. Macrophages in heart failure 
+
+	2.	Campbell, P, Rutten, FH, Lee, MM, Hawkins, NM, and Petrie, MC. Heart failure with reduced versus preserved ejection fraction. Trends Mol Med. (2019) 25:328–40. doi: 
+with preserved ejection fraction: everything the clinician needs to know. Lancet. (2024) 10.1016/j.molmed.2019.01.002
+403:1083–92. doi: 10.1016/S0140-6736(23)02756-3 	5.	Liu, H, Magaye, R, Kaye, DM, and Wang, BH. Heart failure with preserved ejection 
+
+	3.	Trullàs, JC, Pérez-Calvo, JI, Conde-Martel, A, Llàcer Iborra, P, Suárez Pedreira, I, fraction: the role of inflammation. Eur J Pharmacol. (2024) 980:176858. doi: 10.1016/j.
+Ormaechea, G, et al. Epidemiología de la insuficiencia cardiaca con fracción de eyección ejphar.2024.176858
+
+Frontiers in Medicine 07 frontiersin.org
+
+
+
+Shi et al. 10.3389/fmed.2025.1702293
+
+	6.	Ovchinnikov, AG, Arefieva, TI, Potekhina, AV, Filatova, AY, Ageev, FT, and 	17.	Kim, D-G, Cho, S, Park, S, Kim, GR, Ko, K-Y, Kim, SE, et al. Predisposing risk 
+Boytsov, SА. The molecular and cellular mechanisms associated with a microvascular factors affecting reversibility of left ventricular diastolic filling pattern in patients with 
+inflammation in the pathogenesis of heart failure with preserved ejection fraction. Acta preserved ejection fraction. Yonsei Med J. (2025) 66:1–8. doi: 10.3349/ymj.2023.0410
+Nat. (2020) 12:40–51. doi: 10.32607/actanaturae.11154 	18.	Zheng, Y, Nie, Z, Zhang, Y, and Guo, Z. The association between heart failure and 
+
+	7.	Zhao, Z, Qi, D, Zhang, Z, Du, X, Zhang, F, Ma, R, et al. Prognostic value of systemic inflammatory response index: a cross-sectional study. J Natl Med Assoc. (2024) 
+inflammatory cytokines in predicting hospital readmissions in heart failure with 116:662–72. doi: 10.1016/j.jnma.2024.10.007
+preserved ejection fraction. J Inflamm Res. (2024) 17:3003–12. doi: 10.2147/
+JIR.S459989 	19.	Hullon, D, Subeh, GK, Volkova, Y, Janiec, K, Trach, A, and Mnevets, R. The role 
+
+of glucagon-like peptide-1 receptor (GLP-1R) agonists in enhancing endothelial 
+	8.	Song, B, Zhang, H, and Zhou, B. Effects of dapagliflozin on myocardial remodeling, function: a potential avenue for improving heart failure with preserved ejection fraction 
+
+inflammatory factors, and cardiac events in heart failure with preserved ejection (HFpEF). Cardiovasc Diabetol. (2025) 24:70. doi: 10.1186/s12933-025-02607-w
+fraction. Naunyn Schmiedeberg's Arch Pharmacol. (2024) 397:629. doi: 10.1007/ 	20.	Zile, MR, Baicu, CF, Ikonomidis, J, Stroud, RE, Nietert, PJ, Bradshaw, AD, et al. 
+s00210-023-02590-7 Myocardial stiffness in patients with heart failure and a preserved ejection fraction: 
+
+	9.	Dalbeth, N, Lauterio, TJ, and Wolfe, HR. Mechanism of action of colchicine in the contributions of collagen and titin. Circulation. (2015) 131:1247–59. doi: 10.1161/
+treatment of gout. Clin Ther. (2014) 36:1465–79. doi: 10.1016/j.clinthera.2014.07.017 CIRCULATIONAHA.114.013215
+
+	10.	Hamed, EFA, Taha, AA, Ghany, SMA, Al-Attar, A-SR, and Fawzy, EM. Colchicine: 	21.	Ross, L, Patel, S, Stevens, W, Burns, A, Prior, D, La Gerche, A, et al. The clinical 
+a dual therapeutic target for Trichinellosis. Acta Parasitol. (2025) 70:42. doi: 10.1007/ implications of left ventricular diastolic dysfunction in systemic sclerosis. Clin Exp 
+s11686-024-00979-9 Rheumatol. (2022) 40:1986–92. doi: 10.55563/clinexprheumatol/irc0ih
+
+	11.	Libby, P. Inflammation in atherosclerosis—no longer a theory. Clin Chem. (2021) 	22.	Schraufstatter, IU, Chung, J, and Burger, M. IL-8 activates endothelial cell CXCR1 
+67:131–42. doi: 10.1093/clinchem/hvaa275 and CXCR2 through rho and Rac signaling pathways. Am J Physiol-Lung Cell Mol 
+
+Physiol. (2001) 280:L1094–103. doi: 10.1152/ajplung.2001.280.6.L1094
+	12.	Van De Bovenkamp, AA, Wijkstra, N, Oosterveer, FPT, Vonk Noordegraaf, A, 
+
+Bogaard, HJ, Van Rossum, AC, et al. The value of passive leg raise during right heart 	23.	Xv, Y, Feng, Y, and Lin, J. CXCR1 and CXCR2 are potential neutrophil extracellular 
+catheterization in diagnosing heart failure with preserved ejection fraction. Circ Heart trap-related treatment targets in ulcerative colitis: insights from mendelian 
+Fail. (2022) 15:e008935. doi: 10.1161/CIRCHEARTFAILURE.121.008935 randomization, colocalization and transcriptomic analysis. Front Immunol. (2024) 
+
+15:1425363. doi: 10.3389/fimmu.2024.1425363
+	13.	Seropian, IM, El-Diasty, M, El-Sherbini, AH, González, GE, and Rabinovich, GA. 
+
+Central role of Galectin-3 at the cross-roads of cardiac inflammation and fibrosis: 	24.	Makarenko, I, Opitz, CA, Leake, MC, Neagoe, C, Kulke, M, Gwathmey, JK, et al. Passive 
+implications for heart failure and transplantation. Cytokine Growth Factor Rev. (2024) stiffness changes caused by upregulation of compliant titin isoforms in human dilated 
+80:47–58. doi: 10.1016/j.cytogfr.2024.10.002 cardiomyopathy hearts. Circ Res. (2004) 95:708–16. doi: 10.1161/01.RES.0000143901.37063.2f
+
+	14.	Gu, Q, Wang, B, Zhao, H, Wang, W, Wang, P, and Deng, Y. LncRNA 	25.	Borbély, A, Falcao-Pires, I, Van Heerebeek, L, Hamdani, N, Édes, I, Gavina, C, et al. 
+promoted inflammatory response in ischemic heart failure through regulation of Hypophosphorylation of the stiff N2B titin isoform raises cardiomyocyte resting tension in 
+miR-455-3p/TRAF6 axis. Inflamm Res. (2020) 69:667–81. doi: 10.1007/ failing human myocardium. Circ Res. (2009) 104:780–6. doi: 10.1161/
+s00011-020-01348-8 CIRCRESAHA.108.193326
+
+	15.	Mezzaroma, E, Abbate, A, and Toldo, S. The inflammasome in heart failure. Curr 	26.	Deftereos, S, Giannopoulos, G, Panagopoulou, V, Bouras, G, Raisakis, K, 
+Opin Phys. (2021) 19:105–12. doi: 10.1016/j.cophys.2020.09.013 Kossyvakis, C, et al. Anti-inflammatory treatment with colchicine in stable chronic heart 
+
+	16.	Collier, P, Watson, CJ, Voon, V, Phelan, D, Jan, A, Mak, G, et al. Can emerging failure. JACC Heart Fail. (2014) 2:131–7. doi: 10.1016/j.jchf.2013.11.006
+biomarkers of myocardial remodelling identify asymptomatic hypertensive patients at 	27.	Pascual-Figal, D, Núñez, J, Pérez-Martínez, MT, González-Juanatey, JR, 
+risk for diastolic dysfunction and diastolic heart failure? Eur J Heart Fail. (2011) Taibo-Urquia, M, Llàcer-Iborra, P, et al. Colchicine in acutely decompensated heart failure: 
+13:1087–95. doi: 10.1093/eurjhf/hfr079 the COLICA trial. Eur Heart J. (2024) 45:4826–36. doi: 10.1093/eurheartj/ehae538
+
+Frontiers in Medicine 08 frontiersin.org

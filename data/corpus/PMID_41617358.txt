@@ -1,0 +1,669 @@
+﻿Rheumatoid arthritis
+
+ORIGINAL RESEARCH
+
+Do high rheumatoid factor levels impact 
+response to certolizumab pegol in patients 
+with inadequately controlled rheumatoid 
+arthritis? A post hoc analysis of the phase 
+IIIb REALISTIC trial
+Josef S Smolen  ‍ ‍,1 Ted R Mikuls,2 James Galloway  ‍ ‍,3 Ulf Müller-Ladner,4 
+Jeffrey R Curtis,5 Motomu Hashimoto,6 Tsutomu Takeuchi,7,8 Ernest Choy  ‍ ‍,9 
+Yoshiya Tanaka  ‍ ‍,10,11 Carlos Cara,12 Bernard Lauwerys  ‍ ‍,13 Nicola Tilt,14 
+Baran Ufuktepe,13 Peter C Taylor  ‍ ‍15
+
+To cite: Smolen JS, Mikuls TR, ABSTRACT
+Galloway J, et al. Do high Objectives  To assess the impact of rheumatoid factor (RF) WHAT IS ALREADY KNOWN ON THIS TOPIC
+rheumatoid factor levels impact levels and previous inadequate responses/intolerance to ⇒	 Patients with rheumatoid arthritis (RA) and high 
+response to certolizumab pegol tumour necrosis factor inhibitors (TNFi-IR) on the efficacy of rheumatoid factor (RF) levels have poorer prognosis 
+in patients with inadequately compared with patients with lower RF levels.
+controlled rheumatoid arthritis? certolizumab pegol (CZP) in patients with rheumatoid arthritis 
+
+⇒	 Unlike most tumour necrosis factor inhibitors (TNFis) 
+A post hoc analysis of the phase (RA) through a post hoc analysis of the RA Evaluation in 
+IIIb REALISTIC trial. RMD Open Subjects Receiving TNF Inhibitor CZP (REALISTIC) trial. used for RA, certolizumab pegol (CZP) does not have 
+2026;12:e006094. doi:10.1136/ Methods  In the phase IIIb REALISTIC trial, patients with a fragment crystallisable region that can be bound 
+rmdopen-2025-006094 RA were randomised to CZP (400 mg at weeks 0, 2 and 4, by RF.
+
+then 200 mg every 2 weeks) or placebo (PBO) for 12 weeks, ⇒	 Among patients with higher RF levels, CZP-treated 
+►	 Additional supplemental followed by open-label CZP (minimum 16 weeks). Outcomes patients demonstrate higher drug concentrations 
+material is published online only. reported to week 36 include Disease Activity Score 28 C- and greater efficacy compared with other TNFis.
+To view, please visit the journal reactive protein (DAS28-C RP) and Clinical Disease Activity 
+online (https://​doi.​org/​10.​1136/​ Index (CDAI) scores, rates of DAS28-CRP <2.6 and CDAI WHAT THIS STUDY ADDS
+rmdopen-​2025-​006094). remission (CDAI ≤2.8) and components of each. Data were ⇒	 We demonstrate that patients with high and low 
+
+stratified by baseline RF level (≤3rd quarter (≤Q3; <180 kU/L) RF levels experienced similar clinical responses to 
+vs 4th quarter (Q4; ‘high RF’; ≥180 kU/L)) and prior TNFi use CZP treatment, irrespective of previous inadequate 
+
+Received 4 July 2025
+(TNFinaïve vs TNFi-IR). responses or intolerance to TNFis.
+
+Accepted 11 December 2025
+Results  A total of 930 patients were included: 751 
+CZP-randomised and 179 PBO-randomised. At week 12, HOW THIS STUDY MIGHT AFFECT RESEARCH, 
+CZP-randomised patients experienced marked and similar PRACTICE OR POLICY
+improvements in disease activity, irrespective of RF level ⇒	 Our findings support CZP as an effective treatment 
+and prior TNFi use, while PBO-randomised patients did not. for patients with RA who have high RF levels and 
+Responses generally improved through week 36 in CZP- prior inadequate responses to TNFis.
+treated patients (including PBO-randomised switchers), 
+with similar efficacy across subgroups.
+Conclusions  Patients with high and low RF levels autoantibodies, such as rheumatoid factor 
+experienced similar clinical responses to CZP treatment, 
+irrespective of previous inadequate responses or (RF) and anti-citrullinated protein antibody 
+intolerance to TNFis. These findings expand previous (ACPA), which are detectable in up to 80% 
+
+© Author(s) (or their observations, supporting CZP as an effective treatment of patients with established RA and provide 
+employer(s)) 2026. Re-use for patients with RA who have high RF levels and prior important diagnostic and prognostic infor-
+permitted under CC BY-NC. No 
+commercial re-u se. See rights inadequate responses to TNFis. mation.1 2 RFs target the fragment crystal-
+and permissions. Published by Trial registration number  NCT00717236. lisable (Fc) portion of immunoglobulin G 
+BMJ Group. (IgG), leading to the formation of immune 
+For numbered affiliations see complexes that are crucial in the pathogenesis 
+end of article. of RA.3 Patients with RA and high levels of RF 
+Correspondence to INTRODUCTION have poorer prognosis, more aggressive and 
+Dr Josef S Smolen;  A common feature of rheumatoid arthritis destructive disease, higher cardiovascular risk 
+​josef.​smolen@​meduniwien.​ac.​at (RA) is the presence of circulating and higher risk of radiographic progression, 
+
+Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094    1
+
+
+
+RMD Open
+
+as well as increased levels of tumour necrosis factor stratified by baseline RF level as well as previous TNFi 
+(TNF), compared with patients with lower RF levels or use, to assess the potential impact of these differential 
+absence of RF.4–11 These consequences are well known to characteristics on the efficacy of CZP treatment across 
+be driven by high disease activity in patients with high RF different RA populations. Building on previous obser-
+levels.5 8 10–12 Moreover, RF level has been more strongly vations, our hypothesis was that patients with RA would 
+associated with disease activity than ACPA level.2 13 experience consistent clinical responses to CZP, irrespec-
+
+Most TNF inhibitors (TNFis) used in the treatment tive of high RF levels and inadequate response or intoler-
+of RA are monoclonal antibodies or receptor constructs ance to previous TNFis.
+with an Fc region (Fc-mAbs) that can be bound by RF.14 
+Binding of IgM-RF to TNFis enables the formation of 
+large protein complexes,14 which can be subsequently METHODS
+internalised and undergo lysosomal degradation by 
+macrophages.15 16 Study design
+
+ Clearance of Fc-containing TNFis The phase IIIb REALISTIC (NCT00717236) trial was a 
+is therefore enhanced in patients with high RF levels, multicentre study conducted in 230 centres in the USA, 
+appearing to lead to the reduced efficacy observed in Canada and Europe to evaluate the safety and efficacy 
+these patients.11 14 17 18 These findings provide molecular of CZP administered to patients with moderate to severe 
+insights into why patients with RA and high RF levels may 
+
+RA.24 The trial comprised a 12-w eek, double-b lind, PBO-
+have worse treatment outcomes with Fc-c ontaining TNFis 
+
+controlled, randomised phase, followed by an open-label 
+compared with those with lower RF levels.
+
+Certolizumab pegol (CZP), a PEGylated TNFi without extension in which all patients received CZP. The full 
+
+an Fc fragment, is effective for the treatment of RA and study design has been reported previously.23
+
+does not form complexes with IgM-RF.14 19 Thus, patients At baseline, patients were stratified by MTX use (yes 
+
+with RA and high RF levels may benefit from treatment vs no), previous TNFi use (yes vs no) and disease dura-
+with Fc-free TNFis. Indeed, in post hoc analyses and tion (<2 vs ≥2 years) and were randomised 4:1 to receive 
+retrospective studies, among patients with higher base- either CZP (400 mg subcutaneous (SC) at weeks 0, 2 and 
+line RF levels, CZP-treated patients have consistently 4, followed by 200 mg SC every 2 weeks (Q2W)) or PBO 
+demonstrated drug concentrations comparable to injection (0.9% sodium chloride) for a 12-week period. 
+patients with lower baseline RF levels, and these patients CZP or PBO was administered in addition to current RA 
+have experienced greater efficacy with CZP compared treatment (if any), which could include any combination 
+with other TNFi treatments.15 17 20 21 Specifically, in a post of the following: DMARDs (MTX, leflunomide, sulfasal-
+hoc analysis of the phase IV EXXELERATE trial which azine, chloroquine or hydroxychloroquine, azathioprine 
+included biological disease-m odifying anti-rheumatic and/or gold), tetracyclines, glucocorticoids (predni-
+drug (bDMARD)-naïve patients with RA, CZP-treated sone equivalent ≤10 mg/day) and non-steroidal anti-
+patients with high RF levels (>204 IU/mL; the highest inflammatory drugs (cyclo-o xygenase-2  inhibitors), or 
+quartile in the study) exhibited similar CZP drug concen- none of these. Following this, patients who completed 12 
+trations and clinical responses as patients with RA and weeks of treatment with either CZP or PBO were eligible 
+lower RF levels.22 On the other hand, patients with RA to either continue, or start receiving, open-label 200 mg 
+and high RF levels treated with the human TNFi adalim- CZP Q2W for a minimum of 16 weeks and up to 28 weeks 
+umab (ADA) had lower drug concentrations and poorer or until CZP commercial availability in the relevant 
+clinical outcomes than CZP-treated patients with low RF region, whichever was latest.
+levels.22
+
+While it has been observed that high levels of RF are Patients
+associated with lower clinical effectiveness of treatment Included patients were ≥18 years old, with a diagnosis 
+with Fc-m Abs, it remains unknown whether this only of adult-o nset RA of at least 3 months, as defined by 
+pertains to patients with insufficient prior response to the 1987 American College of Rheumatology (ACR) 
+csDMARDs such as methotrexate (MTX), or also to those classification criteria,25 and with active RA disease as 
+with inadequate response or intolerance to prior TNFis defined by: ≥5 tender joints, ≥4 swollen joints (out of 
+(TNFi-IR). 28 joints), a C-reactive protein (CRP) concentration 
+
+Here, we present the results of a post hoc analysis of ≥10 mg/L and/or an erythrocyte sedimentation rate 
+RA Evaluation in Subjects Receiving TNF Inhibitor CZP ≥28 mm/hour at screening. Patients must have also had 
+(REALISTIC), a phase IIIb, randomised trial which an unsatisfactory response or intolerance to at least one 
+assessed the efficacy of CZP versus placebo (PBO) in a csDMARD.
+large cohort of patients with RA. In REALISTIC, almost Reasons for patients being excluded included: having 
+40% of the RA patients had experienced a TNFi previ- received experimental biological or non-b iological treat-
+ously and CZP was associated with rapid and consistent ment for RA in the last 3 months or within five half-lives 
+clinical responses and improved physical function, irre- prior to the baseline visit or having received treatment 
+spective of the type of previous therapy.23 Here, we report with more than two TNFis prior to enrolment. Full exclu-
+the clinical efficacy of CZP in patients with RA, further sion criteria have been reported previously.23
+
+2 Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094
+
+
+
+Rheumatoid arthritis
+
+Outcomes demographics, including number of previous DMARDs, 
+Effectiveness outcomes were stratified by baseline RF were similar between patients with low RF (≤Q3) and 
+level quarter (≤3rd quarter (≤Q3; ‘low RF’; <180 kU/L) high RF (Q4) levels, and between those randomised to 
+vs 4th quarter (Q4; ‘high RF’; ≥180 kU/L)) and any prior each treatment arm.
+TNFi use (TNFi-IR (previous inadequate response or 
+intolerance) vs TNFi-n aïve). Data are reported to week DAS28-CRP and CDAI
+12 for PBO-randomised patients and week 36 for all CZP- In the TNFi-IR population, mean DAS28-C RP and CDAI 
+treated patients, including those who switched from PBO were similar at week 12 in CZP-randomised patients irre-
+to open-label CZP at week 12. spective of RF levels, and were consistently lower than 
+
+Response to treatment was assessed using the 28-joint in PBO-randomised patients, with a numerically larger 
+Disease Activity Score (DAS28) with CRP and Clinical difference between CZP-treated and PBO-treated patients 
+Disease Activity Index (CDAI). Mean DAS28-C RP and seen in those with high RF levels (DAS28-C RP: 4.2 (CZP) 
+CDAI scores, and rates of DAS28-C RP <2.6 and ACR- and 5.7 (PBO); CDAI: 20.4 (CZP) and 35.4 (PBO)) 
+European Alliance of Associations for Rheumatology compared with those with low RF levels (DAS28-CRP: 4.2 
+(ACR-EULAR) index-based remission26 (CDAI remis- (CZP) and 4.7 (PBO); CDAI: 21.6 (CZP) and 26.0 (PBO); 
+sion; CDAI ≤2.8) are reported to week 12 for both treat- figure 1a). Responses were generally similar at week 36 in 
+ment groups, and to week 36 for patients who continued all CZP-treated groups.
+to receive CZP, or switched to open-label CZP, after week TNFi-naïve patients treated with CZP had numeri-
+12. As a sensitivity analysis, mean DAS28-C RP and CDAI cally lower mean DAS28-CRP and CDAI scores at week 
+are additionally reported stratified by lowest baseline RF 12 than PBO-r andomised patients, regardless of RF level 
+level quarter (1st quarter (Q1; ‘very low RF’; ≤13 kU/L) (figure 1b). The differences between PBO-treated TNFi-
+vs Q4). naïve patients with high and low RF levels at week 12 were 
+
+Additionally, mean scores for each of the following numerically smaller than in TNFi-IR patients, while CZP-
+individual components of DAS28-C RP and CDAI are randomised patients demonstrated similar efficacy across 
+reported to week 36: swollen joint count (SJC), tender TNFi subgroups irrespective of RF level. Similar consis-
+joint count (TJC), patient global assessment (PtGA) and tent efficacy was seen at week 36 across TNFi and RF 
+physician global assessment (PhGA) of disease activity, as subgroups of CZP-treated patients (comprising both CZP-
+well as mean CRP level. randomised patients and PBO-r andomised patients who 
+
+received CZP from week 12). In patients who switched 
+Statistical analysis from PBO to CZP at week 12, broadly similar patterns in 
+The analyses included patients from the full analysis DAS28-C RP and CDAI were observed through week 36 as 
+set comprising all randomised patients who had an RF those seen in CZP-r andomised patients between baseline 
+assessment at baseline. Data are reported as observed and week 12 (data not shown). Similar outcomes were 
+case (OC). Non-responder imputation (NRI) data are observed in the overall population (figure 1c).
+also presented for DAS28-CRP <2.6 and CDAI remission Sensitivity analyses comparing DAS28-C RP and CDAI 
+rates in the online supplemental material. As a post hoc in patients with baseline RF level in the lowest quarter 
+analysis, only descriptive statistics are presented for all (Q1) with those in Q4 demonstrated a broadly similar 
+outcomes. In the absence of formal hypothesis testing, pattern (online supplemental figure S2).
+results should be considered exploratory rather than 
+confirmatory. Rates of DAS28-CRP <2.6 and CDAI remission (≤2.8)
+
+In TNFi-IR patients, no PBO-r andomised patients with 
+high RF levels achieved DAS28-C RP <2.6 or CDAI remis-
+
+RESULTS sion (≤2.8) at week 12, while these were achieved by 8.0% 
+Patient disposition and baseline characteristics and 6.0% of patients with low RF levels, respectively. 
+A total of 930 patients were included in this study: 751 The proportions of TNFi-IR CZP-treated patients who 
+patients were randomised to CZP and 179 to PBO. Base- achieved these thresholds were similar across RF levels 
+line characteristics are presented in table 1. Most patients (DAS28-C RP: 14.9% (high RF) and 10.5% (low RF); 
+were women (722/930; 77.6%) and the mean (SD) age CDAI remission: 8.1% (high RF) and 5.8% (low RF); 
+was 55.0 (12.7) years. The majority of patients had a figure  2a). Similarly, among TNFi-naïve patients, the 
+disease duration of ≥2 years (695/930; 74.7%) and over proportions of patients achieving DAS28-C RP <2.6 and 
+two-thirds of patients were on concomitant treatment CDAI remission (≤2.8) were consistently higher in CZP-
+with MTX (642/930; 69.0%). More than one-third of randomised patients compared with PBO-r andomised 
+patients had prior TNFi use (352/930; 37.8%); of patients patients at week 12, including in patients with high RF 
+with TNFi-IR, approximately half had stopped their levels (figure 2b). At week 36, the proportion of TNFi-
+prior TNFi due to efficacy reasons. The TNFi-IR popula- naïve CZP-treated patients who achieved DAS28-C RP 
+tion had longer mean disease duration at baseline than <2.6 and CDAI remission (≤2.8) was similar across RF 
+the TNFi-naïve population; this pattern was consistent levels. Generally, similar patterns were observed using 
+across treatment groups and RF subgroups. Baseline NRI (online supplemental figure S1). In patients who 
+
+Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094 3
+
+
+
+RMD Open
+
+4 Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094
+
+Table 1  Patient demographics and baseline disease characteristics
+RF≤Q3 (<180 KU/L) (n=695) RF Q4 (≥180 KU/L) (n=235)
+TNFi-IR (n=259) TNFi-naïve (n=436) TNFi-IR (n=93) TNFi-naïve (n=142)
+
+Baseline population characteristic PBO (n=52) CZP (n=207) PBO (n=83) CZP (n=353) PBO (n=16) CZP (n=77) PBO (n=28) CZP (n=114)
+
+Mean age, years (SD) 50.3 (13.6) 54.2 (12.3) 54.7 (13.1) 55.3 (13.4) 57.3 (6.6) 54.9 (11.5) 53.6 (12.7) 57.6 (11.4)
+Female, n (%) 45 (86.5) 168 (81.2) 65 (78.3) 282 (79.9) 10 (62.5) 53 (68.8) 21 (75.0) 78 (68.4)
+Mean disease duration, years (SD) 9.7 (9.3) 11.8 (9.8) 8.4 (9.8) 6.3 (7.7) 11.8 (7.6) 11.1 (9.0) 5.9 (6.2) 7.0 (7.1)
+Disease duration <2 years, n (%) 7 (13.5) 17 (8.2) 29 (34.9) 133 (37.7) 0 (0) 5 (6.5) 9 (32.1) 35 (30.7)
+Positive RF (≥14 IU/mL) at baseline, n (%) 43 (82.7) 141 (68.1) 50 (60.2) 223 (63.2) 16 (100) 77 (100) 28 (100) 114 (100)
+RF level, IU/mL, mean (SD) 58.4 (49.5) 47.3 (46.0) 47.8 (46.9) 45.6 (46.3) 714.4 (1265.3) 602.3 (558.7) 519.9 (399.1) 544.4 (435.8)
+Prior TNFi reason for discontinuation, n (%)*
+  Efficacy 23 (44.2) 92 (44.4) – – 11 (68.6) 29 (37.7) – –
+  Non-efficacy 29 (55.8) 111 (53.6) – – 4 (25.0) 47 (61.0) – –
+  Concomitant DMARD use, n (%) 37 (71.2) 163 (78.7) 69 (83.1) 307 (87.0) 11 (68.8) 54 (70.1) 24 (85.7) 94 (82.5)
+Concomitant bDMARD use, n (%) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Concomitant csDMARD use, n (%) 37 (71.2) 163 (78.7) 69 (83.1) 307 (87.0) 11 (68.8) 54 (70.1) 24 (85.7) 94 (82.5)
+Number of previous csDMARDs, n (%)
+  0 13 (25.0) 59 (28.5) 32 (38.6) 134 (38.0) 7 (43.8) 19 (24.7) 15 (53.6) 39 (34.2)
+  1 25 (48.1) 81 (39.1) 32 (38.6) 130 (36.8) 4 (25.0) 37 (48.1) 9 (32.1) 40 (35.1)
+  2 8 (15.4) 26 (12.6) 10 (12.0) 59 (16.7) 2 (12.5) 10 (13.0) 4 (14.3) 22 (19.3)
+  ≥3 6 (11.5) 41 (19.8) 9 (10.8) 30 (8.5) 3 (18.8) 11 (14.3) 0 (0) 13 (11.4)
+Concomitant methotrexate use, n (%) 35 (67.3) 142 (68.6) 55 (66.3) 255 (72.2) 9 (56.3) 46 (59.7) 23 (82.1) 77 (67.5)
+DAS28-CRP Score, mean (SD) 5.7 (0.9) 5.7 (0.8) 5.6 (0.8) 5.6 (0.8) 6.3 (1.0) 6.0 (1.1) 5.7 (0.8) 5.9 (1.0)
+CDAI Score, mean (SD) 38.2 (12.5) 38.5 (11.6) 37.2 (11.1) 37.2 (12.2) 44.5 (14.0) 42.4 (14.7) 37.7 (10.2) 39.4 (13.0)
+ACPA, kIU/L, mean (SD) 139.0 (194.0) 111.5 (188.4) 99.5 (171.8) 115.2 (194.6) 260.8 (309.4) 302.7 (285.0) 340.3 (322.7) 268.5 (256.7)
+
+Only those patients with a non-missing RF assessment at baseline are included.
+*If a patient had lack of response from either a primary or secondary TNFi, they were categorised under ‘efficacy reasons’.
+ACPA, anti-citrullinated protein antibodies; bDMARD, biological DMARD; CDAI, clinical disease activity index; CRP, C-reactive protein; csDMARD, conventional synthetic DMARD; CZP, 
+certolizumab pegol; DAS28-C RP, 28-joint Disease Activity Score C reactive protein; DMARD, disease-modifying anti-rheumatic drugs; PBO, placebo; Q3, third quarter; Q4, fourth quarter; RF, 
+rheumatoid factor; TNFi, tumour necrosis factor inhibitor; TNFi-IR, inadequate response or intolerance to TNFi.
+
+
+
+Rheumatoid arthritis
+
+Figure 1  28-joint Disease Activity Score C reactive protein (DAS28-CRP) and Clinical Disease Activity Index (CDAI) in (a) 
+inadequate response or intolerance to tumour necrosis factor inhibitors (TNFi-IR) patients, (b) TNFi-naïve patients and (c) 
+overall population, stratified by rheumatoid factor (RF) level (<180 kU/L (≤Q3) vs ≥180 kU/L (Q4)) (observed case). Data are 
+reported (as mean [95% confidence interval]) to Week 12 for PBO-randomised patients and Week 36 for CZP-treated patients, 
+including those who switched from PBO to open-label CZP from Week 12. CZP, certolizumab pegol; PBO, placebo; Q2W, every 
+2 weeks; Q3, third quarter; Q4, fourth quarter.
+
+Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094 5
+
+
+
+RMD Open
+
+Figure 2  Rates of 28-joint Disease Activity Score C reactive protein (DAS28-CRP) <2.6 and Clinical Disease Activity Index 
+(CDAI) remission (CDAI ≤2.8) in (a) inadequate response or intolerance to tumour necrosis factor inhibitors (TNFi-IR) patients, 
+(b) TNFi-naïve patients and (c) overall population, stratified by rheumatoid factor (RF) level (<180 kU/L (≤Q3) vs ≥180 kU/L (Q4)) 
+(observed case). Data are reported to Week 12 for PBO-randomised patients and Week 36 for CZP-treated patients, including 
+those who switched from PBO to open-label CZP from Week 12. CDAI remission defined as CDAI ≤2.8. CDAI: Clinical Disease 
+Activity Index; CZP, certolizumab pegol; PBO, placebo; Q2W, every 2 weeks; Q3, third quarter; Q4, fourth quarter.
+
+6 Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094
+
+
+
+Rheumatoid arthritis
+
+Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094 7
+
+Table 2  Individual DAS28-CRP and CDAI components in the overall population, TNFi-IR patients and TNFi-naïve patients, stratified by RF level (RF (<180 kU/L (≤Q3) vs 
+≥180 kU/L (Q4)) (OC)
+
+Overall (N=930) TNFi-IR (n=352) TNFi-naïve (n=578)
+PBO CZP PBO CZP PBO CZP
+Baseline n=179 Baseline n=751 Baseline n=68 Baseline n=284 Baseline n=111 Baseline n=467
+
+   RF ≤Q3 RF Q4 RF ≤Q3 RF Q4 RF ≤Q3 RF Q4 RF ≤Q3 RF Q4 RF ≤Q3 RF Q4 RF ≤Q3 RF Q4
+
+Swollen joint count, mean
+  Week 0 10.9 12.3 11.4 12.7 11.0 13.5 11.4 13.3 10.8 11.6 11.4 12.4
+
+n=135 n=44 n=559 n=191 n=52 n=16 n=207 n=77 n=83 n=28 n=352 n=114
+  Week 12 7.4 9.1 5.3 5.5 7.5 10.4 6.1 6.6 7.3 8.6 4.8 4.8
+
+n=126 n=37 n=511 n=175 n=48 n=12 n=185 n=69 n=78 n=25 n=326 n=106
+  Week 36 – – 4.2 4.5 – – 4.5 4.4 – – 4.0 4.7
+
+n=299 n=99 n=125 n=38 n=174 n=61
+Tender joint count, mean
+  Week 0 14.5 15.4 14.4 15.3 14.6 16.8 14.8 16.1 14.5 14.7 14.1 14.8
+
+n=135 n=44 n=559 n=191 n=52 n=16 n=207 n=77 n=83 n=28 n=352 n=114
+  Week 12 10.2 10.8 7.6 6.4 9.5 13.0 8.1 6.9 10.6 9.8 7.4 6.1
+
+n=126 n=37 n=511 n=175 n=48 n=12 n=185 n=69 n=78 n=25 n=326 n=106
+  Week 36 – – 6.1 4.9 – – 6.6 3.7 – – 5.7 5.7
+
+n=299 n=99 n=125 n=38 n=174 n=61
+CRP level (mg/L), mean
+  Week 0 16.0 22.3 15.4 23.7 15.6 27.0 16.7 26.4 16.3 19.6 14.7 21.8
+
+n=135 n=44 n=560 n=191 n=52 n=16 n=207 n=77 n=83 n=28 n=353 n=114
+  Week 12 17.9 21.5 9.1 12.5 14.8 31.7 11.1 16.1 19.9 17.0 8.0 10.1
+
+n=125 n=36 n=507 n=176 n=48 n=11 n=185 n=70 n=77 n=25 n=322 n=106
+  Week 36 – – 7.3 12.3 – – 8.1 11.1 – – 6.8 13.1
+
+n=300 n=99 n=126 n=39 n=174 n=60
+Patient’s Global Assessment of Disease Activity
+  Week 0 60.8 61.9 61.0 63.3 61.6 67.9 62.1 67.6 60.3 58.3 60.3 60.4
+
+n=133 n=43 n=555 n=190 n=52 n=16 n=205 n=76 n=81 n=27 n=350 n=114
+  Week 12 41.2 45.8 30.4 27.1 40.9 60.8 32.3 29.9 41.4 38.3 29.4 25.3
+
+n=125 n=36 n=504 m=174 n=48 n=12 n=183 n=69 n=77 n=24 n=321 n=105
+  Week 36 – – 23.8 21.4 – – 25.8 21.0 – – 22.4 21.7
+
+n=296 n=98 n=122 n=38 n=174 n=60
+Physicians’ Global Assessment of Disease Activity
+  Week 0 60.9 61.8 57.9 62.6 64.6 74.6 60.9 63.0 58.6 54.2 56.1 62.3
+
+n=134 n=43 n=559 n=190 n=52 n=16 n=207 n=77 n=82 n=27 n=352 n=113
+
+Continued
+
+
+
+RMD Open
+
+switched from PBO to CZP at week 12, similar patterns 
+were observed through week 36 as those seen in CZP-
+randomised patients between baseline and week 12 (data 
+not shown).
+
+Similar outcomes were observed in the overall popula-
+tion (figure 2c).
+
+DAS28-CRP and CDAI individual components
+At week 12, mean SJC, TJC, CRP, PtGA and PhGA were 
+numerically lower in CZP-r andomised patients compared 
+with PBO-randomised patients irrespective of RF levels 
+and prior TNFi treatment (table 2; OC). At week 36, CZP-
+treated patients exhibited generally similar outcomes 
+across all components, regardless of RF level and prior 
+TNFi treatment.
+
+DISCUSSION
+The data reported in this post hoc analysis of the phase 
+IIIb REALISTIC trial build on previous findings that 
+patients with RA and high RF levels may achieve and 
+maintain clinical improvement when treated with TNFis 
+without an Fc region, such as CZP.16 19 21 Here, the effi-
+cacy of CZP was not only confirmed across RF levels in 
+bDMARD-naïve patients with RA, but extended to a large 
+population of patients who had experienced prior TNFi 
+use.18 21 22
+
+Recent in vitro studies have provided molecular insight 
+into the clinical outcomes of RA patients with high RF 
+levels.14 15 Increased clearance of TNFis with an Fc, such 
+as ADA, has been observed in patients with RA and high 
+RF.27 Additionally, it has been reported that patients 
+tend to maintain higher drug concentrations and 
+achieve better clinical outcomes when treated with CZP 
+compared with Fc-containing TNFis.14 15 22 Pentameric 
+IgM RF in particular has been shown to bind and enhance 
+the clearance of Fc-c ontaining bDMARDs. Therefore, the 
+prominence of IgM RF may have particularly important 
+clinical implications,28 since these autoantibodies have 
+been shown to bind Fc-c ontaining bDMARDs, enhancing 
+their clearance.15
+
+Around 40% of patients with RA are thought to have 
+inadequate response or intolerance to TNFis.29 30 Given 
+this large proportion, it is important to optimise the treat-
+ment of this patient population in clinical practice. In 
+this study, the notion that the efficacy of CZP is sustained 
+irrespective of baseline RF levels is expanded to patients 
+with previous inadequate response or intolerance to 
+TNFis, with each reason (efficacy and non-efficacy) 
+comprising approximately half of the included patient 
+population. Following inadequate response to TNFis, 
+clinicians may suggest a treatment switch to an alterna-
+tive biologic, per current guidance from the ACR and the 
+EULAR.31 32 However, no specific recommendations are 
+made with regard to which bDMARDs patients should 
+switch to following inadequate response to a first-line 
+TNFi, suggesting that the treating physician should take 
+the patients’ characteristics and history into account.33 
+
+8 Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094
+
+Table 2  Continued
+
+Overall (N=930) TNFi-IR (n=352) TNFi-naïve (n=578)
+PBO CZP PBO CZP PBO CZP
+Baseline n=179 Baseline n=751 Baseline n=68 Baseline n=284 Baseline n=111 Baseline n=467
+
+   RF ≤Q3 RF Q4 RF ≤Q3 RF Q4 RF ≤Q3 RF Q4 RF ≤Q3 RF Q4 RF ≤Q3 RF Q4 RF ≤Q3 RF Q4
+
+  Week 12 49.4 49.1 38.0 34.3 49.4 59.8 41.3 39.7 49.4 44.0 36.1 30.8
+n=126 n=37 n=510 n=176 n=48 n=12 n=186 n=70 n=78 n=25 n=324 n=106
+
+  Week 36 – – 34.2 29.5 – – 38.5 27.1 – – 31.1 30.9
+n=298 n=97 n=125 n=37 n=173 n=60
+
+Data are reported to week 12 for PBO-randomised patients and week 36 for CZP-treated patients, including those who switched from PBO to open-label CZP from week 
+12.
+CDAI, clinical disease activity index; CRP, C reactive protein; CZP, certolizumab pegol; DAS28-C RP, 28-joint Disease Activity Score C reactive protein; OC, observed case; 
+PBO, placebo; Q3, third quarter; Q4, fourth quarter; RF, rheumatoid factor; TNFi, tumour necrosis factor inhibitor; TNFi-IR, inadequate response or intolerance to TNFi.
+
+
+
+Rheumatoid arthritis
+
+Determining the patient’s RF level may provide insight levels and those with TNFi-IR. Furthermore, in the REAL-
+into whether an Fc-free TNFi may be more beneficial ISTIC trial, patients treated with more than two TNFis, or 
+than an Fc-containing TNFi. rituximab and/or abatacept were excluded. Therefore, 
+
+Here, CZP-treated patients with high RF levels exhib- the findings of this post hoc analysis may not necessarily 
+ited similar clinical outcomes to those with low RF levels be applicable to these specific patient groups.24
+
+at week 12 and through week 36. These findings were Since the data presented in this manuscript are derived 
+further supported by a sensitivity analysis that stratified from a post hoc analysis of the REALISTIC trial, no formal 
+patients by Q1 versus Q4, which demonstrated a similar statistical analyses were conducted. Thus, results must 
+pattern of response as the ≤Q3 versus Q4 comparison. be considered as exploratory rather than confirmatory. 
+Furthermore, mean values of individual DAS28-C RP However, by visual inspection, broad similarities between 
+and CDAI components, including SJC, TJC, CRP, PtGA the CZP-treated patients in the high and low RF groups 
+and PhGA were numerically lower in CZP-randomised are evident, such as very similar changes in DAS28-CRP 
+patients compared with PBO-r andomised patients at and CDAI over time. This is in line with previous find-
+week 12, irrespective of RF levels, and a similar pattern ings using CZP20–22 and is hereby expanded to a TNFi-IR 
+was observed at week 36 in the overall CZP-treated patient population.
+group (including those who switched from PBO to open- Finally, in the REALISTIC trial, owing to patients 
+label CZP from week 12). These results support previous having active RA, a 4:1 CZP:PBO randomisation ratio 
+findings that clinical outcomes are consistent in CZP- was chosen, such that 20% of patients were exposed to 
+treated patients, irrespective of baseline RF level.18 20 22 PBO. The maximum duration that patients were exposed 
+
+In TNFi-IR patients at week 12, the difference in treat- to PBO was 12 weeks, after which patients received CZP 
+ment responses achieved by patients who received CZP in the open-label period. This randomisation ratio and 
+versus PBO was numerically greater in patients with high shorter-than-usual double-blind period was utilised in 
+RF levels than in patients with low RF levels. The rates order to balance the need for scientific rigour and the 
+of DAS28-CRP <2.6 and ACR-E ULAR index-based remis- ethical protection of patients.
+sion,26 that is, CDAI remission, achieved at week 36 in These data collectively demonstrate that the effec-
+CZP-treated patients were similar across patients with tiveness of CZP is maintained in patients with high RF 
+low and high baseline RF levels, and between TNFi-IR levels and previous inadequate response or intolerance 
+and TNFi-n aïve patients. Together, this suggests that the to TNFis, thus expanding earlier findings to the TNFi-IR 
+benefit of CZP treatment is maintained in patients with patient subgroup. This is an important observation 
+high RF levels and also in those with prior inadequate for this subset of patients, who constitute a substantial 
+response to a different TNFi. proportion of the overall RA patient population. This 
+
+While the present study provides an analysis demon- study further highlights the importance of personalising 
+strating the consistent efficacy of CZP in patients with treatment choices based on patients’ characteristics in 
+RA irrespective of RF level and TNFi-IR status, the REAL- the context of managing RA. Specifically, determining 
+ISTIC trial was not designed to study TNFi-IR patients the patient’s RF level may be beneficial to inform subse-
+specifically. Nevertheless, at baseline, patients had quent treatment decisions, including patients who have 
+been prospectively stratified according to prior TNFi had inadequate response to other TNFis.
+use. Moreover, the results of this post hoc analysis are 
+supported by previous studies which have reported the Author affiliations
+
+1
+pattern of sustained CZP efficacy in patients with high Division of Rheumatology, Medical University of Vienna, Vienna, Austria
+
+2Division of Rheumatology and Immunology, University of Nebraska Medical Center, 
+RF levels.15 18 21 22 Further, it should be noted that the Omaha, Nebraska, USA
+TNFi-IR group included patients with prior TNFi discon- 3Centre for Rheumatic Diseases, King’s College London, London, UK
+tinuation due to both efficacy and non-e fficacy reasons 4Department of Rheumatology and Clinical Immunology, Justus-L iebig University 
+(with each reason comprising approximately half of the Giessen, Campus Kerckhoff, Bad Nauheim, Germany
+
+5
+included patient population). Thus, results described Division of Clinical Immunology and Rheumatology, University of Alabama, 
+
+Birmingham, Alabama, USA
+are a composite of patients with inadequate response 6Department of Clinical Immunology, Osaka Metropolitan University, Osaka, Japan
+as well as those with intolerance to previous TNFi treat- 7Division of Rheumatology, Department of Internal Medicine, Keio University, Tokyo, 
+ment, for which different response mechanisms may be Japan
+
+8
+involved.34 Future investigation into these two subgroups Department of Rheumatology and Allied Immunology, Saitama Medical University, 
+
+is warranted. Saitama, Japan
+9Division of Infection and Immunity, Cardiff University, Cardiff, UK
+
+While studies have previously demonstrated numer- 10Department of Molecular Targeted Therapeutics, University of Occupational and 
+ically greater efficacy of CZP against comparator treat- Environmental Health, Japan, Kitakyushu, Japan
+ments in patients with high RF levels,15 20 22 the current 11First Department of Internal Medicine, University of Occupational and 
+study did not include an active comparator arm. There- Environmental Health Japan, Kitakyushu, Japan
+
+12
+fore, it is not possible to directly contextualise the efficacy UCB, Madrid, Spain
+
+13UCB, Brussels, Belgium
+of CZP in TNFi-IR patients in the present study against 14UCB, Slough, UK
+other available treatments. Nevertheless, in this study, 15Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal 
+CZP efficacy was maintained both in patients with high RF Sciences, Botnar Research Centre, University of Oxford, Oxford, UK
+
+Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094 9
+
+
+
+RMD Open
+
+Acknowledgements  The authors thank the patients, the investigators and their USA; The University of Texas, Houston, Texas, USA; The University of Western 
+teams who took part in this study. The authors also acknowledge Baran Ufuktepe, Ontario, London, Ontario, Canada; Thomas Jefferson University IRB, Philadelphia, 
+UCB, for publication coordination and Erin Clarkson, BSc, and Andrew Wilhelmsen, Pennsylvania, USA; UCSD, La Jolla, California, USA; University Health Network, 
+PhD, Costello Medical, UK for medical writing and editorial assistance based on the Toronto, Ontario, Canada; University of British Columbia, Vancouver, British 
+authors’ input and direction. Columbia, Canada; University of Illinois College, Peoria, Illinois, USA; University of 
+Contributors  Substantial contributions to study conception and design; analysis Manitoba Bannatyne Campus, Winnipeg, Manitoba, Canada; University of North 
+and interpretation of the data; drafting the article or revising it critically for Texas Health, Fort Worth, Texas, USA; University of Utah, Salt Lake City, Utah, USA; 
+important intellectual content; and final approval of the version of the article to be Western Institutional Review Board, Olympia, Washington, USA. Participants gave 
+published: JSS, TRM, JG, UM-L, JRC, MH, TT, EC, YT, CC, BL, NT, BU and PCT. JSS is informed consent to participate in the study before taking part.
+the guarantor. Provenance and peer review  Not commissioned; externally peer reviewed.
+Funding  This study was sponsored by UCB. Support for third-party writing Data availability statement  Underlying data from this manuscript may be 
+assistance for this article, provided by Erin Clarkson, BSc, and Andrew Wilhelmsen, requested by qualified researchers 6 months after product approval in the USA 
+PhD, Costello Medical, UK, was funded by UCB in accordance with Good Publication and/or Europe, or global development is discontinued, and 18 months after 
+Practice (GPP 2022) guidelines (https://www.ismpp.org/gpp-2022). trial completion. Investigators may request access to anonymised individual 
+Competing interests  JSS: Research grants from: AbbVie, AstraZeneca, Eli Lilly, patient-level data and redacted trial documents which may include: analysis-
+Novartis and Roche; honouraria from: AbbVie, Amgen, AstraZeneca, Astro, Bristol- ready datasets, study protocol, annotated case report form, statistical analysis 
+Myers Squibb, Celgene, Celltrion, Chugai, Eli Lilly, Gilead, ILTOO, Janssen, Merck plan, dataset specifications and clinical study report. Prior to the use of the data, 
+Sharp & Dohme, Pfizer, R-Pharma, Roche, Samsung, Sandoz, Sanofi and UCB; proposals need to be approved by an independent review panel at www.V​ ivli.​org 
+editor of: Annals of the Rheumatic Diseases; co-editor of: Rheumatology 7E/8E; and a signed data sharing agreement will need to be executed. All documents 
+convenor of: EULAR Task Forces and T2T Task Forces. TRM: Consultant for: Horizon are available in English only, for a prespecified time, typically 12 months, on a 
+Therapeutics, Olatech Therapeutics, Pfizer, Sanofi and UCB; research support password-protected portal.
+from: Horizon Therapeutics; royalties from: Wolters Kluwer Health (UpToDate) Supplemental material  This content has been supplied by the author(s). It has 
+and Elsevier. JG: Grant/research support/speaker fees from: Abbvie, Galapagos, not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been 
+Janssen, Eli Lilly, Pfizer and UCB. UM-L: Speaker/advisor for UCB. JRC: Grant/ peer-reviewed. Any opinions or recommendations discussed are solely those 
+research and consultancy fees: AbbVie, Amgen, Bristol-Myers Squibb, Janssen, of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and 
+Pfizer, Sanofi and UCB. MH: Research grants from: Asahi Kasei, Astellas, Bristol- responsibility arising from any reliance placed on the content. Where the content 
+Myers, Eisai, Gilead Sciences Japan, Taisho Pharma, Towa Pharma; speaker fees includes any translated material, BMJ does not warrant the accuracy and reliability 
+from: Asahi Kasei, Astellas, AstraZeneca, Ayumi Pharma, Bristol-Myers, Chugai, of the translations (including but not limited to local regulations, clinical guidelines, 
+Eisai, Eli Lilly, Gilead Sciences Japan, Janssen Pharma, Ono Pharma, Tanabe terminology, drug names and drug dosages), and is not responsible for any error 
+Mitsubishi, UCB Japan. TT: Grant/honoraria and consultancy fees from: AbbVie, and/or omissions arising from translation and adaptation or otherwise.
+Asahi Kasei, Astellas, AYUMI, Bristol-Myers Squibb, Chugai, Daiichi Sankyo, Eisai, Open access  This is an open access article distributed in accordance with the 
+Janssen, Mitsubishi Tanabe and Pfizer Japan; served on speakers bureaus for: Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which 
+Abbott, Bristol-Myers Squibb, Chugai, Eisai, Janssen, Mitsubishi Tanabe, Pfizer, permits others to distribute, remix, adapt, build upon this work non-c ommercially, 
+Takeda and UCB Pharma; consultant for: Asahi Kasei, AstraZeneca, Eli Lilly and and license their derivative works on different terms, provided the original work is 
+Company, Mitsubishi Tanabe and Novartis; received research support from properly cited, appropriate credit is given, any changes made indicated, and the 
+Abbott, Astellas, Bristol-Myers Squibb, Chugai, Daiichi Sankyo, Eisai, Janssen, use is non-c ommercial. See: https://creativecommons.org/licenses/by-nc/4.0/.
+Mitsubishi Tanabe, Nippon Shinyaku, Otsuka, Pfizer, Sanofi, Santen, Takeda and 
+Teijin. EC: Research grants from: Bio-Cancer, Biogen, Novartis, Pfizer and Sanofi; ORCID iDs
+consultancy fees from: Abbvie, Amgen, Biogen, Biocon, Chugai, Eli Lilly, Fresenius Josef S Smolen https://orcid.org/0000-0002-4302-8877
+Kabi, Gilead, Janssen, Novartis, Pfizer, Regeneron, Roche, RPharm, Sanofi and James Galloway https://orcid.org/0000-0002-1230-2781
+Viatris; speaker fees from Abbvie, Amgen, Bristol-Myers Squibb, Chugai Pharma, Ernest Choy https://orcid.org/0000-0003-4459-8609
+Eli Lilly, Fresenius Kabi, Galapagos, Gilead, Janssen, Novartis, Pfizer, Regeneron, Yoshiya Tanaka https://orcid.org/0000-0002-0807-7139
+RPharm, Roche, Sanofi, UCB and Viatris. YT: Speaking fees and/or honoraria from Bernard Lauwerys https://orcid.org/0000-0003-3243-6151
+Chugai, UCB, Abbvie, AstraZeneca, Eli-Lilly, Boehringer-Ingelheim, GlaxoSmithKline, Peter C Taylor https://orcid.org/0000-0001-7766-6167
+Eisai, IQVIA, Daiichi-Sankyo, Otsuka, Taisho, Gilead, Bristol-Myers. CC: Employee 
+and stockholder of UCB. BL: Employee and stockholder of UCB. NT: Employee 
+and shareholder of UCB. BU: Employee of UCB. PCT: Research grants from: 
+Alfasigma. Consultancy fees from: AbbVie, Eli Lilly, UCB, Roche, Biogen, Janssen, 
+Fresenius, Alfasigma, Gilead, Nordic Pharma, Takeda, AnaptysBio, Acelyrin Inc.; and REFERENCES
+participation on a Data Safety Monitoring Board/Advisory Board for Immunovant, 	 1	 Volkov M, van Schie KA, van der Woude D. Autoantibodies and B 
+Moonlake and Sanofi. Cells: The ABC of rheumatoid arthritis pathophysiology. Immunol 
+Patient consent for publication  Not applicable. Rev 2020;294:148–63. 
+
+	 2	 Sokolove J, Johnson DS, Lahey LJ, et al. Rheumatoid factor 
+Ethics approval  This study involved human participants. The study is a post as a potentiator of anti-citrullinated protein antibody-mediated 
+hoc analysis of a clinical trial, which was approved by an ethics committee or inflammation in rheumatoid arthritis. Arthritis Rheumatol 
+institutional board. The following ethics committees approved the original study: 2014;66:813–21. 
+Capital Health, Halifax, Nova Scotia, Canada; CEIC Hospital Clinic I Provincial, 	 3	 Corper AL, Sohi MK, Bonagura VR, et al. Structure of human IgM 
+Barcelona, Spain; CHU Pontchaillou, Rennes, France; College of Physicians rheumatoid factor Fab bound to its autoantigen IgG Fc reveals 
+and Surgeons of Alberta, Edmonton, Alberta, Canada; Comitato Etico locale per a novel topology of antibody-antigen interaction. Nat Struct Biol 
+Sperimentazione Clinica dei Medicinali Azienda Ospedaliera Universitaria Senese, 1997;4:374–81. 
+Siena, Italy; Commissie Medische Ethiek, Leiden, the Netherlands; Conjoint 	 4	 Albrecht K, Zink A. Poor prognostic factors guiding treatment 
+Health Research Ethics Board, Calgary, Alberta, Canada; Ethikkommission der decisions in rheumatoid arthritis patients: a review of data from 
+Ärztekammer Hamburg, Hamburg, Germany; Hôpital Maisonneuve Rosemont, randomized clinical trials and cohort studies. Arthritis Res Ther 
+Montreal, Quebec, Canada; Institutional Board of Research Associates New York, 2017;19:68. 
+New York, New York, USA; IUPUI Clarian Institutional Review Board, Indianapolis, 	 5	 Cuchacovich M, Bueno D, Carvajal R, et al. Clinical parameters and 
+Indiana, USA; Loyola University Medical Center, Maywood, Illinois, USA; Mayo biomarkers for anti-TNF treatment prognosis in rheumatoid arthritis 
+
+patients. Clin Rheumatol 2014;33:1707–14. 
+Foundation IRB, Rochester, Minnesota, USA; McGuire Institutional Review Board, 	 6	 Fazeli MS, Khaychuk V, Wittstock K, et al. Cardiovascular Disease in 
+Richmond, Virginia, USA; Mount Sinai Hospital, Toronto, Ontario, Canada; Office Rheumatoid Arthritis: Risk Factors, Autoantibodies, and the Effect of 
+of Human Subjects Research IRB, Baltimore, Maryland, USA; Oklahoma Medical Antirheumatic Therapies. Clin Med Insights Arthritis Musculoskelet 
+Research Foundation; Oklahoma City, Oklahoma, USA; Partners Human Research Disord 2021;14:11795441211028751. 
+Committee, Boston, Massachusetts, USA; Quorum Review, Seattle, Washington, 	 7	 Honda S, Yano K, Tanaka E, et al. Development of a scoring model 
+USA; Robert Wood Johnson Medical School, New Brunswick, New Jersey, USA; for the Sharp/van der Heijde score using convolutional neural 
+St Joseph’s Mercy Health Center, Hot Springs, Arkansas, USA; St Luke’s IRB, networks and its clinical application. Rheumatology (Oxford) 
+Duluth, Minnesota, USA; Sutter Health Central Area, Sacramento, California, USA; 2023;62:2272–83. 
+Texas Health Resources IRB, Arlington, Texas, USA; The University of Arizona, 	 8	 Liang KP, Kremers HM, Crowson CS, et al. Autoantibodies and the 
+Tucson, Arizona, USA; The University of North Carolina, Chapel Hill, North Carolina, risk of cardiovascular events. J Rheumatol 2009;36:2462–9. 
+
+10 Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094
+
+
+
+Rheumatoid arthritis
+
+	 9	 Sobhy N, Ghoniem SA, Eissa BM, et al. Disease characteristics 	22	 Smolen JS, Taylor PC, Tanaka Y, et al. Impact of high rheumatoid 
+in high versus low titers of rheumatoid factor or anti-citrullinated factor levels on treatment outcomes with certolizumab pegol and 
+peptide antibody in rheumatoid arthritis patients. The Egyptian adalimumab in patients with rheumatoid arthritis. Rheumatology 
+Rheumatologist 2022;44:325–8. (Oxford) 2024;63:3015–24. 
+
+	10	 Takeuchi T, Miyasaka N, Inui T, et al. High titers of both rheumatoid 	23	 Weinblatt ME, Fleischmann R, Huizinga TWJ, et al. Efficacy and 
+factor and anti-CCP antibodies at baseline in patients with safety of certolizumab pegol in a broad population of patients with 
+rheumatoid arthritis are associated with increased circulating baseline active rheumatoid arthritis: results from the REALISTIC phase IIIb 
+TNF level, low drug levels, and reduced clinical responses: a post study. Rheumatology (Oxford) 2012;51:2204–14. 
+hoc analysis of the RISING study. Arthritis Res Ther 2017;19:194. 	24	 Weinblatt ME, Fleischmann R, van Vollenhoven RF, et al. Twenty-
+
+	11	 Vastesaeger N, Xu S, Aletaha D, et al. A pilot risk model for the eight-week results from the REALISTIC phase IIIb randomized 
+prediction of rapid radiographic progression in rheumatoid arthritis. trial: efficacy, safety and predictability of response to certolizumab 
+Rheumatology (Oxford) 2009;48:1114–21. pegol in a diverse rheumatoid arthritis population. Arthritis Res Ther 
+
+	12	 Avci AB, Feist E, Burmester GR. Rheumatoid factors revisited in the 2015;17:325. 
+age of biologic therapy. Rheumatology (Oxford) 2025;64:ii15–24. 	25	 Arnett FC, Edworthy SM, Bloch DA, et al. The american rheumatism 
+
+	13	 Aletaha D, Alasti F, Smolen JS. Rheumatoid factor, not antibodies association 1987 revised criteria for the classification of rheumatoid 
+against citrullinated proteins, is associated with baseline disease arthritis. Arthritis Rheum 1988;31:315–24. 
+activity in rheumatoid arthritis clinical trials. Arthritis Res Ther 	26	 Studenic P, Aletaha D, de Wit M, et al. American College of 
+2015;17:229. Rheumatology/EULAR remission criteria for rheumatoid arthritis: 
+
+	14	 Bidgood S, Kallenberg D, Turner A, et al. POS0722 PURIFIED 2022 revision. Ann Rheum Dis 2023;82:74–80. 
+MONOCLONAL RHEUMATOID FACTORS BIND FC CONTAINING 	27	 FDA. US humira prescribng information. Volume 2024. 2014. 
+TNF INHIBITORS IN VITRO BUT NOT THE FC-FREE TNF Available: https://www.accessdata.fda.gov/drugsatfda_docs/label/​
+INHIBITOR, CERTOLIZUMAB PEGOL. Ann Rheum Dis 2014/125057s356lbl.pdf
+2024;83:727–8. 	28	 Motta F, Bizzaro N, Giavarina D, et al. Rheumatoid factor isotypes in 
+
+	15	 Kanda-Satoh YM, Sonomoto K, Ufuktepe B, et al. Does rheumatoid rheumatoid arthritis diagnosis and prognosis: a systematic review 
+factor level affect the pharmacodynamics of disease-modifying and meta-analysis. RMD Open 2023;9:e002817. 
+antirheumatic drugs and the efficacy of tumour necrosis factor 
+inhibitors with different molecular structures? in vitro and clinical 	29	 Ochi S, Saito K, Mizoguchi F, et al. Insensitivity versus poor 
+findings from the FIRST registry. Presented at JCR 2024, 33; 2024 response to tumour necrosis factor inhibitors in rheumatoid 
+
+	16	 Tanaka Y. What is rheumatoid factor? From screening to arthritis: a retrospective cohort study. Arthritis Res Ther 
+personalized management. Rheumatology (Oxford) 2025;64:ii9–14. 2020;22:41. 
+
+	17	 Martínez-Feito A, Hernández-Breijo B, Novella-Navarro M, et al. 	30	 Mehta P, Manson JJ. What Is the Clinical Relevance of TNF Inhibitor 
+POS0647 DOES TNF INHIBITOR MOLECULAR STRUCTURE Immunogenicity in the Management of Patients With Rheumatoid 
+MATTER? ANALYSIS OF IMPACT OF BASELINE RHEUMATOID Arthritis? Front Immunol 2020;11:589. 
+FACTOR TITERS ON DRUG LEVELS IN PATIENTS WITH 	31	 Fraenkel L, Bathon JM, England BR, et al. 2021 American College of 
+RHEUMATOID ARTHRITIS. Ann Rheum Dis 2022;81:594–5. Rheumatology Guideline for the Treatment of Rheumatoid Arthritis. 
+
+	18	 Nakayama Y, Watanabe R, Murakami K, et al. Differential efficacy Arthritis Care Res (Hoboken) 2021;73:924–39. 
+of TNF inhibitors with or without the immunoglobulin fragment 	32	 Smolen JS, Landewé RBM, Bijlsma JWJ, et al. EULAR 
+crystallizable (Fc) portion in rheumatoid arthritis: the ANSWER recommendations for the management of rheumatoid arthritis with 
+cohort study. Rheumatol Int 2022;42:1227–34. synthetic and biological disease-m odifying antirheumatic drugs: 
+
+	19	 Mease PJ. Certolizumab pegol in the treatment of rheumatoid 2019 update. Ann Rheum Dis 2020;79:685–99. 
+arthritis: a comprehensive review of its clinical efficacy and safety. 	33	 Taylor PC, Matucci Cerinic M, Alten R, et al. Managing inadequate 
+Rheumatology (Oxford) 2011;50:261–70. response to initial anti-TNF therapy in rheumatoid arthritis: 
+
+	20	 Takahiro Yamano KY, Iwao H, Sakai T, et al. W43-5: Usefulness of optimising treatment outcomes. Ther Adv Musculoskelet Dis 
+certolizumab pegol useful rheumatoid arthritis with high rheumatoid 2022;14:1759720X221114101. 
+factor. Mod Rheumatol 2024;34. 	34	 Emery P, Gottenberg JE, Rubbert-Roth A, et al. Rituximab versus 
+
+	21	 Tanaka Y, Takeuchi T, Haaland D, et al. Efficacy of certolizumab an alternative TNF inhibitor in patients with rheumatoid arthritis who 
+pegol across baseline rheumatoid factor subgroups in patients with failed to respond to a single previous TNF inhibitor: SWITCH-R A, a 
+rheumatoid arthritis: Post-hoc analysis of clinical trials. Int J Rheum global, observational, comparative effectiveness study. Ann Rheum 
+Dis 2023;26:1248–59. Dis 2015;74:979–84. 
+
+Smolen JS, et al. RMD Open 2026;12:e006094. doi:10.1136/rmdopen-2025-006094 11

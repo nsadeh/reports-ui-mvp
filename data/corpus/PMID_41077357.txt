@@ -1,0 +1,1051 @@
+﻿Adalimumab versus Conventional 
+Immunosuppression for Uveitis (ADVISE) Trial
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group*
+Writing Committee: Douglas A. Jabs, MD, MBA, 1,2 Elizabeth A. Sugar, PhD,1 ,3 Alyce E. Burke, MPH, 1 
+Michael Altaweel, MD,4  Jennifer E. Thorne, MD, PhD, 1,2 Sheriza Baksh, PhD,1  Lyndell Lim, MD, PhD, 5 
+Akshay Thomas, MD, MS, 6 Steven Yeh, MD,7  Janet T. Holbrook, PhD, MPH 1
+
+Purpose: Patients with noninfectious intermediate uveitis, posterior uveitis, or panuveitis typically are treated with 
+oral corticosteroids and immunosuppressive agents, such as antimetabolites and calcineurin inhibitors. Goals of 
+treatment include suppression of ocular inflammation (inactive disease) and reduction of oral corticosteroids to a 
+prednisone dosage of ≤7.5 mg/day (corticosteroid sparing) or, if possible, discontinuation of prednisone. The 
+anti—tumor necrosis factor monoclonal antibody adalimumab also is used to treat these diseases, but its comparative 
+effectiveness versus conventional agents is unknown. The purpose of this trial was to compare the effectiveness of 
+adalimumab treatment with that of conventional immunosuppressive drugs for uveitis.
+Design: Randomized, unmasked, comparative effectiveness trial conducted at uveitis clinics at academic medical 
+
+centers and private practices in the United States and internationally.
+Participants: Patients with active or recently active noninfectious intermediate uveitis, posterior uveitis, or pan-
+
+uveitis needing immunosuppression.
+Methods: Adalimumab versus conventional immunosuppressive drugs (antimetabolites, calcineurin inhibitors, or 
+
+both).
+Main Outcome Measures: The primary outcome was successful corticosteroid sparing, defined as inactive uveitis 
+
+at a prednisone dosage of ≤7.5 mg/day (or its equivalent) for 2 consecutive study visits ≥28 days apart at 6 months. 
+Other outcomes included successful corticosteroid sparing at 1 year and successful corticosteroid discontinuation, 
+defined as inactive uveitis and no oral corticosteroid therapy for 2 consecutive study visits ≥28 days apart.
+Results: Two hundred twenty-seven participants were randomized to either adalimumab (n = 114) or conventional 
+
+immunosuppression (n = 113). By 6 months of follow-up, successful corticosteroid sparing occurred in 69% of par-
+ticipants assigned to adalimumab versus 54% assigned to conventional immunosuppression (odds ratio [OR], 1.86; 
+95% confidence interval [CI], 1.06—3.25; P = 0.029) and by 12 months in 86% of participants assigned to adalimumab 
+versus 77% assigned to conventional immunosuppression (OR, 1.89; 95% CI, 0.93—3.83; P = 0.077). By 12 months, 
+successful corticosteroid discontinuation occurred in 55% of participants assigned to adalimumab versus 40% 
+assigned to conventional immunosuppression (OR, 1.85; 95% CI, 1.06—3.19; P = 0.028).
+Conclusions: For patients with noninfectious intermediate uveitis, posterior uveitis, or panuveitis requiring 
+
+immunosuppression, adalimumab treatment resulted in a greater proportion of participants with successful corti-
+costeroid sparing at 6 months and successful corticosteroid discontinuation at 12 months compared with treatment 
+with antimetabolites or calcineurin inhibitors.
+Financial Disclosure(s): Proprietary or commercial disclosure may be found in the Footnotes and Disclosures at 
+
+the end of this article. Ophthalmology 2026;133:310-325 ª 2025 by the American Academy of Ophthalmology
+
+Supplemental material available at www.aaojournal.org.
+
+The uveitides are a collection of >30 diseases characterized disease specific. 2,3 Despite the clinical and presumed 
+by intraocular inflammation.1  They are grouped by immunologic differences among these diseases, many 
+anatomic class, based on the primary site of inflammation, noninfectious intermediate uveitides and most 
+as anterior uveitis, intermediate uveitis, posterior uveitis, noninfectious posterior uveitides and panuveitides are 
+and panuveitis, and may be either infectious or treated with the same approach, namely oral 
+noninfectious and are presumed to be autoimmune or corticosteroids and immunosuppression. 3—5 Longitudinal 
+autoinflammatory.1  Disease activity is assessed by a studies using time-dependent modelling have demonstrated 
+combination of history; ophthalmic examination, that for many of these diseases, immunosuppression is 
+including grading of anterior chamber and vitreous required, because oral corticosteroids alone do not control 
+inflammation; and ophthalmic imaging, which often is inflammation at dosages sufficiently low for long-term use
+
+310 ª 2025 by the American Academy of Ophthalmology https://doi.org/10.1016/j.ophtha.2025.10.004 
+Published by Elsevier Inc. ISSN 0161-6420/25
+
+
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group • ADVISE Trial
+
+(e.g., prednisone ≤ 7.5 mg/day).5 —11 Furthermore, studies Methods
+using time-dependent modelling have demonstrated that 
+inflammation, even low-level inflammation, results in worse Study Design
+visual acuity outcomes.1 2,13 As such, an important 
+treatment goal is inflammation control while tapering oral The ADVISE Trial was a multicenter, randomized (allocation 
+corticosteroids to a prednisone dosage of ≤7.5 mg/day, an ratio, 1:1), unmasked, parallel treatment, comparative effective-
+
+outcome termed successful corticosteroid sparing. 3 The ness, superiority trial (ClinicalTrials.gov identifier, 
+ NCT03828019) comparing adalimumab with conventional 
+
+Multicenter Uveitis Steroid Treatment Trial and Follow- immunosuppressive drugs for the treatment of uveitis. The trial 
+up Study demonstrated that this approach produced supe- was conducted at 26 clinical centers in the United States (n = 19), 
+rior long-term (7-year) visual acuity results to the use of a the United Kingdom (n = 5), and Australia (n = 2). The study was 
+long-acting, surgically implanted, intravitreal corticosteroid approved at the institutional review boards of each of the clinical 
+reservoir with no increase in systemic side effects with oral centers (see Appendix B, available at www.aaojournal.org) and 
+corticosteroids and immunosuppression other than an the 3 resource centers (Chairman’s Office, Coordinating Center, 
+increased use of antibiotics for infection. 14,15 Despite the and Reading Center), and all participants gave written, informed 
+tolerability of systemic corticosteroids and consent. The trial adhered to the principles of the Declaration of 
+immunosuppression using this approach for up to 10 Helsinki.
+
+years,1 4—16 long-term cohort studies of patients with rheu-
+matoid arthritis have suggested an increase in cardiovas- Eligibility
+cular disease with the cumulative corticosteroid dosage. 17 Eligible patients were adults or adolescents 13 years of age or 
+Hence, the discontinuation of prednisone while older with active or recently active (within 60 days) noninfectious 
+maintaining control of the intraocular inflammation intermediate uveitis, posterior uveitis, or panuveitis for whom 
+(known as successful corticosteroid discontinuation) is an immunosuppression was indicated. Individuals either were 
+important secondary clinical goal. receiving prednisone (or prednisolone) of >7.5 mg/day or, if the 
+Typically, the initial immunosuppressive drug used to uveitis was recently active, had an anticipated increase in the 
+
+treat these uveitides has been an antimetabolite (e.g., meth- dosage of prednisone to >7.5 mg/day. Exclusion criteria included 
+
+otrexate, mycophenolate mofetil, or azathioprine).5 ,14,15 
+the following: (1) active or untreated latent tuberculosis, (2) 
+multiple sclerosis or magnetic resonance imaging (MRI) findings 
+
+Successful corticosteroid sparing with a single consistent with demyelination, (3) Behçet disease (which may 
+immunosuppressive agent has been reported to occur in have better outcomes with anti-TNF-α therapy1 0 ), (4) current 
+approximately 40% to 60% of patients, with approximately therapy with 2 immunosuppressive drugs, (5) placement of a 
+20% to 25% of patients needing 2 immunosuppressive long-acting intravitreal corticosteroid implant (e.g., the fluocino-
+drugs to achieve successful corticosteroid sparing.4 ,11,18—23 lone acetonide 0.59-mg implant) within 3 years, (6) anti-TNF-α 
+When combination immunosuppression is needed, calci- monoclonal antibody therapy within 60 days, (7) history of ada-
+neurin inhibitors (e.g., cyclosporine or tacrolimus) often are limumab ineffectiveness or intolerance, and (8) pregnancy or 
+added to an antimetabolite.4 ,20—23 lactation.
+Adalimumab is a fully human monoclonal antibody to 
+
+tumor necrosis factor (TNF) α, which is approved by the Stratification and Randomization
+United States Food and Drug Administration for the treat- Randomization was stratified by whether the participant was 
+ment of several rheumatic diseases. In 2016, adalimumab receiving 0 or 1 immunosuppressive drugs at the time of 
+was approved by the Food and Drug Administration for the randomization and whether the anticipated dosage of prednisone 
+treatment of noninfectious intermediate uveitides, posterior (or prednisolone) immediately after randomization was <30 mg/ 
+uveitides, and panuveitides, and subsequently was approved day or ≥30 mg/day. Participants were randomized 1:1 to adali-
+by the European Medicines Agency for the treatment of mumab or CID treatment using permuted blocks of varying sizes 
+these uveitides.2 4,25 Randomized clinical trials within each of the 4 strata to yield the expected allocation ratio. 
+demonstrated that adalimumab significantly prolonged the Randomization assignments were prepared by the coordinating 
+
+ center and were revealed to the clinical centers via a web portal 
+time to uveitis relapse versus placebo when prednisone after informed consent was obtained, baseline data were collected, 
+was tapered and discontinued,2 4,25 and a follow-up cohort and eligibility was confirmed.
+study suggested that a substantial proportion of patients 
+achieved successful corticosteroid sparing (approximately Treatment Administration
+75% inflammation control with a prednisone dosage of ≤5 
+mg/day).2 6 However, the relative merits of adalimumab Those participants randomized to adalimumab received a loading 
+versus conventional immunosuppressive drugs for the dose of 80 mg subcutaneously, followed by 40 mg subcutaneously 
+treatment of uveitis is not known. Therefore, we 1 week later and then every 2 weeks. Participants randomized to 
+
+performed a randomized comparative effectiveness adalimumab in the no immunosuppression at baseline stratum 
+ trial, received adalimumab as the sole immunosuppressive agent, 
+
+the Adalimumab versus Conventional Immunosuppression whereas those in the receiving 1 immunosuppressive drug at 
+for Uveitis (ADVISE) Trial, to compare adalimumab with baseline stratum added adalimumab to the current agent. The 
+conventional immunosuppressive drugs (CIDs) for the initial choice of treatment for those assigned to the CID group 
+treatment of noninfectious intermediate uveitides, depended on whether the participant was already receiving an 
+posterior uveitides, and panuveitides. immunosuppressive drug at baseline. Participants randomized to
+
+311
+
+
+
+Ophthalmology Volume 133, Number 3, March 2026
+
+the CID group who were not currently receiving an immunosup- closeout at 1 year. At every visit, participants gave medical, 
+pressive drug received treatment with an antimetabolite, either ophthalmic, and treatment history and underwent an assessment of 
+methotrexate 15 mg/week or mycophenolate mofetil 1 g twice best-corrected visual acuity (BCVA) using logarithmic eye 
+daily based on clinical center choice. Both antimetabolite options charts,3 2,33 a complete eye examination, measurement of weight 
+were allowed because previous work showed similar success rates and blood pressure, and phlebotomy for a complete blood count 
+for corticosteroid sparing between the 2 drugs. 27—31 For partici- and comprehensive metabolic panel. At baseline, 3 months, 6 
+pants randomized to the CID group who already were receiving 1 months, and 1 year, participants underwent evaluation of retinal 
+immunosuppressive drug at baseline, a second conventional thickness by OCT and completed 3 quality-of-life questionnaires 
+immunosuppressive drug of a different class was added. For par- (EuroQol, Medical Outcomes Survey Short Form-36, and the 25-
+ticipants receiving an antimetabolite, a calcineurin inhibitor was question National Eye Institute Visual Function Ques-
+added, and for participants receiving a calcineurin inhibitor, an tionnaire).3 4—40 In addition, at each visit, participants underwent 
+antimetabolite was added. 4 Cyclosporine was initiated at the disease-specific testing depending on the specific uveitic diagnosis 
+dosage of 2 mg/kg twice daily, and tacrolimus was initiated at 1 to assess disease activity with 1 of the following: (1) visual fields 
+mg twice daily then escalated every 2 to 4 weeks to achieve a for birdshot chorioretinitis 3,7 ; (2) fundus autofluorescence for 
+therapeutic blood drug level (5—20 ng/mL). 4,20—23 multifocal choroiditis with panuveitis, punctate inner choroiditis, 
+Initial prednisone dosing depended on the activity of the uve- serpiginous choroiditis, relentless placoid choroiditis, and either 
+
+itis: (1) for participants with active uveitis not receiving oral secondary (e.g., sarcoidosis-associated) or undifferentiated cho-
+corticosteroids, prednisone (or prednisolone) was initiated at 1 mg/ roiditis or panuveitis with choroiditis 3,41—43 ; (3) OCT for exuda-
+kg per day up to a maximum of 60 mg/day; (2) for participants tive retinal detachment as in early-stage Vogt-Koyanagi-Harada 
+with active uveitis receiving prednisone, the prednisone (or disease; or (4) fundus fluorescein angiography for either secondary 
+prednisolone) dosage was doubled up to a maximum of 60 mg/ or undifferentiated retinal vasculitis or panuveitis with retinal 
+day; and (3) for participants with inactive uveitis, the current vasculitis.3 
+dosage of prednisone (which had to be >7.5 mg/day) was main-
+tained for 1 month before tapering was begun. After 2 to 4 weeks, Outcomes
+tapering of the initial dosage of prednisone was initiated if the 
+uveitis was inactive or improved substantially with the expectation The primary outcome was successful corticosteroid sparing by 6 
+of inactivity within an additional 4 weeks. Tapering prednisone months of follow-up. 3 Successful corticosteroid sparing was 
+used a declining decrement approach at weekly intervals defined as inactive uveitis at a prednisone dosage of ≤7.5 mg/ 
+(Appendix 1, available at www.aaojournal.org) until the uveitis day for 2 consecutive visits at least 28 days apart. 3 Secondary 
+reactivated or a dosage of 7.5 mg/day was obtained. If a dosage outcomes included the following: (1) successful corticosteroid 
+of prednisone 7.5 mg/day with inactive uveitis was obtained, the sparing by 1 year of follow-up, (2) successful corticosteroid 
+prednisone dosage was maintained at 7.5 mg/day for 2 discontinuation (defined as inactive uveitis after prednisone 
+consecutive visits at least 28 days apart before tapering was discontinuation for 2 consecutive visits ≥28 days apart), (3) 
+resumed. BCVA, (4) incidence of infections, (5) adverse events, including 
+If the uveitis reactivated during prednisone tapering, the dosage serious adverse events, and (5) quality of life.
+
+of prednisone was at least doubled and held at the new dosage for The definition of inactive uveitis was disease specific 
+2 to 4 weeks before tapering and the immunosuppression (Appendix 1), was made by the clinicians at the clinical centers, 
+advanced (Appendix 1). Immunosuppression advancement and incorporated both ophthalmic examination and imaging. 2,3 
+depended on the number and dosage of the immunosuppression In brief, inactive disease included the following: (1) grade
+drugs being used (Appendix 1). In brief, for participants 0 anterior chamber cells (for anterior or intermediate uveitides, 
+receiving 1 conventional immunosuppressive drug at less than intermediate uveitides, and panuveitides), (2) grade 0 vitreous 
+the maximum dosage, the dosage was escalated up to the haze (for intermediate uveitides, posterior uveitides, and 
+maximum (e.g., methotrexate 25 mg/week or mycophenolate panuveitides), and (3) evidence of inactive disease on disease-
+mofetil 1.5 g twice daily).2 ,27—29 For participants receiving the specific imaging or testing. 2,3 Imaging or testing results 
+maximum dosage of a conventional immunosuppressive drug, a indicative of inactive disease included the following: (1) for 
+second immunosuppressive drug from the alternate class was birdshot chorioretinitis, stability, or improvement in reliable 
+added. For participants receiving adalimumab who were not visual fields; (2) for diseases other than birdshot chorioretinitis 
+receiving a conventional immunosuppressive drug, a conventional with chorioretinitis as a component, no uveitis lesion-related 
+immunosuppressive drug was added, typically an antimetabolite. hyperautofluorescence on fundus autofluorescence; (3) for early 
+For participants receiving adalimumab and a conventional stage Vogt-Koyanagi-Harada disease, no subretinal fluid on OCT; 
+immunosuppressive drug at less than the maximum dosage, the and (4) for retinal vasculitis, no increase in retinal nonperfusion, 
+conventional immunosuppressive drug was escalated to the leakage, or vessel staining on fundus fluorescein angiography.2 ,3
+maximum dosage. Participants receiving 2 immunosuppressive 
+drugs at maximum dosages whose uveitis reactivated were treated Sample Size
+according to best medical judgment.
+Up to 2 regional corticosteroid injections were permitted for The sample size was based on the primary comparison for suc-
+
+the treatment of macular edema: 1 within the first 2 months of cessful corticosteroid sparing at 6 months. Adalimumab was 
+follow-up and 1 during months 6 through 8 of follow-up. The estimated to be successful in 75% of patients. 26 Conventional 
+restriction on the timing of the injections was designed to avoid immunosuppression was estimated to be successful in 55% of 
+interference with the evaluation of the primary and secondary patients not receiving an immunosuppression drug at baseline 
+outcomes. and in 40% of those receiving 1 immunosuppressive drug at 
+
+baseline.1 8—22 The percents of participants receiving 0 and 1 
+Follow-up immunosuppressive drugs at baseline were projected to be 75% 
+
+and 25%, respectively. 11 As such, the overall success rate with 
+Participants were followed up every month for 6 months, then conventional immunosuppression was estimated to be 51%. A 
+every 2 months for an additional 6 months with an anniversary sample size of 222 patients (111 patients per treatment group)
+
+312
+
+
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group • ADVISE Trial
+
+provided 90% power to detect a difference in cumulative percent protocol based on a review of the data by the coordinating center. 
+of 75% versus 51% assuming a 2-sided α value of 0.0492 to ac- In addition, retinal images were reviewed at a centralized reading 
+count for a single interim analysis after 40% of the study infor- center and discrepancies between the clinical center and reading 
+mation was collected (stopping threshold, α = 0.008) and 10% center interpretation were reviewed by MTQAC to help identify 
+loss to follow-up. Successful corticosteroid discontinuation was potential issues with clinical center assessment. Corrective feed-
+estimated was to be 50% by 1 year in the adalimumab group and back was given as needed to specific clinical centers or the 
+20% in the CID group.1 1,18—23,26 With similar assumptions for research group as a whole.
+significance and loss to follow-up, the study had 80% power to 
+detect a difference in successful corticosteroid discontinuation.
+
+Results
+Statistical Analysis
+
+The first participant was enrolled in September 2019, and 
+The primary analyses grouped participants according to their enrollment continued through September 2023, with 
+assigned treatment, that is, as randomized. Generalized estimating 
+equations were used to fit logistic regression models to compare follow-up through September 2024. Two hundred twenty-
+
+ 
+the cumulative proportion of corticosteroid outcomes (sparing and seven participants were randomized to either the adalimu-
+cessation) between the 2 treatment groups over time while ac- mab (n = 114) or CID (n = 113) group (Fig 1). A total of 
+counting for correlation between replicate measurements from the 217 patients (96%) were still being followed up at 6 
+same individual with an unstructured covariance matrix. As soon months, and 207 patients (91%) were still being followed 
+as an individual achieved a corticosteroid outcome (sparing or up at 12 months. The number lost to follow-up was 
+discontinuation), they were counted as having that outcome for all higher for those assigned to the CID group versus the 
+subsequent visits in the modelling of cumulative events regardless adalimumab group at both 6 months (CID vs. adalimumab:
+of failures or loss to follow-up. Because any baseline imbalance in 8 participants vs 2 participants) and 12 months (CID vs 
+the initial prednisone dosage might influence the primary outcome, adalimumab: 15 participants vs 5 participants) of follow-up. 
+modelling focused on comparing the cumulative proportions at 
+visits that occurred 6 months after randomization or later. The 2 treatment groups seemed reasonably well balanced 
+
+ The 
+models comparing treatments included fixed effects for treatment, in terms of baseline characteristics, with a few exceptions 
+2 stratification variables (initial prednisone dosage and immuno- (Table 1). The median age of the study population was 44 
+suppression use at baseline), 3 visit indicators (months 8, 10, and years, and 67% were women. Most participants were 
+12), and 3 treatments by visit interaction indicators. The estimates White (72%), with the remaining being Black (18%), 
+of cumulative proportion were made using adjusted models. Asian (5%), or other (5%). Fifteen percent of the 
+Mixed-effects models were used to assess treatment differences participants were Hispanic. Twenty-two percent of partici-
+for continuous outcomes with a linear (visual acuity, quality of pants had intermediate or anterior and intermediate uveitis; 
+life) or log (retinal thickness) link. The fixed effects included those 78% had posterior uveitis or panuveitides. Overall, 83% of 
+described for the primary outcome plus additional visit indicators participants had bilaterally active uveitis with a numerically 
+(months 1—6) and corresponding treatment by visit interaction 
+terms. An unstructured correlation was used to model repeated higher percentage of bilateral disease for those assigned to 
+
+ 
+measurements within an individual for person-level outcomes or the CID group (90%) as compared with those assigned to 
+eye for eye-level outcomes. A person-level random intercept was the adalimumab group (76%). Of the 434 eyes included in 
+added to account for between-eye correlations for eye-level out- the study, the median baseline BCVA was 81 letters 
+comes. Kaplan—Meier techniques and Cox proportional hazards (Snellen equivalent, 20/24), and 79% of eyes had a baseline 
+models were used to evaluate time-to-event outcomes, including BCVA of 20/40 or better. Overall, 82% of the eyes were 
+the secondary analysis of corticosteroid events and the primary phakic at baseline; 44% had clear lenses and 38% had a lens 
+analysis of adverse events. Tests of interaction were used to assess opacity or cataract. The percentage of eyes with a lens 
+the impact of stratification variables (initial prednisone dosage and opacity or cataract was slightly higher for those assigned to 
+immunosuppression use) on the treatment effect for corticosteroid the CID group (40%) compared with those assigned to the 
+events in the Cox models. For ocular adverse events, a random 
+effect (frailty model) was used to adjust for between-eye corre- adalimumab group (36%). Macular edema was present in 
+lations. Negative binomial regression was used to assess the cu- 25% of eyes at baseline, with a lower percentage among 
+mulative prednisone exposure and recurrent systemic events (e.g., those assigned to the CID group (20%) versus the adali-
+hospitalizations). Sensitivity analyses were used to assess the mumab group (29%).
+robustness of the results to missingness.4 4 P values for secondary 
+outcomes were nominal and were not adjusted for multiple Treatments
+comparisons.
+
+Treatments that already were in use at baseline and initiated 
+Medical Therapy Quality Assurance Monitoring after randomization are listed in Table 2. Almost one-
+
+quarter of participants, 49 (22%), were receiving an 
+To improve the homogeneity of image interpretation and treatment immunosuppressive drug at baseline, with most receiving 
+approach among multiple clinical centers, a medical therapy methotrexate (n = 23) or mycophenolate (n = 24) as 
+quality assurance committee (MTQAC), comprising 3 uveitis 
+experts not participating in the management of trial participants, opposed to azathioprine (n = 2). Most participants (n = 186 
+
+ 
+reviewed both the activity assessments and treatment management [82%]) were receiving oral corticosteroids at baseline, with 
+throughout the course of the study. The MTQAC reviewed the 86 participants (38%) receiving ≥30 mg/day of prednisone
+clinical center activity assessment and medication management of or prednisolone.
+the first 2 participants at each center and any evaluations or At least 1 dose of adalimumab was given to all those
+management decisions that seemed to be discrepant with the assigned to the adalimumab group. In those assigned to
+
+313
+
+
+
+Ophthalmology Volume 133, Number 3, March 2026
+
+Figure 1. Consolidated Standards of Reporting Trials study diagram. ADA = adalimumab; CID = conventional immunosuppressive drug; FU = follow-up.
+
+the CID group, 108 participants added a new immuno- an immunosuppressive drug at baseline) as compared with 
+suppressive drug, 2 participants declined treatment, and 3 those assigned to CID monotherapy (cumulative propor-
+participants were lost to follow-up immediately after tion: 41% vs. 29%; hazard ratio [HR], 1.68; 95% confi-
+baseline. Among those individuals receiving a new dence interval [CI], 0.98—2.86; P = 0.06). Among 
+treatment, an antimetabolite was initiated for all of those participants assigned to the CID group initially receiving 
+not receiving any immunosuppressive drug, and a calci- an antimetabolite at less than the maximum dosage, 56 of 
+neurin inhibitor―primarily tacrolimus (83%)―was 85 participants (66%) received an increased dosage of the 
+initiated for all of those already receiving an immuno- antimetabolite. Dose escalation was seen in 1 of 1 
+suppressive drug. During follow-up, a second immuno- participant receiving azathioprine, 32 of 43 participants 
+suppressive drug was added more frequently for those (74%) receiving methotrexate, and 25 of 41 participants 
+assigned to adalimumab monotherapy (i.e., not receiving (61%) receiving mycophenolate.
+
+314
+
+
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group • ADVISE Trial
+
+Table 1. Summary of Baseline Characteristics of Participants Enrolled in the Adalimumab versus Conventional Immunosuppression for 
+Uveitis Trial Overall and Stratified by Assigned Treatment Group (Adalimumab or Conventional Immunosuppressive Drug Therapy)
+
+Conventional Immunosuppressive 
+Characteristic Total Adalimumab Drug Therapy
+
+No. of participants 227 114 113
+Demographics
+Age (yrs) 44 (34—57) 44 (35—55) 44 (34—59)
+Sex
+
+Female 153 (67) 75 (66) 78 (69)
+Male 74 (33) 39 (31) 35 (31)
+Race
+White 163 (72) 81 (71) 82 (73)
+Black 41 (18) 21 (18) 20 (18)
+Asian 12 (5) 8 (7) 4 (4)
+Other 11 (5) 4 (4) 7 (6)
+
+Ethnicity
+Hispanic 33 (15) 18 (16) 15 (13)
+Non-Hispanic 194 (85) 96 (84) 98 (87)
+
+Uveitis history
+Duration of uveitis (yrs)* 0.9 (0.3—3.9) 0.9 (0.2—4.2) 0.9 (0.3—3.6)
+Bilateral active uveitis 189 (83) 87 (76) 102 (90)
+Uveitic diagnosis
+Intermediate 18 (8) 8 (7) 10 (9)
+Anterior and intermediate uveitis 32 (14) 20 (18) 12 (11)
+Birdshot chorioretinitis 49 (22) 23 (20) 26 (23)
+Multifocal choroiditis with panuveitis 19 (8) 10 (9) 9 (8)
+Serpiginous choroiditis 6 (3) 2 (2) 4 (4)
+Punctate inner choroiditis 5 (2) 3 (3) 2 (2)
+Sympathetic ophthalmia 4 (2) 2 (2) 2 (2)
+Vogt-Koyanagi-Harada disease
+
+Early stage 13 (6) 7 (6) 6 (5)
+Late stage 5 (2) 1 (1) 4 (4)
+
+Isolated retinal vasculitis or panuveitis with retinal vasculitis 51 (22) 28 (25) 23 (20)
+Isolated choroiditis or panuveitis with choroiditis 25 (11) 10 (9) 15 (13)
+
+Quality of life
+NEI-VFQ-25 score 73 (59—81) 72 (57—80) 73 (61—81)
+EuroQoL 5-Dimension Index (—0.11 to 1)
+
+Median (IQR) 0.85 (0.83—1.00) 0.93 (0.83—1.00) 0.84 (0.83—1.00)
+Score of 1 104 (46) 57 (50) 47 (42)
+
+36-item Short-Form Health Survey (1—100)
+Physical component 53 (46—57) 52 (44—57) 54 (48—57)
+Mental component 52 (42—57) 53 (39—57) 52 (43—57)
+
+Ocular characteristics
+No. eyes with uveitis 434 214 220
+BCVA
+
+Standard letters 81 (71—86) 81 (71—87) 81 (74—86)
+Snellen equivalent 20/24 20/24 20/24
+
+Eyes with BCVA 20/40 or better 344 (79) 167 (78) 177 (80)
+Intraocular pressure (mmHg) 15 (13—18) 15 (13—17) 16 (13—19)
+Previous glaucoma surgery 23 (5) 11 (5) 12 (5)
+Lens status at randomization
+
+Phakic, clear 189 (44) 102 (48) 87 (40)
+Phakic, lens opacity or cataract 165 (38) 76 (36) 89 (40)
+Pseudophakic 75 (17) 33 (15) 42 (19)
+Aphakic 5 (1) 3 (1) 2 (1)
+
+Macular edema † 105 (25) 61 (29) 44 (20)
+CST (μm)‡ 252 (224—299) 255 (229—318) 247 (219—282)
+
+BCVA = best corrected visual acuity; CST = central subfield macular thickness; IQR = interquartile range; NEI-VFQ25 = 25-item National Eye Institute 
+Visual Quality of Life Questionnaire.
+Data are presented as no. (%) or median (IQR) unless otherwise indicated.
+*Missing for 1 participant assigned to CID group.
+† Defined as CST ≥ 300 μm; missing for 11 eyes (5 assigned to conventional immunosuppressive drug therapy and 6 assigned to adalimumab).
+‡ On OCT, normalized to the Heidelberg Spectralis range; missing for 11 eyes (5 assigned to conventional immunosuppressive drug therapy, 6 assigned to 
+adalimumab).
+
+315
+
+
+
+Ophthalmology Volume 133, Number 3, March 2026
+
+Table 2. Oral Corticosteroid and Immunosuppressive Therapy Already in Use at Baseline and Initiated after Randomization
+
+Treatment Already in Use at Baseline Study Treatment Initiated after Randomization*
+Conventional Conventional
+
+Immunosuppressive Immunosuppressive
+Total Adalimumab Drug Therapy Total Adalimumab Drug Therapy
+
+Variable (n = 227) (n = 114) (n = 113) (n = 227) (n = 114) (n = 113)
+
+Oral corticosteroid data available 226† 114 112 223 ‡ 113 110
+Receiving oral corticosteroids 186 (82) 92 (81) 94 (84) 221 (99) 113 (100) 108 (98)
+Dosage (mg/day) 25 (15—50) 28 (19—60) 20 (10—40) 50 (26—60) 50 (25—60) 40 (27—60)
+≥ 30 mg/day 86 (38) 46 (40) 40 (36) 164 (74) 83 (73) 81 (74)
+
+IMT data available 226† 114 112 223 ‡ 113 110
+None 177 (78) 90 (79) 87 (78) 114 (51) 112 (99) 2 (2)
+Antimetabolite 49 (22) 24 (21) 25 (22) 87 (39) 2 (2) 85 (77)
+
+Azathioprine 2 1 1 1 0 1
+Methotrexate 23 12 11 44 1 43
+Mycophenolate mofetil 24 11 13 42 1 41
+
+Calcineurin inhibitor 0 (0) 0 (0) 0 (0) 23 (10) 0 (0) 23 (21)
+Cyclosporine 0 0 0 4 0 4 
+Tacrolimus 0 0 0 19 0 19 
+
+Adalimumab data available 226 114 112 226 114 112
+Received adalimumab 0 0 0 114 (50) 114 (100) 0 (0)
+
+Treatment strata
+No IMT and prednisone < 30 mg/day 35 (15) 18 (16) 17 (15)
+No IMT and prednisone ≥ 30 mg/day 143 (63) 72 (63) 71 (63)
+IMT and prednisone < 30 mg/day 22 (10) 11 (10) 11 (10)
+IMT and prednisone ≥ 30 mg/day 27 (12) 13 (11) 14 (12)
+
+IMT = immunosuppressive drug therapy.
+Data are presented as no. (%) or median (interquartile range) unless otherwise indicated.
+*Assessed at first visit completed after baseline.
+† One individual in the conventional immunosuppressive drug therapy group was missing baseline prednisone and IMT information. This individual was 
+lost to follow-up after the initial visit.
+‡ Treatment initiation data was not available for 4 participants (1 in the adalimumab group, 3 in the conventional immunosuppressive drug therapy group) 
+because of loss to follow-up after completing the baseline visit.
+
+The mean daily prednisone dosage for the duration of the majority had achieved successful corticosteroid sparing in 
+entire trial was 11.8 mg/day (95% CI, 10.5—13.2 mg/day) both groups, with a slightly greater cumulative proportion in 
+in the adalimumab group and 13.8 mg/day (95% CI, the adalimumab group (cumulative proportion: adalimumab, 
+12.3—15.4 mg/day) in the CID group (incident rate ratio 0.86 vs. CID, 0.77; aOR, 1.89; 95% CI, 0.93—3.83; P = 
+[IRR], 0.86; 95% CI, 0.73—1.01; P = 0.061). This trans- 0.077), although the difference was not statistically signifi-
+lates to a cumulative exposure of 4.31 g and 5.04 g over the cant. Adalimumab therapy also resulted in a faster time to 
+course of 1 year for those assigned to the adalimumab and successful corticosteroid sparing (adalimumab vs. CID: HR, 
+CID groups, respectively. At 12 months of follow-up 1.39; 95% CI, 1.02—1.87; P = 0.032; Fig 2A). A similar 
+among participants still receiving prednisone, the median number of participants escalated or reinitiated prednisone 
+prednisone dose was 7.5 mg/day in both the adalimumab because of uveitis reactivation after achieving successful 
+and CID groups. corticosteroid sparing in both arms (adalimumab vs CID: 
+Up to 2 regional corticosteroid injections per eye were 29 participants vs 28 participants).
+
+permitted per protocol for persistent uveitic macular edema The cumulative proportion of participants achieving 
+and were restricted to time points to minimize interference corticosteroid discontinuation at 6 months was low and 
+with the assessment of the primary and secondary out- similar in both groups (cumulative proportion: adalimumab, 
+comes. Nineteen eyes of 13 participants received 27 in- 0.15 vs. CID, 0.11; P = 0.30). However, after 12 months 
+jections in the adalimumab group, and 20 eyes of 13 follow-up, a greater cumulative proportion of participants in 
+participants received 25 injections in the CID group. the adalimumab group had achieved successful corticoste-
+
+roid discontinuation than in the CID group (cumulative 
+Efficacy Outcomes proportion: adalimumab, 0.55 vs. CID, 0.40; odds ratio 
+
+[OR], 1.85; 95% CI, 1.06—3.19; P = 0.028). Adalimumab 
+The cumulative proportion of participants who achieved therapy resulted in a numerically faster time to successful 
+successful corticosteroid sparing by 6 months was signifi- corticosteroid discontinuation (HR, 1.48; 95% CI, 
+cantly higher for those assigned to adalimumab (0.69) than 0.99—2.22; P = 0.053; Fig 2B); however, the result was not 
+those assigned to CID (0.54; adjusted odds ratio [aOR], 1.86; statistically significant. Among participants with successful 
+95% CI, 1.06—3.25; P = 0.029). By 12 months, a substantial corticosteroid discontinuation, few individuals
+
+316
+
+
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group • ADVISE Trial
+
+Figure 2. A, B, Graphs showing a comparison of time to successful corticosteroid sparing (A) and successful corticosteroid discontinuation (B) for 
+adalimumab (ADA) versus conventional immunosuppressive drug (CID) therapy. CI = confidence interval.
+
+subsequently reinitiated prednisone therapy during follow- mg/day; Fig S3, available at www.aaojournal.org) and use 
+up for reactivation of the uveitis in both arms (adalimu- of immunosuppressive drug therapy at baseline (no vs. 
+mab vs CID, 7 participants vs 4 participants). Analyses of yes; Fig S4, available at www.aaojournal.org) did not 
+heterogeneity of the treatment effect within subgroups identify any significant differences (P > 0.40 for 
+defined by initial prednisone dosage (< 30 mg/day vs. ≥ 30 interaction).
+
+317
+
+
+
+Ophthalmology Volume 133, Number 3, March 2026
+
+In the group without immunosuppression at baseline, the participants vs 0 participants). Participants assigned CID 
+first step in immunosuppression advancement was adding a discontinuing therapy for intolerance included: 3 partici-
+second agent in the adalimumab group, whereas it was dose pants receiving methotrexate, 2 participants receiving 
+escalation in the CID group. Because a greater proportion of methotrexate and tacrolimus, 1 participant receiving meth-
+participants in the adalimumab group who were in the no otrexate and cyclosporine, and 2 participants receiving 
+immunosuppression at baseline stratum added a second mycophenolate. Of the participants in the CID group dis-
+immunosuppressive agent than did those in the CID group, continuing an assigned treatment, 6 participants switched 
+and because differences in the addition of a second agent immunosuppression to another CID, 1 participant switched 
+could be the result of either the protocol or differential ef- to adalimumab, and 1 participant stopped immunosup-
+ficacy, we evaluated the proportion with at least 1 immu- pression. Elevation of liver enzymes was more likely to 
+nosuppressive drug advancement in the stratum without an occur in the CID group than in the adalimumab group 
+immunosuppressive agent at baseline. Thirty-seven immu- (cumulative percent, 10% vs. 2%; P = 0.014), although the 
+nosuppression advancements occurred in the adalimumab number of individuals affected was small (11 participants 
+group and 60 immunosuppression advancements occurred vs 2 participants, respectively). Elevated liver enzymes in 
+in the CID group in this stratum; the HR for immunosup- the CID group occurred in 6 participants receiving metho-
+pression advancement was 0.38 (95% CI, 0.25—0.57; P < trexate, 2 participants receiving mycophenolate, 1 partici-
+0.001). pant receiving azathioprine, 1 participant receiving 
+Both groups maintained good visual acuity throughout tacrolimus and methotrexate, and 1 participant receiving 
+
+follow-up with modest gains in BCVA from baseline (Fig 5, mycophenolate and tacrolimus. The rates of infections 
+Table 3). A significant difference in BCVA of borderline requiring antibiotic therapy (adalimumab group, 0.40/per-
+clinical import was observed between the 2 groups at 6 son-year vs. 0.37/person-year in the CID group; IRR, 1.10; 
+months (adalimumab gain minus CID gain, 3.0 letters; 95% CI, 0.61—2.0; P = 0.76) and hospitalizations (adali-
+P = 0.01), but not at 12 months (adalimumab gain minus mumab vs CID: 0.045/person-year vs. 0.115/person-year; 
+CID gain, 0.4 letters; P = 0.77). At the 6-month follow- IRR, 0.39; 95% CI, 0.12—1.26; P = 0.12) were not 
+up, adalimumab therapy was associated with greater reso- significantly different between the 2 treatment groups. 
+lution of macular edema than CID treatment (Table 3). At 6 Occurrences of other serious systemic adverse events were 
+months, the ORs for macular edema compared with rare and did not substantially differ between groups 
+baseline were 0.46 in the adalimumab group and 0.76 in (Table S5, available online at www.aao.org). No new 
+the CID group (ratio of ORs, 0.60; 95% CI, 0.38—0.95; clinical events consistent with demyelination occurred in 
+P = 0.027). At the 12-month follow-up, both groups either treatment group.
+showed further improvement in macular edema, and the 
+difference in macular edema resolution was of marginal Quality-of-Life Outcomes
+significance (OR vs. baseline, 0.34 for adalimumab and 
+0.63 for CID; ratio of ORs, 0.55; 95% CI, 0.31—0.94; P = No significant changes were noted in the proportion of in-
+0.028). dividuals with a perfect score on the EQ-5D index 
+
+(Table 3). Both groups showed similar improvements in the 
+Safety Outcomes 25-question National Eye Institute Visual Function Ques-
+
+tionnaire that were near the minimally clinically meaningful 
+A significantly greater cumulative percentage of phakic difference (4—6 points). The adalimumab group showed 
+eyes needed cataract surgery in the CID group than in the essentially no change in the Medical Outcomes Survey 
+adalimumab group (11% vs. 2%; P = 0.009; Table 4). The Short Form-36 Physical Component score, whereas the CID 
+CID group also had a greater cumulative percent of eyes group showed small declines. Although the difference be-
+with a ≥15-letter (3-line) decrease in BCVA compared tween the 2 groups was significant at 6 months, it was not at 
+with baseline (13% vs. 6%; P = 0.026), although the cu- 12 months, and a clinically meaningful improvement or 
+mulative percent of eyes with a ≥30-letter (6-line) decrease decline (4—6 points) was not observed in either group at 
+did not differ significantly (3% vs. 7%; P = 0.43). The most any time point. No significant differences were found be-
+common reason for a 6-line decline was cataract (n = 8; tween the 2 groups in the Medical Outcomes Survey Short 
+adalimumab vs CID groups, 2 eyes vs 6 eyes), followed by Form-36 Mental Component Score at either 6 or 12 months.
+uveitis activity (n = 4) and vitreous hemorrhage (n = 2). 
+Additional follow-up was available for 14 eyes with a ≥6-
+line decline (78%): 8 eyes regained baseline BCVA or more Discussion
+(3 because of cataract surgery), 2 eyes improved to within 
+10 letters of baseline BCVA (1 because of cataract surgery), In the ADVISE Trial, a significantly greater cumulative 
+and 4 eyes remained at least 3 lines less than baseline (2 proportion of participants achieved successful corticoste-
+eyes after cataract surgery) at the last available follow-up. roid sparing in the adalimumab group at 6 months, but not 
+The number in each BCVA category was evenly split be- 12 months (Table 6). Both groups showed a high success 
+tween the adalimumab and CID groups. The occurrence of rate (cumulative proportion, > 0.75 at 12 months); 
+other ocular events was similar between the 2 groups. however, those assigned to adalimumab achieved the 
+A greater number of participants in the CID group dis- outcome more quickly (Fig 2). Adalimumab therapy also 
+
+continued the assigned treatment for intolerance (8 resulted in a significantly greater cumulative proportion of
+
+318
+
+
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group • ADVISE Trial
+
+Figure 5. Box-and-whisker plot showing visual acuity over time stratified by assigned treatment group: adalimumab (ADA) or conventional 
+immunosuppressive drug (CID) therapy.
+
+individuals with successful corticosteroid discontinuation rate of cataracts requiring surgery in the CID group. Cata-
+by 12 months than did CID therapy (55% vs. 40%). ract incidence is affected by cumulative oral corticosteroid 
+In the stratum of participants not receiving immunosup- dose, and cohort studies in giant cell arteritis suggest an 
+
+pression at baseline, a greater proportion of participants in approximately 3% to 4% increase risk in cataract per 1-g 
+the adalimumab group added a second immunosuppressive increase in cumulative oral corticosteroid dose over 1 
+agent than did those in the CID group (cumulatively, 41% year.4 5 It may be that the greater rate of cataract surgery in 
+vs. 29%). This result in part is an artifact of how the different the CID group was related at least in part because of the 
+drugs were used. For adults, adalimumab is approved by the greater oral corticosteroid exposure in this group, 
+Food and Drug Administration as a single, fixed dose, so that although the difference in corticosteroid use between 
+dose escalation was not used, and a second immunosup- groups was of marginal significance (IRR, 0.86; P = 
+pressive agent was added for uveitis relapse with tapering 0.061) and the cumulative dose difference was <1 g (0.73 
+oral corticosteroids. In contrast, in the CID group, an anti- g). It also should be noted that the fraction of phakic eyes 
+metabolite was initiated at an effective dose with instructions that already had a cataract was numerically larger in the 
+to increase to the maximum dose for the first uveitis relapse, CID group as compared with the adalimumab group 
+and a second agent was added for the second uveitis relapse. (Table 1), which may have contributed to the differences 
+Although a greater use of 2 immunosuppressive agents in the observed.
+adalimumab group not receiving an immunosuppressive Systemic side effects were infrequent in both groups, 
+drug at baseline theoretically could have influenced the re- suggesting that both treatment approaches are well toler-
+sults, the faster time to successful corticosteroid sparing and ated. However, discontinuation for toxicity was observed 
+greater proportion of participants with successful cortico- only in the CID group, although the number discontinuing 
+steroid discontinuation was similar qualitatively in both was low (n = 8). Three of these participants in the CID 
+strata (not receiving and receiving an immunosuppressive group discontinued because of elevated liver enzymes, 
+drug at baseline). That result plus the fact that the rate of which often is associated with methotrexate therapy.
+immunosuppression advancement was greater in the CID 
+group than in the adalimumab group in the no immunosup- Study Limitations
+pression at baseline stratum suggests that the greater use of a 
+second immunosuppressive agent in the no immunosup- Because of the different method of treatment administration 
+pression at baseline adalimumab group did not unduly in- between the 2 treatment groups and among the different 
+fluence the corticosteroid sparing results. drugs in the CID group, study staff and participants were 
+Both groups were successful in maintaining BCVA, unmasked to treatment assignment. The trial also used a 
+
+although those assigned to the CID group showed a greater novel design in which ophthalmic imaging for assessing 
+rate of loss of ≥3 lines of acuity, in part because of a greater disease activity was uveitic disease-specific (i.e., not all
+
+319
+
+
+
+Ophthalmology Volume 133, Number 3, March 2026
+
+320
+
+Table 3. Comparison of Efficacy Outcomes for Those Assigned to Receive Adalimumab versus Conventiona l Immunosuppressive Drug Therapy
+ 
+
+Outcome No . Within-Treatmen t Comparison Estimated Treatment ffect
+   E  (95% Confidence Interval) P Value
+
+  
+Ocular Outcomes
+
+Change from Baselin e Difference in Change from Baseline
+  
+
+Eyes Adalimumab Conventional Immunosuppressiv e Dru g Therap y Adalimumab minus Conventional Immunosuppressive Drug Therapy
+
+Visual acuity
+3 mos 384 3.0 (1.7—4.4) 1.0 (—0.4 to 2.5) 2.0 (0.1—4.0) 0.044
+6 mos 393 4.1 (2.5—5.6) 1.1 (—0.6 to 2.7) 3.0 (0.7—5.3) 0.01 
+12 mos 391 3.6 (1.3—5.8) 3.2 (1.7—4.6) 0.4 (—2.3 to 3.1) 0.77
+
+Macula r edema* Odds Compared with Baseline, Odds Rati o (95% Confidence Interv l ati Odds
+   a  ) R  o of  Ratio
+
+Adalimumab Conventional Immunosuppressiv e Dru g Therapy Adalimuma b or Conventional Immunosuppressiv e Drug Therapy
+
+3 mos 375 0.51 (0.37—0.69) 0.85 (0.65—1.09) 0.60 (0.40—0.90) 0.012
+6 mos 387 0.46 (0.33—0.63) 0.76 (0.55—1.06) 0.60 (0.38—0.95) 0.027
+12 mos 366 0.34 (0.23—0.51) 0.63 (0.42—0.94) 0.55 (0.31—0.94) 0.028
+
+Quality-of-Lif e Outcomes
+Participants Odds Compared with Baseline, Odds Rati o (95% Confidence Interv l ati Odds
+
+  Ratio
+  a  ) R  o of 
+
+Adalimumab Conventional Immunosuppressiv e Dru g Therapy Adalimuma b or Conventional Immunosuppressiv e Drug Therapy
+
+EQ-5D index †
+
+ of
+s 
+
+ 1 
+3 mo 199 1.32 (0.95—1.83) 1.05 (0.65—1.67) 1.26 (0.71—2.34) 0.43
+6 mos 204 1.07 (0.73—1.58) 0.86 (0.53—1.39) 1.25 (0.67—2.31) 0.48 
+12 mos 202 0.89 (0.60—1.32) 1.17 (0.78—1.74) 0.76 (0.43—1.34) 0.35
+
+Chang e from Baseline Difference in Change
+    from Baseline
+
+  
+Adalimumab Conventional Immunosuppressiv e Dru g Therapy Adalimuma b minu s Conventional Immunosuppressiv e Drug Therapy
+
+NEI-VFQ-25 composite‡ 
+3 mos 200 6.1 (4.3—7.9) 4.1 (1.8—6.3) 2.0 (—0.8 to 4.9) 0.15
+6 mos 205 6.8 (4.9—8.6) 4.0 (1.7—6.3) 2.8 (—0.2 to 5.7) 0.06
+12 mos 205 6.7 (4.7—8.7) 5.1 (2.9—7.3) 1.6 (—1.4 to 4.6) 0.28
+
+SF-36 Physica l Componen t score
+§
+ 
+
+3 mos 200 0.52 (—0.77 to 1.82) —1.82 (—3.62 to —0.02) 2.34 (0.13—4.56) 0.038
+6 mos 205 0.63 (—0.83 to 2.09) —3.05 (—4.94 to —1.16) 3.67 (1.29—6.06) 0.003
+12 mos 205 —0.29 (—2.01 to 1.42) —1.68 (—3.27,— 0.08) 1.39 (—0.95 to .73) 0.24
+
+SF-36 §   3
+ Mental Component score
+
+ 
+ 
+
+3 mos 200 3.04 (1.25—4.84) —0.04 (—1.94 to 1.85) 3.08 (0.47—5.70) 0.021
+6 mos 205 1.65 (—0.23 to 3.52) —0.48 (—2.61 to 1.65) 2.13 (—0.71 to 4.96) 0.14
+12 mos 205 1.56 (—0.55 to 3.67) 0.97 (—1.19 to 3.13) 0.59 (—2.43 to 3.61) 0.70
+
+EQ5D = EuroQoL 5-Dimension; = 25-item National Eye Institut lth Survey.
+  NEI-VFQ-25
+ne d   
+
+ubfield  0 
+   e Visua l Function Questionnaire
+
+  ; SF-36= 36-Item Short-Form Hea
+     
+
+*Defi  as central s  macular thickness of ≥ 30
+  μm.
+
+† Considered perfect health.
+‡ Minima l clinically important difference, 4—6 points.
+§ Minima l clinically important difference, 3—5 points.
+
+ 
+
+
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group • ADVISE Trial
+
+Table 4. Comparison of the Incidence of Ocular and Systemic Events for Those Assigned to Adalimumab versus Conventional 
+Immunosuppressive Drug Therapy
+
+Adalimumab vs.
+Conventional Conventional
+
+Immunosuppressive Immunosuppressive
+Adalimumab Drug Therapy Drug Therapy
+
+Cumulative % Cumulative % Hazard Ratio
+(95% Confidence (95% Confidence (95% Confidence
+
+Events No./Total No. Interval) No./Total No. Interval) Interval) P Value
+
+Ocular events
+IOP increase of 10 mmHg over baseline 19/212 9 (4—14) 16/214 8 (4—12) 1.16 (0.52—2.59) 0.73
+IOP ≥24 mmHg 22/206 11 (5—16) 26/204 13 (8—18) 0.80 (0.41—1.54) 0.5
+IOP ≥30 mmHg 11/209 5 (1—9) 10/209 5 (1—9) 1.05 (0.37—3.02) 0.93
+IOP-lowering medication 18/169 16 (3—27) 17/179 10 (4—16) 1.09 (0.47—2.50) 0.85
+New-onset glaucoma 2/198 1 (0—2) 6/203 11 (0—27) 0.31 (0.05—1.89) 0.20
+Glaucoma surgery 2/212 1 (0—2) 5/214 3 (0—6) 0.37 (0.06—2.33) 0.29
+Cataract surgery 4/176 2 (0—5) 17/172 11 (4—17) 0.21 (0.07—0.67) 0.009
+BCVA decrease ≥ 15 letters 13/212 6 (3—10) 26/213 13 (8—17) 0.45 (0.23—0.91) 0.026
+BCVA decrease ≥ 30 letters* 11/212 7 (1—12) 7/213 3 (1—6) 1.46 (0.56—3.80) 0.43
+
+Systemic events
+Discontinuation of assigned treatment 0/113 N/A 8/108 8 (3—13) N/A N/A
+
+because of intolerance
+Hypertension requiring medical treatment 2/91 2 (0—5) 3/91 3 (0—7) 0.65 (0.11—3.92) 0.64
+Abnormal laboratory results
+Hemoglobin < 10 gm/dl 1/ 112 1 (0—3) 5/110 5 (1—9) 0.19 (0.02—1.61) 0.13
+White blood cell count < 2500 cells/μl 2/112 2 (0—4) 1/110 1 (0—3) 1.85 (0.16—20.76) 0.62
+Platelets < 100 000 μl 2/112 2 (0—4) 2/110 2 (0—4) 0.94 (0.14—6.44) 0.95
+Creatinine 30% > baseline or > 1.5 mg/dl 14/111 13 (6—18) 15/110 14 (7—20) 0.89 (0.43—1.82) 0.74
+Hepatoxicity: AST and ALT more than 2/111 2 (0—5) 11/110 10 (4—16) 0.16 (0.04—0.70) 0.014
+
+twice the upper limit normal
+Glucose more than twice the upper limit normal†  7/107 7 (2—11) 7/107 7 (2—11) 0.98 (0.35—2.76) 0.97
+
+ALT = alanine aminotransferase; AST = aspartate aminotransferase; BCVA = best corrected visual acuity; IOP = intraocular pressure; N/A = not 
+applicable..
+*Reasons: cataract (n = 7), active uveitis (n = 4), vitreous hemorrhage (n = 2), glaucoma (n = 2), underwent cataract surgery (n = 1), ocular lymphoma 
+(n = 1), and retinal detachment (n = 1). Eleven of 18 eyes recovered visual acuity by the end of the trial.
+† One participant in the adalimumab group was hospitalized and received a diagnosis of diabetes.
+
+participants were imaged with the same set of images), and imaging interpretation, activity determination, and adher-
+disease activity was assessed at the clinical center. The use ence to the protocol mitigated the effect of unmasked 
+of an MTQAC to monitor and improve consistency of treatment in the ADVISE Trial.
+
+Table 6. Cumulative Proportion of Participants with Successful Corticosteroid Sparing and Successful Corticosteroid Discontinuation 
+over Time for Adalimumab versus Conventional Immunosuppressive Drug Therapy
+
+Estimated Treatment Effect: Odds Ratio 
+Cumulative Proportion (95.08% Confidence Interval*) † (95.08% Confidence Interval*) ‡
+
+Conventional
+Immunosuppressive Odds Adalimumab/ Odds Conventional 
+
+Variable No. Adalimumab Drug Therapy Immunosuppressive Drug Therapy P Value
+
+Successful corticosteroid sparing §
+6 mos 217 0.69 (0.60—0.77) 0.54 (0.44—0.64) 1.86 (1.06—3.25) 0.029 
+12 mos 211 0.86 (0.78—0.92) 0.77 (0.67—0.84) 1.89 (0.93—3.83) 0.077 
+
+Successful corticosteroid discontinuation| |
+6 mos 217 0.15 (0.09—0.24) 0.11 (0.06—0.18) 1.53 (0.67—3.46) 0.30 
+12 mos 207 0.55 (0.45—0.64) 0.40 (0.30—0.50) 1.85 (1.06—3.19) 0.028
+
+*Significance level of 0.0492 was used to account for a single interim analysis.
+† Unadjusted model used to estimate the cumulative proportion.
+‡ Adjusted for stratification variables: initial prednisone dosage and immunosuppression use at baseline.
+§ Defined as inactive uveitis at a prednisone dosage ≤ 7.5 mg/day for 2 consecutive visits ≥ 28 days apart.
+|| Defined as inactive uveitis after prednisone dosage discontinuation for 2 consecutive visits ≥ 28 days apart.
+
+321
+
+
+
+Ophthalmology Volume 133, Number 3, March 2026
+
+The unmasked treatment and the different methods of suggesting that their prognosis was better with anti-TNF 
+administration (pills vs. subcutaneous injections) could therapy,1 0 these data raise the question of the impact of 
+have influenced the quality-of-life assessments, either in calcineurin inhibitors on the overall results of the trial. 
+favor of adalimumab, because of a perception that paren- However, most participants in the ADVISE Trial were 
+teral administration is more effective, or against adalimu- receiving immunosuppressive drug monotherapy after 
+mab, because of participants’ preference for the more easily randomization (in which CID group overwhelmingly 
+administered oral agents. Nevertheless, no clinically received antimetabolites), cyclosporine was the assigned 
+meaningful difference was found between the 2 groups in treatment in only 4% of participants, and the results were 
+the quality-of-life results. Twenty-two percent of the par- qualitatively similar for the 1 and 2 immunosuppressive 
+ticipants had been unable to achieve successful corticoste- drug strata (Fig S4, available at www.aaojournal.org), 
+roid sparing with a single conventional immunosuppressive suggesting that cyclosporine use had a minimal effect on 
+agent before randomization and needed a second immuno- the results. Therefore, it is unlikely that the results of the 
+suppressive agent. Among this stratum, the potential exists ADVISE Trial were influenced unduly by the 
+for the perception that conventional therapy failed in these heterogeneity of treatments in the CID group.
+participants, despite the fact that the antimetabolite therapy The number lost to follow-up was higher among those 
+had been partially successful, not ineffective. However, the assigned to the CID group versus the adalimumab group, 
+protocol was detailed with regard to clinical examination which has the potential to cause bias. Several possible 
+and imaging interpretation, corticosteroid tapering, and reasons exist for this differential. Individuals may have 
+immunosuppression advancement, and the MTQAC moni- wanted to receive the more novel drug, adalimumab, and 
+tored adherence to the protocol, mitigating any potential dropped out when they did not receive it, as evidenced by 
+bias. The results were qualitatively similar between the 2 the number of dropouts immediately after randomization (3 
+strata, suggesting that this potential source of bias did not participants in the adalimumab group vs. 1 participant in the 
+influence the results. CID group). Drug toxicity also may have played a role, 
+The ADVISE Trial used a 2-step dose escalation because all 8 individuals discontinuing the assigned treat-
+
+approach for antimetabolite therapy, similar to what is used ment were assigned to the CID group. Regardless, the re-
+often in clinical practice.5  An alternative approach is to start sults were consistent across a variety of different analysis 
+with the maximum dose (after a short introductory period at techniques, each of which is built on different assumptions 
+lower doses to assess tolerability). 29 Although the approach regarding missing data, and therefore, the missing differ-
+in the ADVISE Trial may have delayed slightly the time to ential dropout rate is unlikely to have influenced the results 
+successful corticosteroid sparing in the CID group, the trial substantially.
+was designed to permit this dose escalation and still be able Because the ADVISE Trial was designed, case series 
+to determine successful corticosteroid sparing by 6 months have been published describing the occurrence of anti-
+of follow-up, which was the primary outcome of the trial. adalimumab antibodies in patients with uveitis treated with 
+Although adalimumab was faster for successful corti- adalimumab. Antiadalimumab antibodies can result in 
+
+costeroid sparing, by 12 months of follow-up, the CID decreased blood levels of adalimumab and loss of 
+group seemed to be catching up to the adalimumab group in efficacy.4 7—51 Unresolved issues in the occurrence of anti-
+the proportion with successful corticosteroid sparing, adalimumab antibodies are the rate of occurrence in patients 
+suggesting that the difference between the 2 groups might with uveitis and whether treatment with a second agent 
+be the rapidity of effect and not the ultimate efficacy. decreases the risk of their formation, although several case 
+The proportion with successful corticosteroid discontinua- series suggest a lower occurrence of antiadalimumab anti-
+tion was higher in the adalimumab group at 12 months, bodies in patients treated with a second immunosuppressive 
+which was the end of follow-up. Hence, no opportunity agent.4 8—51 In the ADVISE Trial, 78% of participants were 
+was available to determine if the CID group ultimately not receiving immunosuppressive agents at baseline. Within 
+might have a proportion with successful corticosteroid the adalimumab group, these participants were assigned to 
+discontinuation similar to that of adalimumab with a longer receive treatment with adalimumab alone (i.e., without a 
+follow-up. second immunosuppressive drug). It is possible that the 
+In the CID group, several different immunosuppressive patients treated with adalimumab may benefit from the use 
+
+agents were used as the assigned treatment, consistent with of a second immunosuppressive drug to reduce the likeli-
+current clinical care practices, including calcineurin in- hood of antiadalimumab antibody formation and that ada-
+hibitors in 21% of participants. Previous data suggested limumab’s use as a single immunosuppressive agent might 
+similar efficacy for the 3 antimetabolites 27—31 but possibly need to be minimized. The ADVISE Trial did not measure 
+lower efficacy for cyclosporine than for anti- antiadalimumab antibodies and did not bank blood speci-
+metabolites.1 8—20 Some data have suggested that tacrolimus mens for such analyses, so additional data are required to 
+has similar efficacy to mycophenolate, whereas other data address this question.
+suggested its efficacy was similar to that of cyclo-
+sporine.2 1,22 In a randomized clinical trial of participants 
+with Behçet disease, adalimumab was superior to Conclusions
+cyclosporine for the prevention of uveitis relapses. 46 
+Although patients with Behçet disease were excluded For patients with noninfectious intermediate uveitides, 
+from the ADVISE Trial because of previous data posterior uveitides, and panuveitides, both adalimumab
+
+322
+
+
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group • ADVISE Trial
+
+therapy and CIDs (i.e., antimetabolites and calcineurin in- the ADVISE Trial, adalimumab’s effect was faster for 
+hibitors) were effective for controlling ocular inflammation successful corticosteroid sparing by 6 months and a greater 
+while permitting successful tapering of corticosteroids to proportion of participants achieved successful corticoste-
+doses considered safe for intermediate-term use (years). In roid discontinuation by 12 months.
+
+Footnotes and Disclosures
+
+Originally received: May 22, 2025. Supported by the National Eye Institute, the National Institutes of Health, 
+Final revision: September 8, 2025. Bethesda, Maryland (grant nos.: UG1 EY28096 [D.A.J.], UG1 EY028091 
+Accepted: October 2, 2025. [J.T.H. and E.A.S.], and UG1 EY028087 [M.A.]). AbbVie, Inc., donated 
+Available online: October 11, 2025. Manuscript no. OPHTHA-D-25- adalimumab to the trial.
+01147. HUMAN SUBJECTS: Human subjects were included in this study. The 
+1 Center for Clinical Trials and Evidence Synthesis, Department of study was approved at the institutional review boards of each of the clinical 
+Epidemiology, Johns Hopkins Bloomberg School of Public Health, Bal- centers and the 3 resource centers (Chairman’s Office, Coordinating 
+timore, Maryland. Center, and Reading Center), and all participants gave written, informed 
+2 Department of Ophthalmology, Wilmer Eye Institute, Johns Hopkins consent. The trial adhered to the principles of the Declaration of Helsinki. 
+University School of Medicine, Baltimore, Maryland. No animal subjects were included in this study.
+3 Department of Biostatistics, Johns Hopkins Bloomberg School of Public 
+Health, Baltimore, Maryland. Author Contributions:
+4 Department of Ophthalmology, University of Wisconsin School of Conception and design: Jabs, Sugar, Burke, Altaweel, Thorne, Holbrook 
+Medicine and Public Health, Madison, Wisconsin. Analysis and interpretation: Jabs, Sugar, Burke, Altaweel, Thorne, Baksh, 
+5 Department of Ophthalmology, Royal Victorian Eye and Ear Hospital, Holbrook
+Melbourne, Australia. Data collection: Jabs, Sugar, Burke, Altaweel, Thorne, Baksh, Lim, 
+6 Tennessee Retina, Nashville, Tennessee. Thomas, Yeh, Holbrook
+7 Department of Ophthalmology and Visual Sciences, University of Obtained funding: N/A
+Nebraska Medical Center, Omaha, Nebraska. Overall responsibility: Jabs, Sugar, Burke, Altaweel, Thorne, Baksh, Lim, 
+*Members of the ADVISE Trial Research Group are listed in Appendix B Thomas, Yeh, Holbrook
+(available at www.aaojournal.org). Abbreviations and Acronyms:
+Disclosure(s): ADVISE = Adalimumab versus Conventional Immunosuppression for 
+All authors have completed and submitted the ICMJE disclosures form. Uveitis; aOR = adjusted odds ratio; CI = confidence interval; 
+The author(s) have made the following disclosure(s): CID = conventional immunosuppressive drug; HR = hazard ratio; 
+
+J.E.T.: Consultant — Canfield Scientific, Clearview Pharma Solutions, IRR = incident rate ratio; MTQAC = medical therapy quality assurance 
+
+Gilead Sciences, committee; OR = odds ratio; TNF = tumor necrosis factor.
+ Inc., Guidepoint, Merck, Sanofi Pharmaceuticals; 
+
+Financial support — Priovant Therapeutics; Equity owner — Tarsier Keywords:
+Pharma Adalimumab, Corticosteroid sparing, Immunosuppression, Uveitis. 
+L.L.: Consultant — Allergan/AbbVie, Inc., Bayer, Novartis, Roche; Correspondence:
+Financial support — Bayer, Roche Douglas A. Jabs, MD, MBA, Department of Epidemiology, The Johns 
+A.T.: Consultant — Allergan Pharmaceuticals, Inc., Alimera Sciences, Inc., Hopkins University Bloomberg School of Public Health, 615 North Wolfe 
+Avesis, Bausch & Lomb, Eyepoint Pharmaceuticals, Inc., Genentech Street, Room E7138, Baltimore, MD 21205. E-mail: djabs@jhmi.edu.
+
+References
+
+1. Jabs DA, Busingye J. Approach to the diagnosis of the 6. Thorne JE, Jabs DA, Peters GB, et al. Birdshot retinochor-
+uveitides. Am J Ophthalmol. 2013;156(2):228—236. oidopathy: ocular complications and visual impairment. Am J 
+
+2. Jabs DA, Nussenblatt RB, Rosenbaum JT. Standardization of Ophthalmol. 2005;140(1):45—51.
+Uveitis Nomenclature (SUN) Working Group. Standardiza- 7. Thorne JE, Jabs DA, Kedhar SR, et al. Loss of visual field
+tion of uveitis nomenclature for reporting clinical data. Re- among patients with birdshot chorioretinopathy. Am J Oph-
+sults of the First International Workshop. Am J Ophthalmol. thalmol. 2008;145(1):23—28.
+2005;140(3):509—516. 8. Thorne JE, Wittenberg S, Jabs DA, et al. Multifocal choroi-
+
+3. Jabs DA, Berkenstock MK, Altaweel MM, et al. The conun- ditis with panuveitis: incidence of ocular complications and of 
+drum of clinical trials for the uveitides: appropriate outcome loss of visual acuity. Ophthalmology. 2006;113(12): 
+measures for one treatment used in several diseases. Epi- 2310—2316.
+demiol Rev. 2022;44:2—16. 9. Bykhovskaya I, Thorne JE, Kempen JH, et al. Vogt-Koya-
+
+4. Jabs DA. Treatment of ocular inflammation. Ocul Immunol nagi-Harada disease: clinical outcomes. Am J Ophthalmol. 
+Inflamm. 2004;12(3):163—168J. 2005;140(4):674—678.
+
+5. Jabs DA. Immunosuppression for the uveitides. Ophthal- 10. Taylor SR, Singh J, Menezo V, et al. Behçet disease: visual
+mology. 2018;125(2):193—202. prognosis and factors influencing the development of visual 
+
+loss. Am J Ophthalmol. 2011;152(6):1059—1066.
+
+323
+
+
+
+Ophthalmology Volume 133, Number 3, March 2026
+
+11. Goldberg NR, Lyu T, Moshier E, Jabs DA. Success with 27. Galor A, Jabs DA, Leder HA, et al. Comparison of antime-
+single agent immunosuppression for multifocal choroido- tabolite drugs as corticosteroid-sparing therapy for non-
+pathies. Am J Ophthalmol. 2014;158(6):1310—1317. infectious ocular inflammation. Ophthalmology. 2008;115 
+
+12. Thorne JE, Woreta F, Kedhar SR, et al. Juvenile idiopathic (10):1826—1832.
+arthritis-associated uveitis: incidence of ocular complications 28. Gangaputra SA, Newcomb CW, Joffe MM, et al. Comparison
+and visual acuity loss. Am J Ophthalmol. 2007;143(5): between methotrexate and mycophenolate for the control of 
+840—846. non-infectious ocular inflammatory disease. Am J Oph-
+
+13. Kacmaz RO, Kempen JH, Newcomb C, et al. Systemic thalmol. 2019;208:68—75.
+Immunosuppressive Therapy for Eye Disease Cohort Study 29. Rathinam SR, Gonzales JA, Thundikandy R, et al. Effect of
+Group. Ocular inflammation in Behçet disease: incidence of corticosteroid-sparing treatment with mycophenolate vs. 
+ocular complications and of loss of visual acuity. Am J methotrexate on inflammation in patients with uveitis: a ran-
+Ophthalmol. 2008;146(6):828—836. domized clinical trial. JAMA. 2019;322(10):936—945.
+
+14. Multicenter Uveitis Steroid Treatment (MUST) Trial 30. Jabs DA. Antimetabolite therapy for uveitis, methotrexate or
+Research Group. Randomized comparison of systemic anti- mycophenolate? JAMA Ophthalmol. 2019;137(12):1449—1451.
+inflammatory therapy versus fluocinolone acetonide implant 31. Jabs DA. Stratification clarification for methods for randomized
+for intermediate, posterior, and panuveitis: the multicenter clinical trials―reply. JAMA Ophthalmol. 2020;138(7):801.
+uveitis steroid treatment trial. Ophthalmology. 2011;118(10): 32. Ferris 3rd FL, Kassoff A, Bresnick GH, Bailey I. New visual
+1916—1926; erratum published in: Ophthalmology. 2012;119: acuity charts for clinical research. Am J Ophthalmol. 1982;94 
+212. (1):91—96.
+
+15. The Multicenter Uveitis Steroid Treatment (MUST) Trial and 33. Ferris 3rd FL, Bailey I. Standardizing the measurement of
+Follow-up Study Research Group. Association between long- visual acuity for clinical research studies: guidelines from the 
+lasting intravitreous fluocinolone acetonide implant vs sys- Eye Care Technology Forum. Ophthalmology. 1996;103(1): 
+temic anti-inflammatory therapy and visual acuity at 7 years 181—182.
+among patients with intermediate, posterior, or panuveitis. 34. EuroQol Group. EuroQol―a new facility for the measure-
+J Amer Med Assoc. 2017;317(19):1993—2005. ment of health-related quality of life. Health Policy. 1990;16 
+
+16. Da Silva JA, Jacobs JW, Kirwan JR, et al. Safety of low dose (3):199—208.
+glucocorticoid treatment in rheumatoid arthritis: published 35. Brooks R. EuroQol: the current state of play. Health Policy.
+evidence and prospective trial data. Ann Rheum Dis. 2006;65 1996;37(1):53—72.
+(3):285—293. 36. Jenkinson C, Wright L, Coulter A. Criterion validity and
+
+17. del Rincón I, Battafarano DF, Restrepo JF, et al. Glucocorti- reliability of the SF-36 in a population sample. Qual Life Res. 
+coid dose thresholds associated with all-cause and cardio- 1994;3(1):7—12.
+vascular mortality in rheumatoid arthritis. Arthritis 37. Brazier JE, Harper R, Jones NM, et al. Validating the SF-36
+Rheumatol. 2014;66(2):264—272. health survey questionnaire: new outcome measure for pri-
+
+18. Gangaputra S, Newcomb CW, Liesegang TL, et al. Systemic mary care. BMJ. 1992;305(6846):160—164.
+Immunosuppressive Therapy for Eye Diseases Cohort Study. 38. Mangione CM, Lee PP, Gutierrez PR, et al. Development of
+Methotrexate for ocular inflammatory diseases. Ophthal- the 25-item National Eye Institute Visual Function Ques-
+mology. 2009;116(11):2188—2198. tionnaire. Arch Ophthalmol. 2001;119(7):1050—1058.
+
+19. Daniel E, Thorne JE, Newcomb CW, et al. Mycophenolate 39. Sugar EA, Burke AE, Venugopal V, et al. Responsiveness of
+mofetil for ocular inflammation. Am J Ophthalmol. 2010;149 vision-specific and general quality of life metrics to ocular and 
+(3):423—432. systemic events in patients with uveitis. Ophthalmology. 
+
+20. Kacmaz RO, Kempen JH, Newcomb C, et al. Cyclosporine 2020;127(12):1710—1718.
+for ocular inflammatory diseases. Ophthalmology. 2010;117 40. Shaw JW, Johnson JA, Coon SJ. US valuation of the EQ-5D
+(3):576—584. health states: development and testing of the D1 valuation 
+
+21. Murphy CC, Greiner K, Plskova J, et al. Cyclosporine vs. model. Med Care. 2005;43:203—220.
+tacrolimus therapy for posterior and intermediate uveitis. Arch 41. Yeh S, Forooghian F, Wong WT, et al. Fundus auto-
+Ophthalmol. 2005;123(5):634—641. fluorescence imaging of the white dot syndromes. Arch 
+
+22. Hogan AC, McAvoy CE, Dick AD, Lee RW. Long-term ef- Ophthalmol. 2010;128(1):46—56.
+ficacy and tolerance of tacrolimus for the treatment of uveitis. 42. Spaide RF, Goldberg N, Freund KB. Redefining multifocal
+Ophthalmology. 2007;114(5):1000—1006. choroiditis and panuveitis and punctate inner choroidopathy 
+
+23. Jabs DA, Thorne JE, Wilkins CS, et al. Tacrolimus for through multimodal imaging. Retina. 2013;33(7):1315—1324.
+immunosuppression in patients with non-infectious interme- 43. Kramer M, Priel E. Fundus autofluorescence imaging in
+diate, posterior, or panuveitides. Retina. 2023;43:1480—1486. multifocal choroiditis: beyond the spots. Ocular Immunol 
+
+24. Jaffe GJ, Dick AD, Brezin AP, et al. Adalimumab in patients Inflamm. 2013;22(5):349—355.
+with active non-infectious uveitis. N Engl J Med. 2016;375 44. Little RJA, Rubin DB. Statistical Analysis with Missing Data.
+(10):932—943. 2nd ed. New York: John Wiley & Sons; 2002.
+
+25. Nguyen QD, Merrill PT, Jaffe GJ, et al. Adalimumab for the 45. Gale S, Wilson JC, Chia J, et al. Risk associated with cu-
+prevention of uveitic flare in patients with inactive non- mulative oral glucocorticoid use in patients with giant cell 
+infectious uveitis controlled by corticosteroids (VISUAL II): arteritis in real-world databases from the USA and UK. 
+a multicenter, double-masked, randomized, placebo- Rheumatoid Ther. 2018;5:327—340.
+controlled phase 3 trial. Lancet. 2016;388(10050): 46. Zhong Z, Deng D, Gao Y, et al. Combinations of immuno-
+1183—1192. modulatory agents for prevention of uveitis relapse in patients 
+
+26. Suhler EB, Jaffe GJ, Fortin E, et al. Long-term safety and with severe Behcet’s disease already on corticosteroid ther-
+efficacy of adalimumab in patients with non-infectious inter- apy: a randomised, open-label, head-to-head trial. Lancet 
+mediate uveitis, posterior uveitis, or panuveitis. Ophthal- Rhematol. 2024;6(11):e780—e790.
+mology. 2021;128(6):899—909.
+
+324
+
+
+
+The Adalimumab versus Conventional Immunosuppression for Uveitis Trial Research Group • ADVISE Trial
+
+47. McKay KM, Apostoplopoulos N, Chou B, et al. Anti-adali- juvenile idiopathic arthritis-associated uveitis. Arch Dis Child. 
+mumab antibodies in patients with non-infectious ocular in- 2019;104(3):246—250.
+flammatory disease: a case series. Ocular Immunol Inflamm. 50. Leinonen ST, Aalto K, Kotaniemi KM, Kivela TT. Anti-
+2022;30:1721—1725. adalimumab antibodies in juvenile idiopathic arthritis-related 
+
+48. Bromeo AJ, Karaca I, Ghoraba HH, et al. Risk factors for uveitis. Clin Exp Rheumatol. 2017;35:1043—1046.
+development of anti-adalimumab antibodies in non-infectious 51. Eurelings LEM, Missotten TOAR, Van Velthoven MEJ, et al.
+uveitis. Heliyon. 2024;10:e29313. Long-term follow-up of patients with uveitis treated with 
+
+49. Baumgarter AS, Seidel G, Wegscheider BL, et al. Drug adalimumab: response rates and reasons for discontinuation of 
+monitoring in long-term treatment with adalimumab for therapy. Am J Ophthalmol. 2022;240:194—204.
+
+325

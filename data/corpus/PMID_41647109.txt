@@ -1,0 +1,1312 @@
+﻿TYPE Methods
+PUBLISHED 21 January 2026
+DOI 10.3389/fendo.2025.1629157
+
+OPEN ACCESS
+
+EDITED BY
+Kaijian Hou,
+Shantou University, China
+
+REVIEWED BY
+Barkat Ali Khan,
+Gomal University, Pakistan
+Balamurali Venkatesan,
+Dr. M.G.R. Educational and Research Institute,
+India
+
+*CORRESPONDENCE
+Huanping Wang
+
+fangw139@163.com
+Hongxia Zhu
+
+2780019047@qq.com
+
+†These authors have contributed equally to
+this work
+
+RECEIVED 23 May 2025
+REVISED 09 December 2025
+ACCEPTED 29 December 2025
+PUBLISHED 21 January 2026
+
+CITATION
+Fang W, Li Z, Xu J, Zhao J, Zhu H and
+Wang H (2026) Effect of liraglutide on
+depressive symptoms in overweight or obese
+patients with type 2 diabetes: protocol for a
+pilot randomized controlled trial.
+Front. Endocrinol. 16:1629157.
+doi: 10.3389/fendo.2025.1629157
+
+COPYRIGHT
+© 2026 Fang, Li, Xu, Zhao, Zhu and Wang. This
+is an open-access article distributed under the
+terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic
+practice. No use, distribution or reproduction
+is permitted which does not comply with
+these terms.
+
+Frontiers in Endocrinology
+Effect of liraglutide on depressive
+symptoms in overweight or
+obese patients with type 2
+diabetes: protocol for a pilot
+randomized controlled trial
+Wei Fang †, Zinan Li †, Jie Xu †, Jing Zhao, Hongxia Zhu*
+and Huanping Wang*
+
+Department of Endocrinology, Chengdu Shuangliu Hospital of Traditional Chinese Medicine,
+Chengdu, China
+Introduction: Patients with concurrent obesity, type 2 diabetes, and depression
+experience high disease severity and prevalence. This triad of conditions
+compromises quality of life and treatment adherence, further exacerbating
+disease progression. Therapeutic strategies for such patients must address
+both glycemic control and psychological well-being. Liraglutide, a glucagon-
+like peptide-1 receptor agonist (GLP-1RA), offers benefits beyond glucose-
+lowering and weight reduction, with emerging evidence suggesting it may also
+alleviate depressive symptoms. Therefore, liraglutide represents a promising
+intervention for managing depression in patients with obesity and diabetes.
+Objectives: This study aims to assess the therapeutic efficacy of liraglutide in
+overweight or obese patients with type 2 diabetes and comorbid depression, with
+a specific focus on its antidepressant effects.
+Methods: This is a randomized, double-blind, placebo-controlled pilot trial. Sixty
+eligible participants will be randomly assigned (1:1) to receive either liraglutide
+(initiated at 0.6 mg/day, titrated weekly to a maximum of 1.8 mg/day) or a
+matched placebo, as an adjunct to standard care for 12 weeks. The primary
+endpoints include blood glucose levels, glycated hemoglobin, body mass index,
+Hamilton Depression Rating Scale score, and metrics derived from resting-state
+functional magnetic resonance imaging (resting-state fMRI). Secondary
+endpoints will assess changes in inflammatory biomarkers (tumor necrosis
+factor-a, interleukin-6), oxidative stress indicators (superoxide dismutase,
+malondialdehyde), homeostasis model assessment of insulin resistance, insulin
+sensitivity index, and homeostasis model assessment of b-cell function.
+Conclusions: This trial will provide preliminary data on the effects of liraglutide on
+depressive symptoms in overweight/obese patients with type 2 diabetes. The
+findings are expected to provide a basis and reference for subsequent large-scale
+clinical research.
+KEYWORDS
+
+depression, glucagon-like peptide-1 receptor agonists, liraglutide, obesity, type 2
+diabetes
+01 frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+Introduction
+
+Background and rationale {6a}
+
+Metabolic disorders, particularly obesity and diabetes, have
+become increasingly prevalent; recent epidemiological studies
+indicate that the global population affected by obesity has
+exceeded 2 billion (1), while the prevalence of diabetes is also on
+the rise (2).Today, type 2 diabetes(T2DM) and obesity are widely
+recognized as “co-occurring diseases” resulting from the interplay
+of genetic and environmental factors. Furthermore, overweight and
+obesity play a critical role in the development and progression of
+T2DM (3, 4). Notably, both obesity and T2DM are not only
+significant risk factors for disability and mortality, but also have a
+profound impact on emotional well-being (5).Research shows that
+metabolic diseases and mental disorders (especially depression)
+have a bidirectional relationship (6, 7).The risk of depression in
+patients with T2DM is 2–3 times higher than that in the general
+population, and the risk of developing T2DM in patients with
+depression is also significantly increased (8). A survey study found
+that the rate of depressive symptoms in patients with T2DM was as
+high as 68.2% (9), and an overweight/obese status may further
+increase the risk of emotional disorders in this group (10). Obesity
+and type 2 diabetes are considered physiological and psychosomatic
+diseases closely related to psychological factors (11).
+
+Since metabolic diseases, such as obesity and T2DM, frequently co-
+occur with mood disorders like anxiety and depression, some scholars
+have introduced the concept of the metabolic-affective syndrome and
+suggested that there may be common underlying mechanisms for
+obesity, T2DM, and depression (11).In-depth mechanistic
+investigations have revealed that the pathological network underlying
+metabolic affective syndrome encompasses multiple pathways, such as
+neuroendocrine dysregulation, chronic low-grade inflammation, and
+insulin resistance, as well as other factors (12, 13).Current clinical
+management demonstrates persistent limitations in the efficacy of
+conventional antidepressant therapies and glycemic control protocols
+for patients with T2DM and comorbid depression (14), highlighting
+the lack of targeted therapeutic strategies for metabolic
+affective syndrome.
+
+Glucagon-like peptide-1 (GLP-1), a hormone secreted by
+intestinal L-cells, exhibits glucose concentration-dependent
+hypoglycemic effects. Its receptor agonists (GLP-1RAs) mimic the
+physiological actions of GLP-1 and have been widely used as
+glucose-lowering agents in the clinical management of T2DM,
+particularly in overweight/obese patients (15, 16). GLP-1RAs and
+their analogs can cross the blood-brain barrier and directly
+influence the physiological functions of the human brain (17).
+Abbreviations: GLP-1RAs, Glucagon-like peptide-1 receptor agonists; GLP-1,
+
+Glucagon-like peptide-1; HbA1c, glycated hemoglobin; BMI, body mass index;
+
+HAMD, Hamilton Depression Rating Scale; resting-state fMRI, resting-state
+
+functional magnetic resonance imaging; HOMA-IR, homeostasis model
+
+assessment of insulin resistance; ISI, Insulin Sensitivity Index; HOMA-b,
+HOMA Islet beta Cell Function Index; ALFF,low-frequency fluctuation; ReHo,
+
+regional homogeneity; FC, functional connectivity.
+
+Frontiers in Endocrinology 02
+Basic studies reveal that GLP-1RAs exert neuroprotective effects
+through multiple pathways such as inhibiting neuroinflammation,
+promoting neurogenesis, and restoring neuronal insulin signaling
+(18, 19). Preclinical studies have shown that liraglutide treatment
+significantly improves cognitive function in patients with
+depression and bipolar disorder (20). However, current clinical
+evidence remains controversial. Although recent meta-analyses
+support the efficacy of GLP-1RAs in improving depression scale
+scores (21), some studies suggest potential risks of inducing mood
+fluctuations or depressive symptoms (22).This inconsistency in
+evidence reflects the complexity of disease mechanisms and
+highlights the importance of conducting rigorous clinical studies.
+
+To this end, the project team designed a randomized,
+controlled, double-blind clinical trial: Effect of Liraglutide on
+Depressive Symptoms in Overweight or Obese Patients with Type
+2 Diabetes: Protocol for a Pilot Randomized Controlled Trial. The
+findings of this study will offer supportive evidence for liraglutide
+use in overweight or obese patients with type 2 diabetes mellitus
+comorbid with depression, and lay the groundwork for a definitive
+large-scale clinical study.
+Objectives {7}
+
+This study aims to evaluate the clinical efficacy of daily
+liraglutide treatment in obese and overweight patients with
+comorbid T2DM and depression as well as its impact on
+depressive symptoms. This study adopts a multidimensional
+assessment system: 1) metabolic parameters, with focused
+monitoring of glycemic control, body weight changes, and insulin
+sensitivity improvements; 2) mental health evaluation, with
+dynamic assessments using standardized depression scales
+combined with resting-state functional magnetic resonance
+imaging (rs-fMRI) to investigate brain functional alterations; and
+3) pathogenesis exploration, with assessment of the changes in
+inflammatory and oxidative stress markers. The results of this study
+are expected to demonstrate that liraglutide can improve metabolic
+parameters and depression scores in overweight or obese patients
+with T2DM comorbid with depression, providing evidence for
+GLP-1RA intervention in “metabolic-affective syndrome.
+Furthermore, through systematic analysis of the aforementioned
+biomarkers, this study aims to preliminarily elucidate the potential
+mechanism underlying liraglutide’s benefits—specifically, whether
+it exerts concurrent positive effects on both metabolism and
+depressive symptoms via a synergistic pathway involving the
+reduction of systemic low-grade inflammation, alleviation of
+oxidative stress, and improvement of insulin signaling.
+Trial design {8}
+
+This randomized, controlled, double-blind pilot trial will be
+conducted in Chengdu, China. Eligible participants will be
+randomly allocated to two parallel groups (1:1 ratio). All
+participants will retain the right to withdraw at any stage,
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+consistent with the Standard Protocol Items: Recommendations for
+Interventional Trials (SPIRIT) guidelines (23). Figure 1 presents a
+flowchart of the study.
+Methods: participants, interventions,
+and outcomes
+
+Study setting {9}
+
+The investigation will be conducted at a prestigious third-grade
+Class A medical institution in Shuangliu District, Chengdu. This
+hospital is recognized as the largest and prominent center for
+traditional Chinese medicine in the region, serving nearly two
+million residents. Equipped with state-of-the-art diagnostic and
+treatment facilities, patients who are enrolled in the study will
+receive their follow-up care, undergo necessary medical
+examinations, receive drug interventions, and fill out the required
+questionnaires within the hospital’s endocrinology department.
+Frontiers in Endocrinology 03
+Eligibility criteria {10}
+
+The diagnostic and screening process for depression in this study
+will be conducted in two stages. Initial screening based on theHamilton
+Depression Rating Scale (HAMD-24) will be performed by trained
+research staff. Subsequently, a definitive diagnosis of depressive
+disorder will be confirmed by a board-certified psychiatrist with over
+ten years of clinical experience, using the Mini-International
+Neuropsychiatric Interview (MINI) aligned with ICD-11 criteria. All
+raters administering the HAMD will undergo standardized training,
+and inter-rater reliability will be assessed prior to the main trial using
+an independent sample; the results (Intraclass Correlation Coefficient)
+will be reported to ensure consistency. Endocrinologists will be
+primarily responsible for assessing metabolic inclusion criteria and
+overall medical safety. The screening protocol will involve an array of
+assessments to ensure comprehensive evaluation of each participant.
+These include baseline demographic and anthropometric
+measurements (height, weight, and body mass index), laboratory
+investigations (fasting blood glucose levels, glycated hemoglobin
+FIGURE 1
+Flow diagram of the recruitment process, group allocation, and participation in the two interventions.
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+levels, complete blood count, and routine biochemical profiles), and
+psychological evaluations using standardized tools such as the
+Hamilton Depression Rating Scale. In addition, an exhaustive review
+of each participant’s medical history will be conducted, and eligible
+individuals will be provided with a detailed explanation of the aims and
+objectives of the study. If they indicate a desire to participate, a personal
+interview will be arranged to address any questions and verify that they
+meet all specified inclusion and exclusion criteria. In this interview, a
+member of the research team from the trial steering committee will
+present the study details to potential participants and obtain written
+informed consent. Screening will continue until the target number of
+participants is achieved. Table 1 lists the inclusion criteria and Table 2
+lists the exclusion criteria.
+Who will take informed consent? {26a}
+
+Before potential participants are enrolled in the clinical trial, the
+responsible physician will provide a detailed explanation of all aspects
+of the study. This information included the nature of the interventions,
+potential risks related to participation, anticipated benefits, and other
+relevant details. If participants choose to participate after fully
+understanding the study, its risks, and potential benefits, they or
+their legally authorized representatives will sign a written informed
+consent document to confirm their voluntary agreement to participate.
+Additional consent provisions for
+collection and use of participant data and
+biological specimens {26b}
+
+The informed consent process includes participants’ agreement
+to the use of their personal data as part of the research. No
+additional analyses will be performed on the biological samples.
+Frontiers in Endocrinology 04
+Interventions
+
+Explanation for the choice of comparators
+{6b}
+
+The trial is designed as a placebo-controlled study with a 1:1
+randomization ratio between liraglutide and placebo. Patients in
+both study arms will receive a structured dietary management plan
+and guidance on diabetes-specific physical activity. They will be
+required to adhere consistently to the prescribed diet and exercise
+regimen for 12 weeks.
+Intervention description {11a}
+
+Randomization and intervention
+Upon providing written informed consent, participants will be
+
+randomly allocated in a 1:1 ratio to either the experimental or
+control group. The experimental group will receive active treatment
+with liraglutide injections, whereas the control group will receive
+matching placebo injections. Treatment protocols will be
+determined by two endocrinologists and a psychiatrist involved in
+screening. Both groups will receive identical standard care,
+including diabetes-specific dietary plans and exercise guidance
+throughout the 12-week study period. Outcomes will be assessed
+at four time points: baseline and weeks 4, 8, and 12 (dual assessment
+at week 12 for the interim and final evaluations).
+TABLE 1 Inclusion criteria.
+
+Inclusion of criteria entries
+
+(1) Age ≥18 years
+
+Meeting the diagnostic criteria for Type 2 diabetes (24), with poor
+(2) glycemic control after lifestyle intervention with 7.0% ≤ glycated
+
+hemoglobin ≤ 9.0% and fasting blood glucose ≤ 11.1 mmol/L
+
+(3) Body mass index greater than 24.0 kg/m²
+
+Meeting the diagnostic criteria for mild depression without psychotic
+(4)
+
+symptoms (25)
+
+A score on the Hamilton Depression Rating Scale (HAMD, 24-item
+(5)
+
+version) of ≥8 and ≤35 (26)
+
+No use of any antidepressant or psychotropic medications in the past two
+(6)
+
+weeks
+
+The patient’s condition was stable and met the requirements of follow-up
+(7)
+
+evaluation
+
+Voluntary participation in the trial and signing of an informed consent
+(8)
+
+form
+TABLE 2 Exclusion criteria.
+
+Exclusion of criteria entries
+
+In cases of combined severe infections or significant functional disorders
+of crucial organs, such as: ALT or AST ≥ 2.5 times the upper limit of the
+normal value, or total bilirubin ≥ 2 times the upper limit of the normal
+
+(1) value; Impaired renal function: glomerular filtration rate (eGFR, CKD-EPI
+formula) < 60 mL/min/1.73m2, calcitonin ≥ 50 ng/L; Serum amylase or
+lipase ≥ 3 times the upper limit of the normal value; Severe arrhythmias,
+heart failure, etc., are not suitable for participating in the trial
+
+Those with other severe mental symptoms, such as combined organic
+(2) mental disorders, alcohol and drug dependence, schizophrenia, bipolar
+
+disorder, etc.; Patients with a suicide risk
+
+Subjects with persistent gastrointestinal symptoms such as nausea and
+vomiting within 6 months prior to enrollment, a history of gastroparesis,
+
+(3) uncontrolled gastroesophageal reflux disease, gastric ulcer or pancreatitis;
+Currently presenting with diabetic ketoacidosis or diabetic hyperosmolar
+state
+
+Subjects with a known history of drug abuse or long-term heavy alcohol
+consumption, causing physical and mental dependence, with an average
+
+(4)
+daily intake of pure alcohol exceeding 25g (equivalent to 750 mL of beer,
+250 mL of wine, or 50g of spirits) within 3 months prior to screening
+
+Subjects currently participating in other drug clinical trials or having used
+(5)
+
+DPP-4 and GLP-1 related preparations within 3 months.
+
+Subjects currently suffering from perimenopausal syndrome; Pregnant or
+(6)
+
+lactating women; or those allergic to the trial drug
+
+Subjects with a previous history of medullary thyroid carcinoma or a
+(7)
+
+family history of type 2 multiple endocrine neoplasia syndrome
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+Experimental group protocol
+Participants will initiate liraglutide at 0.6 mg/day for two weeks,
+
+with weekly 0.6 mg dose escalation to reach the target dose of 1.8
+mg by week 2. Following a 2-week titration phase, the dose will be
+maintained at 1.8 mg for the remaining 10 weeks. Subcutaneous
+administration via a prefilled pen will occur daily at self-selected
+consistent times at preferred injection sites (the upper arm, thigh, or
+abdomen). For participants intolerant of 1.8 mg, the dose will be
+temporarily reduced to 1.2 mg, followed by two re-escalation
+attempts at 2-week intervals. Those who fail both attempts will
+continue on 1.2 mg.
+
+Control group protocol
+Placebo recipients will follow identical dosing schedules to the
+
+experimental group, including matched titration phases and
+injection procedures. Dose adjustments will be synchronized
+between the groups to maintain blinding integrity.
+Criteria for discontinuing or modifying
+allocated interventions {11b}
+
+Individuals will be removed from the study under specific
+conditions: 1) participants who consistently violate the study
+protocol, fail to comply with the medication regimen, or for
+whom treatment efficacy cannot be determined due to incomplete
+data; 2) participants who manifest hypersensitivity reactions or are
+intolerant to the study medication, with special attention to those
+exhibiting exacerbation of depressive symptoms or suicidal
+ideation, requiring immediate cessation of study participation and
+the initiation of psychological intervention; 3) participants who opt
+to withdraw from the clinical trial and cease treatment; 4)
+participants in whom the average fasting blood glucose level
+reaches or exceeds 11.1 mmol/L during follow-up and this
+threshold is not reduced after a one-week reassessment; and 5)
+participants exhibiting emergence of acute or chronic pancreatitis,
+thyroid abnormalities, or other endocrine disorders during the
+treatment period, or significant deviations in liver function or
+serum amylase levels beyond the normal range. For all instances
+where the participants is discontinued, the rationale must be
+documented, and the corresponding case report forms must be
+preserved for subsequent review.
+Strategies to improve adherence to
+interventions {11c}
+
+Our study team will devise and implement regular
+communication strategies to enhance the adherence of
+participants to the research interventions. This strategy will
+involve weekly communication with participants via WeChat and
+telephone, which will not only help increase their engagement and
+enthusiasm for the study, but also will allow us to stay informed
+about their psychological wel l-being. Through these
+communication channels, the research team will closely monitor
+Frontiers in Endocrinology 05
+and identify any potential side effects or adverse events experienced
+by participants, thereby ensuring the safety and efficacy of the study.
+Relevant concomitant care permitted or
+prohibited during the trial {11d}
+
+Throughout the study, foundational treatment will be
+emphasized for patients with diabetes. Participants are permitted
+to continue their pre-existing, stable (≥4 weeks of use prior to
+enrollment) conventional glucose-lowering medications—including
+metformin, sulfonylureas, sodium-glucose cotransporter-2
+inhibitors, insulin and its analogues—in addition to the
+investigational product (liraglutide or placebo), in order to
+comply with ethical standards and maintain glycemic
+stability, while the initiation or switch to dipeptidyl peptidase-4
+inhibitors, other GLP-1 receptor agonists, and related preparations
+is strictly prohibited. To ensure comparability of background
+therapy between groups, we will implement stratified
+randomization based on baseline insulin use and will
+meticulously record and compare all baseline glucose-lowering
+medications across groups prior to analysis to confirm
+randomization balance.
+
+For the basic treatment protocol, the study will adhere to the
+recommendations outlined in the Chinese Diabetes Prevention and
+Treatment Guidelines (2020 edition).
+Provisions for post-trial care {30}
+
+After the trial concludes, the participants will undergo regular
+mental health screenings to monitor for any long-term side effects
+related to depression.
+Outcomes {12}
+
+Observational indicators include two types: efficacy and
+safety indicators.
+Efficacy indicators
+
+Primary outcome measures
+
+1) Efficacy indicators include fasting plasma glucose, 2-hour
+
+postprandial glucose, body mass index (BMI), glycated
+hemoglobin (HbA1c), and lipid profiles (total cholesterol,
+triglycerides, low-density lipoprotein cholesterol, and high-
+density lipoprotein cholesterol).
+
+2) Depression scale scores, derived from the Hamilton
+Depression Scale (HAMD), will be used to assess the
+severity of depressive symptoms. This validated clinical
+tool provides quantifiable measurements of both
+condition severity and treatment response in depression
+management (27).
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+
+Fron
+3) Resting-state functional magnetic resonance imaging
+parameters comprise three key metrics: the amplitude of
+low-frequency fluctuations (ALFF), regional homogeneity
+(ReHo), and functional connectivity (FC). These
+biomarkers quantitatively reflect spontaneous neural
+activity patterns and dynamic connectivity alterations
+across brain networks. They are widely employed in
+neuropsychiatric research, particularly in depression
+studies (28).
+MRI acquisition protocol
+
+Neuroimaging data will be acquired using a Siemens 3T Trio
+MRI system (Erlangen, Germany) equipped with an 8-channel
+phased-array head coil. Prior to scanning, the participants will
+receive standardized instructions to maintain their eyes closed, relax
+without focused thinking, and minimize head motion during
+acquisition. For obtaining sagittal T1-weighted imaging structural
+images, a three-dimensional magnetization-prepared rapid gradient
+echo sequence will be employed, with the following specific
+parameters: TR 1900 ms, TE 2.52 ms, TI 900 ms, a flip angle of
+9°, 160 slices, a voxel size of 1 mm × 1 mm × 1 mm, a field of view of
+250 mm × 250 mm, and a matrix resolution of 256 × 256. Resting-
+state brain functional images will be acquired using a planar
+gradient echo sequence with the following specific parameters: TR
+2000 ms, echo time 30 ms, flip angle 90°, 33 slices, slice thickness 4
+mm. field of view 240 mm × 240 mm, matrix 64 × 64, and total
+acquisition 200 time points. Furthermore, conventional T2-
+weighted imaging and fluid-attenuated inversion recovery
+sequences will be used to exclude potential white matter
+degeneration or lacunar infarct foci.
+Preprocessing and index calculation of rs-
+fMRI data
+
+All preprocessing will be performed using the DPABI v6.0
+toolbox in MATLAB software (29). To achieve data balance, the
+first 10 time points of each participant’s data will be excluded.
+Subsequently, the following preprocessing steps will be
+implemented: (1) temporal layer correction; (2) head motion
+correction, with exclusion of data if the participant’s head
+translation exceeds 2 mm or rotation exceeds 2°; (3) covariate
+regression (including Friston 24 head motion parameters, global
+brain signal, white matter signal, and cerebrospinal fluid signal); (4)
+spatial normalization (resampling voxel size to 3 mm × 3 mm × 3
+mm); (5) spatial smoothing (Gaussian kernel full width at half
+maximum of 6 mm); (6) removal of linear drift; and (7) band-pass
+filtering (bandwidth of 0.01–0.10 Hz).
+
+Resting-state brain functional indices will be derived using
+DPABI v6.0. The amplitude of low-frequency fluctuations will be
+computed after the aforementioned preprocessing stages, focusing
+tiers in Endocrinology 06
+on ALFF values within the frequency range of 0.01–0.08 Hz. The
+regional homogeneity values reflect Kendall’s coefficient of
+concordance, encompassing a voxel and its 26 neighboring voxels.
+Spatial smoothing will not be applied during preprocessing;
+however, Gaussian smoothing will be conducted after
+computation using a smoothing kernel diameter of 6 mm.
+
+Given the asymmetry of the human brain, a symmetric template
+in the standard space will be constructed from the T1-weighted
+structural images of all participants. This template will subsequently
+be utilized to re-standardize the functional images. Following
+spatial smoothing, removal of linear drift, and filtering, the
+Pearson correlation coefficient between symmetric voxels across
+both cerebral hemispheres will be calculated as the mean volume
+homogeneity correlation value. These indices will undergo Fisher-z
+transformation to generate z-values, which will then be used for
+further statistical analysis.
+Secondary indicators
+
+Secondary indicators include changes in inflammatory factors
+[tumor necrosis factor-a (TNF-a), interleukin-6 (IL-6)]; oxidative
+stress markers [superoxide dismutase (SOD), malondialdehyde
+(MDA)]; homeostatic model assessment of insulin resistance;
+insulin sensitivity index; and homeostatic model assessment of b-
+cell function.
+Safety indicators
+
+Safety indicators include adverse drug reactions, hypoglycemic
+reactions, vital signs, electrocardiograms, and hematological and
+biochemical indicators, including routine blood tests and liver and
+kidney functions. During follow-up, close monitoring of changes in
+the patients’ mood and vigilance regarding the risk of suicide
+is essential.
+Participant timeline {13}
+
+Outcome assessments will be performed at baseline, followed by
+three subsequent visits. At baseline assessment, we will gather data
+on patient demographics, including age, gender, educational level,
+employment status, marital status, and comorbidities. Additionally,
+we will document the date of initial diagnosis, symptom duration,
+and details of prior medications and treatment regimens. The
+participants are required to revisit the hospital at 4, 8, and 12
+weeks after medication initiation for a series of evaluations. These
+include height and weight measurements, completion of pertinent
+laboratory tests, and the administration of depression and cognitive
+function scales. These assessments aim to provide a comprehensive
+evaluation of treatment efficacy. The detailed enrollment process
+and comprehensive schedule of the evaluation results are presented
+in Table 3.
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+Sample size {14}
+
+Determining the appropriate sample size is critical when devising a
+clinical trial, including a pilot study. These preliminary trials are
+designed to assess the feasibility and address pragmatic
+considerations for subsequent full-scale trials. Consequently, the
+sample size for these pilot studies is calibrated to provide estimates
+of study parameters with an acceptable level of precision rather than
+being predicated on traditional hypothesis testing (30). Sim et al.
+recommended a minimum of 50 participants (25 per group) to
+Frontiers in Endocrinology 07
+achieve the pilot trial feasibility goal (31). In previous clinical studies
+onmental disorders, 10% of the liraglutide group and 2% of the placebo
+group withdrew from the trial after 16 weeks (32). However, in a study
+of liraglutide in overweight/obese patients with type 2 diabetes, only
+two patients in the liraglutide group (198 cases) and four patients in the
+placebo group (198 cases) withdrew from the trial after 56 weeks (33).
+Based on data from other pilot trials of liraglutide (34), we assumed
+that the conservative dropout rate at 3 months would be between 10%
+and 15%; therefore, we would need to recruit approximately 60
+participants (every 30) to provide a reliable estimate.
+TABLE 3 Schedule of outcome measures and trial-related activities.
+
+Items Enrollment day 4 weeks 8weeks 12 weeks
+
+Inclusion screening
+
+Sign informed consent √
+
+Record general information √
+
+Gender √
+
+Age √
+
+Body weight √ √ √ √
+
+height √ √ √ √
+
+Waist circumference √ √ √ √
+
+Hip circumference √ √ √ √
+
+Medical history and treatment history √
+
+Combined disease and medication records √
+
+life history √
+
+Safety
+
+blood routine examination √ √
+
+routine urine test √ √
+
+stool routine examination √ √
+
+liver function √ √
+
+renal function √ √
+
+Electrocardiograph √ √
+
+Adverse events and complications √ √ √
+
+Efficacy index
+
+Hamilton Depression Scale 24 scores √ √
+
+Blood glucose (fasting and 2 hours after meals) √ √
+
+glycosylated hemoglobin √ √
+
+blood lipids √ √
+
+tumor necrosis factor-a, Interleukin-6 √ √
+
+super Oxide Dismutase,malondialdehyde √ √
+
+HOMA Insulin resistance Index √ √
+
+Insulin sensitivity Index √ √
+
+HOMA Islet beta Cell Function Index √ √
+
+resting-state functional magnetic resonance imaging √ √
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+Recruitment {15}
+
+Eligible participants will be identified by reviewing the
+outpatient and inpatient records from the endocrinology
+department. For patients who fulfill the inclusion criteria, an
+invitation to participate and the trial information will be sent to
+their email address. Following the receipt of the written invitation,
+we will make a telephone call within one to two weeks to ascertain
+their interest in the study. Patients who desire to participate will be
+provided with a comprehensive study protocol and an outline of the
+process to enhance their understanding of the trial scope
+and procedures.
+Assignment of interventions: allocation
+
+Sequence generation {16a}
+After obtaining informed consent and post-baseline
+
+assessments, researchers will be alerted to initiate the group
+allocation process. Participants will be randomly assigned to one
+of the two groups at a 1:1 ratio using a system of generated random
+numbers. These numbers will be stored in opaque sealed envelopes,
+from which each participant will randomly selected one, thereby
+determining their allocation to either the treatment or control
+group. Patients will be evenly distributed between two
+interventions: once-daily administration of placebo in a blinded
+manner and once-daily liraglutide in a blinded manner. The
+hospital’s central pharmacy will be responsible for dispensing
+both placebo and the active drug. To maintain the integrity of the
+double-blind protocol, participants, researchers, and study
+monitors will not be privy to treatment assignments within the
+placebo and liraglutide groups at any time.
+
+Concealment mechanism {16b}
+Liraglutide and its placebo will be manufactured to be identical
+
+in appearance to ensure that the participants are blinded to the
+assigned medication. Sealed envelopes, each corresponding to a
+participant and containing details of the randomization sequence,
+will be stored securely to ensure that they are not accessible to the
+researchers at any time, thus preserving the integrity of the double-
+blind study design.
+
+Implementation {16c}
+The randomization procedure will be implemented using a
+
+web-based randomization system provided by the Chinese
+Clinical Trial Registry (http://www.medresman.org.cn/login.aspx).
+Assignment of interventions: blinding
+
+Who will be blinded {17a}
+A triple-blind design will be rigorously maintained throughout
+
+the trial period, encompassing all participants, healthcare
+personnel, and investigative staff from initial enrollment through
+the terminal follow-up assessment. Systematic disclosure of
+Frontiers in Endocrinology 08
+treatment allocations shall be deferred until study completion for
+all enrollees and conclusive verification of analytical results has
+been achieved.
+
+Procedure for unblinding if needed {17b}
+In accordance with the clinical research protocols, trial
+
+participants are required to immediately notify the principal
+investigator or research team upon experiencing adverse events.
+For serious adverse events, the principal investigator must conduct
+a causality assessment immediately after notification to evaluate the
+potential association with the investigational product. When
+deemed medically necessary, emergency unblinding procedures
+may be initiated by the investigator by accessing the confidential
+randomization code system maintained by the clinical
+trial pharmacy.
+Data collection and management
+
+Plans for assessment and collection of outcomes
+{18a}
+
+All the study-related data of the enrolled patients will be
+securely recorded using an electronic storage system. Patient data
+will be entered into an Excel database to ensure accuracy and
+confidentiality will be strictly maintained, with no disclosure of this
+information to researchers outside the study team until the
+conclusion of the study. Inspectors will conduct regular audits to
+review and correct entries, thereby ensuring the highest standards of
+data quality. Before the study begins, uniform standard operating
+procedures will be developed and comprehensive training will be
+delivered to the research staff, physicians, and nursing personnel at
+each participating center.
+Plans to promote participant retention and
+complete follow-up {18b}
+
+During the preliminary phase of the investigation,
+implementing weekly telephone follow-ups with individual
+participants will be used to increase retention rates. This
+structured engagement strategy serves a dual purpose: it enables
+investigators to obtain timely feedback regarding participants’
+needs, while simultaneously fostering increased study
+commitment and mutual trust. The research protocol includes
+establishing multiple communication channels (e.g., phone,
+WeChat, email) with explicit instructions for emergency contact
+and ongoing support availability. These protocol enhancements are
+designed to ensure sustained participant comfort throughout the
+research lifecycle, thereby optimizing both intervention efficacy and
+overall satisfaction metrics.
+Data management {19}
+
+Experienced research assistants will manage the collection and
+documentation of clinical data. Clinical examination results will be
+carefully documented in case report forms and entered into an
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+electronic format. To ensure data entry accuracy, a dedicated
+technician will conduct consistency verification. All collected
+information will be stored securely in a password-protected
+digital system to maintain confidentiality. The study must comply
+with Good Clinical Practice guidelines, which emphasize
+safeguarding participants’ rights and well-being while ensuring
+data integrity and traceability for source verification. Participants
+retain the right to withdraw from the study at any time without
+justification, and this choice will not impact their future medical
+treatment or legal entitlements. After the completion of the study,
+participant records will be maintained for 3 years to enable future
+review and analysis.
+Confidentiality {27}
+
+All personally identifiable records will be securely stored in a
+separate study database, and sharing will be strictly confined to the
+research context. Access to intervention-related data will be granted
+exclusively to authorized healthcare practitioners and principal
+investigators involved in the study.
+
+Plans for collection, laboratory evaluation, and
+storage of biological specimens for genetic or
+molecular analysis in this trial/future use {33}
+
+Upon blood collection, the specimens will undergo centrifugation
+and be promptly preserved at -80°C in laboratory freezers at the
+Chengdu Shuangliu District Traditional Chinese Medicine Hospital.
+All trial-related samples will be labeled with unique patient
+identification codes to maintain anonymity by excluding personally
+identifiable information. The participants retain the option of
+authorizing biological sample retention for potential future
+investigations. Following the conclusion of the study, de-identified
+specimens will be maintained in cryogenic storage for a 3-year period,
+after which they will be systematically incinerated in compliance with
+regional regulatory standards. No genomic profiling is currently
+intended for these biological materials.
+Statistical methods
+
+Statistical methods for primary and secondary
+outcomes {20a}
+
+The aim of this study is to compare the effectiveness of the two
+treatment regimens by assessing participants twice, once at baseline
+and again at the 3-month follow-up. To control for potential
+confounding variables, we will statistically adjust for participants’
+age, gender, body mass index, and Hamilton Depression Rating Scale
+scores in accordance with the STRIVE criteria. Numbers and
+percentages will be used to express categorical variables and
+median and interquartile range will be used for continuous
+variables. Primary outcome measures (e.g., HAMD score, HbA1c,
+body weight) will be analyzed using Linear Mixed-Effects Models.
+The models will include treatment group, time, and the group-by-
+time interaction as fixed effects to test for between-group differences
+Frontiers in Endocrinology 09
+in treatment effect and its change over time. Subject-specific
+intercepts will be included as random effects. Analyses will be
+adjusted for pre-specified confounding variables, including age, sex,
+baseline BMI, and baseline HAMD score, which will be entered into
+the models as fixed-effect covariates. For missing data due to dropout,
+Multiple Imputation will be employed. Secondary outcomes and
+baseline characteristics will be described and compared as originally
+planned. All analyses will be performed using SPSS v.22.0 (SPSS Inc.,
+Chicago, IL, USA) and the lme4 package in R. A p-value < 0.05 will be
+considered statistically significant, whereas a p-value <0.01 will be
+regarded as indicating a high degree of statistical significance.
+
+The DPABI v6.0 toolkit will be used to perform two-sample t-tests
+on the whole-brain ALFF, ReHo, and VMHC maps of the two groups
+of participants. To correct for multiple comparisons across voxels, the
+statistical significance of the resulting maps will be assessed using
+Gaussian Random Field (GRF) theory, a method for family-wise error
+(FWE) rate correction. The threshold was set at a voxel-level
+significance of P < 0.001 and a cluster-level significance of P < 0.05.
+
+Interim analyses {21b}
+In the design of this study, no interim analyses are planned.
+Methods for additional analyses (e.g.,
+subgroup analyses) {20b}
+
+No additional analyses not described in Section 20a
+are planned.
+Methods in analysis to handle protocol
+non-adherence and any statistical methods
+to handle missing data {20c}
+
+In this study, we will prioritize the utilization of data provided
+by participants who discontinue their involvement before the final
+follow-up. Any incomplete data as a result of participant withdrawal
+will be categorized as missing, and estimation or imputation
+methods will not be employed for these missing values.
+Plans to give access to the full protocol,
+participant-level data, and statistical code
+{31c}
+
+Fully anonymized data and statistical codes will be made
+available in public databases after completion of the trial.
+Oversight and monitoring
+
+Composition of the coordinating center and trial
+steering committee {5d}
+
+The steering committee for this study consists of the principal
+investigator and two co-investigators who are responsible for
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+overseeing the implementation of the study. Coinvestigators who
+are graduate students in the field of endocrinology will be involved
+in patient recruitment, obtaining informed consent, and follow-up.
+The principal investigator will independently generate a random
+allocation sequence and assign the participants to the two
+intervention groups. Additionally, the steering committee has the
+authority to review and approve necessary modifications to the
+study protocol.
+
+Composition of the data monitoring committee,
+its role and reporting structure {21a}
+
+Due to the simplicity of the study, a data monitoring committee
+is not required.
+
+Adverse event reporting and harms {22}
+Adverse events will be stringently monitored. The recruiting
+
+physician will oversee the management of these events. When a
+patient encounters an adverse event, assessors, therapists, or other
+personnel will provide immediate emergency care and notify the
+recruiting physician. The recruiting physician will then be tasked
+with reporting adverse events to the principal investigator and
+ethics committee. The principal investigator is responsible for
+thoroughly informing the ethics committee about the adverse
+events, including their contexts and relevant details. Additionally,
+the recruiting physician must ensure that all adverse events are
+meticulously recorded in the Clinical Report Form to maintain
+accurate documentation.
+
+Furthermore, given the psychiatric risks in the study
+population, an independent Safety Monitoring Board (SMB) will
+be established to conduct periodic safety reviews. The SMB will
+consist of independent experts not involved in trial conduct. Its key
+responsibilities include: conducting regular meetings (at least every
+3 months) to review all adverse events, with particular attention to
+psychiatric events (e.g., worsening depression, suicidal ideation)
+and assessing their relationship to the intervention; being
+empowered to provide independent recommendations to the
+principal investigator and ethics committee regarding trial
+continuation, modification, or termination based on safety
+evaluations; and performing expedited review and independent
+assessment of all serious adverse events.
+
+Frequency and plans for auditing trial conduct
+{23}
+
+The research team is expected to deliver a monthly progress
+update by the conclusion of each calendar month. This document will
+present a systematic evaluation of the ongoing investigative work
+while maintaining confidentiality regarding the empirical findings.
+The key components will include (1) achievement milestones relative
+to predetermined research goals, (2) status assessment comparing
+actual progress with projected timelines outlined in the original
+protocol, and (3) strategic recommendations for plan optimization
+based on emerging challenges or opportunities identified
+during implementation.
+Frontiers in Endocrinology 10
+Dissemination plans
+
+The results of this study will be published in a peer-reviewed
+academic journal. Additionally, we intend to present the findings of
+this study at academic conferences at local, national, and
+international levels.
+Patient and public involvement
+
+This study was conducted without direct participation
+from patient representatives or community members in its design
+phase. The research outcomes will be disseminated through
+established academic channels including peer-reviewed
+publications and scientific conferences, adhering to standard
+research dissemination protocols.
+Discussion
+
+GLP-1RAs, known for their unique blood glucose-lowering and
+weight-reducing effects, have emerged as a new frontier in the
+treatment of diabetes and obesity, earning the distinction of being
+named one of Science magazine’s Breakthroughs of the Year 2023.
+These agents may have revolutionary applications in the treatment of
+mental health problems and neurodegenerative diseases (35).GLP-
+1RAs, beyond their established role in improving insulin resistance
+(36), may have therapeutic potential for mental health disorders, such
+as depression and bipolar disorder, as well as for neurodegenerative
+diseases associated with cognitive dysfunction, including Parkinson’s
+and Alzheimer’s diseases (37, 38). Recent animal studies suggested that
+semaglutide has the potential to combat depression and anxiety. Mice
+with depression associated with type 2 diabetes induced by a high-fat
+diet showed a significant alleviation of depressive and anxiety-like
+behaviors following treatment with semaglutide, along with enhanced
+cognitive function (39). In a clinical trial focusing on obese patients
+with type 2 diabetes or prediabetes, liraglutide mitigated early cognitive
+dysfunction in individuals with diabetes (40). However, several
+potential adverse effects associated with GLP-1RAs warrant careful
+consideration. One study suggested that individuals taking semaglutide
+may be at a disproportionately higher risk of suicidal thoughts, with a
+45% increased risk compared with those taking other medications.
+Moreover, this risk was quadrupled in patients who concurrently used
+semaglutide and antidepressants. In contrast, the use of liraglutide
+alone was not associated with an increased risk of suicidal ideation (41).
+A retrospective cohort study published in Nature Medicine, which
+included the health records of over one million patients, suggested that
+GLP-1RAs are associated with a lower risk of suicidal ideation
+compared to other types of obesity and diabetes therapies; therefore,
+approaching these findings with caution and continuing to monitor for
+potential adverse effects are necessary (42). Some experts recommend
+caution when using GLP-1RAs in patients with a history or risk of
+mental illness, emphasizing the need for close monitoring of their
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+emotional states. Therefore, this study will include patients with mild-
+to-moderate depressive symptoms to ensure close monitoring of mood
+changes throughout the trial and subsequent follow-ups.
+
+Limitations of this study must be acknowledged: 1) The
+intervention duration of 12 weeks is relatively short, thus limiting
+the evaluation of the long-term efficacy (including whether
+improvements in metabolism and depressive symptoms can be
+sustained) and long-term safety profile of liraglutide; 2) The
+findings are derived from a single-center Chinese population and
+require validation in multicenter studies and non-Chinese
+populations. Considering these limitations, future definitive
+studies should significantly extend the observation period (e.g., to
+6 months or longer) to comprehensively assess the durability of
+efficacy, long-term safety, and potential delayed effects.
+Data availability statement
+
+The original contributions presented in the study are included
+in the article/Supplementary Material. Further inquiries can be
+directed to the corresponding authors.
+Author contributions
+
+HW: Writing – original draft, Writing – review & editing.
+WF: Writing – original draft, Writing – review & editing. ZL: Writing
+– original draft. JX: Software, Writing – original draft. JZ: Data curation,
+Writing – review & editing. HZ: Writing – review & editing.
+Funding
+
+The author(s) declared that financial support was received for
+this work and/or its publication. The study was supported by
+Beijing Weiai Public Welfare Foundation - “Special Scientific
+Frontiers in Endocrinology 11
+Research on Diabetes and Related Metabolic Diseases (2024 and
+2025); Evaluation of the Implementation and Intervention Effects of
+Exercise Prescription for the Prevention and Treatment of Chronic
+Diseases in At-Risk Populations: A Focus on “Three Highs”
+(Hypertension, Hyperglycemia, Hyperlipidemia), Overweight, and
+Obesity (S8Y-YWK-2024005); and Sichuan Provincial
+Administration of Traditional Chinese Medicine research
+project (2024MS343).
+Conflict of interest
+
+The author(s) declared that this work was conducted in the
+absence of any commercial or financial relationships that could be
+construed as a potential conflict of interest.
+Generative AI statement
+
+The author(s) declared that generative AI was not used in the
+creation of this manuscript.
+
+Any alternative text (alt text) provided alongside figures in this
+article has been generated by Frontiers with the support of artificial
+intelligence and reasonable efforts have been made to ensure
+accuracy, including review by the authors wherever possible. If
+you identify any issues, please contact us.
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their affiliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+1. GBD 2021 Adult BMI Collaborators. Global, regional, and national prevalence of
+adult overweight and obesity, 1990-2021, with forecasts to 2050: a forecasting study for
+the Global Burden of Disease Study 2021. Lancet. (2025) 405:813–38. doi: 10.1016/
+S0140-6736(25)00355-1
+2. NCD Risk Factor Collaboration (NCD-RisC). Worldwide trends in diabetes
+
+prevalence and treatment from 1990 to 2022: a pooled analysis of 1108 population-
+representative studies with 141 million participants. Lancet. (2024) 404:2077–93.
+doi: 10.1016/S0140-6736(24)02317-1
+3. Zhang M, Ward J, Strawbridge RJ, Anderson JJ, Celis-Morales C, Pell JP, et al.
+
+Genetic predisposition to adiposity, and type 2 diabetes: the role of lifestyle
+and phenotypic adiposity. Eur J Endocrinol. (2025) 192:549–57. doi: 10.1093/ejendo/
+lvaf084
+4. Schnurr TM, Jakupović H, Carrasquilla GD, Ängquist L, Grarup N, Sørensen TIA,
+
+et al. Obesity, unfavourable lifestyle and genetic risk of type 2 diabetes: a case-cohort
+study. Diabetologia. (2020) 63:1324–32. doi: 10.1007/s00125-020-05140-5
+5. Owens-Gary MD, Zhang X, Jawanda S, Bullard KM, Allweiss P, Smith BD. The
+
+importance of addressing depression and diabetes distress in adults with type 2
+diabetes. J Gen Intern Med. (2019) 34:320–4. doi: 10.1007/s11606-018-4705-2
+6. Sariaslan A, Sharpe M, Larsson H, Wolf A, Lichtenstein P, Fazel S. Psychiatric
+
+comorbidity and risk of premature mortality and suicide among those with chronic
+respiratory diseases, cardiovascular diseases, and diabetes in Sweden: A nationwide
+matched cohort study of over 1 million patients and their unaffected siblings. PloS Med.
+(2022) 19:e1003864. doi: 10.1371/journal.pmed.1003864
+7. Khaledi M, Haghighatdoost F, Feizi A, Aminorroaya A. The prevalence of
+
+comorbid depression in patients with type 2 diabetes: an updated systematic review
+and meta-analysis on huge number of observational studies. Acta Diabetol. (2019)
+56:631–50. doi: 10.1007/s00592-019-01295-9
+8. Wang H, Chen H, Gao Y, Wang S, Wang X, Tang X, et al. The effect of wuling
+
+capsule on depression in Type 2 diabetic patients. Biosci Rep. (2020) 40:BSR20191260.
+doi: 10.1042/BSR20191260
+
+9. Bai S, Wang J, Liu J, Miao Y, Zhang A, Zhang Z. Analysis of depression incidence
+and influence factors among middle-aged and elderly diabetic patients in China: based
+on CHARLS data. BMC Psychiatry. (2024) 24:146. doi: 10.1186/s12888-023-05473-6
+
+10. Limon VM, Lee M, Gonzalez B, Choh AC, Czerwinski SA. The impact of
+metabolic syndrome on mental health-related quality of life and depressive symptoms.
+Qual Life Res. (2020) 29:2063–72. doi: 10.1007/s11136-020-02479-5
+
+11. Mansur RB, Brietzke E, McIntyre RS. Is there a "metabolic-mood syndrome"? A
+review of the relationship between obesity and mood disorders. Neurosci Biobehav Rev.
+(2015) 52:89–104. doi: 10.1016/j.neubiorev.2014.12.017
+12. Postolache TT, Del Bosque-Plata L, Jabbour S, Vergare M, Wu R, Gragnoli C.
+
+Co-shared genetics and possible risk gene pathway partially explain the comorbidity of
+frontiersin.org
+
+
+
+Fang et al. 10.3389/fendo.2025.1629157
+schizophrenia, major depressive disorder, type 2 diabetes, and metabolic syndrome. Am
+J Med Genet B Neuropsychiatr Genet. (2019) 180:186–203. doi: 10.1002/ajmg.b.32712
+13. Miller AH, Raison CL. The role of inflammation in depression: from
+
+evolutionary imperative to modern treatment target. Nat Rev Immunol. (2016)
+16:22–34. doi: 10.1038/nri.2015.5
+14. Yang F, Wang X, Qi J, Zhang K, Jiang Y, Feng B, et al. Glucagon-like peptide 1
+
+receptor activation inhibits microglial pyroptosis via promoting mitophagy to alleviate
+depression-like behaviors in diabetic mice. Nutrients. (2022) 15:38. doi: 10.3390/
+nu15010038
+15. Shchendrygina A, Rakisheva A, Giverts I, Rustamova Y, Soloveva A. Effects of
+
+glucagon-like peptide-1 receptor agonists on cardiac function, exercise capacity and
+quality of life. Card Fail Rev. (2024) 10:e10. doi: 10.15420/cfr.2024.05
+16. Zheng Z, Zong Y, Ma Y, Tian Y, Pang Y, Zhang C, et al. Glucagon-like peptide-1
+
+receptor: mechanisms and advances in therapy. Signal Transduct Target Ther. (2024)
+9:234. doi: 10.1038/s41392-024-01931-z
+17. Hunter K, Hölscher C. Drugs developed to treat diabetes, liraglutide and
+
+lixisenatide, cross the blood brain barrier and enhance neurogenesis. BMC Neurosci.
+(2012) 13:33. doi: 10.1186/1471-2202-13-33
+18. Mousa SA, Ayoub BM. Repositioning of dipeptidyl peptidase-4 inhibitors and
+
+glucagon like peptide-1 agonists as potential neuroprotective agents. Neural Regener
+Res. (2019) 4:745–8. doi: 10.4103/1673-5374.249217
+19. Rodrıǵuez Jiménez B, Rodrıǵuez de Vera Gómez P, Belmonte Lomas S, Mesa
+
+Dıáz ÁM, Caballero Mateos I, Galán I, et al. Transforming body composition with
+semaglutide in adults with obesity and type 2 diabetes mellitus. Front Endocrinol
+(Lausanne). (2024) 15:1386542. doi: 10.3389/fendo.2024.1386542
+20. Mansur RB, Ahmed J, Cha DS, Woldeyohannes HO, Subramaniapillai M,
+
+Lovshin J, et al. Liraglutide promotes improvements in objective measures of
+cognitive dysfunction in individuals with mood disorders: A pilot, open-label study.
+J Affect Disord. (2017) 207:114–20. doi: 10.1016/j.jad.2016.09.056
+21. Chen X, Zhao P, Wang W, Guo L, Pan Q. The antidepressant effects of GLP-1
+
+receptor agonists: A systematic review and meta-analysis. Am J Geriatr Psychiatry.
+(2024) 32:117–27. doi: 10.1016/j.jagp.2023.08.010
+22. Almeida OP, Fong Z, Hill Almeida LM, Sanfilippo FM, Page A, Etherton-Beer C.
+
+Cross-sectional, case-control and longitudinal associations between exposure to
+glucagon-like peptide-1 receptor agonists and the dispensing of antidepressants.
+Diabetes Obes Metab. (2024) 26:2925–32. doi: 10.1111/dom.15616
+23. Chan AW, Tetzlaff JM, Gøtzsche PC, Altman DG, Mann H, Berlin JA, et al.
+
+SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials. BMJ.
+(2013) 346:e7586. doi: 10.1136/bmj.e7586
+24. Harreiter J, Roden M. Diabetes mellitus – Definition, Klassifikation, Diagnose,
+
+Screening und Prävention (Update 2023) [Diabetes mellitus: definition, classification,
+diagnosis, screening and prevention (Update 2023). Wien Klin Wochenschr. (2023)
+135:7–17. doi: 10.1007/s00508-022-02122-y
+25. First MB, Gaebel W, Maj M, Stein DJ, Kogan CS, Saunders JB, et al. An organization-
+
+and category-level comparison of diagnostic requirements for mental disorders in ICD-11
+and DSM-5. World Psychiatry. (2021) 20:34–51. doi: 10.1002/wps.20825
+26. Rush AJ, Trivedi MH, IbrahimHM, Carmody TJ, Arnow B, Klein DN, et al. The 16-
+
+Item Quick Inventory of Depressive Symptomatology (QIDS), clinician rating (QIDS-C),
+and self-report (QIDS-SR): a psychometric evaluation in patients with chronic major
+depression. Biol Psychiatry. (2003) 54:573–83. doi: 10.1016/s0006-3223(02)01866-8
+27. Zimmerman M, Martinez JH, Young D, Chelminski I, Dalrymple K. Severity
+
+classification on the hamilton depression rating scale. J Affect Disord. (2013) 150:384–8.
+doi: 10.1016/j.jad.2013.04.028
+Frontiers in Endocrinology 12
+28. Chen F, Lv X, Fang J, Li T, Xu J, Wang X, et al. Body-mind relaxation meditation
+modulates the thalamocortical functional connectivity in major depressive disorder: a
+preliminary resting-state fMRI study. Transl Psychiatry. (2021) 11:546. doi: 10.1038/
+s41398-021-01637-8
+29. Yan CG, Wang XD, Zuo XN, Zang YF. DPABI: data processing & Analysis for
+
+(Resting-state) brain imaging. Neuroinformatics. (2016) 14:339–51. doi: 10.1007/
+s12021-016-9299-4
+30. Whitehead AL, Julious SA, Cooper CL, Campbell MJ. Estimating the sample size
+
+for a pilot randomised trial to minimise the overall trial sample size for the external
+pilot and main trial for a continuous outcome variable. Stat Methods Med Res. (2016)
+25:1057–73. doi: 10.1177/0962280215588241
+31. Sim J, Lewis M. The size of a pilot study for a clinical trial should be calculated in
+
+relation to considerations of precision and efficiency. J Clin Epidemiol. (2012) 65:301–8.
+doi: 10.1016/j.jclinepi.2011.07.011
+32. Larsen JR, Vedtofte L, Jakobsen MSL, Jespersen HR, Jakobsen MI, Svensson CK,
+
+et al. Effect of liraglutide treatment on prediabetes and overweight or obesity in
+clozapine- or olanzapine-treated patients with schizophrenia spectrum disorder: A
+randomized clinical trial. JAMA Psychiatry. (2017) 74:719–28. doi: 10.1001/
+jamapsychiatry.2017.1220
+33. Garvey WT, Birkenfeld AL, Dicker D, Mingrone G, Pedersen SD, Satylganova A,
+
+et al. Efficacy and safety of liraglutide 3.0 mg in individuals with overweight or obesity
+and type 2 diabetes treated with basal insulin: the SCALE insulin randomized
+controlled trial. Diabetes Care. (2020) 43:1085–93. doi: 10.2337/dc19-1745
+34. Whicher CA, Price HC, Phiri P, Rathod S, Barnard-Kelly K, Reidy C, et al.
+
+Liraglutide and the management of overweight and obesity in people with
+schizophrenia, schizoaffective disorder and first-episode psychosis: protocol for a
+pilot trial. Trials. (2019) 20:633. doi: 10.1186/s13063-019-3689-5
+35. Drucker DJ. The benefits of GLP-1 drugs beyond obesity. Science. (2024)
+
+385:258–60. doi: 10.1126/science.adn4128
+36. Kamintsky L, Cairns KA, Veksler R, Bowen C, Beyea SD, Friedman A, et al.
+
+Blood-brain barrier imaging as a potential biomarker for bipolar disorder progression.
+NeuroImage Clin. (2020) 26:102049. doi: 10.1016/j.nicl.2019.102049
+37. Athauda D, Maclagan K, Skene SS, Bajwa-JosephM, Letchford D, Chowdhury K,
+
+et al. Exenatide once weekly versus placebo in Parkinson's disease: a randomised,
+double-blind, placebo-controlled trial. Lancet. (2017) 390:1664–75. doi: 10.1016/S0140-
+6736(17)31585-4
+38. Mulvaney CA, Duarte GS, Handley J, Evans DJ, Menon S, Wyse R, et al. GLP-1
+
+receptor agonists for Parkinson's disease. Cochrane Database Syst Rev. (2020) 7:
+CD012990. doi: 10.1002/14651858.CD012990.pub2
+39. de Paiva IHR, da Silva RS, Mendonça IP, de Souza JRB, Peixoto CA. Semaglutide
+
+attenuates anxious and depressive-like behaviors and reverses the cognitive impairment
+in a type 2 diabetes mellitus mouse model via the microbiota-gut-brain axis. J
+Neuroimmune Pharmacol. (2024) 19:36. doi: 10.1007/s11481-024-10142-w
+40. Vadini F, Simeone PG, Boccatonda A, Guagnano MT, Liani R, Tripaldi R, et al.
+
+Liraglutide improves memory in obese patients with prediabetes or early type 2
+diabetes: a randomized, controlled study. Int J Obes (Lond). (2020) 44:1254–63.
+doi: 10.1038/s41366-020-0535-5
+
+41. Schoretsanitis G, Weiler S, Barbui C, Raschi E, Gastaldon C. Disproportionality
+analysis from world health organization data on semaglutide, liraglutide, and suicidality.
+JAMA Netw Open. (2024) 7:e2423385. doi: 10.1001/jamanetworkopen.2024.23385
+42. Wang W, Volkow ND, Berger NA, Davis PB, Kaelber DC, Xu R. Association of
+
+semaglutide with risk of suicidal ideation in a real-world cohort. Nat Med. (2024)
+30:168–76. doi: 10.1038/s41591-023-02672-2
+frontiersin.org
