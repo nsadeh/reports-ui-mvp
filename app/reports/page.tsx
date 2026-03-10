@@ -1,5 +1,5 @@
-import Link from "next/link";
 import { getAllReportMetas } from "@/lib/reports";
+import Link from "next/link";
 
 function TypeBadge({ type }: { type: string }) {
   return (
@@ -21,7 +21,7 @@ const pastReports = [
     scope: "TNF-alpha",
     type: "scheduled",
     date: "2026-02-24",
-    analyst: "Nim Telson",
+    analyst: "Batu Akkas",
     status: "read",
   },
   {
@@ -29,15 +29,16 @@ const pastReports = [
     scope: "TNF-alpha",
     type: "scheduled",
     date: "2026-02-10",
-    analyst: "Nim Telson",
+    analyst: "Batu Akkas",
     status: "read",
   },
   {
-    title: "Biosimilar Formulary Dynamics in Psoriasis — Top 10 Commercial Plans",
+    title:
+      "Biosimilar Formulary Dynamics in Psoriasis — Top 10 Commercial Plans",
     scope: "TNF-alpha",
     type: "custom",
     date: "2026-02-03",
-    analyst: "Nim Telson",
+    analyst: "Batu Akkas",
     status: "read",
   },
   {
@@ -45,7 +46,7 @@ const pastReports = [
     scope: "TNF-alpha",
     type: "scheduled",
     date: "2026-01-27",
-    analyst: "Nim Telson",
+    analyst: "Batu Akkas",
     status: "read",
   },
   {
@@ -53,7 +54,7 @@ const pastReports = [
     scope: "TNF-alpha",
     type: "scheduled",
     date: "2026-01-13",
-    analyst: "Nim Telson",
+    analyst: "Batu Akkas",
     status: "read",
   },
 ];
@@ -94,15 +95,11 @@ export default function ReportsPage() {
                     {report.title}
                   </Link>
                 </td>
-                <td className="px-4 py-3 text-body">
-                  {report.scope_value}
-                </td>
+                <td className="px-4 py-3 text-body">{report.scope_value}</td>
                 <td className="px-4 py-3">
                   <TypeBadge type={report.report_type} />
                 </td>
-                <td className="px-4 py-3 text-muted">
-                  {report.delivery_date}
-                </td>
+                <td className="px-4 py-3 text-muted">{report.delivery_date}</td>
                 <td className="px-4 py-3 text-body">{report.analyst.name}</td>
                 <td className="px-4 py-3">
                   <span className="inline-block px-2 py-0.5 text-xs font-medium bg-lime text-dark rounded">
@@ -122,21 +119,13 @@ export default function ReportsPage() {
                     rowIndex % 2 === 1 ? "bg-bg" : ""
                   }`}
                 >
-                  <td className="px-4 py-3 text-body">
-                    {report.title}
-                  </td>
-                  <td className="px-4 py-3 text-body">
-                    {report.scope}
-                  </td>
+                  <td className="px-4 py-3 text-body">{report.title}</td>
+                  <td className="px-4 py-3 text-body">{report.scope}</td>
                   <td className="px-4 py-3">
                     <TypeBadge type={report.type} />
                   </td>
-                  <td className="px-4 py-3 text-muted">
-                    {report.date}
-                  </td>
-                  <td className="px-4 py-3 text-body">
-                    {report.analyst}
-                  </td>
+                  <td className="px-4 py-3 text-muted">{report.date}</td>
+                  <td className="px-4 py-3 text-body">{report.analyst}</td>
                   <td className="px-4 py-3">
                     <span className="inline-block px-2 py-0.5 text-xs font-medium bg-bg text-muted rounded capitalize">
                       {report.status}

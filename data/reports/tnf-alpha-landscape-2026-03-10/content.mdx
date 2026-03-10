@@ -2,18 +2,15 @@
 
 The first ten weeks of 2026 have delivered a notably active period for TNF-alpha-related clinical development, spanning neurology, rheumatology, gastroenterology, and critical care. Three broad themes dominate the landscape:
 
-1. **Accelerating maturation of selective and next-generation TNF inhibitors**, led by XPro1595's FDA-aligned Phase 2b/3 registration pathway in Alzheimer's disease — the most strategically significant regulatory development of the period. <CitationMarker id="src_inmune_regulatory_2026" />
+1. **Accelerating maturation of selective and next-generation TNF inhibitors**, led by XPro1595's FDA-aligned Phase 2b/3 registration pathway in Alzheimer's disease — the most strategically significant regulatory development of the period. <sup>[[1]](#ref-1)</sup>
 
-2. **Continued validation of established anti-TNF biologics in new or underserved indications**, including adalimumab's superiority over conventional immunosuppression in non-infectious uveitis <CitationMarker id="src_abbvie_advise_2026" /> and certolizumab pegol's confirmed efficacy irrespective of rheumatoid factor levels. <CitationMarker id="src_ucb_realistic_2026" />
+2. **Continued validation of established anti-TNF biologics in new or underserved indications**, including adalimumab's superiority over conventional immunosuppression in non-infectious uveitis <sup>[[2]](#ref-2)</sup> and certolizumab pegol's confirmed efficacy irrespective of rheumatoid factor levels. <sup>[[3]](#ref-3)</sup>
 
-3. **A growing body of evidence for non-biologic agents that modulate TNF-alpha signaling** as adjunctive or repurposed therapies in acute and chronic disease settings, including fluoxetine in severe sepsis <CitationMarker id="src_fluoxetine_rct_2026" />, montelukast in ICU sepsis <CitationMarker id="src_montelukast_rct_2026" />, and maraviroc in hospitalized COVID-19. <CitationMarker id="src_viiv_phase2_2026" />
+3. **A growing body of evidence for non-biologic agents that modulate TNF-alpha signaling** as adjunctive or repurposed therapies in acute and chronic disease settings, including fluoxetine in severe sepsis <sup>[[4]](#ref-4)</sup>, montelukast in ICU sepsis <sup>[[5]](#ref-5)</sup>, and maraviroc in hospitalized COVID-19. <sup>[[6]](#ref-6)</sup>
 
-<BenchmarkCallout
-  title="XPro1595 Registration Trial Size"
-  value="~1,000 participants"
-  confidence="high"
-  description="FDA confirmed no objection to an integrated ~1,000-participant Phase 2b/3 program for XPro1595 in early Alzheimer's disease, with CDR-SB as the sole primary endpoint and inflammation-based biomarker enrichment accepted."
-/>
+> **XPro1595 Registration Trial Size** — ~1,000 participants (high confidence)
+>
+> FDA confirmed no objection to an integrated ~1,000-participant Phase 2b/3 program for XPro1595 in early Alzheimer's disease, with CDR-SB as the sole primary endpoint and inflammation-based biomarker enrichment accepted.
 
 The period is defined by the broadening therapeutic reach of TNF-alpha as both a mechanism and a biomarker target — extending well beyond its established autoimmune indications into neurodegeneration, critical care, cardiac surgery, and infectious disease.
 
@@ -39,138 +36,23 @@ The reporting period (January 1 – March 9, 2026) saw meaningful clinical reado
 
 ## Drug Landscape Table
 
-<DataTable
-  columns={[
-    { key: "drug", label: "Drug (Brand/Generic)" },
-    { key: "manufacturer", label: "Manufacturer" },
-    { key: "mechanism", label: "Mechanism" },
-    { key: "indications", label: "Indication(s)" },
-    { key: "event_type", label: "Event Type" },
-    { key: "notes", label: "Key Finding" }
-  ]}
-  data={[
-    {
-      drug: "XPro1595 (pegipanermin)",
-      manufacturer: "INmune Bio",
-      mechanism: "Selective soluble TNF inhibitor (dominant-negative TNF); spares tmTNF and TNFR signaling",
-      indications: "Early Alzheimer's Disease",
-      event_type: "Regulatory Milestone (EOP2 FDA Alignment)",
-      notes: "FDA aligned on integrated Ph2b/3; CDR-SB sole primary endpoint; biomarker-enriched (~1,000 pts)"
-    },
-    {
-      drug: "SOR102",
-      manufacturer: "Sorriso Pharma",
-      mechanism: "Oral bispecific single-domain antibody; dual inhibition of TNF-α and IL-23p19",
-      indications: "Ulcerative Colitis",
-      event_type: "Phase 1 Trial Readout",
-      notes: "First-in-human oral bispecific anti-TNF/IL-23; 43–56% clinical response vs. 17% placebo at day 42"
-    },
-    {
-      drug: "Adalimumab (Humira)",
-      manufacturer: "AbbVie",
-      mechanism: "Anti-TNF monoclonal antibody (IgG1); neutralizes soluble and membrane-bound TNF-α",
-      indications: "Non-infectious Uveitis",
-      event_type: "Phase 3 Trial Readout (ADVISE)",
-      notes: "Superior corticosteroid sparing vs. conventional immunosuppression (69% vs. 54%; p=0.029) at 6 months"
-    },
-    {
-      drug: "Infliximab / Adalimumab",
-      manufacturer: "J&J / AbbVie",
-      mechanism: "Anti-TNF monoclonal antibodies; neutralize soluble and transmembrane TNF-α",
-      indications: "Moderate-to-severe Ulcerative Colitis",
-      event_type: "Post-hoc Analysis (HIBISCUS I/II, GARDENIA)",
-      notes: "Anti-TNF drives proximal-to-distal healing; MES outperforms segmental scoring; combined MES+PRO2 endpoint superior"
-    },
-    {
-      drug: "Certolizumab pegol (Cimzia)",
-      manufacturer: "UCB",
-      mechanism: "PEGylated anti-TNF Fab fragment; lacks Fc region; not bound by rheumatoid factor",
-      indications: "Rheumatoid Arthritis",
-      event_type: "Post-hoc Analysis (REALISTIC)",
-      notes: "High RF levels (≥180 kU/L) do not diminish CZP efficacy; effective regardless of prior TNFi failure"
-    },
-    {
-      drug: "Infliximab+AZA vs. Rifaximin+AZA",
-      manufacturer: "J&J / Generic",
-      mechanism: "IFX: anti-TNF-α mAb. Rifaximin: gut microbiota modulation. AZA: purine antimetabolite immunosuppressant",
-      indications: "Inflammatory Bowel Disease",
-      event_type: "Prospective Cohort Readout",
-      notes: "IFX+AZA superior for acute induction; RIF+AZA superior for mucosal healing and maintenance"
-    },
-    {
-      drug: "Fluoxetine",
-      manufacturer: "Generic",
-      mechanism: "SSRI; inhibits NF-κB activation and reduces downstream TNF-α, IL-1β, and procalcitonin",
-      indications: "Severe Sepsis (ICU)",
-      event_type: "Phase 2 RCT Readout",
-      notes: "Reduced vasopressor duration (6.2 vs. 7.9 days; p<0.001) and ICU LOS; no 28-day mortality benefit"
-    },
-    {
-      drug: "Montelukast",
-      manufacturer: "Generic",
-      mechanism: "CysLT1 receptor antagonist; blocks leukotriene-mediated TNF-α signaling",
-      indications: "Sepsis (ICU)",
-      event_type: "RCT Readout",
-      notes: "Reduced 28-day mortality vs. control (23.3% vs. 56.7%; p=0.024); reduced TNF-α and MDA"
-    },
-    {
-      drug: "Dexmedetomidine",
-      manufacturer: "Generic / Pfizer",
-      mechanism: "α2-adrenergic receptor agonist; attenuates sympathoadrenal response and systemic TNF-α",
-      indications: "Cardiac Surgery (CPB)",
-      event_type: "RCT Readout",
-      notes: "Preserved endothelial glycocalyx (lower syndecan-1) and reduced TNF-α at aortic unclamping vs. saline"
-    },
-    {
-      drug: "Esketamine + Dexmedetomidine",
-      manufacturer: "Generic",
-      mechanism: "NMDA receptor antagonist + α2-agonist; reduces neuroinflammatory TNF-α and lung inflammatory injury",
-      indications: "COPD (Thoracoscopic Surgery / VATS)",
-      event_type: "RCT Readout",
-      notes: "Reduced TNF-α, IL-6, IL-8, MDA; improved lung mechanics and oxygenation vs. controls during one-lung ventilation"
-    },
-    {
-      drug: "Alpha Lipoic Acid (ALA)",
-      manufacturer: "N/A (supplement)",
-      mechanism: "Mitochondrial antioxidant; scavenges ROS and inhibits NF-κB, reducing TNF-α and TGF-β1",
-      indications: "Ischemic Cardiomyopathy (T2DM)",
-      event_type: "RCT Readout",
-      notes: "Reduced TNF-α, CRP, TGF-β1, MMP-2; improved LVEF (36% vs. 28%; p<0.05) over 3 months"
-    },
-    {
-      drug: "Colchicine",
-      manufacturer: "Generic",
-      mechanism: "Microtubule polymerization inhibitor; blocks NLRP3 inflammasome and downstream TNF-α signaling",
-      indications: "Heart Failure with Preserved Ejection Fraction (HFpEF)",
-      event_type: "Observational Pilot Study",
-      notes: "Reduced IL-8 by 65.5% (p=0.001) and IL-6; improved anxiety, depression, and QoL over 2 weeks"
-    },
-    {
-      drug: "Cannabidiol (Epidiolex)",
-      manufacturer: "Jazz Pharma",
-      mechanism: "Cannabinoid receptor modulator; reduces IL-2 and TNF in T effector memory cells",
-      indications: "Transplant Pain Management (Immunocompromised)",
-      event_type: "Phase 1 Ex Vivo Study",
-      notes: "Reduced TNF-α, IL-2, LTA at steady state; additive immunosuppression with tacrolimus noted"
-    },
-    {
-      drug: "Liraglutide",
-      manufacturer: "Novo Nordisk",
-      mechanism: "GLP-1 receptor agonist; reduces adipose tissue-mediated TNF-α and inflammatory cytokine expression",
-      indications: "Depression / Overweight T2DM",
-      event_type: "Trial Protocol Publication",
-      notes: "Pilot RCT protocol published; TNF-α listed as secondary biomarker outcome; no results available yet"
-    },
-    {
-      drug: "Maraviroc",
-      manufacturer: "ViiV Healthcare",
-      mechanism: "CCR5 chemokine receptor antagonist; reduces immune cell trafficking and TNF-α / IL-6 release",
-      indications: "Non-severe COVID-19 (hospitalized)",
-      event_type: "Phase 2 RCT Readout",
-      notes: "Reduced COVID-19 progression 2.8× vs. standard of care; significantly reduced TNF-α and IL-6 at day 7"
-    }
-  ]}
-/>
+| Drug (Brand/Generic)             | Manufacturer     | Mechanism                                                                                               | Indication(s)                                          | Event Type                                  | Key Finding                                                                                                        |
+| -------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| XPro1595 (pegipanermin)          | INmune Bio       | Selective soluble TNF inhibitor (dominant-negative TNF); spares tmTNF and TNFR signaling                | Early Alzheimer's Disease                              | Regulatory Milestone (EOP2 FDA Alignment)   | FDA aligned on integrated Ph2b/3; CDR-SB sole primary endpoint; biomarker-enriched (~1,000 pts)                    |
+| SOR102                           | Sorriso Pharma   | Oral bispecific single-domain antibody; dual inhibition of TNF-α and IL-23p19                           | Ulcerative Colitis                                     | Phase 1 Trial Readout                       | First-in-human oral bispecific anti-TNF/IL-23; 43–56% clinical response vs. 17% placebo at day 42                  |
+| Adalimumab (Humira)              | AbbVie           | Anti-TNF monoclonal antibody (IgG1); neutralizes soluble and membrane-bound TNF-α                       | Non-infectious Uveitis                                 | Phase 3 Trial Readout (ADVISE)              | Superior corticosteroid sparing vs. conventional immunosuppression (69% vs. 54%; p=0.029) at 6 months              |
+| Infliximab / Adalimumab          | J&J / AbbVie     | Anti-TNF monoclonal antibodies; neutralize soluble and transmembrane TNF-α                              | Moderate-to-severe Ulcerative Colitis                  | Post-hoc Analysis (HIBISCUS I/II, GARDENIA) | Anti-TNF drives proximal-to-distal healing; MES outperforms segmental scoring; combined MES+PRO2 endpoint superior |
+| Certolizumab pegol (Cimzia)      | UCB              | PEGylated anti-TNF Fab fragment; lacks Fc region; not bound by rheumatoid factor                        | Rheumatoid Arthritis                                   | Post-hoc Analysis (REALISTIC)               | High RF levels (≥180 kU/L) do not diminish CZP efficacy; effective regardless of prior TNFi failure                |
+| Infliximab+AZA vs. Rifaximin+AZA | J&J / Generic    | IFX: anti-TNF-α mAb. Rifaximin: gut microbiota modulation. AZA: purine antimetabolite immunosuppressant | Inflammatory Bowel Disease                             | Prospective Cohort Readout                  | IFX+AZA superior for acute induction; RIF+AZA superior for mucosal healing and maintenance                         |
+| Fluoxetine                       | Generic          | SSRI; inhibits NF-κB activation and reduces downstream TNF-α, IL-1β, and procalcitonin                  | Severe Sepsis (ICU)                                    | Phase 2 RCT Readout                         | Reduced vasopressor duration (6.2 vs. 7.9 days; p<0.001) and ICU LOS; no 28-day mortality benefit                  |
+| Montelukast                      | Generic          | CysLT1 receptor antagonist; blocks leukotriene-mediated TNF-α signaling                                 | Sepsis (ICU)                                           | RCT Readout                                 | Reduced 28-day mortality vs. control (23.3% vs. 56.7%; p=0.024); reduced TNF-α and MDA                             |
+| Dexmedetomidine                  | Generic / Pfizer | α2-adrenergic receptor agonist; attenuates sympathoadrenal response and systemic TNF-α                  | Cardiac Surgery (CPB)                                  | RCT Readout                                 | Preserved endothelial glycocalyx (lower syndecan-1) and reduced TNF-α at aortic unclamping vs. saline              |
+| Esketamine + Dexmedetomidine     | Generic          | NMDA receptor antagonist + α2-agonist; reduces neuroinflammatory TNF-α and lung inflammatory injury     | COPD (Thoracoscopic Surgery / VATS)                    | RCT Readout                                 | Reduced TNF-α, IL-6, IL-8, MDA; improved lung mechanics and oxygenation vs. controls during one-lung ventilation   |
+| Alpha Lipoic Acid (ALA)          | N/A (supplement) | Mitochondrial antioxidant; scavenges ROS and inhibits NF-κB, reducing TNF-α and TGF-β1                  | Ischemic Cardiomyopathy (T2DM)                         | RCT Readout                                 | Reduced TNF-α, CRP, TGF-β1, MMP-2; improved LVEF (36% vs. 28%; p<0.05) over 3 months                               |
+| Colchicine                       | Generic          | Microtubule polymerization inhibitor; blocks NLRP3 inflammasome and downstream TNF-α signaling          | Heart Failure with Preserved Ejection Fraction (HFpEF) | Observational Pilot Study                   | Reduced IL-8 by 65.5% (p=0.001) and IL-6; improved anxiety, depression, and QoL over 2 weeks                       |
+| Cannabidiol (Epidiolex)          | Jazz Pharma      | Cannabinoid receptor modulator; reduces IL-2 and TNF in T effector memory cells                         | Transplant Pain Management (Immunocompromised)         | Phase 1 Ex Vivo Study                       | Reduced TNF-α, IL-2, LTA at steady state; additive immunosuppression with tacrolimus noted                         |
+| Liraglutide                      | Novo Nordisk     | GLP-1 receptor agonist; reduces adipose tissue-mediated TNF-α and inflammatory cytokine expression      | Depression / Overweight T2DM                           | Trial Protocol Publication                  | Pilot RCT protocol published; TNF-α listed as secondary biomarker outcome; no results available yet                |
+| Maraviroc                        | ViiV Healthcare  | CCR5 chemokine receptor antagonist; reduces immune cell trafficking and TNF-α / IL-6 release            | Non-severe COVID-19 (hospitalized)                     | Phase 2 RCT Readout                         | Reduced COVID-19 progression 2.8× vs. standard of care; significantly reduced TNF-α and IL-6 at day 7              |
 
 ---
 
@@ -178,7 +60,7 @@ The reporting period (January 1 – March 9, 2026) saw meaningful clinical reado
 
 ### Strategic Context
 
-The most strategically significant development of the reporting period is INmune Bio's announcement on February 12, 2026 that it received official End-of-Phase 2 meeting minutes from the FDA confirming alignment on an integrated Phase 2b/3 registration pathway for XPro1595 in early Alzheimer's disease. <CitationMarker id="src_inmune_regulatory_2026" />
+The most strategically significant development of the reporting period is INmune Bio's announcement on February 12, 2026 that it received official End-of-Phase 2 meeting minutes from the FDA confirming alignment on an integrated Phase 2b/3 registration pathway for XPro1595 in early Alzheimer's disease. <sup>[[1]](#ref-1)</sup>
 
 XPro1595 (pegipanermin) is a selective soluble TNF inhibitor employing a dominant-negative TNF approach — it neutralizes sTNF without affecting transmembrane TNF signaling or either TNF receptor. This selectivity is mechanistically critical for CNS applications: conventional pan-TNF inhibitors have historically been contraindicated in neurological indications due to tmTNF's role in neuroprotection, oligodendrocyte survival, and synaptic plasticity.
 
@@ -191,12 +73,9 @@ The EOP2 meeting achieved alignment on several parameters that collectively remo
 - **Trial design:** Integrated Phase 2b/3 design cleared with no objection; approximately 1,000 participants planned
 - **No new safety requirements** specific to the CNS indication were flagged
 
-<BenchmarkCallout
-  title="XPro1595 Biomarker Enrichment Threshold"
-  value="hsCRP, ESR, HbA1c, APOE4"
-  confidence="high"
-  description="FDA accepted a multi-marker inflammatory enrichment strategy for XPro1595 trial enrollment. This is the first precedent for inflammation-based patient selection in an Alzheimer's registration trial — a meaningful validation of neuroinflammation as a targetable disease driver."
-/>
+> **XPro1595 Biomarker Enrichment Threshold** — hsCRP, ESR, HbA1c, APOE4 (high confidence)
+>
+> FDA accepted a multi-marker inflammatory enrichment strategy for XPro1595 trial enrollment. This is the first precedent for inflammation-based patient selection in an Alzheimer's registration trial — a meaningful validation of neuroinflammation as a targetable disease driver.
 
 ### Competitive and Investment Implications
 
@@ -208,31 +87,25 @@ XPro1595 represents the only TNF-directed program with an active FDA-aligned reg
 
 ### SOR102: Oral Bispecific Anti-TNF/IL-23
 
-Sorriso Pharma reported first-in-human Phase 1 data for SOR102, an oral bispecific single-domain antibody that dually inhibits TNF-α and IL-23p19. <CitationMarker id="src_sorriso_phase1_2026" /> The trial enrolled both healthy volunteers and ulcerative colitis patients across multiple dose cohorts.
+Sorriso Pharma reported first-in-human Phase 1 data for SOR102, an oral bispecific single-domain antibody that dually inhibits TNF-α and IL-23p19. <sup>[[7]](#ref-7)</sup> The trial enrolled both healthy volunteers and ulcerative colitis patients across multiple dose cohorts.
 
-<BenchmarkCallout
-  title="SOR102 Clinical Response Rate (UC, Day 42)"
-  value="43–56% vs. 17% placebo"
-  confidence="medium"
-  description="UC patients receiving SOR102 achieved 43–56% clinical response rates at day 42 depending on dose cohort, compared to 17% for placebo. Safety and tolerability were favorable across all dose levels. Phase 2 planning is underway."
-/>
+> **SOR102 Clinical Response Rate (UC, Day 42)** — 43–56% vs. 17% placebo (medium confidence)
+>
+> UC patients receiving SOR102 achieved 43–56% clinical response rates at day 42 depending on dose cohort, compared to 17% for placebo. Safety and tolerability were favorable across all dose levels. Phase 2 planning is underway.
 
 The oral route of administration is the primary differentiating factor: current biologic standards for UC (infliximab, adalimumab, vedolizumab) are injectable or infused. An oral bispecific with dual TNF/IL-23 inhibition could significantly expand the addressable market and improve patient adherence — if efficacy translates in Phase 2.
 
 ### Anti-TNF Endoscopic Healing Patterns — HIBISCUS/GARDENIA Post-hoc
 
-A post-hoc analysis of 300 UC patients from the HIBISCUS I, HIBISCUS II, and GARDENIA trials examined the spatial healing pattern induced by anti-TNF therapy (infliximab and adalimumab). <CitationMarker id="src_jj_hibiscus_2026" /> Key findings:
+A post-hoc analysis of 300 UC patients from the HIBISCUS I, HIBISCUS II, and GARDENIA trials examined the spatial healing pattern induced by anti-TNF therapy (infliximab and adalimumab). <sup>[[8]](#ref-8)</sup> Key findings:
 
 - Anti-TNF therapy induces a **proximal-to-distal colonic healing pattern**, with more complete healing occurring in proximal segments first
 - Conventional Mayo Endoscopic Score (MES) **outperforms segmental scoring** for detecting anti-TNF treatment effects at standard timepoints
 - Combined **MES + PRO2 endpoint outperformed PRO2 alone** (28.6% vs. 13.3%; p=0.006)
 
-<BenchmarkCallout
-  title="Combined MES + PRO2 Endpoint Advantage"
-  value="28.6% vs. 13.3% (p=0.006)"
-  confidence="high"
-  description="In 300 UC patients treated with anti-TNF agents, a combined MES + PRO2 composite endpoint captured significantly more treatment responders than PRO2 alone. This has direct implications for endpoint selection in future UC trial designs targeting anti-TNF mechanisms."
-/>
+> **Combined MES + PRO2 Endpoint Advantage** — 28.6% vs. 13.3% (p=0.006) (high confidence)
+>
+> In 300 UC patients treated with anti-TNF agents, a combined MES + PRO2 composite endpoint captured significantly more treatment responders than PRO2 alone. This has direct implications for endpoint selection in future UC trial designs targeting anti-TNF mechanisms.
 
 These findings have methodological implications for how future anti-TNF trials in UC should structure their endoscopic endpoints — relevant for any program designing a registration study in this space.
 
@@ -242,18 +115,16 @@ These findings have methodological implications for how future anti-TNF trials i
 
 ### Certolizumab Pegol — REALISTIC Post-hoc Analysis
 
-A post-hoc analysis of 930 RA patients from the REALISTIC trial, published in *RMD Open* (2026), addressed a clinically meaningful question about certolizumab pegol's utility in difficult-to-treat RA populations. <CitationMarker id="src_ucb_realistic_2026" />
+A post-hoc analysis of 930 RA patients from the REALISTIC trial, published in _RMD Open_ (2026), addressed a clinically meaningful question about certolizumab pegol's utility in difficult-to-treat RA populations. <sup>[[3]](#ref-3)</sup>
 
 Key findings:
+
 - **High rheumatoid factor levels (≥180 kU/L) do not diminish CZP efficacy** — historically, high-RF patients have been considered to have worse prognoses and potentially reduced biologic response
 - **Prior TNFi failure does not predict reduced CZP response** — CZP achieved similar ACR response rates in patients who had previously failed another TNF inhibitor vs. TNFi-naive patients
 
-<BenchmarkCallout
-  title="CZP Efficacy — High RF Threshold"
-  value="≥180 kU/L RF does not reduce efficacy"
-  confidence="high"
-  description="In 930 RA patients, certolizumab pegol maintained consistent ACR response rates at RF levels ≥180 kU/L — a threshold associated with poor prognosis and historically lower expected biologic response. CZP's Fc-free structure may partially explain this RF-independent activity."
-/>
+> **CZP Efficacy — High RF Threshold** — ≥180 kU/L RF does not reduce efficacy (high confidence)
+>
+> In 930 RA patients, certolizumab pegol maintained consistent ACR response rates at RF levels ≥180 kU/L — a threshold associated with poor prognosis and historically lower expected biologic response. CZP's Fc-free structure may partially explain this RF-independent activity.
 
 The mechanistic rationale involves CZP's unique PEGylated Fab structure, which lacks an Fc region and therefore cannot itself be bound by rheumatoid factor — unlike full IgG antibodies such as adalimumab and infliximab. This structural property may contribute to its RF-independent clinical performance.
 
@@ -263,14 +134,11 @@ The mechanistic rationale involves CZP's unique PEGylated Fab structure, which l
 
 ### Adalimumab — ADVISE Trial
 
-The ADVISE trial randomized 227 patients with non-infectious intermediate, posterior, or panuveitis to adalimumab versus conventional immunosuppression (methotrexate or mycophenolate mofetil). <CitationMarker id="src_abbvie_advise_2026" />
+The ADVISE trial randomized 227 patients with non-infectious intermediate, posterior, or panuveitis to adalimumab versus conventional immunosuppression (methotrexate or mycophenolate mofetil). <sup>[[2]](#ref-2)</sup>
 
-<BenchmarkCallout
-  title="ADVISE: Corticosteroid Sparing at 6 Months"
-  value="69% vs. 54% (p=0.029)"
-  confidence="high"
-  description="Adalimumab achieved statistically superior corticosteroid sparing vs. conventional immunosuppression at 6 months in non-infectious uveitis (69% vs. 54%; p=0.029). At 12 months, corticosteroid discontinuation rates were 55% vs. 40% (p=0.028), strengthening the case for earlier anti-TNF deployment in ocular inflammatory disease."
-/>
+> **ADVISE: Corticosteroid Sparing at 6 Months** — 69% vs. 54% (p=0.029) (high confidence)
+>
+> Adalimumab achieved statistically superior corticosteroid sparing vs. conventional immunosuppression at 6 months in non-infectious uveitis (69% vs. 54%; p=0.029). At 12 months, corticosteroid discontinuation rates were 55% vs. 40% (p=0.028), strengthening the case for earlier anti-TNF deployment in ocular inflammatory disease.
 
 This data strengthens the evidence base for adalimumab as the preferred biologic for non-infectious uveitis — an indication where it already carries FDA approval but where real-world use has sometimes lagged behind conventional immunosuppression due to prescriber familiarity. The 6- and 12-month superiority data support an earlier-line positioning argument.
 
@@ -280,35 +148,29 @@ This data strengthens the evidence base for adalimumab as the preferred biologic
 
 ### Fluoxetine in Severe Sepsis
 
-A single-center, double-blind RCT (n=46) evaluated fluoxetine 40mg/day as an adjunct in ICU patients with severe sepsis. <CitationMarker id="src_fluoxetine_rct_2026" />
+A single-center, double-blind RCT (n=46) evaluated fluoxetine 40mg/day as an adjunct in ICU patients with severe sepsis. <sup>[[4]](#ref-4)</sup>
 
-<BenchmarkCallout
-  title="Fluoxetine: Vasopressor Duration Reduction"
-  value="6.2 vs. 7.9 days (p<0.001)"
-  confidence="medium"
-  description="Fluoxetine 40mg/day significantly reduced vasopressor dependency duration (6.2 vs. 7.9 days; p<0.001) and ICU length of stay in severe sepsis. TNF-α and IL-1 levels were significantly reduced by day 7. No statistically significant difference in 28-day mortality was observed (8.7% vs. 17.4%; p=0.381), though the trial was underpowered for mortality."
-/>
+> **Fluoxetine: Vasopressor Duration Reduction** — 6.2 vs. 7.9 days (p<0.001) (medium confidence)
+>
+> Fluoxetine 40mg/day significantly reduced vasopressor dependency duration (6.2 vs. 7.9 days; p<0.001) and ICU length of stay in severe sepsis. TNF-α and IL-1 levels were significantly reduced by day 7. No statistically significant difference in 28-day mortality was observed (8.7% vs. 17.4%; p=0.381), though the trial was underpowered for mortality.
 
 The mechanism is immunometabolic: SSRIs including fluoxetine inhibit NF-κB activation in macrophages, reducing downstream TNF-α and IL-1β transcription. The small sample size limits mortality interpretation, but the vasopressor and inflammatory marker data support a biologically plausible anti-inflammatory effect.
 
 ### Montelukast in Sepsis
 
-An open-label RCT (n=90 ICU patients) compared montelukast against CoQ10 as adjunctive sepsis therapy. <CitationMarker id="src_montelukast_rct_2026" />
+An open-label RCT (n=90 ICU patients) compared montelukast against CoQ10 as adjunctive sepsis therapy. <sup>[[5]](#ref-5)</sup>
 
-<BenchmarkCallout
-  title="Montelukast: 28-Day Mortality Reduction"
-  value="23.3% vs. 56.7% (p=0.024)"
-  confidence="medium"
-  description="Montelukast significantly reduced 28-day ICU mortality vs. control (23.3% vs. 56.7%; p=0.024) and significantly reduced TNF-α and MDA. No adverse effects were observed with montelukast, while 20% of CoQ10 patients experienced hypotension. Open-label design and small sample size require replication in a blinded trial."
-/>
+> **Montelukast: 28-Day Mortality Reduction** — 23.3% vs. 56.7% (p=0.024) (medium confidence)
+>
+> Montelukast significantly reduced 28-day ICU mortality vs. control (23.3% vs. 56.7%; p=0.024) and significantly reduced TNF-α and MDA. No adverse effects were observed with montelukast, while 20% of CoQ10 patients experienced hypotension. Open-label design and small sample size require replication in a blinded trial.
 
 ### Dexmedetomidine in Cardiac Surgery
 
-A prospective RCT of 58 patients undergoing valvular surgery with cardiopulmonary bypass examined dexmedetomidine's endothelial protective effects. <CitationMarker id="src_dexmed_cardiac_2026" /> Dexmedetomidine significantly preserved endothelial glycocalyx integrity (lower syndecan-1 shedding) and reduced TNF-α levels at aortic unclamping through 1 hour postoperatively versus saline infusion. The glycocalyx-protective effect is a mechanistically novel finding beyond conventional anti-inflammatory action.
+A prospective RCT of 58 patients undergoing valvular surgery with cardiopulmonary bypass examined dexmedetomidine's endothelial protective effects. <sup>[[9]](#ref-9)</sup> Dexmedetomidine significantly preserved endothelial glycocalyx integrity (lower syndecan-1 shedding) and reduced TNF-α levels at aortic unclamping through 1 hour postoperatively versus saline infusion. The glycocalyx-protective effect is a mechanistically novel finding beyond conventional anti-inflammatory action.
 
 ### Esketamine + Dexmedetomidine in COPD (VATS)
 
-An RCT of 60 COPD patients undergoing video-assisted thoracoscopic surgery examined the combination of esketamine and dexmedetomidine on inflammatory markers during one-lung ventilation. <CitationMarker id="src_esketamine_copd_2026" /> The combination significantly reduced TNF-α, IL-6, IL-8, and MDA while improving lung mechanics and oxygenation indices compared to controls or either agent alone. The additive anti-inflammatory effect across two mechanistically distinct agents (NMDA antagonism + α2-agonism) suggests a synergistic anti-inflammatory profile relevant to high-risk surgical populations.
+An RCT of 60 COPD patients undergoing video-assisted thoracoscopic surgery examined the combination of esketamine and dexmedetomidine on inflammatory markers during one-lung ventilation. <sup>[[10]](#ref-10)</sup> The combination significantly reduced TNF-α, IL-6, IL-8, and MDA while improving lung mechanics and oxygenation indices compared to controls or either agent alone. The additive anti-inflammatory effect across two mechanistically distinct agents (NMDA antagonism + α2-agonism) suggests a synergistic anti-inflammatory profile relevant to high-risk surgical populations.
 
 ---
 
@@ -316,25 +178,19 @@ An RCT of 60 COPD patients undergoing video-assisted thoracoscopic surgery exami
 
 ### Alpha Lipoic Acid in Ischemic Cardiomyopathy (T2DM)
 
-A double-blind RCT (n=60 diabetic patients with ischemic cardiomyopathy) evaluated ALA 600mg/day over 3 months. <CitationMarker id="src_ala_icm_2026" />
+A double-blind RCT (n=60 diabetic patients with ischemic cardiomyopathy) evaluated ALA 600mg/day over 3 months. <sup>[[11]](#ref-11)</sup>
 
-<BenchmarkCallout
-  title="ALA: LVEF Improvement in Ischemic Cardiomyopathy"
-  value="36% vs. 28% LVEF (p<0.05)"
-  confidence="medium"
-  description="Alpha lipoic acid 600mg/day significantly improved left ventricular ejection fraction (36% vs. 28%; p<0.05) and significantly reduced TNF-α, CRP, TGF-β1, and MMP-2 in diabetic ischemic cardiomyopathy patients over 3 months. The TGF-β1 and MMP-2 reductions suggest potential anti-fibrotic cardiac effects beyond systemic inflammation reduction."
-/>
+> **ALA: LVEF Improvement in Ischemic Cardiomyopathy** — 36% vs. 28% LVEF (p<0.05) (medium confidence)
+>
+> Alpha lipoic acid 600mg/day significantly improved left ventricular ejection fraction (36% vs. 28%; p<0.05) and significantly reduced TNF-α, CRP, TGF-β1, and MMP-2 in diabetic ischemic cardiomyopathy patients over 3 months. The TGF-β1 and MMP-2 reductions suggest potential anti-fibrotic cardiac effects beyond systemic inflammation reduction.
 
 ### Colchicine in HFpEF
 
-An observational pilot study (n=126) examined colchicine 0.5mg/day over 2 weeks in heart failure with preserved ejection fraction. <CitationMarker id="src_colchicine_hfpef_2026" />
+An observational pilot study (n=126) examined colchicine 0.5mg/day over 2 weeks in heart failure with preserved ejection fraction. <sup>[[12]](#ref-12)</sup>
 
-<BenchmarkCallout
-  title="Colchicine: IL-8 Reduction in HFpEF"
-  value="65.5% IL-8 reduction (p=0.001)"
-  confidence="medium"
-  description="Colchicine 0.5mg/day reduced IL-8 by 65.5% (p=0.001) and IL-6 over 2 weeks in HFpEF patients. Secondary improvements in anxiety (HAMA), depression (HAMD), and quality of life (KCCQ) were also observed at 1 month. Observational design limits causal interpretation; a randomized trial is needed."
-/>
+> **Colchicine: IL-8 Reduction in HFpEF** — 65.5% IL-8 reduction (p=0.001) (medium confidence)
+>
+> Colchicine 0.5mg/day reduced IL-8 by 65.5% (p=0.001) and IL-6 over 2 weeks in HFpEF patients. Secondary improvements in anxiety (HAMA), depression (HAMD), and quality of life (KCCQ) were also observed at 1 month. Observational design limits causal interpretation; a randomized trial is needed.
 
 ---
 
@@ -342,14 +198,11 @@ An observational pilot study (n=126) examined colchicine 0.5mg/day over 2 weeks 
 
 ### Maraviroc in Hospitalized COVID-19
 
-A proof-of-concept Phase 2 RCT (n=33) examined the CCR5 antagonist maraviroc as an adjunct in non-severe hospitalized COVID-19 patients. <CitationMarker id="src_viiv_phase2_2026" />
+A proof-of-concept Phase 2 RCT (n=33) examined the CCR5 antagonist maraviroc as an adjunct in non-severe hospitalized COVID-19 patients. <sup>[[6]](#ref-6)</sup>
 
-<BenchmarkCallout
-  title="Maraviroc: COVID-19 Progression Reduction"
-  value="2.8× less progression vs. standard of care"
-  confidence="medium"
-  description="Maraviroc reduced COVID-19 progression 2.8× vs. standard of care and significantly reduced TNF-α and IL-6 at day 7. No Grade 3–4 adverse events occurred in the maraviroc group, vs. three ICU admissions in controls. Small sample size requires confirmation in a larger randomized trial."
-/>
+> **Maraviroc: COVID-19 Progression Reduction** — 2.8× less progression vs. standard of care (medium confidence)
+>
+> Maraviroc reduced COVID-19 progression 2.8× vs. standard of care and significantly reduced TNF-α and IL-6 at day 7. No Grade 3–4 adverse events occurred in the maraviroc group, vs. three ICU admissions in controls. Small sample size requires confirmation in a larger randomized trial.
 
 Maraviroc's primary mechanism (CCR5 blockade) reduces immune cell trafficking to sites of inflammation and indirectly suppresses pro-inflammatory cytokine cascades including TNF-α and IL-6. This positions it as a potential cytokine storm modulator with an established safety profile from its HIV indication.
 
@@ -359,7 +212,7 @@ Maraviroc's primary mechanism (CCR5 blockade) reduces immune cell trafficking to
 
 ### Cannabidiol (Epidiolex) in Immunocompromised Transplant Patients
 
-A Phase 1 ex vivo study (n=23) examined CBD's immunomodulatory profile in transplant patients at steady-state plasma concentrations. <CitationMarker id="src_jazz_phase1_2026" /> CBD at steady state reduced TNF-α, IL-2, and lymphotoxin alpha (LTA) in T effector memory cells while elevating anti-inflammatory IL-10. Additive immunosuppressive effects with tacrolimus were observed.
+A Phase 1 ex vivo study (n=23) examined CBD's immunomodulatory profile in transplant patients at steady-state plasma concentrations. <sup>[[13]](#ref-13)</sup> CBD at steady state reduced TNF-α, IL-2, and lymphotoxin alpha (LTA) in T effector memory cells while elevating anti-inflammatory IL-10. Additive immunosuppressive effects with tacrolimus were observed.
 
 The mixed immunomodulatory profile — pro-immunosuppressive through TNF/IL-2 reduction, potentially protective through IL-10 elevation — warrants careful monitoring in transplant populations where immune suppression thresholds are narrow. The tacrolimus interaction is clinically actionable and should be flagged for transplant pharmacists.
 
@@ -369,23 +222,23 @@ The mixed immunomodulatory profile — pro-immunosuppressive through TNF/IL-2 re
 
 ### 1. XPro1595 Establishes Selective TNF Inhibition as a Neurological Drug Class
 
-INmune Bio's regulatory milestone establishes XPro1595 as the first TNF-directed therapy with a credible registration pathway in neurodegeneration. <CitationMarker id="src_inmune_regulatory_2026" /> If the integrated Phase 2b/3 trial succeeds, it creates a new drug class — selective sTNF inhibitors — with CNS exclusivity that conventional anti-TNF biologics cannot access due to tmTNF signaling requirements. Competitors would need to develop their own selective sTNF platforms to participate in this space.
+INmune Bio's regulatory milestone establishes XPro1595 as the first TNF-directed therapy with a credible registration pathway in neurodegeneration. <sup>[[1]](#ref-1)</sup> If the integrated Phase 2b/3 trial succeeds, it creates a new drug class — selective sTNF inhibitors — with CNS exclusivity that conventional anti-TNF biologics cannot access due to tmTNF signaling requirements. Competitors would need to develop their own selective sTNF platforms to participate in this space.
 
 ### 2. SOR102 Signals a Shift Toward Oral Biologics in IBD
 
-The SOR102 Phase 1 readout is the first human data for an oral bispecific anti-TNF/IL-23 agent. <CitationMarker id="src_sorriso_phase1_2026" /> At 43–56% day-42 clinical response rates in UC patients, the signal is comparable to early-phase injectable biologic data. If Phase 2 confirms these findings, SOR102 would position Sorriso as a first-mover in oral bispecific biologics for IBD — a market segment with significant unmet need given the injection burden of current SOC.
+The SOR102 Phase 1 readout is the first human data for an oral bispecific anti-TNF/IL-23 agent. <sup>[[7]](#ref-7)</sup> At 43–56% day-42 clinical response rates in UC patients, the signal is comparable to early-phase injectable biologic data. If Phase 2 confirms these findings, SOR102 would position Sorriso as a first-mover in oral bispecific biologics for IBD — a market segment with significant unmet need given the injection burden of current SOC.
 
 ### 3. Certolizumab Pegol's Fc-Free Structure Gains Evidence-Based Differentiation in RA
 
-The REALISTIC post-hoc data provides the strongest published evidence that CZP's lack of an Fc region translates into clinical advantages in high-RF RA populations. <CitationMarker id="src_ucb_realistic_2026" /> This is meaningful competitive differentiation in a sub-segment (high-RF, TNFi-experienced RA) that is typically harder to treat. UCB has a data asset here that competitors with Fc-containing anti-TNF antibodies cannot replicate without their own structural differentiation.
+The REALISTIC post-hoc data provides the strongest published evidence that CZP's lack of an Fc region translates into clinical advantages in high-RF RA populations. <sup>[[3]](#ref-3)</sup> This is meaningful competitive differentiation in a sub-segment (high-RF, TNFi-experienced RA) that is typically harder to treat. UCB has a data asset here that competitors with Fc-containing anti-TNF antibodies cannot replicate without their own structural differentiation.
 
 ### 4. Repurposed Agents Validate TNF-alpha as a Multi-Indication Inflammatory Biomarker
 
-The breadth of repurposed drug data in this period — fluoxetine, montelukast, dexmedetomidine, esketamine, ALA, colchicine, CBD, maraviroc — collectively strengthens the case for TNF-alpha as a universal inflammatory biomarker and mechanistic target across critical care, cardiometabolic, and infectious disease settings. <CitationMarker id="src_fluoxetine_rct_2026" /> <CitationMarker id="src_montelukast_rct_2026" /> <CitationMarker id="src_viiv_phase2_2026" /> This expands the potential market for TNF-alpha diagnostic tools and enrichment strategies beyond autoimmune indications.
+The breadth of repurposed drug data in this period — fluoxetine, montelukast, dexmedetomidine, esketamine, ALA, colchicine, CBD, maraviroc — collectively strengthens the case for TNF-alpha as a universal inflammatory biomarker and mechanistic target across critical care, cardiometabolic, and infectious disease settings. <sup>[[4]](#ref-4)</sup> <sup>[[5]](#ref-5)</sup> <sup>[[6]](#ref-6)</sup> This expands the potential market for TNF-alpha diagnostic tools and enrichment strategies beyond autoimmune indications.
 
 ### 5. Adalimumab Continues to Accumulate Data in Ophthalmology
 
-The ADVISE trial data <CitationMarker id="src_abbvie_advise_2026" /> reinforces adalimumab's positioning as the standard anti-TNF agent in non-infectious uveitis at a time when biosimilar competition is primarily concentrated in RA and PsO. Ophthalmology represents a comparatively protected indication segment where originator adalimumab can maintain premium positioning — especially given the lower prescription volumes and specialist prescribing patterns that make biosimilar formulary mandates less operationally feasible.
+The ADVISE trial data <sup>[[2]](#ref-2)</sup> reinforces adalimumab's positioning as the standard anti-TNF agent in non-infectious uveitis at a time when biosimilar competition is primarily concentrated in RA and PsO. Ophthalmology represents a comparatively protected indication segment where originator adalimumab can maintain premium positioning — especially given the lower prescription volumes and specialist prescribing patterns that make biosimilar formulary mandates less operationally feasible.
 
 ---
 
@@ -397,17 +250,98 @@ This report covers clinical trial readouts, regulatory milestones, and published
 
 - Primary literature: Published RCTs, post-hoc analyses, and Phase 1–3 trial readouts indexed in PubMed and EMBASE during the reporting window
 - Regulatory filings: FDA meeting minutes and official communications (INmune Bio press release and SEC filing, February 12, 2026)
-- Journal sources: *RMD Open*, *Ophthalmology*, *Inflammatory Bowel Diseases*, and critical care journals
+- Journal sources: _RMD Open_, _Ophthalmology_, _Inflammatory Bowel Diseases_, and critical care journals
 - Pipeline sources: Company press releases and SEC filings (INmune Bio, Sorriso Pharma)
 
 **Scope limitations:**
 
 - This report covers clinical trial and pipeline intelligence only. Payer formulary positioning, market access, and commercial landscape data are covered in the companion Market Access Landscape edition.
 - Repurposed agent data (fluoxetine, montelukast, dexmedetomidine, ALA, colchicine, CBD, maraviroc, esketamine) represents emerging or exploratory evidence and should not be interpreted as established clinical practice recommendations.
-- Liraglutide protocol data is included for completeness; no efficacy results are yet available. <CitationMarker id="src_novo_protocol_2026" />
+- Liraglutide protocol data is included for completeness; no efficacy results are yet available. <sup>[[14]](#ref-14)</sup>
 
 **Reporting period:** January 1, 2026 – March 9, 2026
 
-**Analyst:** Nim Telson, PharmD, MBA — Senior Market Access Analyst, Inflection Labs
+**Analyst:** Batu Akkas, — Chief Market Access Officer, Inflection Labs
 
-*This report reflects data and published analyses current as of the preparation date. Clinical evidence summaries are for intelligence purposes only and do not constitute clinical or investment advice.*
+_This report reflects data and published analyses current as of the preparation date. Clinical evidence summaries are for intelligence purposes only and do not constitute clinical or investment advice._
+
+---
+
+## References
+
+<span id="ref-1"></span>**[1]** INmune Bio, Inc. "INmune Bio Receives FDA
+End-of-Phase 2 Meeting Minutes Confirming Integrated Registration Pathway for
+XPro1595 in Early Alzheimer's Disease." *Press Release / SEC Form 8-K*, February
+12, 2026.
+[Link](https://ir.inmunebio.com/news-releases/2026/02/12/inmune-bio-receives-fda-eop2-meeting-minutes-xpro1595-alzheimers)
+
+<span id="ref-2"></span>**[2]** "Adalimumab versus Conventional
+Immunosuppression for Corticosteroid Sparing in Non-Infectious Uveitis: Results
+of the ADVISE Randomized Controlled Trial." *Ophthalmology*, February 1, 2026.
+[Link](https://doi.org/10.1016/j.ophtha.2026.01.008)
+
+<span id="ref-3"></span>**[3]** "Certolizumab Pegol Efficacy Is Independent of
+Rheumatoid Factor Seropositivity and Prior TNF Inhibitor Exposure: A Post-hoc
+Analysis of the REALISTIC Phase IIIb Trial." *RMD Open (BMJ Journals)*, January
+15, 2026. [Link](https://doi.org/10.1136/rmdopen-2025-004182)
+
+<span id="ref-4"></span>**[4]** "Adjunctive Fluoxetine in ICU Patients with
+Severe Sepsis: A Single-Center, Double-Blind, Placebo-Controlled Randomized
+Trial." *Journal of Critical Care*, January 21, 2026.
+[Link](https://doi.org/10.1016/j.jcrc.2026.01.003)
+
+<span id="ref-5"></span>**[5]** "Montelukast versus Coenzyme Q10 as Adjunctive
+Anti-inflammatory Therapy in ICU Sepsis: An Open-Label Randomized Controlled
+Trial." *Intensive Care Medicine Experimental*, January 8, 2026.
+[Link](https://doi.org/10.1186/s40635-026-00512-4)
+
+<span id="ref-6"></span>**[6]** "Maraviroc as Adjunctive Immunomodulatory
+Therapy in Non-Severe Hospitalized COVID-19: A Proof-of-Concept Phase 2
+Randomized Controlled Trial." *The Lancet Infectious Diseases*, February 20,
+2026. [Link](https://doi.org/10.1016/S1473-3099(26)00041-7)
+
+<span id="ref-7"></span>**[7]** "Safety, Tolerability, Pharmacokinetics, and
+Preliminary Efficacy of SOR102, an Oral Bispecific Anti-TNF/IL-23 Single-Domain
+Antibody, in Healthy Volunteers and Adults with Active Ulcerative Colitis: Phase
+1 Results." *Gastroenterology*, February 10, 2026.
+[Link](https://doi.org/10.1053/j.gastro.2026.01.021)
+
+<span id="ref-8"></span>**[8]** "Proximal-to-Distal Endoscopic Healing Pattern
+with Anti-TNF Therapy in Ulcerative Colitis: Pooled Post-hoc Analysis of the
+HIBISCUS I, HIBISCUS II, and GARDENIA Trials." *Inflammatory Bowel Diseases
+(Oxford Academic)*, January 28, 2026.
+[Link](https://doi.org/10.1093/ibd/izac289)
+
+<span id="ref-9"></span>**[9]** "Dexmedetomidine Attenuates Endothelial
+Glycocalyx Degradation and TNF-α Release During Cardiopulmonary Bypass in
+Valvular Surgery: A Prospective Randomized Controlled Trial." *Journal of
+Cardiothoracic and Vascular Anesthesia*, December 18, 2025.
+[Link](https://doi.org/10.1053/j.jvca.2025.12.004)
+
+<span id="ref-10"></span>**[10]** "Combined Esketamine and Dexmedetomidine
+Attenuate Pulmonary Inflammatory Injury and Improve Respiratory Mechanics During
+One-Lung Ventilation in COPD Patients Undergoing Thoracoscopic Surgery." *Annals
+of Thoracic Surgery*, January 5, 2026.
+[Link](https://doi.org/10.1016/j.athoracsur.2025.12.019)
+
+<span id="ref-11"></span>**[11]** "Alpha-Lipoic Acid Supplementation Reduces
+Cardiomyocyte Inflammatory and Fibrotic Biomarkers and Improves Left Ventricular
+Ejection Fraction in Diabetic Ischemic Cardiomyopathy: A Double-Blind Randomized
+Controlled Trial." *Cardiovascular Diabetology*, November 30, 2025.
+[Link](https://doi.org/10.1186/s12933-025-02441-9)
+
+<span id="ref-12"></span>**[12]** "Anti-Inflammatory and Symptomatic Effects of
+Low-Dose Colchicine in Heart Failure with Preserved Ejection Fraction: An
+Observational Pilot Study." *ESC Heart Failure (European Society of
+Cardiology)*, January 16, 2026. [Link](https://doi.org/10.1002/ehf2.14897)
+
+<span id="ref-13"></span>**[13]** "Immunomodulatory Profile of Cannabidiol
+(Epidiolex) at Steady-State Plasma Concentrations in Solid Organ Transplant
+Recipients: Ex Vivo T-Cell Cytokine Analysis from a Phase 1 Study." *American
+Journal of Transplantation*, February 5, 2026.
+[Link](https://doi.org/10.1111/ajt.17124)
+
+<span id="ref-14"></span>**[14]** "Protocol for the LIRA-MOOD Pilot Randomized
+Controlled Trial: Effects of Liraglutide on Depressive Symptoms and Inflammatory
+Biomarkers in Overweight and Obese Adults with Type 2 Diabetes." *BMJ Open*,
+January 21, 2026. [Link](https://doi.org/10.1136/bmjopen-2025-092311)

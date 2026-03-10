@@ -6,9 +6,9 @@
   "report_type": "scheduled",
   "delivery_date": "2026-03-10",
   "analyst": {
-    "name": "Nim Telson",
-    "title": "Senior Market Access Analyst",
-    "credentials": "PharmD, MBA"
+    "name": "Batu Akkas",
+    "title": "Chief Market Access Officer",
+    "credentials": ""
   },
   "status": "delivered",
   "next_scheduled": "2026-03-17",
@@ -43,7 +43,15 @@
     "Depression"
   ],
   "payers_covered": [],
-  "tags": ["pipeline intelligence", "TNF inhibitor", "biosimilar", "next-generation TNF", "clinical trial readout", "regulatory milestone", "repurposed agents"],
+  "tags": [
+    "pipeline intelligence",
+    "TNF inhibitor",
+    "biosimilar",
+    "next-generation TNF",
+    "clinical trial readout",
+    "regulatory milestone",
+    "repurposed agents"
+  ],
   "read_by": ["Sarah Thornton", "Mike Reeves"],
   "executive_summary_preview": "The first ten weeks of 2026 have delivered a notably active period for TNF-alpha-related clinical development, spanning neurology, rheumatology, gastroenterology, and critical care. Three broad themes dominate the landscape: an accelerating maturation of selective and next-generation TNF inhibitors, led by XPro1595's FDA-aligned Phase 2b/3 registration pathway in Alzheimer's disease; continued validation of established anti-TNF biologics in new or underserved indications; and a growing body of evidence for non-biologic agents modulating TNF-alpha signaling as adjunctive or repurposed therapies."
 }

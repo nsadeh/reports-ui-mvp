@@ -21,7 +21,7 @@ export default function AnalystSignature({
             className="w-64 h-20"
             xmlns="http://www.w3.org/2000/svg"
           >
-            {/* Signature-style cursive path — stylized for "Nim Telson" */}
+            {/* Signature-style cursive path — stylized for "Batu Akkas" */}
             <path
               d={generateSignaturePath(firstName, lastName)}
               fill="none"
@@ -47,7 +47,7 @@ export default function AnalystSignature({
         {/* Signature line */}
         <div className="border-t border-dark/20 pt-3 space-y-0.5">
           <p className="text-sm font-semibold text-dark">{analyst.name}</p>
-          <p className="text-xs text-body">{analyst.credentials}</p>
+          {analyst.credentials && <p className="text-xs text-body">{analyst.credentials}</p>}
           <p className="text-xs text-body">{analyst.title}</p>
           <p className="text-xs text-muted mt-1">
             Electronically signed {date}
@@ -56,7 +56,13 @@ export default function AnalystSignature({
 
         {/* Verification badge */}
         <div className="mt-4 flex items-center gap-2 px-3 py-2 bg-bg2 border border-border rounded-md w-fit">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" className="text-accent shrink-0">
+          <svg
+            width="14"
+            height="14"
+            viewBox="0 0 24 24"
+            fill="none"
+            className="text-accent shrink-0"
+          >
             <path
               d="M9 12l2 2 4-4"
               stroke="currentColor"

@@ -21,7 +21,7 @@ export default function ReportPageClient({
     <div className="flex h-screen">
       {/* Report Body */}
       <div ref={reportRef} className="flex-1 overflow-y-auto p-8">
-        <div className="max-w-4xl">
+        <div className="max-w-5xl">
           {/* Verified badge */}
           <div className="mb-6 flex items-center gap-2 px-3 py-2 bg-bg2 border border-border rounded-md w-fit">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" className="text-accent shrink-0">
@@ -39,7 +39,7 @@ export default function ReportPageClient({
               />
             </svg>
             <span className="text-[11px] text-muted">
-              Verified by Inflection Labs — {meta.analyst.name}, {meta.analyst.credentials} — Delivered {meta.delivery_date}
+              Verified by Inflection Labs — {meta.analyst.name}{meta.analyst.credentials ? `, ${meta.analyst.credentials}` : ""} — Delivered {meta.delivery_date}
             </span>
           </div>
 
@@ -66,7 +66,7 @@ export default function ReportPageClient({
               </span>
               <span className="text-muted">|</span>
               <span className="text-body">
-                {meta.analyst.name}, {meta.analyst.credentials}
+                {meta.analyst.name}{meta.analyst.credentials ? `, ${meta.analyst.credentials}` : ""}
               </span>
             </div>
           </div>

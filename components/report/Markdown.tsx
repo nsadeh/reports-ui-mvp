@@ -2,6 +2,7 @@
 
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 
 function AccessTierBadge({ tier }: { tier: string }) {
   const t = tier.trim().toLowerCase();
@@ -121,13 +122,29 @@ const markdownComponents = {
   code: ({ children, ...props }: React.HTMLAttributes<HTMLElement>) => (
     <code className="bg-bg2 text-accent px-1.5 py-0.5 rounded text-[13px] font-mono" {...props}>{children}</code>
   ),
+  a: ({ children, href, ...props }: React.AnchorHTMLAttributes<HTMLAnchorElement>) => {
+    const isExternal = href && (href.startsWith("http://") || href.startsWith("https://"));
+    return (
+      <a
+        href={href}
+        className="text-accent underline underline-offset-2 hover:text-dark transition-colors"
+        {...(isExternal ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+        {...props}
+      >
+        {children}
+      </a>
+    );
+  },
+  sup: ({ children, ...props }: React.HTMLAttributes<HTMLElement>) => (
+    <sup className="text-[10px] ml-0.5" {...props}>{children}</sup>
+  ),
 };
 
 export function ReportMarkdown({ content }: { content: string }) {
   return (
     <article className="max-w-none">
       {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
-      <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
+      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} components={markdownComponents}>
         {content}
       </ReactMarkdown>
     </article>
