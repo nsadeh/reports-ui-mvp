@@ -1,6 +1,6 @@
 {
-  "id": "tnf-alpha-landscape-2026-03-10",
-  "title": "TNF-Alpha Target Area — Market Access Landscape",
+  "id": "rpt_tnf_alpha_2026_03_10",
+  "title": "TNF-α Pathway: Clinical Trial & Pipeline Intelligence — Q1 2026",
   "scope_type": "target_area",
   "scope_value": "TNF-alpha",
   "report_type": "scheduled",
@@ -12,10 +12,38 @@
   },
   "status": "delivered",
   "next_scheduled": "2026-03-17",
-  "drugs_covered": ["adalimumab", "etanercept", "infliximab", "certolizumab", "golimumab"],
-  "indications_covered": ["Rheumatoid Arthritis", "Plaque Psoriasis", "Crohn's Disease", "Ulcerative Colitis", "Ankylosing Spondylitis"],
-  "payers_covered": ["Aetna", "UnitedHealthcare", "Cigna", "Anthem/Elevance", "Humana"],
-  "tags": ["biosimilar dynamics", "formulary shift", "step therapy", "interchangeability"],
+  "drugs_covered": [
+    "XPro1595 (pegipanermin)",
+    "SOR102",
+    "adalimumab",
+    "infliximab",
+    "certolizumab pegol",
+    "fluoxetine",
+    "montelukast",
+    "dexmedetomidine",
+    "esketamine",
+    "colchicine",
+    "liraglutide",
+    "maraviroc",
+    "cannabidiol (Epidiolex)",
+    "alpha lipoic acid"
+  ],
+  "indications_covered": [
+    "Alzheimer's Disease",
+    "Ulcerative Colitis",
+    "Rheumatoid Arthritis",
+    "Non-infectious Uveitis",
+    "Inflammatory Bowel Disease",
+    "Severe Sepsis",
+    "Cardiac Surgery",
+    "Ischemic Cardiomyopathy",
+    "COPD",
+    "Heart Failure with Preserved Ejection Fraction",
+    "COVID-19",
+    "Depression"
+  ],
+  "payers_covered": [],
+  "tags": ["pipeline intelligence", "TNF inhibitor", "biosimilar", "next-generation TNF", "clinical trial readout", "regulatory milestone", "repurposed agents"],
   "read_by": ["Sarah Thornton", "Mike Reeves"],
-  "executive_summary_preview": "Biosimilar competition is reshaping TNF-alpha market access at an accelerating pace. Three of the five major commercial payers have implemented biosimilar-first step therapy policies since January, and adalimumab biosimilar market share has crossed 40% nationally. This edition covers the latest formulary shifts, new interchangeability designations, and their implications for originator positioning."
+  "executive_summary_preview": "The first ten weeks of 2026 have delivered a notably active period for TNF-alpha-related clinical development, spanning neurology, rheumatology, gastroenterology, and critical care. Three broad themes dominate the landscape: an accelerating maturation of selective and next-generation TNF inhibitors, led by XPro1595's FDA-aligned Phase 2b/3 registration pathway in Alzheimer's disease; continued validation of established anti-TNF biologics in new or underserved indications; and a growing body of evidence for non-biologic agents modulating TNF-alpha signaling as adjunctive or repurposed therapies."
 }
