@@ -4,7 +4,7 @@
   "scope_type": "target_area",
   "scope_value": "TNF-alpha",
   "report_type": "scheduled",
-  "delivery_date": "2026-03-11",
+  "delivery_date": "2026-03-10",
   "analyst": {
     "name": "Batu Akkas",
     "title": "Chief Market Access Officer",
@@ -14,14 +14,10 @@
   "next_scheduled": "2026-03-17",
   "drugs_covered": [
     "XPro1595 (pegipanermin)",
-    "NAV-240",
-    "NAV-242",
     "SOR102",
     "adalimumab",
     "infliximab",
     "certolizumab pegol",
-    "GS-6791",
-    "NX-3911",
     "fluoxetine",
     "montelukast",
     "dexmedetomidine",
@@ -34,7 +30,6 @@
   ],
   "indications_covered": [
     "Alzheimer's Disease",
-    "Hidradenitis Suppurativa",
     "Ulcerative Colitis",
     "Rheumatoid Arthritis",
     "Non-infectious Uveitis",
@@ -45,20 +40,18 @@
     "COPD",
     "Heart Failure with Preserved Ejection Fraction",
     "COVID-19",
-    "Depression",
-    "Transplant Pain Management"
+    "Depression"
   ],
   "payers_covered": [],
   "tags": [
     "pipeline intelligence",
     "TNF inhibitor",
-    "bispecific antibody",
+    "biosimilar",
     "next-generation TNF",
     "clinical trial readout",
     "regulatory milestone",
-    "repurposed agents",
-    "upstream pathway modulation"
+    "repurposed agents"
   ],
   "read_by": ["Sarah Thornton", "Mike Reeves"],
-  "executive_summary_preview": "The first ten weeks of 2026 have delivered a notably active period for TNF-alpha-related clinical development, spanning neurology, dermatology, rheumatology, gastroenterology, and critical care. Four broad themes dominate the landscape: accelerating maturation of selective and next-generation TNF inhibitors led by XPro1595's FDA-aligned Phase 2b/3 registration pathway; emergence of bispecific antibody strategies pairing TNF-alpha inhibition with a second immune target; continued validation of established anti-TNF biologics in new indications; and growing evidence for non-biologic agents modulating TNF-alpha signaling as adjunctive therapies."
+  "executive_summary_preview": "The first ten weeks of 2026 have delivered a notably active period for TNF-alpha-related clinical development, spanning neurology, rheumatology, gastroenterology, and critical care. Three broad themes dominate the landscape: an accelerating maturation of selective and next-generation TNF inhibitors, led by XPro1595's FDA-aligned Phase 2b/3 registration pathway in Alzheimer's disease; continued validation of established anti-TNF biologics in new or underserved indications; and a growing body of evidence for non-biologic agents modulating TNF-alpha signaling as adjunctive or repurposed therapies."
 }
