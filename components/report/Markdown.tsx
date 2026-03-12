@@ -91,7 +91,7 @@ const markdownComponents = {
     <thead className="bg-dark text-white" {...props}>{children}</thead>
   ),
   th: ({ children, ...props }: React.HTMLAttributes<HTMLTableCellElement>) => (
-    <th className="text-left px-4 py-3 font-medium text-xs uppercase tracking-wider whitespace-nowrap" {...props}>{children}</th>
+    <th className="text-left px-4 py-3 font-medium text-xs uppercase tracking-wider" {...props}>{children}</th>
   ),
   tbody: ({ children, ...props }: React.HTMLAttributes<HTMLTableSectionElement>) => (
     <tbody {...props}>{children}</tbody>
@@ -114,7 +114,7 @@ const markdownComponents = {
       return <td className="px-4 py-2.5" {...props}><BiosimilarBadge status={text} /></td>;
     }
 
-    return <td className="px-4 py-2.5 text-body" {...props}>{children}</td>;
+    return <td className="px-4 py-2.5 text-body max-w-xs align-top break-words" {...props}>{children}</td>;
   },
   blockquote: ({ children, ...props }: React.HTMLAttributes<HTMLQuoteElement>) => (
     <blockquote className="border-l-3 border-accent bg-bg2 px-4 py-3 mb-4 rounded-r text-body italic" {...props}>{children}</blockquote>
