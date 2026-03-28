@@ -7,6 +7,7 @@ export interface Analyst {
 export interface ReportMeta {
   id: string;
   title: string;
+  subtitle?: string;
   scope_type: "target_area" | "disease_area" | "indication";
   scope_value: string;
   report_type: "scheduled" | "custom";

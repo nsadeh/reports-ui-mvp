@@ -45,9 +45,12 @@ export default function ReportPageClient({
 
           {/* Metadata Bar */}
           <div className="mb-8 pb-4 border-b border-border">
-            <h1 className="text-2xl font-semibold text-dark mb-2">
+            <h1 className="text-2xl font-semibold text-dark mb-1">
               {meta.title}
             </h1>
+            {meta.subtitle && (
+              <p className="text-sm text-muted mb-2">{meta.subtitle}</p>
+            )}
             <div className="flex items-center gap-3 flex-wrap text-sm">
               <span className="inline-block px-2 py-0.5 text-xs font-medium bg-sage/30 text-body rounded">
                 {meta.scope_value}

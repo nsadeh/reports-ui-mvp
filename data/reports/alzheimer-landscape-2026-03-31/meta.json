@@ -1,0 +1,46 @@
+{
+  "id": "rpt_alzheimer_2026_03_31",
+  "title": "Alzheimer's Disease: Clinical Trial & Pipeline Intelligence",
+  "subtitle": "Mar 16, 2026 – Mar 31, 2026",
+  "scope_type": "disease_area",
+  "scope_value": "Alzheimer's Disease",
+  "report_type": "scheduled",
+  "delivery_date": "2026-03-31",
+  "analyst": {
+    "name": "Batu Akkas",
+    "title": "Chief Pipeline Intelligence Officer",
+    "credentials": ""
+  },
+  "status": "delivered",
+  "next_scheduled": "2026-04-15",
+  "drugs_covered": [
+    "blarcamesine (ANAVEX2-73)",
+    "neflamapimod",
+    "troculeucel (SNK01)",
+    "buntanetap",
+    "PMN310"
+  ],
+  "indications_covered": [
+    "Alzheimer's Disease",
+    "Dementia with Lewy Bodies"
+  ],
+  "payers_covered": [],
+  "tags": [
+    "pipeline intelligence",
+    "neurodegeneration",
+    "Alzheimer's disease",
+    "dementia with Lewy bodies",
+    "EMA withdrawal",
+    "regulatory setback",
+    "cell therapy",
+    "NK cell",
+    "small molecule",
+    "antibody",
+    "conference data",
+    "AD/PD 2026",
+    "phase 3 enrollment",
+    "biomarker"
+  ],
+  "read_by": [],
+  "executive_summary_preview": "The second half of March 2026 was shaped by the AD/PD™ 2026 conference in Copenhagen and two year-end corporate disclosures, surfacing data and regulatory developments across five programs. Anavex withdrew its EU marketing authorization application for blarcamesine in early Alzheimer's disease after the EMA's CHMP indicated it could not issue a positive opinion — the first major regulatory setback for the SIGMAR1 pathway in a late-stage context. CervoMed presented new pTau181-stratified analyses from the RewinD-LB Phase 2b trial at AD/PD 2026 showing a stepwise increase in neflamapimod's clinical benefit as patients were enriched for absence of AD co-pathology, further validating the company's Phase 3 patient enrichment strategy. NKGen Biotech reported combined Phase 1 troculeucel data at AD/PD 2026 demonstrating dose-responsive cognitive improvements in moderate AD, with 100% of patients stable or improved and 50% improving from moderate to mild stage on CDR-SB. Annovis Bio presented a Phase 3 enrollment update for buntanetap in early AD at AD/PD 2026, with 760 participants targeted across 83 US sites and dual 6-month and 18-month efficacy readouts planned. ProMIS Neurosciences reported full enrollment of 144 participants — exceeding the 128-patient target — in the PRECISE-AD Phase 1b trial of PMN310, with six-month blinded interim data expected Q3 2026 and top-line results anticipated in early 2027."
+}

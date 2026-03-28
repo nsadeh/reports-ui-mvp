@@ -19,7 +19,8 @@ export function getAllReportMetas(): ReportMeta[] {
       const raw = fs.readFileSync(metaPath, "utf-8");
       return JSON.parse(raw) as ReportMeta;
     })
-    .filter(Boolean) as ReportMeta[];
+    .filter(Boolean)
+    .sort((a, b) => new Date(b!.delivery_date).getTime() - new Date(a!.delivery_date).getTime()) as ReportMeta[];
 }
 
 export function getReportMeta(id: string): ReportMeta | null {

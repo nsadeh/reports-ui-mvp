@@ -1,0 +1,44 @@
+{
+  "id": "rpt_alzheimer_2026_03_15",
+  "title": "Alzheimer's Disease: Clinical Trial & Pipeline Intelligence",
+  "subtitle": "Mar 1, 2026 – Mar 15, 2026",
+  "scope_type": "disease_area",
+  "scope_value": "Alzheimer's Disease",
+  "report_type": "scheduled",
+  "delivery_date": "2026-03-15",
+  "analyst": {
+    "name": "Batu Akkas",
+    "title": "Chief Pipeline Intelligence Officer",
+    "credentials": ""
+  },
+  "status": "delivered",
+  "next_scheduled": "2026-03-31",
+  "drugs_covered": [
+    "zervimesine (CT1812)",
+    "PBFT02",
+    "neflamapimod",
+    "VY1706",
+    "VY7523"
+  ],
+  "indications_covered": [
+    "Alzheimer's Disease",
+    "Dementia with Lewy Bodies",
+    "Frontotemporal Dementia"
+  ],
+  "payers_covered": [],
+  "tags": [
+    "pipeline intelligence",
+    "neurodegeneration",
+    "Alzheimer's disease",
+    "dementia with Lewy bodies",
+    "frontotemporal dementia",
+    "gene therapy",
+    "small molecule",
+    "end-of-phase meeting",
+    "enrollment update",
+    "protocol update",
+    "trial initiation"
+  ],
+  "read_by": ["Sarah Thornton", "Mike Reeves"],
+  "executive_summary_preview": "The first two weeks of March 2026 marked meaningful progress across the neurodegeneration pipeline, with four clinical-stage companies advancing programs in Alzheimer's disease and related dementias. Cognition Therapeutics secured FDA alignment on a registrational pathway for zervimesine in dementia with Lewy bodies (DLB) psychosis — an indication with no approved therapies where many standard antipsychotics are contraindicated. CervoMed resolved a critical manufacturing challenge for neflamapimod, locking in a 50mg TID stable crystal formulation for its planned Phase 3 DLB trial. Passage Bio reported dual enrollment milestones in the upliFT-D gene therapy study for genetic frontotemporal dementia. Voyager Therapeutics outlined a 2026 clinical entry plan for two tau-targeting assets in Alzheimer's disease: VY1706, a tau-silencing gene therapy targeting IND submission in Q2, and VY7523, an anti-tau antibody with MAD trial enrollment complete and tau PET data expected in H2 2026."
+}

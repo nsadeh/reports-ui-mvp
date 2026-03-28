@@ -1,11 +1,19 @@
 {
   "monitored_targets": [
     {
+      "target": "Alzheimer's Disease",
+      "tracked_drugs": 10,
+      "tracked_indications": 3,
+      "last_report_date": "2026-03-31",
+      "status": "new_report",
+      "active": true
+    },
+    {
       "target": "TNF-alpha",
       "tracked_drugs": 12,
       "tracked_indications": 8,
       "last_report_date": "2026-03-10",
-      "status": "new_report",
+      "status": "up_to_date",
       "active": true
     },
     {

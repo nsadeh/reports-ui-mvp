@@ -10,7 +10,8 @@ import type { ActivityEvent, TeamMember } from "@/lib/types";
 /* ─── Helpers ─── */
 
 function formatDate(iso: string) {
-  return new Date(iso).toLocaleDateString("en-US", {
+  const [year, month, day] = iso.split("-").map(Number);
+  return new Date(year, month - 1, day).toLocaleDateString("en-US", {
     month: "short",
     day: "numeric",
     year: "numeric",
@@ -190,8 +191,10 @@ export default function Dashboard() {
       {/* Compact header */}
       <div className="flex items-center justify-between mb-6">
         <div className="flex items-baseline gap-3">
-          <span className="text-sm font-medium text-dark">Zach</span>
-          <span className="text-xs text-muted">March 9, 2026</span>
+          <span className="text-sm font-medium text-dark">Alon</span>
+          <span className="text-xs text-muted">
+            {new Date().toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}
+          </span>
         </div>
       </div>
 
@@ -374,7 +377,7 @@ export default function Dashboard() {
           <span>
             Next delivery:{" "}
             <span className="font-medium text-dark">
-              TNF-alpha Landscape, March 17, 2026
+              Alzheimer's Landscape, April 15, 2026
             </span>
           </span>
         </div>

@@ -1,6 +1,6 @@
 # Report Data Format — Quick Guide for Batu
 
-Hey Batu — this explains how report data is structured in the MVP prototype so you can convert your TNF-alpha brief into the right format. Everything lives in a single directory per report, with four files.
+Hey Batu — this explains how report data is structured in the MVP prototype so you can convert your source files into the right format. Everything lives in a single directory per report, with four files.
 
 ---
 
@@ -11,7 +11,7 @@ Your report goes in a folder under `data/reports/`. The folder name is a slugifi
 ```
 data/reports/tnf-alpha-landscape-2026-03-10/
 ├── meta.json           # Report metadata (title, analyst, scope, dates)
-├── content.mdx         # The actual report body (markdown + custom components)
+├── content.mdx         # The actual report body (markdown + raw HTML)
 ├── sources.json        # Citation index — every source document referenced in the report
 └── qa-fallback.json    # Pre-seeded Q&A pairs for the chat (backup if API is down)
 ```
@@ -50,42 +50,32 @@ The `drugs_covered`, `indications_covered`, and `payers_covered` arrays don't ne
 
 ## File 2: `content.mdx`
 
-This is the report body. It's **MDX**, which means standard markdown plus a few custom React components you can use inline. Write it like a normal markdown document, but you have three special components available:
+This is the report body. It's standard markdown rendered by `ReactMarkdown` — **do not use custom JSX components** (they will not render). Use the patterns below for structured content.
 
-**`<DataTable>`** — for structured tables (like the therapeutic landscape table). You pass it a `columns` array of objects and a `data` array of objects:
+**Tables** — use standard GFM (GitHub Flavored Markdown) pipe table syntax. These are automatically styled with a dark header, alternating rows, and hover highlighting:
 
-```mdx
-<DataTable
-  columns={[
-    { key: "drug", label: "Drug" },
-    { key: "manufacturer", label: "Manufacturer" },
-    { key: "event_date", label: "Event Date" }
-  ]}
-  data={[
-    { drug: "XPro1595", manufacturer: "INmune Bio", event_date: "2026-02-12" },
-    { drug: "SOR102", manufacturer: "Sorriso Pharma", event_date: "2026-01-14" }
-  ]}
-/>
+```markdown
+| Drug | Manufacturer | Mechanism | Event Type | Event Date |
+|------|-------------|-----------|------------|------------|
+| XPro1595 | INmune Bio | Selective sTNF inhibitor | Trial Initiation (Ph2) | February 12, 2026 |
+| SOR102 | Sorriso Pharma | p38α MAP kinase inhibitor | Enrollment Update (Ph1/2) | January 14, 2026 |
 ```
 
-**`<BenchmarkCallout>`** — for highlighting a key threshold or data point. These render as styled cards with a lime left-border:
+**Callout boxes** — use blockquotes with a bold title on the first line. These render with a teal left-border and a tinted background:
 
-```mdx
-<BenchmarkCallout
-  title="RA Step Therapy Threshold"
-  value="Fail-first through preferred biosimilar"
-  confidence="high"
-  description="4 of 5 major commercial payers now require step therapy through a preferred adalimumab biosimilar before covering originator Humira in RA."
-/>
+```markdown
+> **RA Step Therapy Threshold: Fail-first through preferred biosimilar**
+>
+> 4 of 5 major commercial payers now require step therapy through a preferred adalimumab biosimilar before covering originator Humira in RA.
 ```
 
-**`<CitationMarker>`** — an inline reference to a source. It renders as a small superscript like [1] and shows source details on hover. The `id` must match an entry in `sources.json`:
+**Citation markers** — use raw HTML superscripts with anchor links pointing to the numbered references at the bottom of the file. The `id` in the `<span>` at the reference entry must match the `#ref-N` fragment:
 
-```mdx
-Aetna updated its formulary in January 2026 to prefer Hadlima over Humira across all TNF-alpha indications.<CitationMarker id="src_aetna_formulary_2026" />
+```markdown
+Aetna updated its formulary in January 2026 to prefer Hadlima over Humira across all TNF-alpha indications. <sup>[[1]](#ref-1)</sup>
 ```
 
-**If you're not sure about the components, just write plain markdown.** We can add the components later. The important thing is that the content structure follows this exact section order:
+**If you're not sure about the formatting, just write plain markdown.** We can add callouts and citations later. The important thing is that the content structure follows this exact section order:
 
 ---
 
@@ -94,7 +84,7 @@ Aetna updated its formulary in January 2026 to prefer Hadlima over Humira across
 Contains two subsections in this order:
 
 **`### Period Highlights`**
-A bullet list pulled directly from the snapshot/key events bullets in the source brief. The brief organizes these bullets into categories based on the type of TNF-alpha targeting molecule involved (e.g. selective sTNF inhibitors, conventional anti-TNF biologics, repurposed agents, etc.). Preserve this categorization exactly — use a **bold label** on its own line for each molecule category as it appears in the brief, and list the relevant event bullets beneath it. Each bullet should be one concise sentence. Do not use `####` headers for these category labels and do not flatten the bullets into a single undifferentiated list. Bold labels are preferred over headers here to avoid deep header nesting that may cause UI rendering issues.
+A bullet list pulled directly from the snapshot/key events bullets in the source brief. The brief organizes these bullets into categories based on the type of TNF-alpha targeting molecule involved (e.g. selective sTNF inhibitors, conventional anti-TNF biologics, repurposed agents, etc.). Preserve this categorization exactly — use a **bold label** on its own line for each molecule category as it appears in the brief, and list the relevant event bullets beneath it. Each bullet should be one concise sentence. Do not use `####` headers for these category labels and do not flatten the bullets into a single undifferentiated list. Bold labels are preferred over headers here to avoid deep header nesting that may cause UI rendering issues. Append a citation superscript at the end of each bullet where relevant.
 
 **`### Overview`**
 After the Period Highlights bullets, include a prose section that opens with a short paragraph identifying each category of TNF-alpha targeting molecule represented in the report (matching the same categories used in Period Highlights). For each molecule category, write 3–5 sentences covering: how that class of molecule mechanistically modulates TNF-alpha (e.g. neutralizes soluble TNF, blocks both sTNF and tmTNF, inhibits upstream NF-κB signaling, etc.), what therapeutic outcome that mechanism is intended to produce, and the key trade-offs of that approach — its advantages over traditional TNF inhibitors and other molecule classes, and its limitations or risks. This section should give the reader a clear mechanistic map of the TNF-alpha modulation landscape before they enter the deeper report content. Follow this with the original executive summary narrative paragraphs from the brief as they are, after the molecule category overviews.
@@ -103,7 +93,7 @@ After the Period Highlights bullets, include a prose section that opens with a s
 
 ### 2. `## Therapeutic Landscape Table`
 
-A `<DataTable>` component with one row per drug or event covered in the report. Columns must match exactly those present in the source Word document, plus one additional column: **"Event Date"** (the date of the clinical event, regulatory milestone, or publication). Use the `columns` / `data` object format shown above.
+A GFM markdown table with one row per drug or event covered in the report. Columns must match exactly those present in the source document, plus one additional column: **"Event Date"** (the date of the clinical event, regulatory milestone, or publication). Dates should be formatted as "Month D, YYYY" (e.g. "March 2, 2026"). If a Phase column is included, fold the phase information into the Event Type column instead (e.g. "End-of-Phase Meeting (Ph2 → Ph3)") to keep the table width manageable.
 
 ---
 
@@ -114,7 +104,7 @@ Two parts, in order:
 **Part 1 — Indication Index**
 A simple bullet list of indication names only — no descriptions, no drug names, no data. This is purely a navigational list of every indication covered in the sections that follow. Example:
 
-```mdx
+```markdown
 - Alzheimer's Disease
 - Ulcerative Colitis
 - Rheumatoid Arthritis
@@ -122,19 +112,19 @@ A simple bullet list of indication names only — no descriptions, no drug names
 ```
 
 **Part 2 — Per-Indication Deep Sections**
-A `###` header for each indication. Under each, cover: relevant drug(s) and mechanism, trial design and population, and key results. Use `<BenchmarkCallout>` for key quantitative highlights and `<CitationMarker>` for inline citations.
+A `###` header for each indication. Under each, cover: relevant drug(s) and mechanism, trial design and population, and key results. Use blockquote callouts for key quantitative highlights and citation superscripts for inline citations.
 
 ---
 
 ### 4. `## Competitive Intelligence Highlights`
 
-Numbered `###` subsections, one per strategic observation. Each should draw a competitive or market implication from the period's events rather than simply restating trial results. Use `<CitationMarker>` where relevant.
+Numbered `###` subsections, one per strategic observation. Each should draw a competitive or market implication from the period's events rather than simply restating trial results. Use citation superscripts where relevant.
 
 ---
 
 ### 5. `## Methodology and Sources`
 
-A short prose section (~150–200 words) covering: reporting period date range, research approach (primary literature, regulatory filings, company disclosures), scope limitations, and analyst attribution. Use `<CitationMarker>` where relevant.
+A short prose section (~150–200 words) covering: reporting period date range, research approach (primary literature, regulatory filings, company disclosures), scope limitations, and analyst attribution. Use citation superscripts where relevant.
 
 ---
 
@@ -142,7 +132,7 @@ A short prose section (~150–200 words) covering: reporting period date range, 
 
 A numbered list of all sources cited in the report. Each entry should follow this format:
 
-```mdx
+```markdown
 <span id="ref-1"></span>**[1]** "Title of Source." *Organization / Journal*, Date.
 [Link](https://doi.org/...)
 ```
@@ -153,7 +143,7 @@ A numbered list of all sources cited in the report. Each entry should follow thi
 
 ## File 3: `sources.json`
 
-This is the citation index. Every source you reference in the report needs an entry here. Each entry has a unique `id` (which is what `<CitationMarker id="...">` points to), plus metadata and — importantly — a `content` field with a relevant excerpt from the source document. The chat feature uses these excerpts to answer questions that go deeper than the report narrative.
+This is the citation index. Every source you reference in the report needs an entry here. Each entry has a unique `id`, plus metadata and — importantly — a `content` field with a relevant excerpt from the source document. The chat feature uses these excerpts to answer questions that go deeper than the report narrative.
 
 ```json
 [
@@ -215,25 +205,25 @@ Read my brief at [path to your file]. Generate a meta.json file for this report 
 ```
 Read my brief at [path to your file]. Before generating anything, also read the existing file at data/reports/tnf-alpha-landscape-2026-03-10/content.mdx and extract every entry in the ## References section verbatim — you will carry these over unchanged into the new file.
 
-Convert the brief into an MDX file for our report viewer using these custom components:
+Convert the brief into an MDX file for our report viewer. The renderer is ReactMarkdown — do not use custom JSX components. Use these patterns instead:
 
-- <DataTable columns={[...]} data={[...]} /> for any tabular data
-- <BenchmarkCallout title="..." value="..." confidence="high|medium|low" description="..." /> for key thresholds and data highlights
-- <CitationMarker id="src_..." /> inline wherever a source is referenced
+- GFM pipe tables for any tabular data (| Col1 | Col2 | ... with header row and --- separator)
+- Blockquotes with a bold first line for key callouts: > **Title: Value** \n>\n> Description text
+- Raw HTML superscripts for inline citations: <sup>[[1]](#ref-1)</sup>
 
 The report must follow this exact section structure:
 
 1. ## Executive Summary
-   - ### Period Highlights — a bullet list pulled directly from the snapshot/key events bullets in the brief. The brief organizes these bullets into categories based on the type of TNF-alpha targeting molecule involved (e.g. selective sTNF inhibitors, conventional anti-TNF biologics, repurposed agents, etc.). Preserve this categorization exactly: use a **bold label** on its own line for each molecule category as it appears in the brief, and list the relevant one-sentence event bullets beneath it. Do not use #### headers for these category labels and do not flatten the bullets into a single undifferentiated list.
+   - ### Period Highlights — a bullet list pulled directly from the snapshot/key events bullets in the brief. The brief organizes these bullets into categories based on the type of TNF-alpha targeting molecule involved (e.g. selective sTNF inhibitors, conventional anti-TNF biologics, repurposed agents, etc.). Preserve this categorization exactly: use a **bold label** on its own line for each molecule category as it appears in the brief, and list the relevant one-sentence event bullets beneath it. Append a <sup>[[N]](#ref-N)</sup> citation at the end of each bullet where relevant. Do not use #### headers for these category labels and do not flatten the bullets into a single undifferentiated list.
    - ### Overview — open with a short paragraph identifying each category of TNF-alpha targeting molecule represented in the report (matching the same categories used in Period Highlights). For each molecule category, write 3–5 sentences covering: how that class mechanistically modulates TNF-alpha (e.g. neutralizes soluble TNF, blocks both sTNF and tmTNF, inhibits upstream NF-κB signaling, etc.), what therapeutic outcome that mechanism is intended to produce, and the key trade-offs — its advantages over traditional TNF inhibitors and other molecule classes, and its limitations or risks. Follow this mechanistic map with the original executive summary narrative paragraphs from the brief, as they are. Prose throughout, no bullets.
 
-2. ## Therapeutic Landscape Table — a <DataTable> with one row per drug/event. Columns must match exactly those in the source Word document, plus one additional column: "Event Date" (the date of the clinical event, regulatory milestone, or publication).
+2. ## Therapeutic Landscape Table — a GFM pipe table with one row per drug/event. Columns must match exactly those in the source document, plus one additional column: "Event Date" (the date of the clinical event, regulatory milestone, or publication). Format dates as "Month D, YYYY". Fold any Phase information into the Event Type column (e.g. "End-of-Phase Meeting (Ph2 → Ph3)") rather than using a separate Phase column.
 
 3. ## Indication Deep-Dive — two parts in order:
    - First: a plain bullet list of indication names only (no descriptions, no drug names, no data) — a navigational index of every indication covered below.
-   - Then: a ### section per indication covering relevant drug(s) and mechanism, trial design and population, and key results. Use <BenchmarkCallout> for key quantitative highlights and <CitationMarker> for inline citations.
+   - Then: a ### section per indication covering relevant drug(s) and mechanism, trial design and population, and key results. Use blockquote callouts (> **Title: Value** \n>\n> Description) for key quantitative highlights and <sup>[[N]](#ref-N)</sup> for inline citations.
 
-4. ## Competitive Intelligence Highlights — unchanged from current spec. Numbered ### subsections drawing strategic and competitive implications from the period's events.
+4. ## Competitive Intelligence Highlights — unchanged from current spec. Numbered ### subsections drawing strategic and competitive implications from the period's events. Use <sup>[[N]](#ref-N)</sup> citations where relevant.
 
 5. ## Methodology and Sources — unchanged from current spec. Short prose covering reporting period, research approach, scope limitations, and analyst attribution.
 
@@ -245,7 +235,7 @@ Use source IDs following the pattern src_[org]_[type]_[year] (e.g., src_aetna_fo
 ### Prompt 3: Generate `sources.json` from the MDX
 
 ```
-Read the MDX file at data/reports/tnf-alpha-landscape-2026-03-10/content.mdx. Find every <CitationMarker id="..." /> in the file and collect all the source IDs. For each source ID, generate a sources.json entry with realistic metadata (title, organization, document_type, date, url) and a content field containing a few hundred words of relevant excerpted text that supports whatever claim the citation is attached to in the report. The content should be realistic and specific enough that a Q&A chatbot could use it to answer follow-up questions about that source.
+Read the MDX file at data/reports/tnf-alpha-landscape-2026-03-10/content.mdx. Find every <sup>[[N]](#ref-N)</sup> citation in the file and identify the source documents they refer to from the ## References section. For each source, generate a sources.json entry with metadata (id, title, organization, document_type, date, url) and a content field containing a few hundred words of relevant excerpted text that supports whatever claim the citation is attached to in the report. The content should be specific enough that a Q&A chatbot could use it to answer follow-up questions about that source.
 
 Write the output to data/reports/tnf-alpha-landscape-2026-03-10/sources.json.
 ```
