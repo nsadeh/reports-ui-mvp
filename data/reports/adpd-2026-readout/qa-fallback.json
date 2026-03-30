@@ -1,0 +1,24 @@
+[
+  {
+    "question": "How many clinical abstracts were presented at AD/PD 2026 on Alzheimer's therapies?",
+    "keywords": [
+      "abstracts",
+      "clinical",
+      "AD/PD",
+      "2026",
+      "count"
+    ],
+    "answer": "41 clinical abstracts from the AD/PD 2026 conference were identified as relevant to Alzheimer's disease therapy, covering a range of drug classes, clinical stages, and update types."
+  },
+  {
+    "question": "Which drugs featured most prominently in the AD/PD 2026 clinical abstracts?",
+    "keywords": [
+      "drugs",
+      "prominent",
+      "lecanemab",
+      "featured",
+      "therapy"
+    ],
+    "answer": "Lecanemab (Eisai/Biogen) appeared most frequently across the clinical abstracts, with multiple real-world effectiveness and safety updates. Other notable entries included buntanetap (Annovis Bio), valiltramiprosate (ProMIS), and several investigational small molecules and antibodies."
+  }
+]

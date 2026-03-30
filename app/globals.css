@@ -20,3 +20,95 @@ body {
   color: var(--color-text);
   font-family: var(--font-sans);
 }
+
+/* ── Abstract dropdown sections ───────────────────────────────────────────── */
+details {
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  margin-bottom: 8px;
+  background-color: var(--color-bg2);
+  overflow: hidden;
+}
+
+details summary {
+  padding: 12px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--color-text);
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  user-select: none;
+}
+
+details summary::-webkit-details-marker { display: none; }
+
+details summary::before {
+  content: "▶";
+  font-size: 10px;
+  color: var(--color-accent);
+  transition: transform 0.15s ease;
+  flex-shrink: 0;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details summary:hover {
+  background-color: var(--color-border);
+}
+
+details[open] summary {
+  border-bottom: 1px solid var(--color-border);
+}
+
+pre.abstract-body {
+  margin: 0;
+  padding: 16px;
+  font-family: var(--font-sans);
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: var(--color-body);
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: transparent;
+}
+
+.abstract-content {
+  padding: 20px 28px;
+  font-family: var(--font-sans);
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: var(--color-body);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.abstract-content p {
+  margin: 0 0 10px 0;
+}
+
+.abstract-content p:last-child {
+  margin-bottom: 0;
+}
+
+.abstract-title {
+  font-size: 15px;
+  font-weight: 700 !important;
+  color: var(--color-dark);
+  margin-bottom: 8px !important;
+}
+
+.abstract-authors {
+  font-size: 12.5px;
+  color: var(--color-body);
+  margin-bottom: 6px !important;
+}
+
+.abstract-affiliations {
+  font-size: 12px;
+  color: var(--color-muted);
+  margin-bottom: 18px !important;
+}

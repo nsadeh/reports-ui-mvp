@@ -1,0 +1,50 @@
+{
+  "id": "rpt_adpd_2026_readout",
+  "title": "Alzheimer's Disease: AD/PD 2026 Conference Clinical Abstract Intelligence",
+  "subtitle": "AD/PD 2026 Conference \u2014 Clinical Abstracts",
+  "scope_type": "disease_area",
+  "scope_value": "Alzheimer's Disease",
+  "report_type": "Event",
+  "delivery_date": "2026-03-29",
+  "analyst": {
+    "name": "Batu Akkas",
+    "title": "Chief Pipeline Intelligence Officer",
+    "credentials": ""
+  },
+  "status": "delivered",
+  "next_scheduled": "",
+  "drugs_covered": [
+    "ALDA-1",
+    "Baricitinib",
+    "Bepranemab",
+    "Buntanetap",
+    "Choline Alphoscerate",
+    "Diflunisal / P7C3-A20",
+    "Donanemab",
+    "Donepezil",
+    "Gantenerumab",
+    "IGS01",
+    "Lecanemab",
+    "Lecanemab, Donanemab",
+    "Lecanemab/Donanemab",
+    "Memantine",
+    "Monoclonal antibodies (anti-A\u03b2, anti-tau, anti-\u03b1-syn)",
+    "NIDB-3101",
+    "NTRX-07",
+    "NeuralCIM\u00ae",
+    "PRI-002",
+    "Solanezumab"
+  ],
+  "indications_covered": [
+    "Alzheimer's Disease"
+  ],
+  "payers_covered": [],
+  "tags": [
+    "conference intelligence",
+    "AD/PD 2026",
+    "clinical trials",
+    "pipeline"
+  ],
+  "read_by": [],
+  "executive_summary_preview": "41 clinical abstracts from AD/PD 2026, spanning 7 update types across 30 named interventions."
+}
