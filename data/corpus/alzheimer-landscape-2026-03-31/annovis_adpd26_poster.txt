@@ -1,0 +1,25 @@
+ADPD2026 conference
+March 17, 2026 - March 21, 2026
+
+ABSTRACT SUBMISSION #3582
+A DUAL 6-MONTH & 18-MONTH RANDOMIZED, PLACEBO-CONTROLLED, DOUBLE-BLIND,
+CLINICAL TRIAL INVESTIGATING EFFICACY AND SAFETY OF BUNTANETAP IN EARLY ALZHEIMER'S
+PARTICIPANTS
+POSTER ON BOARD - POSTER ON BOARD SHIFT 01: β-AMYLOID DISEASES / DRUG
+DEVELOPMENT, CLINICAL TRIALS / NEW CLINICAL TRIAL DESIGNS; SIMULATION OF PROGRESSDIGITAL TWINS
+Cheng Fang, Melissa Gaines, Sarah Mccallum, Maria Maccecchini
+Annovis Bio, Malvern, United States of America
+Aims: In a Phase 2b dose-ranging study in participants with mild to moderate Alzheimer’s disease
+(AD) (NCT05686044), buntanetap (also known as Posiphen) demonstrated a statistically significant
+cognitive improvement in plasma pTau217-positive participants with mild AD. These cognitive benefits
+were supported by biomarker findings showing that buntanetap reduced neurotoxic aggregation
+proteins, decreased inflammation, and improved neuronal function. To validate these effects, a new
+pivotal clinical trial in early AD was initiated in April 2025 (NCT06709014).
+Methods: A prospective, double-blind, randomized, placebo-controlled Phase 3 study is currently
+ongoing. A total of 760 participants with early AD will be enrolled across 83 sites in the United States.
+This dual- study will include efficacy readout at both 6-month and 18-month, to evaluate buntanetap’s
+symptomatic and disease-modifying treatment effects.
+Results: We will present updates on site activation status, screening procedures, screen failure rates
+and key drivers, enrollment pace, and the projected timeline for database lock.
+Conclusions: In summary, the Phase 3 study in early AD is ongoing. We will share our progress to
+date, along with key insights and lessons learned throughout the conduct of the trial.

@@ -9,27 +9,33 @@ import {
 import type { UIMessage } from "ai";
 import { z } from "zod";
 import { anthropic } from "@ai-sdk/anthropic";
-import { getReportContentRaw, getReportDirName } from "@/lib/reports";
+import { getReportContentRaw, getReportDirName, getReportMeta } from "@/lib/reports";
 import { searchCorpus, getDocument, listDocuments } from "@/lib/corpus";
 import type { QAFallbackPair } from "@/lib/types";
 import fs from "fs";
 import path from "path";
 
-const SYSTEM_PROMPT_PREFIX = `You are an analyst at Inflection Labs specializing in market access intelligence for the TNF-alpha target area. You have access to the full report below.
+function buildSystemPrompt(reportId: string): string {
+  const meta = getReportMeta(reportId);
+  const scope = meta?.scope_value ?? "this topic area";
+  const title = meta?.title ?? "this report";
+
+  const prefix = `You are an analyst at Inflection Labs specializing in pipeline and market access intelligence. You have access to the full report below.
+
+The report is titled "${title}" and covers ${scope}.
 
 IMPORTANT — tool use rules:
 1. Always attempt to answer from the report content first. The report is already in your context; read it before considering any tool call.
-2. Only call a tool if the report genuinely lacks the detail needed to answer the question (e.g. the user asks for full methodology, raw statistical tables, or direct quotes from a source paper).
+2. Only call a tool if the report genuinely lacks the detail needed to answer the question (e.g. the user asks for full methodology, raw statistical tables, or direct quotes from a source document).
 3. Make at most ONE tool call per response. Use search_corpus with a precise query. Do not call list_documents or get_document unless search_corpus returns nothing useful.
 4. If the report contains sufficient information to answer — even partially — respond from it directly without using any tools.
 
-Answer questions about the report, its findings, the competitive landscape, clinical thresholds, and biosimilar dynamics. If a question is outside the scope of TNF-alpha market access, politely redirect the user.
+Answer questions about the report, its findings, the competitive landscape, clinical developments, and regulatory and funding activity covered in the report. If a question is clearly outside the scope of this report, politely redirect the user.
 
 `;
 
-function buildSystemPrompt(reportId: string): string {
   const reportContent = getReportContentRaw(reportId);
-  return SYSTEM_PROMPT_PREFIX + `=== REPORT ===\n${reportContent}`;
+  return prefix + `=== REPORT ===\n${reportContent}`;
 }
 
 function loadFallbackPairs(reportId: string): QAFallbackPair[] {
@@ -86,7 +92,7 @@ export async function POST(req: Request) {
     const userText = extractUserText(messages);
     const answer =
       findFallbackAnswer(userText, pairs) ||
-      "I can answer questions about the TNF-alpha market access landscape covered in this report. Try asking about payer formularies, biosimilar dynamics, or clinical thresholds.";
+      "I can answer questions about the pipeline and market access landscape covered in this report. Try asking about specific drugs, clinical trial updates, regulatory decisions, or funding events.";
 
     const stream = createUIMessageStream({
       execute: ({ writer }) => {
@@ -100,6 +106,7 @@ export async function POST(req: Request) {
     return createUIMessageStreamResponse({ stream });
   }
 
+  const reportDirName = getReportDirName(reportId) ?? reportId;
   const systemPrompt = buildSystemPrompt(reportId);
   const modelMessages = await convertToModelMessages(messages);
 
@@ -119,7 +126,7 @@ export async function POST(req: Request) {
               "A natural language search query describing what to look for in the source documents."
             ),
         }),
-        execute: async ({ query }) => searchCorpus(query),
+        execute: async ({ query }) => searchCorpus(query, reportDirName),
       }),
       get_document: tool<{ filename: string }, string>({
         description:
@@ -131,13 +138,13 @@ export async function POST(req: Request) {
               "The exact filename of the source document (e.g. PMID_41077357.txt)."
             ),
         }),
-        execute: async ({ filename }) => getDocument(filename),
+        execute: async ({ filename }) => getDocument(filename, reportDirName),
       }),
       list_documents: tool<Record<string, never>, string>({
         description:
           "List all available source documents in the corpus. Use this to discover what documents are available before calling get_document.",
         inputSchema: z.object({}),
-        execute: async () => listDocuments(),
+        execute: async () => listDocuments(reportDirName),
       }),
     },
   });

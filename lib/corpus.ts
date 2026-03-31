@@ -1,18 +1,29 @@
 import fs from "fs";
 import path from "path";
 
-const CORPUS_DIR = path.join(process.cwd(), "data", "corpus");
+const BASE_CORPUS_DIR = path.join(process.cwd(), "data", "corpus");
 
-function getCorpusFiles(): string[] {
-  return fs.readdirSync(CORPUS_DIR).filter((f) => f.endsWith(".txt")).sort();
+function getCorpusDir(reportDirName: string): string {
+  const scoped = path.join(BASE_CORPUS_DIR, reportDirName);
+  // Fall back to flat corpus root if no scoped subfolder exists or it's empty
+  if (fs.existsSync(scoped) && fs.readdirSync(scoped).some((f) => f.endsWith(".txt"))) {
+    return scoped;
+  }
+  return BASE_CORPUS_DIR;
 }
 
-export function listDocuments(): string {
-  return getCorpusFiles().join("\n");
+function getCorpusFiles(reportDirName: string): string[] {
+  const dir = getCorpusDir(reportDirName);
+  return fs.readdirSync(dir).filter((f) => f.endsWith(".txt")).sort();
 }
 
-export function searchCorpus(query: string, maxChunks = 6): string {
-  const files = getCorpusFiles();
+export function listDocuments(reportDirName: string): string {
+  return getCorpusFiles(reportDirName).join("\n");
+}
+
+export function searchCorpus(query: string, reportDirName: string, maxChunks = 6): string {
+  const dir = getCorpusDir(reportDirName);
+  const files = getCorpusFiles(reportDirName);
   const queryWords = query
     .toLowerCase()
     .split(/\s+/)
@@ -21,7 +32,7 @@ export function searchCorpus(query: string, maxChunks = 6): string {
   const results: { score: number; text: string; source: string }[] = [];
 
   for (const file of files) {
-    const content = fs.readFileSync(path.join(CORPUS_DIR, file), "utf-8");
+    const content = fs.readFileSync(path.join(dir, file), "utf-8");
     const paragraphs = content
       .split(/\n\n+/)
       .filter((p) => p.trim().length > 80);
@@ -45,11 +56,11 @@ export function searchCorpus(query: string, maxChunks = 6): string {
     .join("\n\n---\n\n");
 }
 
-export function getDocument(filename: string): string {
+export function getDocument(filename: string, reportDirName: string): string {
   const safe = path.basename(filename);
-  const filePath = path.join(CORPUS_DIR, safe);
+  const filePath = path.join(getCorpusDir(reportDirName), safe);
   if (!fs.existsSync(filePath)) {
-    return `Document not found: ${filename}. Available documents:\n${getCorpusFiles().join("\n")}`;
+    return `Document not found: ${filename}. Available documents:\n${getCorpusFiles(reportDirName).join("\n")}`;
   }
   return fs.readFileSync(filePath, "utf-8");
 }
