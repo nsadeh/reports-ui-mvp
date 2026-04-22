@@ -15,10 +15,16 @@ function isPublic(pathname: string): boolean {
   return false;
 }
 
-function customerCanAccess(pathname: string, customerReportId: string): boolean {
-  if (pathname === `/reports/${customerReportId}`) return true;
+function parseReportIds(raw: string | undefined): string[] {
+  return (raw ?? "")
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean);
+}
+
+function customerCanAccess(pathname: string, allowedIds: string[]): boolean {
   if (pathname === "/api/chat") return true;
-  return false;
+  return allowedIds.some((id) => pathname === `/reports/${id}`);
 }
 
 export function middleware(req: NextRequest) {
@@ -33,12 +39,12 @@ export function middleware(req: NextRequest) {
   }
 
   if (cookie === "customer") {
-    const customerReportId = process.env.CUSTOMER_REPORT_ID ?? "";
-    if (customerReportId && customerCanAccess(pathname, customerReportId)) {
+    const allowedIds = parseReportIds(process.env.CUSTOMER_REPORT_IDS);
+    if (allowedIds.length && customerCanAccess(pathname, allowedIds)) {
       return NextResponse.next();
     }
     const url = req.nextUrl.clone();
-    url.pathname = `/reports/${customerReportId}`;
+    url.pathname = allowedIds.length ? `/reports/${allowedIds[0]}` : "/login";
     return NextResponse.redirect(url);
   }
 

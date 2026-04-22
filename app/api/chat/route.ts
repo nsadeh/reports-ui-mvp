@@ -130,10 +130,13 @@ export async function POST(req: Request) {
   const cookieStore = await cookies();
   const role = cookieStore.get("ilab_access")?.value;
 
-  // Customer scope: force reportId to their assigned report.
+  // Customer scope: reportId must be in their allowlist.
   if (role === "customer") {
-    const customerReportId = process.env.CUSTOMER_REPORT_ID ?? "";
-    if (!customerReportId || reportId !== customerReportId) {
+    const allowedIds = (process.env.CUSTOMER_REPORT_IDS ?? "")
+      .split(",")
+      .map((s) => s.trim())
+      .filter(Boolean);
+    if (!allowedIds.includes(reportId)) {
       return new Response("Forbidden", { status: 403 });
     }
   }
