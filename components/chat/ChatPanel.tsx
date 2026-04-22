@@ -29,6 +29,13 @@ export default function ChatPanel({
 
   const isLoading = status === "streaming" || status === "submitted";
 
+  // "Chat for more data" buttons in the report content dispatch this event
+  useEffect(() => {
+    const handler = () => setOpen(true);
+    window.addEventListener("open-chat-panel", handler);
+    return () => window.removeEventListener("open-chat-panel", handler);
+  }, []);
+
   // Pick up new quotes from the report selection
   useEffect(() => {
     if (quotedText) {

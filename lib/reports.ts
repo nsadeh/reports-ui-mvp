@@ -63,6 +63,12 @@ export function getActivityData(): ActivityEvent[] {
   return JSON.parse(raw);
 }
 
+export function getReportEvents(dirName: string): unknown[] | null {
+  const eventsPath = path.join(DATA_DIR, "reports", dirName, "events.json");
+  if (!fs.existsSync(eventsPath)) return null;
+  return JSON.parse(fs.readFileSync(eventsPath, "utf-8"));
+}
+
 export function getReportDirName(id: string): string | null {
   const reportsDir = path.join(DATA_DIR, "reports");
   const dirs = fs.readdirSync(reportsDir);

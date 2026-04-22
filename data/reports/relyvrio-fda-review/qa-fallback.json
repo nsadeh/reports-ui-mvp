@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Why was Breakthrough Therapy Designation denied for AMX0035?",
+    "keywords": ["breakthrough", "BTD", "denied", "denial", "designation"],
+    "answer": "FDA denied Breakthrough Therapy Designation on March 28, 2020. The Division cited three grounds: (1) the CENTAUR primary analysis did not use the required joint rank analysis of ALSFRS-R and survival despite 7 deaths occurring; (2) the study did not demonstrate clear superiority over both approved ALS therapies (riluzole and edaravone); and (3) the observed ALSFRS-R effect size of 2.3 points at Week 24 (p=0.034) was similar in magnitude to approved drugs. FDA recommended Amylyx conduct a second independent study."
+  },
+  {
+    "question": "How many times was Fast Track designation denied?",
+    "keywords": ["fast track", "denied", "denial", "designation"],
+    "answer": "Fast Track designation was denied twice — first on April 20, 2018, and again on September 7, 2018. Two consecutive denials within the same year represent an unusually difficult early regulatory posture for AMX0035."
+  },
+  {
+    "question": "When did Amylyx submit the IND for AMX0035?",
+    "keywords": ["IND", "submitted", "submission", "investigational", "application"],
+    "answer": "Amylyx submitted IND 129563 for AMX0035 on March 15, 2017, with the CENTAUR study in ALS proposed as the IND-opening study."
+  },
+  {
+    "question": "What was agreed at the July 2021 Pre-NDA meeting?",
+    "keywords": ["pre-NDA", "meeting", "july", "2021", "NDA"],
+    "answer": "At the July 15, 2021 Type B Pre-NDA teleconference, FDA agreed that: (1) interim firewalled data from Phase 3 Study A35-004 would be submitted approximately 4 months post-NDA rather than as a filing requirement; (2) pre/postnatal development and DDI studies could be deferred post-submission; (3) absence of those studies would not be filing issues. Amylyx confirmed a target NDA submission of end of November 2021."
+  },
+  {
+    "question": "What is the CENTAUR study?",
+    "keywords": ["CENTAUR", "study", "trial", "clinical"],
+    "answer": "CENTAUR was the IND-opening Phase 2 clinical study for AMX0035 in ALS. FDA required a joint rank analysis of ALSFRS-R function and survival as the primary analysis if deaths occurred — a requirement Amylyx did not meet in the submitted primary analysis, which contributed to the BTD denial in March 2020. CENTAUR topline results were submitted to FDA on January 10, 2020."
+  },
+  {
+    "question": "When was Orphan Drug Designation granted?",
+    "keywords": ["orphan", "drug", "designation", "granted"],
+    "answer": "FDA granted Orphan Drug Designation for AMX0035 for the treatment of ALS on May 8, 2017."
+  }
+]

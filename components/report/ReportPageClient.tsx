@@ -5,14 +5,18 @@ import { ReportMarkdown } from "@/components/report/Markdown";
 import ChatPanel from "@/components/chat/ChatPanel";
 import AnalystSignature from "@/components/report/AnalystSignature";
 import SelectionToolbar from "@/components/report/SelectionToolbar";
+import RegulatoryTimeline from "@/components/report/RegulatoryTimeline";
+import type { RegulatoryEvent } from "@/components/report/RegulatoryTimeline";
 import type { ReportMeta } from "@/lib/types";
 
 export default function ReportPageClient({
   meta,
   content,
+  events,
 }: {
   meta: ReportMeta;
   content: string;
+  events?: RegulatoryEvent[] | null;
 }) {
   const [quotedText, setQuotedText] = useState<string | null>(null);
   const reportRef = useRef<HTMLDivElement>(null);
@@ -75,7 +79,13 @@ export default function ReportPageClient({
           </div>
 
           {/* Report Content */}
-          {content ? (
+          {meta.report_type === "Regulatory" && events ? (
+            <>
+              {content && <ReportMarkdown content={content} />}
+              <RegulatoryTimeline events={events} />
+              <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
+            </>
+          ) : content ? (
             <>
               <ReportMarkdown content={content} />
               <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />

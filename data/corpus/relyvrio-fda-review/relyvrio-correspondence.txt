@@ -1,0 +1,2767 @@
+﻿CENTER FOR DRUG EVALUATION AND 
+RESEARCH 
+
+ 
+ 
+
+APPLICATION NUMBER: 
+ 
+
+216660Orig1s000 
+ 
+ 
+
+ADMINISTRATIVE and CORRESPONDENCE  
+DOCUMENTS 
+
+ 
+ 
+ 
+ 
+  
+
+
+
+ 
+IND 129563 
+ 
+
+MEETING MINUTES 
+ 
+Amylyx Pharmaceuticals, Inc. 
+Attention: Ms. Tammy Sarnelli 
+Global Head, Regulatory Affairs 
+43 Thorndike Street 
+Cambridge, MA  02141 
+ 
+ 
+Dear Ms. Sarnelli: 
+ 
+Please refer to your investigational new drug application (IND) submitted under section 
+505(i) of the Federal Food, Drug, and Cosmetic Act for AMX0035. 
+ 
+We also refer to the telecon between representatives of your firm and the FDA on July 
+15, 2021. The purpose of the meeting was to discuss the content and format of a New 
+Drug Application for AMX0035.   
+ 
+A copy of the official minutes of the meeting/telecon is enclosed for your information.  
+Please notify us of any significant differences in understanding regarding the meeting 
+outcomes. 
+ 
+If you have any questions, contact Michelle Mathers, Regulatory Project Manager, at 
+michelle.mathers@fda.hhs.gov or at (240) 402-2645. 
+ 
+ 
+
+Sincerely, 
+ 
+{See appended electronic signature page} 
+ 
+ 
+Teresa Buracchio, MD  
+Deputy Director  
+Division of Neurology 1 
+Office of Neuroscience 
+Center for Drug Evaluation and Research 
+
+ 
+ 
+Enclosure: 
+
+ Meeting Minutes 
+ 
+
+ 
+
+Reference ID: 4829582
+
+
+
+ 
+ 
+
+MEMORANDUM OF MEETING MINUTES 
+ 
+
+Meeting Type: Type B 
+Meeting Category: Pre-NDA 
+ 
+Meeting Date and Time: July 15, 2021; 2:00-3:00 p.m. EDT 
+Meeting Location: Telecon 
+ 
+Application Number: IND 129563 
+Product Name: AMX0035 
+ 
+Indication: Treatment of amyotrophic lateral sclerosis  
+Sponsor Name: Amylyx Pharmaceuticals, Inc. 
+Regulatory Pathway: 505(b)(1) of the Federal Food, Drug, and Cosmetic Act  
+ 
+ 
+FDA ATTENDEES 
+ 
+Office of Neuroscience 
+Billy Dunn, MD, Director 
+Michelle Campbell, PhD, Associate Director for Clinical Outcomes and External 
+
+Engagement 
+ 
+Division of Neurology 1 
+Eric Bastings, MD, Director (Acting) 
+Teresa Buracchio, MD, Deputy Director 
+Emily Freilich, MD, Clinical Team Leader 
+Veneeta Tandon, PhD, Clinical Reviewer 
+Deniz Erten-Lyons, MD, Clinical Reviewer  
+ 
+Division of Pharmacology/Toxicology - Neuroscience 
+Lois Freed, PhD, Director 
+Dave Carbone, PhD, Nonclinical Reviewer 
+ 
+Office of Biostatistics 
+Kun Jin, PhD, Biometrics Team Leader, Biometrics I 
+Tristan Massie, PhD, Statistical Reviewer 
+ 
+Office of Clinical Pharmacology, Division of Clinical Pharmacology I 
+Bilal AbuAsal, PhD, Clinical Pharmacology Team Leader 
+Xiaohan Cai, PhD, Clinical Pharmacology Reviewer 
+ 
+ 
+
+ 
+ 
+
+Reference ID: 4829582
+
+
+
+
+
+
+IND 129563 
+Page 3 
+ 
+ 
+
+FDA Response to Question 1:  
+ 
+Please provide further details on what supportive efficacy data from Study A35-
+004 would be submitted during the NDA review period. We would be interested in 
+(appropriately firewalled) primary endpoint descriptive results from all patients 
+who have completed 24 weeks of study treatment by 4 months after submission 
+of the application. If your pre-specified interim analysis is available earlier than 
+currently anticipated and during the review of the NDA, you should submit the 
+topline results from that analysis to the NDA.  
+ 
+Regarding safety data from Study A35-004, you should submit to the NDA 
+blinded reports of all serious adverse events (SAEs) and deaths, along with 
+hyperlinks to the narratives, no later than the target date for the 120-day safety 
+update.  
+ 
+We acknowledge the proposal to provide the final data from Study A35-004 
+within 3 years of marketing approval. 
+ 
+Of note, we also refer you to Attachment 1 at the end of this document, General 
+Clinical Safety Requests, when preparing the NDA submission. Note that the 
+General Clinical Safety Requests are common requests for safety analyses that 
+you should consider for inclusion in your safety summary; however, the requests 
+may not be applicable to all study populations. You should include the requests 
+that are appropriate for your study population. 
+ 
+Meeting Discussion: 
+ 
+The Division sought clarification on the timing of the planned NDA submission 
+and what supportive efficacy data from Study A35-004 would be submitted during 
+the NDA review. The sponsor clarified that the target NDA submission timeline is 
+the end of November 2021, and that the sponsor intends to submit appropriately 
+firewalled primary efficacy endpoint descriptive data approximately 4 months 
+post-NDA submission.  It is estimated that this will provide descriptive data from 
+approximately 250 subjects, with approximately 75 subjects who will have 
+completed 20-25 weeks of assessment. All patients are planned to have monthly 
+data points on the ALSFRS-R. In addition, the sponsor also clarified its intention 
+to provide all available blinded safety data from this study.  
+ 
+The Division clarified that interim blinded safety data from Study A35-004 may 
+not be informative to characterize the safety of AMX0035. The sponsor could 
+consider providing appropriately firewalled unblinded safety data similar to that 
+proposed for efficacy data (see discussion below), if that is feasible. Alternatively, 
+if that is not feasible, the sponsor should provide blinded reports of SAEs, 
+deaths, and discontinuations due to adverse events from Study A35-004 with 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 4 
+ 
+ 
+
+hyperlinks to the narratives. The sponsor indicated that it would take this 
+recommendation into consideration. 
+ 
+The Division further inquired about the enrollment status and the number of sites 
+planned for Study A35-004. The sponsor clarified that no patients are enrolled to 
+date, but there are 55-60 study sites planned in the United States and EU 
+combined, and the first patient is expected to enroll in late August 2021. The 
+sponsor anticipates rapid enrollment, with the planned 600 patients to complete 
+within one year.  
+ 
+The Division recognized that there are challenges to ensuring an appropriate 
+firewall for the assessment of the unblinded data, and the importance of 
+maintaining the integrity of Study A35-004. The sponsor should submit a detailed 
+proposal for feedback by early August, to include a description of the unblinded 
+data that would be included in such a submission and the steps that would be 
+taken to ensure an adequate firewall so as not to endanger the integrity of the 
+study. The sponsor agreed to provide this information.  
+ 
+ 
+Question 2: Does the Agency concur that the information provided on AMX0035 
+satisfies the recommendations of the combination guidance? 
+ 
+FDA Response to Question 2: 
+ 
+You should provide justification in your future marketing application that the 
+available data adequately satisfy the requirements of the combination rule.  The 
+acceptability of this justification will be a matter of review. 
+ 
+Meeting Discussion:  
+ 
+This question was not discussed during the meeting. 
+ 
+
+ 
+Question 3: Does the Agency concur with the proposed clinical pharmacology 
+package? 
+ 
+FDA Response to Question 3: 
+
+ 
+For an adequate clinical pharmacology package, we have the following 
+comments for you to consider and address before the NDA submission:  
+ 
+
+ You may not need to conduct a human mass balance study before the 
+NDA submission. However, you should adequately report the information 
+about the exposure for any major and or active metabolites in humans. In 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 5 
+ 
+ 
+
+addition, you can analyze available urine PK data to characterize the 
+clearance and elimination of TUDCA and its major metabolites.  
+
+ 
+ You should complete all of the in vitro DDI studies, including the 
+
+evaluation on the DDI liability of the major and active metabolites of 
+AMX0035 as outlined in the Guidance In Vitro Drug Studies-Cytochrome 
+P450 Enzyme-and Transporter Mediated Drug Interactions1 before the 
+NDA submission. If any active metabolites contributing to more than 50% 
+of the pharmacological activities are identified, you should evaluate 
+whether any of the active metabolites are substrates of major CYPs and 
+transporters. In your meeting package, you did not present all of the in 
+vitro DDI results and conclusion for the DDI liability of AMX0035 parent 
+drugs.  
+
+ 
+ You should evaluate the effect of drug administration via the gastrostomy 
+
+or nasogastric tube on the absorption of AMX0035. You should conduct 
+in-vitro testing to assess the absorption after administration through the 
+feeding tube. Refer to the FDA draft guidance Oral Drug Products 
+Administered Via Enteral Feeding Tube:  In Vitro Testing and Labeling 
+Recommendations2. 
+
+ 
+ If the to-be-marketed formulation is different than the formulation used in 
+
+clinical trial(s), you will need to establish a bridge between these 
+formulations.  
+ 
+
+ Please provide a “review aid” for Clinical Pharmacology in the NDA 
+submission. A template is attached as an appendix. 
+
+ 
+ The following link contains the general expectations for submitting 
+
+pharmacometrics data and models:  https://www.fda.gov/about-fda/center-
+drug-evaluation-and-research-cder/modeldata-format 
+
+ 
+ 
+
+Please be prepared to discuss at the meeting whether you have available data 
+concerning the above issues, and what impact, if any, these issues will have on 
+the timeline for preparation of your NDA. 
+ 
+The following clinical pharmacology studies may be needed after the review of 
+your NDA submission: 
+ 
+
+ As stated in your meeting package, AMX0035 caused an inhibitory effect 
+on OAT1 in vitro. You should address the potential drug-drug interaction 
+
+ 
+1 https://www.fda.gov/media/134582/download 
+2 https://www.fda.gov/media/149688/download 
+ 
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 6 
+ 
+ 
+
+between AMX0035 and OAT1 substrates in vivo to inform labeling 
+recommendations. 
+ 
+
+ In addition, based on the in vitro DDI results and criteria for warranting 
+clinical studies as outlined in the guidance, additional in vivo studies may 
+be needed. 
+
+ 
+Meeting Discussion:  
+The sponsor plans to submit the results from in vitro DDI studies on major 
+metabolites in February 2022, after the submission of the NDA in November 
+2021 (per attached meeting slides). The clinical pharmacology team agreed with 
+the proposed timeline for the in vitro DDI studies and confirmed that the lack of in 
+vitro DDI studies on major metabolites would not be a filing issue for the NDA 
+submission. 
+  
+The clinical pharmacology team also asked the sponsor to confirm whether the 
+exposure of all major metabolites of AMX0035 has been adequately 
+characterized, and the sponsor confirmed that adequate characterization of all 
+major metabolites will be provided at the time of NDA submission.  
+
+ 
+ 
+2.2.  Nonclinical  
+ 
+
+Question 4: Amylyx has conducted a full battery of nonclinical studies to 
+investigate the safety of AMX0035 including those evaluating genotoxicity, 
+systemic toxicity, developmental effects, safety pharmacology, and drug-drug 
+interactions (DDI). 
+ 
+Given the nature of ALS, we propose to conduct a carcinogenicity study in 
+rodents in the postmarketing setting. 
+ 
+Does the Agency concur with the nonclinical package at time of NDA 
+submission? 
+
+ 
+FDA Response to Question 4: 
+
+ 
+Based on the information provided in your briefing package, we have the 
+following comments: 
+ 
+
+ You indicate that AMX0035 has been assessed in a standard battery of 
+reproductive and developmental toxicology studies; however, it is unclear 
+whether a pre and postnatal development study has been conducted. 
+ 
+
+ You should address the adequacy of the nonclinical safety assessment of 
+any major circulating human metabolites, as discussed in guidance (ICH 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 7 
+ 
+ 
+
+M3(R2), January 2010; ICH M3 Questions and Answers (R2), February 
+2013). (Also, see response to Question 3.) 
+
+ 
+ As we have previously stated (Meeting Minutes, April 7, 2020), because of 
+
+the seriousness of the indication, carcinogenicity studies may be 
+conducted post-approval. 
+ 
+
+ Please see response to Question 3 for regarding the in vitro DDI 
+evaluation.  
+
+ 
+Meeting Discussion:  
+
+ 
+The sponsor stated that the final study report for a pre- and postnatal 
+development (PPND) study is scheduled to be submitted in February 2022, after 
+original submission of the NDA in November 2021. The Division stated that such 
+an approach would be acceptable, i.e., the lack of the PPND study in the original 
+submission would not be a filing issue. However, the Division also noted that, 
+depending upon the timing of submission, it is possible that there would not be 
+enough time to review the study during the review cycle. 
+
+ 
+ 
+2.3. Chemistry Manufacturing and Controls 
+ 
+ 
+
+Question 5: Based on statutory interpretation, a drug substance meets the 
+definition of “new chemical entity” and is eligible for 5-year NCE exclusivity, if at 
+least one component of a fixed-dose combination is itself an NCE. 
+ 
+The proprietary co-formulation of AMX0035 includes sodium phenylbutyrate and 
+taurursodiol. While sodium phenylbutyrate has been approved (Buphenyl for the 
+treatment of urea cycle disorders), taurursodiol is an unapproved drug 
+substance; therefore, we believe that AMX0035 is eligible for 5-year NCE 
+exclusivity. Amylyx intends to file via the 505(b)1 pathway. 
+ 
+Does the Agency agree that NCE Status would be appropriate for 
+AMX0035? 
+ 
+FDA Response to Question 5: 
+ 
+Please be advised that the Agency does not make exclusivity determinations 
+pursuant to sections 505(c)(3)(E) and (j)(5)(F) of the Federal Food, Drug, and 
+Cosmetic Act, and 21 CFR 314.108, until after approval of an NDA. As 
+described at 314.50(j), an applicant should include in its NDA a description of 
+the exclusivity to which the applicant believes it is entitled. FDA will consider the 
+applicant’s assertions regarding exclusivity in the review of the application. 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 8 
+ 
+ 
+
+Please also note that the New Molecular Entity (NME) determination for an 
+application is distinct from and independent of the New Chemical Entity (NCE) 
+determination and any related exclusivity determinations. 
+
+ 
+Meeting Discussion:  
+ 
+This question was not discussed during the meeting. 
+ 
+
+ 
+2.4. Regulatory  
+ 
+ 
+
+Question 6: Amylyx requests that AMX0035 receive priority review due to the 
+high, unmet need in a serious and life-threatening disease (ALS). 
+ 
+Does the Agency concur that the product should be considered for priority 
+review? 
+ 
+FDA Response to Question 6: 
+ 
+Priority review designation requests may be submitted with the original 
+NDA.  Please refer to the Guidance for Industry: Expedited Programs for Serious 
+Conditions--Drugs and Biologics3 for content of a priority review designation 
+submission.   
+ 
+The final decision regarding priority review designation is a matter of review. 
+Applicants will be informed in writing by Day 60 of the review if the application will 
+receive priority review; or by Day 74 of the review for standard review 
+designation. Applications that are not filed do not receive a review designation. 
+ 
+Meeting Discussion:  
+ 
+This question was not discussed during the meeting. 
+ 
+ 
+Controlled Substance Staff Comments: 
+ 
+Drugs that affect the central nervous system, are chemically or pharmacologically 
+similar to other drugs with known abuse potential, or produce psychoactive 
+effects such as mood or cognitive changes (e.g., euphoria, hallucinations) need 
+to be evaluated for their abuse potential and if applicable a proposal for 
+
+ 
+3 https://www.fda.gov/files/drugs/published/Expedited-Programs-for-Serious-Conditions-Drugs-and-
+Biologics.pdf 
+ 
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 9 
+ 
+ 
+
+scheduling will be required at the time of the NDA submission 
+[21 CFR 314.50(d)(5)(vii)].  For information on the abuse potential evaluation and 
+information required at the time of your NDA submission, see the Guidance for 
+Industry, Assessment of Abuse Potential of Drugs4. 
+ 
+Based on the information presented in your briefing package, nonclinical abuse-
+related studies are not necessary at this time for evaluating AMX0035 for abuse 
+potential.  However, we cannot determine whether AMX0035 has a risk of abuse 
+potential until all study reports (toxicological, PK, and PD nonclinical and clinical) 
+and analyses of adverse events (AEs) have been submitted and reviewed. 
+ 
+We also have the following comments:  
+
+ Unless you can provide information to justify there is no need to evaluate 
+the receptor binding profile of your product form an abuse perspective, 
+you will need to submit off-target receptor binding data on the active 
+pharmacological ingredients of AMX0035 (sodium phenylbutyrate and 
+tauroursodiol and any major metabolites), evaluating receptors known to 
+be associated with abuse potential.  Where applicable, you should also 
+provide study results from functional assays characterizing the interaction 
+of major metabolites at the receptors associated with abuse of which they 
+were shown to activate. The final study reports (or published research 
+articles) for the receptor binding and functional activity results should be 
+submitted.  See section IV.B of the Guidance, Assessment of Abuse 
+Potential of Drugs. 
+
+ Monitor and report all CNS- and abuse-related adverse events (AEs) for 
+all clinical studies (Phase 1, 2, and 3) with AMX0035.  Provide detailed 
+narratives for any abuse-related AEs in accordance with 
+recommendations in section V.B. of the above-mentioned guidance.  
+Should a pattern of abuse-related AEs occur in your clinical studies, 
+additional nonclinical or clinical studies of abuse potential may be 
+necessary, as indicated in the 2017 Guidance for Industry, Assessment of 
+Abuse Potential of Drugs. 
+
+ 
+
+ 
+
+ 
+4 http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM198650.pdf 
+ 
+ 
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 10 
+ 
+ 
+
+Meeting Discussion:  
+ 
+
+The controlled substance staff comments were not discussed during the 
+meeting. 
+
+ADDITIONAL MEETING DISCUSSION: 
+
+The Division inquired about the ability to submit the NDA earlier than the proposed 
+November timeframe, given that the sponsor is already preparing submissions for other 
+regulatory agencies and based on the above meeting discussion. The sponsor agreed 
+to reconsider the timeline and will provide the Division with an updated timeline for 
+submission, as requested. 
+ 
+The Division also asked about any plans for an expanded access protocol, and the 
+sponsor stated that the current priority is to focus on the planned Phase 3 study and 
+there are no current plans for expanded access at this time.   
+ 
+ 
+3.0 ADDITIONAL INFORMATION  
+ 
+ 
+PROSPECTIVE ASSESSMENTS OF SUICIDAL IDEATION AND BEHAVIOR IN 
+CLINICAL PROTOCOLS 
+ 
+Treatment-emergent suicidal ideation and behavior have been identified as a concern 
+for a number of drugs and drug classes.  For example, meta-analyses of clinical trial 
+data for both antiepileptic drugs and antidepressants have demonstrated that these 
+drugs increase the risk of suicidal ideation and behavior.  Spontaneous reports have led 
+to similar concerns with other drugs as well, e.g., isotretinoin and other tretinoins, beta 
+blockers, reserpine, smoking cessation drugs, and drugs for weight loss. Because of 
+these concerns, a prospective assessment for suicidal ideation and behavior should be 
+included, when appropriate and feasible, in clinical trials involving all drugs and 
+biological products for neurological indications. These assessments should generally be 
+included in every clinical protocol, at every visit, and in every phase of development, 
+with the exception of single-dose trials in healthy volunteers.  These assessments 
+should be conducted whether or not a particular product is known or suspected to be 
+associated with treatment-emergent suicidal ideation and behavior.  A sponsor 
+considering the omission of the assessment of suicidal ideation and behavior from a 
+particular clinical protocol should prospectively discuss this omission with the Division of 
+Neurology 1.   
+ 
+DISCUSSION OF THE CONTENT OF A COMPLETE APPLICATION 
+ 
+
+ The content of a complete application was discussed.  
+ 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 11 
+ 
+ 
+
+ All applications are expected to include a comprehensive and readily 
+located list of all clinical sites and manufacturing facilities included or 
+referenced in the application. 
+
+ 
+ We did not have a preliminary discussion on the need for a REMS, other 
+
+risk management actions or the development of a Formal Communication 
+Plan. 
+
+ 
+PREA REQUIREMENTS  
+ 
+Under the Pediatric Research Equity Act (PREA) (21 U.S.C. 355c), all applications for 
+new active ingredients (which includes new salts and new fixed combinations), new 
+indications, new dosage forms, new dosing regimens, or new routes of administration 
+are required to contain an assessment of the safety and effectiveness of the product for 
+the claimed indication(s) in pediatric patients unless this requirement is waived, 
+deferred, or inapplicable. 
+ 
+Because this drug product for this indication has an orphan drug designation, you are 
+exempt from these requirements. Please include a statement that confirms this finding, 
+along with a reference to this communication, as part of the pediatric section (1.9 for 
+eCTD submissions) of your application. If there are any changes to your development 
+plans that would cause your application to trigger PREA, your exempt status would 
+change. 
+ 
+PRESCRIBING INFORMATION 
+ 
+In your application, you must submit proposed prescribing information (PI) that 
+conforms to the content and format regulations found at 21 CFR 201.56(a) and (d) and 
+201.57 including the Pregnancy and Lactation Labeling Rule (PLLR) (for applications 
+submitted on or after June 30, 2015). As you develop your proposed PI, we encourage 
+you to review the labeling review resources on the PLR Requirements for Prescribing 
+Information5 and Pregnancy and Lactation Labeling Final Rule6 websites, which include: 
+ 
+
+ The Final Rule (Physician Labeling Rule) on the content and format of the PI for 
+human drug and biological products.  
+
+ The Final Rule (Pregnancy and Lactation Labeling Rule) on the content and 
+format of information related to pregnancy, lactation, and females and males of 
+reproductive potential. 
+
+ 
+5 https://www.fda.gov/drugs/laws-acts-and-rules/plr-requirements-prescribing-
+information 
+6 https://www.fda.gov/drugs/labeling/pregnancy-and-lactation-labeling-drugs-final-rule 
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 12 
+ 
+ 
+
+ Regulations and related guidance documents.  
+
+ A sample tool illustrating the format for Highlights and Contents, and  
+
+ The Selected Requirements for Prescribing Information (SRPI) − a checklist of 
+important format items from labeling regulations and guidances.  
+
+ FDA’s established pharmacologic class (EPC) text phrases for inclusion in the 
+Highlights Indications and Usage heading. 
+
+Pursuant to the PLLR, you should include the following information with your application 
+to support the changes in the Pregnancy, Lactation, and Females and Males of 
+Reproductive Potential subsections of labeling. The application should include a review 
+and summary of the available published literature regarding the drug’s use in pregnant 
+and lactating women and the effects of the drug on male and female fertility (include 
+search parameters and a copy of each reference publication), a cumulative review and 
+summary of relevant cases reported in your pharmacovigilance database (from the time 
+of product development to present), a summary of drug utilization rates amongst 
+females of reproductive potential (e.g., aged 15 to 44 years) calculated cumulatively 
+since initial approval, and an interim report of an ongoing pregnancy registry or a final 
+report on a closed pregnancy registry. If you believe the information is not applicable, 
+provide justification. Otherwise, this information should be located in Module 1. Refer to 
+the draft guidance for industry Pregnancy, Lactation, and Reproductive Potential: 
+Labeling for Human Prescription Drug and Biological Products – Content and Format.  
+ 
+Prior to submission of your proposed PI, use the SRPI checklist to ensure conformance 
+with the format items in regulations and guidances.  
+ 
+SUBMISSION FORMAT REQUIREMENTS 
+ 
+The Electronic Common Technical Document (eCTD) is CDER and CBER’s standard 
+format for electronic regulatory submissions. The following submission types: NDA, 
+ANDA, BLA, Master File (except Type III) and Commercial INDs must be submitted in 
+eCTD format. Submissions that do not adhere to the requirements stated in the eCTD 
+Guidance will be subject to rejection. For more information please visit FDA.gov.7 
+ 
+The FDA Electronic Submissions Gateway (ESG) is the central transmission point for 
+sending information electronically to the FDA and enables the secure submission of 
+regulatory information for review. Submissions less than 10 GB must be submitted via 
+the ESG. For submissions that are greater than 10 GB, refer to the FDA technical 
+specification Specification for Transmitting Electronic Submissions using eCTD 
+
+ 
+7 http://www.fda.gov/ectd 
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+
+
+
+IND 129563 
+Page 14 
+ 
+ 
+Applications Submitted to CBER and CDER Questions and Answers10. Submit all 
+related manufacturing and testing facilities in eCTD Module 3, including those proposed 
+for commercial production and those used for product and manufacturing process 
+development. 
+ 
+Office of Scientific Investigations (OSI) Requests  
+ 
+The Office of Scientific Investigations (OSI) requests that the items described in the 
+draft guidance for industry, Standardized Format for Electronic Submission of NDA and 
+BLA Content for the Planning of Bioresearch Monitoring (BIMO) Inspections for CDER 
+Submissions, and the associated conformance guide, Bioresearch Monitoring Technical 
+Conformance Guide Containing Technical Specifications, be provided to facilitate 
+development of clinical investigator and sponsor/monitor/CRO inspection assignments, 
+and the background packages that are sent with those assignments to the FDA ORA 
+investigators who conduct those inspections. This information is requested for all major 
+trials used to support safety and efficacy in the application (i.e., phase 2/3 pivotal trials). 
+Please note that if the requested items are provided elsewhere in submission in the 
+format described, the Applicant can describe location or provide a link to the requested 
+information.  
+ 
+Please refer to the draft guidance for industry Standardized Format for Electronic 
+Submission of NDA and BLA Content for the Planning of Bioresearch Monitoring 
+(BIMO) Inspections for CDER Submissions (February 2018) and the associated 
+Bioresearch Monitoring Technical Conformance Guide Containing Technical 
+Specifications.11 
+ 
+ 
+4.0 ISSUES REQUIRING FURTHER DISCUSSION 
+There were no issues requiring further discussion. 
+ 
+ 
+5.0 ACTION ITEMS 
+ 
+
+Action Item/Description Responsible Party Due Date 
+Provide FDA with a Sponsor Early August 2021 
+proposal for providing 
+firewalled efficacy data 
+while ensuring Phase 3 
+study integrity  
+Based on meeting Sponsor As soon as possible 
+discussion, confirm 
+
+ 
+10 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/identification-
+manufacturing-establishments-applications-submitted-cber-and-cder-questions-and 
+11 https://www.fda.gov/media/85061/download 
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 15 
+ 
+ 
+timeline for NDA 
+submission 
+
+ 
+ 
+6.0 ATTACHMENTS AND HANDOUTS 
+Attached is the Division’s “General Clinical Safety Requests” document and the Clinical 
+Pharmacology Summary Aid” which were provided in the preliminary comments. A copy 
+of the sponsor’s July 12, 2021, slide presentation is also attached. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 16 
+ 
+ 
+ATTACHMENT 1   
+
+DN1 Pre-BLA and Pre-NDA Meetings 
+General Clinical Safety Requests 
+
+ 
+Datasets: 
+ 
+ Each individual subject should be assigned a single unique subject identifier across 
+
+the entire application (e.g., including open label extensions of the trials). Include the 
+unique subject identifier in the ISS and individual studies’ datasets. 
+
+ Submit datasets for all Phase 1, Phase 2, Phase 3 studies (including open label 
+extension studies), including the Phase 2 and 3 studies performed for indications 
+other than the one proposed for this application.  
+
+ 
+For additional guidance refer to the FDA webpage on Study Data Standards Resources. 
+ 
+ 
+General Submission Contents: 
+ 
+1. Follow the requirements noted in 21CFR 314.50 (d)(5)(vi), Summary of Safety 
+
+Information and the Guideline for the Format and Content of the Clinical and 
+Statistical Sections of an Application 
+
+2. Provide an assessment of safety as per the FDA Guidance for Industry: 
+Premarketing Risk Assessment 
+
+3. Include a copy of each clinical study protocol as well as each amended protocol.  
+Provide a list of the inclusion and exclusion criteria for each of the studies, including 
+those introduced as part of protocol amendments.  Please submit all versions of the 
+protocols (and Statistical Analysis Plan) and the date when changes were 
+implemented.  Please ensure that a Summary of Changes for each version is 
+included. 
+
+4. In addition to the comprehensive analyses performed for the pivotal trials, the ISS 
+should also comprehensively integrate safety analyses for all other study group 
+pools for treatment-emergent adverse events (TEAEs), deaths, serious adverse 
+events, discontinuations for TEAEs, TEAEs of special interest, subgroups, and vital 
+sign/laboratory/ECG measurements. 
+
+5. Submit a table detailing all of the tables and figures featured in the clinical efficacy 
+and safety sections of the application.  The table should contain the following: 
+a. Title of the table or figure in the application 
+b. A hyperlink to the location of the table or figure with page number 
+c. A hyperlink to the SAS code used to create the table or figure (including 
+
+information regarding the datasets that were used) 
+6. Format the tables of the ISS according to examples in FDA’s Reviewer Guidance – 
+
+Conducting a Clinical Safety Review of a New Product Application and Preparing a 
+Report on the Review. 
+
+7. Include active hyperlinks from the lists of references to the referenced article. 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 17 
+ 
+ 
+8. Provide DSMB meeting minutes (including any data/slides presented). For those 
+
+meetings that were cancelled or meetings where no minutes were taken, please 
+include a place holder for that meeting noting such and signed by a member of the 
+clinical team. Please also ensure that these packages come with a table of contents 
+and are bookmarked by date.   
+
+9. Include information regarding important regulatory actions in other countries and 
+foreign labeling (translated, if applicable). 
+
+10. Submit an annotated version of the pre-BLA meeting minutes that include 
+hyperlinks, when applicable, to the analysis and/or documents requested. 
+ 
+
+ 
+Adverse events: 
+ 
+1. Follow the coding rules for MedDRA in the ICH-endorsed “MedDRA Term Selection: 
+
+Points to Consider” document accessible at MedDRA 
+2. For each of the studies, the submitted datasets should contain both the verbatim 
+
+terms and the MedDRA coding with all levels of the MedDRA hierarchy. For each 
+adverse event, MedDRA coding should be provided for the primary MedDRA path. 
+
+3. Provide a summary table of the original AE coding dictionaries that were used in 
+each of the trials.  
+
+4. The preparation of the adverse event dataset for the ISS should include MedDRA 
+Preferred Terms from a single version of MedDRA. 
+
+5. Ensure that all adverse events are presented, and not only events deemed “drug-
+related.” 
+
+6. Provide a table of treatment-emergent adverse events reported in ≥ 2% of subjects 
+(after rounding) in any drug treated dose group (and greater than placebo) sorted by 
+MedDRA SOC (in alphabetical order) and then by MedDRA Preferred Term.   
+
+7. Provide a table which summarizes the outcomes of all pregnancies.  Provide a table 
+which summarizes all known adverse events in subject offspring.  
+
+ 
+ 
+Narratives and Case Report Forms (CRFs): 
+ 
+1. Provide narratives and case report forms for deaths, adverse events leading to drug 
+
+discontinuation, SAEs, pregnancies, and AEs of special interest. You should be 
+prepared to supply any additional CRFs or narratives with a rapid turnaround upon 
+request.  Narratives should be integrated. For subjects who had more than one 
+event requiring a narrative (whether in the same trial or in the core study and an 
+extension) present a single narrative (rather than separate narratives for the various 
+events).   
+
+2. Include a word file (and excel spreadsheet) that indicates those subjects for whom 
+you submitted a case report form and/or narrative.  This file should include an 
+indicator for whether each item was submitted and the reason why it was submitted 
+along with hyperlinks to the narrative and CRF.   
+
+3. Provide reports for any autopsies conducted during any of the studies. 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 18 
+ 
+ 
+4. Provide a line listing, narrative, and case report form for all subjects who fit the Hy’s 
+
+Law laboratory criteria. 
+5. Note that CRFs should include all clinical documents collected about the patient 
+
+regardless of whether you label them “CRFs”, e.g., Medwatch/CIOMS forms, event 
+fax coversheets, SAE or event worksheets, narrative worksheets, data queries, etc. 
+
+6. Provide a tabular listing of all subjects with all discontinuations, sorted by reason.  
+The table should include columns for study number, treatment group, unique subject 
+ID, primary reason for drug or study discontinuation. For reasons including Lost to 
+follow-up, Other, Physician/investigator decision, Withdrew consent, and Patient 
+decision, provide more specific information regarding the discontinuation. The 
+Division may want to request selected narratives/CRFs from some of these patients, 
+but they do not need to be submitted at the time of the initial NDA/BLA submission.  
+
+7. Narrative summaries should provide a complete synthesis of all available clinical 
+data and an informed discussion of the case.  The narratives should be 
+comprehensive enough for the reader to come to a reasonable conclusion regarding 
+the subject and the adverse event.  The following items should be included (but not 
+limited to): 
+
+a) Patient age and gender 
+b) Adverse event onset and stop dates (presented as relative Study Day number) 
+c) Signs and symptoms related to the adverse event being discussed 
+d) An assessment of the relationship of exposure duration to the development of 
+
+the adverse event 
+e) Pertinent medical history 
+f) Concomitant medications with start dates relative to the adverse event 
+g) Pertinent physical exam findings 
+h) Any abnormal vital sign measurements  
+i) Pertinent test results (e.g., lab data, ECG data, procedures, biopsy data, 
+
+autopsy results) 
+j) Discussion of the diagnosis as supported by available clinical data 
+k) For events without a definitive diagnosis, a list of the differential diagnoses 
+l) Treatment provided 
+m) Re-challenge results (if performed) 
+n) Outcomes and follow-up information 
+
+ 
+ 
+Laboratory and Vital Sign Measurements: 
+ 
+1. Refer to the following FDA webpage for the CDER position on use of SI units for lab 
+
+tests:    
+SI Units. 
+
+2. Provide the normal reference ranges for every laboratory value. 
+3. Clearly list the normal values, as well as the thresholds for analysis of outliers, for 
+
+outlier analyses of laboratory data, vital signs, and ECG data. 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 19 
+ 
+ 
+4. When possible, use the latest version of the National Institutes of Health (NIH) 
+
+Common Terminology Criteria for Adverse Events (CTCAE) for toxicity grades and 
+shift analyses.  
+
+5. Report the number and percentage of subjects with at least one post-treatment vital 
+sign measurement meeting any of these criteria: 
+
+• Systolic Blood Pressure: <90 mmHg, >140 mmHg, >160 mmHg 
+• Diastolic Blood Pressure: <50 mmHg, >90 mmHg, >100 mmHg 
+• Pulse Rate: <60 bpm, >100 bpm 
+• Body Weight: decrease of ≥7% from baseline and increase of ≥7% from 
+baseline 
+• Temperature: >38.0 °C, <36.0 °C 
+• Respiratory rate: <12 breaths/min, > 20 breaths/min 
+
+6. Summarize the protocols for collecting ECG data. Summarize the frequency of post-
+treatment QTc >450 ms, >480 ms, and >500 ms.  
+
+ 
+ 
+Other requests:  
+ 
+1. Patient profiles 
+
+Submit individual patient profiles containing all laboratory and other study results in a 
+single place for each patient.  Provide this information for patients who died, had a 
+serious adverse event, discontinued from the trial due to an adverse event, or had a 
+medically significant event for which a narrative is submitted.   Include all the 
+information recorded for that patient, including but not limited to: 
+
+a) Age 
+b) Sex 
+c) Dates of screening, randomization and starting therapy 
+d) Whether the patient completed or did not complete the study, with dates and 
+
+reason for withdrawal 
+e) Adverse events (reported term, preferred term, start and stop date [with 
+
+relative study day], seriousness, outcome, whether it resolved or not and 
+action taken with drug) 
+
+f) Prior medications and concomitant medications with dates of start and end 
+g) Vital signs and laboratories, sorted by date, with reference ranges *  
+h) Autopsy reports for all deaths.  (If an autopsy report is not available, explicitly 
+
+state this.) 
+i) Full reports for radiologic studies, ECG, MRI, pathology results, special 
+
+studies and procedures with dates and reference ranges  
+j) Provide relevant results obtained outside of clinical trial visits, including those 
+
+obtained during hospitalization or emergency room visits, in each patient file. 
+Also include baseline study results.  
+
+k) For patients who had IND safety report(s), include dates when the initial and 
+follow up safety reports were submitted.    
+
+ 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 20 
+ 
+ 
+
+Create a PDF file for each patient and a table of contents with links to each 
+assessment for each patient. 
+
+  
+2. Please submit for Division comments an example narrative from a patient who had 
+
+more than one serious adverse event and participated in the controlled and 
+extension studies prior to submitting your NDA.   
+
+3. We request that you submit a sample integrated summary of safety datasets (with 
+data definition file) for Division comments prior to submitting the NDA. This process 
+could help to identify and resolve any potential issues of navigability or 
+interpretability that could impact the review of your application.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 21 
+ 
+ 
+ATTACHMENT 2: CLINICAL PHARMACOLOGY SUMMARY AID 
+ 
+1. Goal 
+ 
+The goal of this Aid is to facilitate the creation of an optimal Clinical Pharmacology 
+Summary that summarizes the relevant Clinical Pharmacology findings and focuses 
+sponsor and reviewer on the critical review issues of a submission. To guide sponsors 
+in creating the Clinical Pharmacology Summary in NDA and BLA submissions the Aid 
+provides a generic questionnaire that covers the entire Clinical Pharmacology realm. 
+The aggregate answers provided by sponsors generate the desired Clinical 
+Pharmacology Summary in NDA and BLA submissions. Where needed instructions are 
+added to the questions to clarify what the answers should address. The questions and 
+instructions included in this guide are not intended to be either inclusive of all or 
+exclusive of any questions that specific reviews will address. A special Section of the 
+Clinical Pharmacology Summary should identify and discuss the critical findings and 
+issues and indicate how the unresolved issues are addressed.  
+ 
+The Clinical Pharmacology Summary generated by sponsors is a stand-alone 
+document, i.e. the answers to the questions including supporting evidence should be 
+self-sufficient. Appropriate use of complementary tables and figures should be made. 
+The sponsors’ answers to the questions should be annotated with links to the detailed 
+information in the study reports and the raw data located in SAS transport files.  
+ 
+ 
+2.  Question Based Review 
+ 
+2.1         What are the in vitro and in vivo Clinical Pharmacology and 
+
+Biopharmaceutics studies and the clinical studies with PK and/or PD 
+information submitted in the NDA or BLA? 
+ 
+All performed Clinical Pharmacology studies (in vitro studies with human 
+biomaterials and in vivo studies) and clinical studies with PK and/or PD 
+information along with report numbers should be tabulated. Study titles, 
+objectives, treatments (single or multiple doses, size of the dose/interval), 
+demographics (sex, age, race/ethnicity, body weight, creatinine clearance) and 
+numbers of study participants should be listed. Studies whose results support 
+the label should be marked. 
+
+ 
+2.2    General Attributes of the Drug 
+ 
+2.2.1 What are the highlights of the chemistry and physical-chemical  
+
+properties of the drug substance and the formulation of the drug 
+product? 
+
+ 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 22 
+ 
+ 
+
+Provide background information on the drug substance (description, chemical 
+name, molecular formula, molecular weight, structure), physical characteristics 
+(Log D, solubility, pKa if applicable). Provide tabular information on the drug 
+products, strengths, quantitative composition of ingredients and lot numbers for 
+all formulations used in all in vivo studies and indicate corresponding study 
+report numbers.  
+
+  
+2.2.2 What are the proposed mechanism of action and therapeutic indications? 
+          
+2.2.3 What are the proposed dosages and routes of administration? 
+ 
+2.2.4      What drugs (substances, products) indicated for the same indication are 
+
+approved in the US? 
+ 
+2.3 General Clinical Pharmacology 
+ 
+2.3.1 What are the design features of the clinical pharmacology and 
+
+biopharmaceutics studies and the clinical studies used to support dosing 
+or claims? 
+Provide a tabular description of the designs, methodology and salient findings 
+of the clinical pharmacology-, dose-ranging-, and pivotal studies and other 
+clinical studies with PK and/or PD information in brief for each indication. 
+Indicate duration of study, subjects’ demographics, dose regimens, endpoints 
+(clinical/biomarkers) and study report numbers.   
+
+ 
+2.3.2 What is the basis for selecting the response endpoints and how are they 
+
+measured in clinical pharmacology studies? 
+Provide a rationale for the selected clinical endpoints and biomarkers. For 
+biomarkers indicate relationship to effectiveness and safety endpoints.  
+
+ 
+2.3.3 Are the active moieties in plasma and clinically relevant tissues 
+
+appropriately identified and measured to assess pharmacokinetic 
+parameters and exposure response relationships? 
+Indicate circulating active moieties and their plasma and-tissue concentration 
+range after therapeutic doses of the drug of interest. Provide evidence that 
+sensitivity of the assay method(s) used is (are) sufficient to determine apparent 
+terminal t1/2 and AUC. 
+
+ 
+2.4 Exposure-Response 
+ 
+2.4.1 Does the exposure-response relationship support evidence of 
+
+effectiveness? 
+Describe briefly the method(s) used to determine the exposure-effectiveness 
+relationship from randomized and well controlled trials (RCT) and other 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 23 
+ 
+ 
+
+appropriate studies. Provide evidence that the exposure-response analysis 
+supports evidence of effectiveness: e.g. a significant slope in the E-R 
+relationship or a clear separation in effectiveness at different drug levels and 
+placebo.   
+ 
+Indicate whether the selected effectiveness endpoints are continuous, 
+categorical or event driven variables. Indicate the number of pooled subjects 
+studied and identify the trials they were enrolled in. Provide the results of the 
+analysis of the dose- and/or concentration-effectiveness relationship. Indicate 
+major covariates (e.g. age, body weight, sex, race/ethnicity, creatinine 
+clearance, disease severity, genetic factors, hormonal status see also 2.6/2.7) 
+impacting the exposure-effectiveness relationship. If not identifiable by 
+commonly known covariates, evaluate different strategies, for example 
+therapeutic drug monitoring, to maximize effectiveness for patients with a sub-
+therapeutic exposure. 
+ 
+Provide point estimate as well as a measure of the inter-subject variability for 
+applicable. Indicate minimum and maximum effective dose- and concentration 
+levels (major active moieties). Provide evidence that with the proposed 
+regimens clinically meaningful effectiveness is maintained throughout the entire 
+dose interval or alternatively provide evidence that maintenance of 
+effectiveness during the entire dose interval is not important.  Indicate the 
+magnitude of the effect at peak and trough concentrations with the tested dose 
+regimens. Indicate steady-state trough and peak plasma concentrations of the 
+major active moieties with the proposed dose regimens. Indicate whether AUC, 
+Cmax or Cmin is more correlated with effectiveness. Show the distribution of 
+the effect size for each dose/concentration level tested.  
+ 
+Justify if an analysis of the exposure-effectiveness relationship was not done. 
+ 
+
+2.4.2 What are the characteristics of the exposure-response relationships for 
+safety? 
+Describe briefly the method(s) used to determine the exposure-safety 
+relationship. The analysis should focus on adverse events responsible for 
+discontinuations and other drug related toxicities. Indicate whether the safety 
+endpoints are continuous, categorical or event driven variables. Indicate the 
+number of pooled subjects studied and identify the trials they were enrolled in. 
+Provide the results of the analysis of the dose- and/or concentration-safety 
+relationship. Indicate the major covariates (e.g. age, body weight, sex, 
+race/ethnicity, creatinine clearance, disease severity, genetic factors, hormonal 
+status) impacting the exposure-safety relationship. Provide point estimate as 
+well as a measure of the inter-subject variability for relevant safety endpoints. 
+Indicate magnitude and/or frequency of relevant adverse events at the tested 
+dose/concentration levels. Indicate proportion of subjects with an excessive 
+adverse response. Indicate whether AUC, Cmax or Cmin is more related to 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 24 
+ 
+ 
+
+clinically relevant adverse effects. Add information on the maximum tolerated 
+single and multiple dose regimens and the corresponding plasma levels [mean 
+(SD) Cmax and AUC] of the circulating major active moieties.  
+ 
+Justify if an analysis of the exposure-safety relationship was not done. 
+ 
+
+2.4.3 Does this drug prolong QT/QTc Interval? 
+Provide a brief description of the study design, regimens, population and data 
+analysis used. Indicate whether plasma concentrations of the drug and the 
+relevant metabolites and the positive control were measured. Give a rationale 
+for the chosen supra-therapeutic dose regimen. Report the findings on the 
+relationship between dose/concentration and QTc interval. Indicate point 
+estimate and 95% confidence interval for the increase of the QTc- interval at 
+the supra-therapeutic dose level. Discuss the relevance of the findings for 
+safety. Provide support for the appropriateness of the selected supra-
+therapeutic dose, if applicable. Indicate whether the pharmacokinetics of the 
+drug of interest at supra-therapeutic levels is different from that at therapeutic 
+levels. 
+
+ 
+2.4.4 Is the dose and dosing regimen selected consistent with the known E-R 
+
+relationship? 
+Provide information on the criteria used to select the dose regimen (doses, 
+dose intervals) used in the RCTs. Indicate the therapeutic dose and/or 
+concentration range for the drug and provide evidence that the proposed dose 
+regimens are optimal given the effectiveness/safety profile of the drug.  
+
+ 
+2.5 What are the PK characteristics of the drug? 
+ 
+2.5.1      What are the single and multiple dose PK parameters of parent drug and 
+
+relevant metabolites in healthy adults? 
+Briefly describe methods (two-stage and/or population approaches, 
+compartment model dependent or-independent methods) in healthy subjects 
+and in patients with the target disease used to determine the pharmacokinetic 
+parameters of parent drug and relevant metabolites (pharmacologically active 
+or impacting the exposure to parent drug or co-administered drugs). Provide 
+mean, median (SD, CV%) pharmacokinetic parameters of parent drug and 
+relevant metabolites after single doses and multiple doses at steady-state 
+[Cmax, tmax, AUC, Cmax,ss, Cmin,ss, Cmax,ss/Cmin,ss, tmax,ss, AUC0-τ, 
+CL/F, V/F and t1/2 (half-life determining accumulation factor), accumulation 
+factor, fluctuation, time to steady-state]. Indicate how attainment of steady-
+state is determined. Provide evidence for attainment of steady-state. 
+ 
+
+2.5.2 How does the PK of the drug and its relevant metabolites in healthy  
+              adults compare to that in patients with the target disease? 
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 25 
+ 
+ 
+
+Compare the pharmacokinetic parameters of the drug of interest and relevant 
+metabolites in healthy subjects and patients with the target disease. Provide a 
+rationale for observed significant differences between healthy subjects and 
+patients with the target disease. 
+
+ 
+2.5.3      What is the inter- and intra-subject variability of the PK parameters in 
+
+volunteers and patients with the target disease? 
+Provide mean/median (SD, coefficient of variation, range within 5% to 95% 
+confidence interval bracket for concentrations) about mean AUC, Cmax, Cmin, 
+CL/F and t1/2 of the parent drug and relevant metabolites after single doses 
+and at steady-state. 
+ 
+
+2.5.4 What are the characteristics of drug absorption? 
+Indicate absolute and relative bioavailability, lag time, tmax, tmax,ss, Cmax, 
+Cmax,ss and extent of systemic absorption of parent drug and relevant 
+metabolites in healthy subjects and patients with the target disease. Indicate 
+mean (SD) for these parameters. 
+ 
+
+2.5.5 What are the characteristics of drug distribution? 
+Indicate mean (SD) V/F for the drug of interest in healthy subjects and patients 
+with target disease. Provide mean (SD) blood/ plasma ratio for parent drug in 
+healthy subjects. Briefly describe method and pH- and temperature conditions 
+used for determining plasma protein binding for parent drug and relevant 
+metabolites. Provide mean (SD) values of the plasma protein binding of the 
+drug of interest and relevant metabolites measured over the therapeutic range 
+in healthy subjects and patients with target disease and special populations. 
+ 
+
+2.5.6 Does the mass balance study suggest renal or hepatic as the major route 
+of elimination? 
+Present total, renal and fecal recoveries as percent of the administered total 
+radioactivity. Indicate the percentage of radioactivity excreted as unchanged 
+parent drug in urine and feces and the percent of radioactivity excreted as 
+metabolites in urine and feces. 
+ 
+
+2.5.7 What is the percentage of total radioactivity in plasma identified as parent 
+drug and metabolites? 
+Provide identification for ≥ 90% of the circulating total radioactivity (AUC). If 
+multiple small peaks are present whose individual radioactivity is too small to 
+be assignable to individual metabolites provide an estimate for their 
+contribution to circulating total radioactivity.  
+
+                 
+2.5.8 What are the characteristics of drug metabolism? 
+
+Present the metabolic scheme for the drug. Provide an estimate for the 
+contribution of metabolism to the overall elimination of the drug of interest. 
+Indicate mean (SD) values for the non-renal clearance in healthy subjects and 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 26 
+ 
+ 
+
+patients with the target disease. Indicate whether active metabolites constitute 
+major circulating moieties and if so how much they contribute to effectiveness 
+and/or whether they affect safety.  
+ 
+
+2.5.9 Is there evidence for excretion of parent drug and/or metabolites into 
+bile?  
+If appropriate provide in vitro and/or in vivo evidence suggesting that parent 
+drug and/or metabolites are excreted into bile (in vitro: parent drug and/or 
+metabolites are substrates of BCRP, in vivo: recovery of unchanged parent 
+drug in mass balance- and absolute bioavailability studies suggest excretion 
+into bile) 
+
+ 
+2.5.10    Is there evidence for enterohepatic recirculation for parent and/or 
+
+metabolites?  
+Indicate whether there are secondary peaks and humps in the plasma 
+concentration profile correlating with food intake. 
+
+ 
+2.5.11 What are the characteristics of drug excretion in urine? 
+
+Provide an estimate of the contribution of renal excretion to the overall 
+elimination of parent drug in healthy volunteers. Present mean values (SD) for 
+the renal clearance (mL/min or mL/min/1.73m2) in healthy subjects and in the 
+target population. Using mean plasma protein binding and renal clearance 
+values in healthy subjects estimate the respective contributions of glomerular 
+filtration and net tubular secretion or re-absorption to renal clearance. 
+
+            
+2.5.12 Based on PK parameters, what is the degree of the proportionality of the 
+
+dose-concentration relationship? 
+Briefly describe the statistical methods used to determine the type of 
+pharmacokinetics of the drug and its relevant metabolites (linearity, dose 
+proportionality, non-linearity, time dependency) in healthy subjects and patients 
+with the target disease. Identify the doses tested after single and multiple dose 
+administrations of the drug of interest and the respective dose normalized 
+mean (SD) Cmax and AUC values in healthy subjects and patients with the 
+target disease. Indicate whether the kinetics of the drug is linear, dose 
+proportionate or nonlinear within the therapeutic range. In case of nonlinear or 
+time dependent pharmacokinetics provide information on the suspected 
+mechanisms involved.   
+
+ 
+2.5.13 How do the PK parameters change with time following chronic dosing? 
+
+Indicate whether the mean ratio of AUC0-τ at steady-state to AUC after the first 
+dose for the circulating major active moieties deviates statistically significantly 
+from 1.0 in healthy subjects and patients with the target disease. Discuss the 
+relevance of the findings and indicate whether an adjustment of the dose 
+regimen is required. If the pharmacokinetics of the drug of interest changes 
+with time provide a rationale for the underlying mechanism. 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 27 
+ 
+ 
+2.5.14    Is there evidence for a circadian rhythm of the PK? 
+
+Indicate whether Cmax and Cmin of the parent drug after the morning and 
+evening dose differ significantly. Discuss the relevance of the findings and 
+whether an adjustment of the dose regimen is required for the drug of interest. 
+Provide a rationale for the underlying mechanism for the observed circadian 
+rhythm of the pharmacokinetics of the drug of interest. Indicate whether the 
+dose regimens in the pivotal studies were adjusted for circadian rhythm. 
+
+ 
+2.6 Intrinsic Factors 
+ 
+2.6.1      What are the major intrinsic factors responsible for the inter-subject 
+
+variability in exposure (AUC, Cmax, Cmin) in patients with the target 
+disease and how much of the variability is explained by the identified 
+covariates?                
+Provide for all studies investigating the impact of the intrinsic factors (age, sex, 
+body weight, ethnicity/race, renal and hepatic impairment) demographics and 
+number of study subjects, and dose regimens. Provide summaries of the 
+results and indicate intrinsic factors that impact significantly exposure and/or 
+efficacy and safety of the drug of interest. Provide for each major identified 
+covariate an estimate for its contribution to the inter-subject variability and 
+indicate how much of the inter-subject variability is explained by the identified 
+covariates. 
+ 
+Provide mean (SD) parameters for AUC, Cmax, clearance, volume of 
+distribution and t1/2 for pairs studied (e.g. elderly vs. young, male vs. female, 
+normal body weight vs. obese, race/ethnicity(x) vs. race/ethnicity (y), mild vs. 
+severe target disease)  
+                
+
+2.6.2      Based upon what is known about E-R relationships in the target 
+population and their variability, what dosage regimen adjustments are 
+recommended for each group? 
+Characterize the populations (age, sex, body weight, ethnicity/race) used to 
+determine the impact of each intrinsic factor on variability in exposure and 
+exposure-response. Indicate for each intrinsic factor whether a dose 
+adjustment (change of dose or dose interval or both)) is required or not and 
+provide a rationale for either scenario.  
+
+ 
+2.6.2.1   Severity of Disease State 
+ 
+2.6.2.2   Sex 
+
+ 
+2.6.2.3   Body Weight 
+ 
+2.6.2.4   Elderly 
+ 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 28 
+ 
+ 
+2.6.2.5 Pediatric Patients 
+
+If available provide mean (SD, range) pharmacokinetic parameters, biomarker 
+activity, effectiveness and safety in the pediatric sub-populations (neonates 
+(birth-1 month), infants (1 month- 2 years), children (2-12 years) and 
+adolescents (12- < 16 years) and define the target disease. If no information is 
+available in the pediatric population indicate age groups to be investigated in 
+future studies. Provide a summary stating the rationale for the studies 
+proposed and the endpoints and age groups selected. Include a hyperlink to 
+the development plan of the drug of interest in children. 
+ 
+
+2.6.2.6   Race/Ethnicity 
+ 
+2.6.2.7  Renal Impairment 
+
+Characterize the demographics for each subgroup (normal renal function, mild, 
+moderate and severe renal impairment, on and off dialysis). Indicate mean 
+(SD, range) for creatinine clearance estimated by the Cockroft-Gaul- and 
+MDRD equations for the stages of renal impairment investigated. Provide 
+arithmetic mean (SD) AUC, Cmax and t1/2 of parent drug and relevant 
+metabolites in the different sub-groups assessed by 2-stage or population PK 
+approaches.  Show regressions including 90% confidence intervals of AUC, 
+Cmax and CL/F on Clcr for parent drug and relevant metabolites. If a 
+population approach is used provide evidence supporting that statistical power 
+was sufficient to determine impact of creatinine clearance. 
+ 
+Indicate mean (SD) for total and renal clearance of the drug in the different 
+sub-groups and provide estimates of the contribution of glomerular filtration 
+and net tubular secretion or re-absorption to the renal excretion of the drug of 
+interest. Indicate whether plasma protein binding of the active moieties is 
+significantly altered in renal impairment and whether the change in the 
+unbound fraction is clinically relevant. Indicate whether a dose adjustment 
+(dose or dose interval, or both) is required or not for each of the sub-groups of 
+patients with impaired renal function and provide a rationale for either scenario. 
+ 
+
+2.6.2.8   Hepatic Impairment 
+Characterize the demographics for each subgroup (normal hepatic function, 
+mild, moderate and severe hepatic impairment based on Child-Pugh scores). 
+Provide information on arithmetic mean (SD) AUC, Cmax, tmax and t1/2 of 
+parent drug and relevant metabolites in the different hepatic function sub-
+groups assessed by two-stage or population PK approaches. Show 
+regressions including 90% confidence intervals of Cmax, AUC or CL/F on the 
+Child-Pugh score for parent drug and relevant metabolites. Indicate whether 
+plasma protein binding of the active moieties is significantly altered in hepatic 
+impairment and whether the change in the unbound fraction is clinically 
+relevant. Indicate whether a dose adjustment is required or not for each of the 
+subgroups of patients with impaired hepatic function and provide a rationale for 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 29 
+ 
+ 
+
+either scenario. If a population approach is used provide evidence supporting 
+that statistical power was sufficient to determine impact of Child-Pugh score. 
+
+ 
+2.6.2.9   What pregnancy and lactation use information is available? 
+ 
+2.6.3      Does genetic variation impact exposure and/or response? 
+
+Describe the studies in which DNA samples have been collected. If no DNA 
+samples were collected state so. Include a table with links to the studies in 
+which DNA was analyzed and genomic/genetic information is reported. In the 
+description of these studies include demographics, purpose of DNA analysis 
+(effectiveness, safety, drug metabolism, rule in-out of patients, etc.), rationale 
+for the analysis, procedures for bio-specimen sample collection and DNA 
+isolation, genotyping methods, genotyping results in individual subjects, 
+statistical procedures, genotype-phenotype association analysis and results, 
+interpretation of results, conclusions. If genomic polymorphism impacts either 
+exposure and/or response indicate the measures to be taken to safeguard 
+efficacy and safety of the drug in subjects with varying genotypes. Indicate the 
+contribution of genetic factors to inter-subject variability. 
+   
+ 
+
+2.6.4 Immunogenicity (NOT applicable to small molecule drugs) 
+ 
+
+2.6.4.1   What is the incidence (rate) of the formation of the anti-product          
+antibodies (APA), including the rate of pre-existing antibodies, the rate of 
+APA formation during and after the treatment, time profiles and adequacy 
+of the sampling schedule? 
+
+ 
+2.6.4.2   Does the immunogenicity affect the PK and/or PD of the therapeutic 
+
+protein? 
+ 
+2.6.4.3   Do the anti-product antibodies have neutralizing activity? 
+ 
+2.6.4.4   What is the impact of anti-product antibodies on clinical efficacy?  
+ 
+2.6.4.5   What is the impact of anti-product antibodies on clinical safety? 
+
+Provide information on the incidence of infusion-related reactions, 
+hypersensitivity reactions, and cross-reactivity to endogenous counterparts.   
+
+ 
+2.7 Extrinsic Factors 
+ 
+2.7.1 Is there an in vitro basis to suspect in vivo drug-drug interactions? 
+
+Summarize the results of the in vitro studies performed with the drug of interest 
+as substrate, inhibitor or inducer of relevant CYP and non-CYP enzymes and 
+transporters. Give rationale for why based on the in vitro results an interaction 
+study in humans is required or is not required 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 30 
+ 
+ 
+2.7.2 Is the drug a substrate of CYP enzymes?  
+
+Briefly describe the methods used (specific chemicals/antibodies, human 
+recombinant CYP enzymes, human microsomes). Indicate incubate, initial rate 
+conditions, concentration range tested relative to Km, controls etc. Provide a 
+summary of the results of the in vitro studies investigating the drug of interest 
+as a substrate of CYP 450 and non-CYP 450 enzymes. Provide for each of the 
+relevant enzymes a mean estimate for the % contribution to the metabolism of 
+the drug of interest. Discuss the relevance of the in vitro findings for the drug of 
+interest as a substrate for deciding which drug-drug interactions should be or 
+need not be performed in humans. For each situation provide supporting 
+evidence. 
+ 
+
+2.7.3   Is the drug an inhibitor and/or an inducer of enzymes? 
+Briefly describe the methods used (type and source of liver tissue, 
+concentration range tested for the drug of interest as substrate, inhibitor and 
+inducer, experimental conditions, pre-incubation, probe substrates, 
+positive/negative controls.  Provide summary results of the in vitro studies with 
+human liver tissues for the drug of interest as a potential inhibitor or inducer of 
+enzymes. Indicate whether the drug is a reversible inhibitor (competitive, non-
+competitive or un-competitive) or an irreversible inhibitor (mechanism based) 
+and supportive evidence. Provide mean (SD) values for Ki, IC50 and Vmax for 
+each relevant enzyme and probe substrate. Indicate the anticipated maximum 
+total and unbound concentration of the drug of interest as inhibitor ([I]). Provide 
+the mean (SD) % activity relative to the positive control for the drug of interest 
+as inducer. Discuss the relevance of the in vitro findings for the drug of interest 
+as an inhibitor or inducer for deciding which drug-drug interactions should be or 
+need not be performed in vivo in humans. If appropriate use the [I]/Ki ratio as a 
+means to assess the likelihood of an in vitro result to be clinically relevant. For 
+each situation provide supporting evidence. 
+ 
+
+2.7.4 Is the drug a substrate, an inhibitor and/or an inducer of transporter 
+processes? 
+See 2.7.2.2 and 2.7.2.3. The instructions for the interactions of the drug of 
+interest as substrate, inhibitor or inducer of transporters are analogous to those 
+for enzymes.  
+ 
+
+2.7.5 Are there other metabolic/transporter pathways that may be important? 
+ 
+2.7.6 What extrinsic factors influence exposure and/or response, and what is 
+
+the impact of any differences in exposure on effectiveness or safety 
+responses? 
+Indicate extrinsic factors that impact significantly exposure and/or effectiveness 
+and safety of the drug. Indicate extent of increase or decrease in exposure 
+and/or response caused by extrinsic factors. State whether an adjustment of 
+the dose is or is not required and provide supporting evidence for either case.     
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 31 
+ 
+ 
+
+           
+2.7.7 What are the drug-drug interactions? 
+
+Provide a list of the drug-drug interaction studies (PK or PD based mechanism) 
+performed and give a rationale for conducting the listed studies. Indicate the 
+suspected mechanism responsible for the interaction. For each of the in vivo 
+studies performed provide a rationale for the design selected (single or multiple 
+dose regimens, randomized/non-randomized cross-over or parallel design for 
+perpetrator and/or victim). 
+ 
+a) Drug of interest is impacted by co-administered other drugs 
+ 
+Provide information on the demographics of populations, number of subjects, 
+dose levels, and design of the studies performed in humans. Justify the 
+magnitude of the equivalence interval selected if it is greater than the default 
+interval. Report t1/2, point estimates and 90% confidence intervals of the 
+geometric mean ratios of AUC and Cmax for the drug of interest in the 
+presence and absence of each of the co-administered drugs. Provide a 
+summary statement on the drug interaction liability of the drugs as victim. 
+Indicate whether a dose adjustment is required or not. In either case provide a 
+rationale. Define the required adjusted dose regimens.  
+ 
+b) Drug of interest impacts other co-administered drugs 
+ 
+Provide information on the demographics of populations, number of subjects, 
+dose levels, and design of the studies performed in humans. Justify the 
+magnitude of the equivalence interval selected if it is greater than the default 
+interval. Provide a summary statement on the drug interaction liability of the 
+drug as a perpetrator. Report t1/2, point estimates and 90% confidence 
+intervals of the geometric mean ratios of AUC and Cmax for each of the co-
+administered drugs in the presence and absence of the drug of interest. 
+
+ 
+2.7.8 Does the label specify co-administration of another drug? 
+ 
+2.7.9 What other co-medications are likely to be administered to the target 
+
+population? 
+ 
+2.7.10 Is there a known mechanistic basis for pharmacodynamic drug-drug 
+
+interactions? 
+ 
+2.8  General Biopharmaceutics 
+
+For all in vivo studies performed in this section indicate study design, 
+demographics and number of subjects enrolled, and type, composition, 
+strength and lot number of the formulations used. Provide summary results 
+with estimates for mean and inter-subject variability on AUC and Cmax after 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 32 
+ 
+ 
+
+single and multiple dose administration and peak to trough fluctuation after 
+multiple dose administration.  
+
+ 
+ 
+IR Product 
+ 
+2.8.1 Based on the biopharmaceutic classification system principles, in what 
+
+class is this drug and formulation? What solubility, permeability and 
+dissolution data support this classification? 
+
+ 
+2.8.2      How is the proposed to-be-marketed formulation linked to the clinical 
+
+service formulation? 
+ 
+2.8.2.1 What are the safety or effectiveness issues, if any, for BE studies that fail 
+
+to meet the 90% CI using equivalence limits of 80-125%? 
+ 
+2.8.2.2 If the formulation does not meet the standard criteria for bioequivalence, 
+
+what clinical pharmacology and/or safety and efficacy data support the 
+approval of the to-be-marketed product? 
+
+ 
+2.8.3 What is the effect of food on the bioavailability of the drug when 
+
+administered as solution or as drug product? 
+Indicate composition and calories of the food administered, and length of the 
+pre-dose fasting period. State whether the impact of food is on the drug 
+substance or the inactive ingredients of the formulation. Indicate the clinical 
+relevance of findings. Indicate the temporal relationship between drug intake 
+and food intake in the pivotal studies. 
+
+2.8.4 Was the bioequivalence of the different strengths of the to be marketed 
+formulation tested? If so were the strengths bioequivalent or not?  
+
+ 
+2.8.5 If unapproved products or altered approved products were used as    
+
+active controls, how is BE to the to be marketed product demonstrated? 
+What is the link between the unapproved/altered and to be marketed 
+products? 
+
+ 
+MR product (if an IR is already marketed) 
+ 
+2.8.6   What is the bioavailability of the MR product relative to the approved IR 
+
+product? How does the plasma concentration time profile of the MR 
+formulation compare to that of the IR formulation after single and 
+multiple doses? 
+Indicate whether or not the pharmacokinetics of the drug of interest is linear, 
+dose proportional or nonlinear after administration of the MR formulation. 
+Summarize data on Cmax, AUC and Cmin of the IR and MR formulations after 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 33 
+ 
+ 
+
+a single dose and multiple doses at steady-state. Provide information on the 
+fluctuation factor at steady-state.  
+
+ 
+2.8.7    What is evidence that MR formulation in vivo consistently shows claimed 
+
+MR characteristics? 
+ 
+2.8.8    What is evidence that MR formulation displays less variability in Cmax, 
+
+AUC and Cmin than IR formulation? 
+ 
+2.8.9    Does the MR product show dose dumping in vivo? 
+
+Describe design, demographics and number of subjects participating in the 
+studies performed to determine whether dose dumping occurs with the MR 
+formulation when given in the fed state or when given together with alcohol. 
+Present summaries of results. 
+  
+
+2.8.10  Does ethanol in vitro have a dose-dumping effect on the MR   product? 
+Provide the results of the in vitro dissolution testing of the various strengths of 
+the ER product in pH 1.2, 4.5 and 6.8 media containing 0, 5, 10, 20 and 40% 
+alcohol. Discuss any dose dumping observed. If an in vivo study was 
+performed report the clinical relevance of the findings.  
+
+ 
+2.8.11  Are the MR and IR products marketed simultaneously? 
+
+If the intention is to market both the MR and IR products, indicate how patients 
+are converted from the IR to the MR product and vice versa. 
+ 
+
+2.8.12  If the NDA is for an MR formulation of an approved IR product without 
+supportive safety and effectiveness studies, what dosing regimen 
+changes are necessary, if any, in the presence or absence of a PKPD 
+relationship? 
+
+ 
+2.8.13  In the absence of effectiveness and safety data what data support the 
+
+NDA for a MR formulation of an approved IR product?  
+ 
+2.9 Analytical Section 
+ 
+2.9.1 How are parent drug and relevant metabolites identified and what are the 
+
+analytical methods used to measure them in plasma and other matrices?               
+List all assays used and briefly describe the individual methods. 
+
+ 
+2.9.2 Which metabolites have been selected for analysis and why? 
+ 
+2.9.3 For all moieties measured, is free, bound, or total measured? 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 34 
+ 
+ 
+
+Indicate whether free, bound or total (bound+unbound) concentrations of the 
+drug of interest and relevant metabolites are measured and give a rationale for 
+your selection.  
+ 
+
+2.9.4  What bioanalytical methods are used to assess concentrations of   the 
+measured moieties? 
+Identify all studies that used a particular assay method. For each assay report 
+indicate the corresponding assay validation report.  
+ 
+
+2.9.5 What is the range of the standard curve? How does it relate to the 
+requirements for clinical studies? What curve fitting techniques were 
+used? 
+For each method and analyte provide concentration range of calibration curve   
+and indicate respective concentration range for relevant moieties with 
+therapeutic regimens. Indicate fit type of the calibration curves. 
+ 
+
+2.9.5.1  What are the lower and upper limits of quantitation? 
+For each method and analyte indicate LLOD, LLOQ and ULOQ for undiluted 
+and diluted samples. 
+ 
+
+2.9.5.2 What are the accuracy, precision, and selectivity at these limits? 
+For each method and analyte indicate inter-day and intra-day precision (CV%) 
+and inter-day and intra-day accuracy (RE%).   
+ 
+
+2.9.5.3   What is the sample stability under conditions used in the study? 
+For all studies in which concentrations of the drug of interest and relevant 
+metabolites were measured provide information on initiation date of study, date 
+of last sample analyzed and total sample storage time. For each method and 
+matrix provide information on the stability of the analytes, i.e. number of freeze-
+thaw cycles, benchtop stability at room temperature and stability during long 
+term storage at ≤ –20 C. 
+
+ 
+2.9.5.4  What is the plan for the QC samples and for the reanalysis of the incurred 
+
+samples? 
+For each study, method and analyte indicate precision (CV%) and accuracy 
+(%RE) using the QC samples measured alongside samples with unknown 
+concentrations. Indicate the concentrations of the QC and incurred samples 
+used. 
+ 
+
+2.9.5.5  What evidence is available demonstrating that neither the assay of the 
+drug on interest is impacted by co-administered other drugs and vice 
+versa? 
+
+ 
+Applicable to therapeutic proteins only 
+ 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+IND 129563 
+Page 35 
+ 
+ 
+2.9.5.6   What bioanalytical methods are used to assess therapeutic protein 
+
+concentrations?  
+Briefly describe the methods and summarize the assay performance. 
+
+ 
+2.9.5.7   What bioanalytical methods are used to assess the formation of the anti-
+
+product antibodies?   
+Briefly describe the methods and assay performance including sensitivity, 
+specificity, precision, cut point, interference and matrix, etc. 
+
+ 
+2.9.5.8   What is the performance of the neutralizing assay(s)? 
+ 
+
+4 Page(s) have been Withheld in Full as B4 (CCI/TS) immediately following this page 
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4829582
+
+
+
+Signature Page 1 of 1
+
+--------------------------------------------------------------------------------------------
+This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+--------------------------------------------------------------------------------------------
+/s/
+------------------------------------------------------------
+
+TERESA J BURACCHIO
+07/22/2021 11:17:21 AM
+
+Reference ID: 4829582
+
+
+
+CDER Breakthrough Therapy Designation Determination Review Template (BTDDRT)
+IND/NDA/BLA # IND 129,563
+Request Receipt Date 1/28/20
+Product AMX0035 (fixed dose combination of sodium phenylburate [3gm] and 
+
+tauroursodeoxycholic acid [1gm]) 
+Indication Treatment of amyotrophic lateral sclerosis (ALS)
+Drug Class/Mechanism of See product description; mechanism(s) of action uncertain
+Action
+Sponsor Amylyx Pharmacueticals Inc. 
+ODE/Division DN1/ON/CDER
+Breakthrough Therapy 3/28/20
+Request (BTDR) Goal Date 
+(within 60 days of receipt) 
+
+Note: This document must be uploaded into CDER’s electronic document archival system as a clinical review: 
+REV-CLINICAL-24 (Breakthough Therapy Designation Determination) even if the review is attached to the 
+MPC meeting minutes and will serve as the official primary Clinical Review for the Breakthrough Therapy 
+Designation Request (BTDR). Link this review to the incoming BTDR. Note: Signatory Authority is the Division 
+Director.
+
+Section I: Provide the following information to determine if the BTDR can be denied without Medical 
+Policy Council (MPC) review.
+
+1. Briefly describe the indication for which the product is intended (Describe clearly and concisely since the 
+wording will be used in the designation decision letter):
+
+AMX0035 is a fixed dose combination (FDC) of sodium phenylbutyrate and tauroursodiol.  The product is being 
+developed by Amylyx Pharmaceuticals LLC for the treatment of amyotrophic lateral sclerosis (ALS).
+
+2. Are the data supporting the BTDR from trials/IND(s) which are on Clinical Hold?
+YES  NO
+
+3. Was the BTDR submitted to a PIND? YES  NO
+If “Yes” do not review the BTDR. The sponsor must withdraw the BTDR. BTDR’s cannot be submitted to a PIND.
+
+If 2 above is checked “Yes,” the BTDR can be denied without MPC review. Skip to number 5 for clearance and sign-
+off.  If checked “No”, proceed with below:
+
+4. Consideration of Breakthrough Therapy Criteria: 
+
+a. Is the condition serious/life-threatening1)? YES  NO 
+
+If 4a is checked “No,” the BTDR can be denied without MPC review. Skip to number 5 for clearance and sign-off.  If 
+checked “Yes”, proceed with below:
+
+1 For a definition of serious and life threatening see Guidance for Industry: “Expedited Programs for Serious Conditions––Drugs and 
+Biologics” http://www fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM358301.pdf
+1
+
+Reference ID: 4576470
+
+
+
+b. Are the clinical data used to support preliminary clinical evidence that the drug may demonstrate substantial 
+improvement over existing therapies on 1 or more clinically significant endpoints adequate and sufficiently 
+complete to permit a substantive review?  
+
+ YES, the BTDR is adequate and sufficiently complete to permit a substantive review 
+ Undetermined 
+ NO, the BTDR is inadequate and not sufficiently complete to permit a substantive review; therefore, the 
+request must be denied because (check one or more below):
+
+i. Only animal/nonclinical data submitted as evidence
+ii. Insufficient clinical data provided to evaluate the BTDR
+
+(e.g. only high-level summary of data provided, insufficient information
+ about the protocol[s])
+
+iii. Uncontrolled clinical trial not interpretable because endpoints 
+are not well-defined and the natural history of the disease is not
+relentlessly progressive (e.g. multiple sclerosis, depression)
+
+iv. Endpoint does not assess or is not plausibly related to a serious 
+aspect of the disease (e.g., alopecia in cancer patients, erythema 
+chronicum migrans in Lyme disease)
+
+v. No or minimal clinically meaningful improvement as compared
+to available therapy2/ historical experience (e.g., <5%
+improvement in FEV1 in cystic fibrosis, best available
+therapy changed by recent approval)
+
+5. Provide below a brief description of the deficiencies for each box checked above in Section 4b: 
+
+If 4b is checked “No”, BTDR can be denied without MPC review. Skip to number 6 for clearance and sign-off (Note: 
+The Division always has the option of taking the request to the MPC for review if the MPC’s input is desired. If this is 
+the case, proceed with BTDR review and complete Section II).  If the division feels MPC review is not required, send 
+the completed BTDDRT to Miranda Raggio for review. Once reviewed, Miranda will notify the MPC Coordinator to 
+remove the BTDR from the MPC calendar. If the BTDR is denied at the Division level without MPC review, the BTD 
+Denial letter still must be cleared by Miranda Raggio, after division director and office director clearance.
+
+If 4b is checked “Yes” or “Undetermined”, proceed with BTDR review and complete Section II, as MPC review is 
+required.
+
+6. Clearance and Sign-Off (no MPC review)
+
+Deny Breakthrough Therapy Designation  
+
+Reviewer Signature: {See appended electronic signature page}
+Team Leader Signature: {See appended electronic signature page}
+Division Director Signature: {See appended electronic signature page}
+__________________________________________________________________________________________________
+Section II: If the BTDR cannot be denied without MPC review in accordance with numbers 1-3 above, or 
+if the Division is recommending that the BTDR be granted, provide the following additional information 
+needed by the MPC to evaluate the BTDR.
+
+7. A brief description of the drug, the drug’s mechanism of action (if known), the drug’s relation to existing 
+therapy(ies), and any relevant regulatory history.   
+
+Amylyx Pharmaceuticals, Inc. (Cambridge, Mass) is developing AMX0035 to treat ALS.  AMX0035 is a combination 
+of two molecules, sodium phenylbutyrate and tauroursodeoxycholic acid.  
+
+2 For a definition of available therapy refer to Guidance for Industry: “Expedited Programs for Serious Conditions––Drugs and 
+Biologics” http://www fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM358301.pdf
+2
+
+Reference ID: 4576470
+
+
+
+  
+
+Sodium phenylbutyrate is approved in the US as Buphenyl®, which is “indicated as adjunctive therapy in the chronic 
+management of patients with urea cycle disorders…”  Tauroursodeoxycholic acid is not approved in the US, and it is 
+used off-label in Europe to treat cholestatic conditions.  As regards to the possible mechanism(s) of action of these 
+molecules in ALS, the sponsor contends that they target protein folding processes in the endoplasmic reticulum and 
+also cellular processes leading to mitochondrial stress, which may be present in ALS.  The combination reduced 
+neuronal death in nonclinical models.  The individual doses of the two drugs in AMX0035 are 3 gm of sodium 
+phenylbutyrate and 1gm of tauroursodeoxycholic acid.
+
+The regulatory history is as follows.
+ PIND letter sent to sponsor on 3/21/16
+ IND submitted 3/15/17, with the CENTAUR study in ALS proposed as the IND-opening study
+
+o May Proceed letter sent to sponsor 8/19/17
+ Orphan Designation granted 5/8/17
+ Fast Track Requests were denied twice: 4/20/18 and 9/7/18
+ CENTAUR SAP comments were made on 3/6/19.  
+
+o Comments included that: “If there are deaths, then the joint rank analysis of function and survival 
+should be the primary analysis.”
+
+ CENTAUR topline results sent to FDA 1/10/20
+ Type C Meeting planned for 3/12/20, with the objective stated by the sponsor as follows:
+
+“The overall objective of this Type C meeting is to obtain concurrence from the Division that the 
+information described or proposed in this briefing document will support the filing and approval 
+of the forthcoming New Drug Application (NDA).”
+
+8. Information related to endpoints used in the available clinical data: 
+
+a. Describe the endpoints considered by the sponsor as supporting the BTDR and any other endpoints the sponsor 
+plans to use in later trials. Specify if the endpoints are primary or secondary, and if they are surrogates.
+
+The primary endpoint was the rate of decline to Week 24 in the ALS Functional Rating Scale–Revised (ALSFRS-
+R) score in the mITT population [Definition of mITT: at least one dose of study drug and one post-baseline 
+score].  
+
+Secondary endpoints included: isometric muscle testing using the Accurate Testing of Limb Isometric Strength 
+(ATLIS); measurement of Slow Vital Capacity (SVC); and survival.  
+
+Other endpoints (which are biomarkers not accepted as surrogate endpoints) included: phosphorylated 
+neurofilament heavy chain protein and PET imaging of a radiotracer that targets a marker of glial inflammation in 
+a substudy.  
+
+All endpoints were statistically analyzed using random slope shared intercept mixed models with a number of 
+covariates.  Missing values were handled using the mixed model with repeated measures (MMRM).  
+
+b. Describe the endpoint(s) that are accepted by the Division as clinically significant (outcome measures) for 
+patients with the disease. 
+
+The Division accepts a joint rank analysis of a functional rating scale score (e.g., the ALSFRS-R) and survival.  
+Per the FDA’s 2019 ALS Guidance (“Amyotrophic Lateral Sclerosis: Developing Drugs for Treatment”):
+
+3
+
+Reference ID: 4576470
+
+
+
+“In general, effectiveness should be established by the demonstration of a treatment effect (e.g., less 
+decline, stabilization, improvement) on function in daily activities as measured, for example, by the ALS 
+Functional Rating Scale-Revised or similar scales. In general, in addition to the primary endpoint, 
+sponsors should include assessments of various effectiveness outcomes in trials, including patient-
+reported outcomes (PROs). For effective drugs, the results of these additional outcomes would be 
+expected to be supportive (FDA ALS Guidance, 2019: section III B 2).”
+
+- AND –
+
+“Sponsors should characterize an effect on mortality in all ALS development programs because it is 
+important to the consideration of the overall safety and effectiveness profiles. If patient function is 
+intended to be assessed by the primary outcome, mortality should be integrated into the primary outcome 
+by an analysis method that combines survival and function into a single overall measure, such as the joint 
+rank test FDA ALS Guidnace, 2019: section III B 2).”
+
+Assessments of muscle strength and respiratory function (e.g., vital capacity) are acceptable as secondary 
+endpoints.
+
+c. Describe any other biomarkers that the Division would consider likely to predict a clinical benefit for the 
+proposed indication even if not yet a basis for accelerated approval.
+
+There are no biomarkers that the Divison considers likely to predict a clinical benefit in ALS.
+
+9. A brief description of available therapies, if any, including a table of the available Rx names, endpoint(s) 
+used to establish efficacy, the magnitude of the treatment effects (including hazard ratio, if applicable), and the 
+specific intended population. 
+
+There are two FDA-approved treatments for ALS: riluzole ([Rilutek®]; approved in 1995); and edaravone 
+([Radicava®]; approved in 2017).  The sections below present data that are derived from the Prescribing Information 
+for each of these drugs.
+
+Riluzole studies used to support marketing application
+
+Riluzole showed a statistically significant reduction in time to tracheostomy or death in two randomized, double-
+blind, placebo-controlled studies.  The description of these studies per the Rilutek Prescribing Information is as 
+follows.
+
+“The efficacy of RILUTEK as a treatment of ALS was established in two adequate and well-controlled trials in 
+which the time to tracheostomy or death was longer for patients randomized to RILUTEK than for those 
+randomized to placebo. Among the patients in whom treatment failed during the first study (tracheostomy or 
+death) there was a difference between the treatment groups in median survival of approximately 90 days. 
+Although the survival curves were not statistically significantly different when evaluated by the analysis specified 
+in the study protocol (Logrank test p=0.12), the difference was found to be significant by another appropriate 
+analysis (Wilcoxon test p=0.05). There was no statistically significant difference in mortality at the end of the 
+study.
+
+In the second study, although these survival curves were not statistically significantly different when evaluated by 
+the analysis specified in the study protocol (Logrank test p = 0.076), the difference was found to be significant by 
+another appropriate analysis (Wilcoxon test p = 0.05).  Although riluzole improved early survival in both studies, 
+measures of muscle strength and neurological function did not show a benefit.”
+
+4
+
+Reference ID: 4576470
+
+
+
+Edaravone study used to support marketing application
+
+A single randomized, double-blind, placebo-controlled trial was conducted to support the edaravone marketing 
+application.  The results of this trial are described below per the edaravone prescribing information.
+
+“The efficacy of RADICAVA for the treatment of ALS was established in a 6-month, randomized, placebo-
+controlled, double-blind study conducted in Japanese patients with ALS who were living independently and met 
+the following criteria at screening:
+
+The study enrolled 69 patients in the RADICAVA arm and 68 in the placebo arm. Baseline characteristics were 
+similar between these groups, with over 90% of patients in each group being treated with riluzole.
+
+The primary efficacy endpoint was a comparison of the change between treatment arms in the ALSFRS-R total 
+scores from baseline to Week 24. The ALSFRS-R scale consists of 12 questions that evaluate the fine motor, 
+gross motor, bulbar, and respiratory function of patients with ALS (speech, salivation, swallowing, handwriting, 
+cutting food, dressing/hygiene, turning in bed, walking, climbing stairs, dyspnea, orthopnea, and respiratory 
+insufficiency). Each item is scored from 0-4, with higher scores representing greater functional ability. The 
+decline in ALSFRS-R scores from baseline was significantly less in the RADICAVA-treated patients as 
+compared to placebo (see Table).” 
+
+10.  A brief description of any drugs being studied for the same indication, or very similar indication, that 
+      requested breakthrough therapy designation3.  
+
+(b) (4)
+
+
+
+
+
+11.  Information related to the preliminary clinical evidence: 
+
+a. Table of clinical trials supporting the BTDR (only include trials which were relevant to the designation 
+determination decision), including study ID, phase, trial design, trial endpoints, treatment group(s), number of 
+subjects enrolled in support of specific breakthrough indication, hazard ratio (if applicable), and trial results.  
+
+A single clinical trial (called CENTAUR) was used to support this BTDR.  CENTAUR is a randomized, double-
+blind, placebo-controlled, parallel-group, multicenter study that was conducted at 25 sites in the US.  137 subjects 
+who met revised El Escorial criteria for ALS were enrolled into a 24-week treatment period in which there was a 
+
+.
+5
+
+Reference ID: 4576470
+
+
+
+2:1 randomization to either AMX0035, administered orally BID (n = 89), or placebo BID (n = 48).  Participants 
+were allowed to take stable doses of riluzole, or any dose of edaravone at any time before or during the study, per 
+investigator judgment. There was no randomized stratification by background therapy across the treatment arms. 
+
+The primary endpoint in the CENTAUR study was rate of decline (slope) to Week 24 in the ALSFRS-R score in 
+the mITT population (at least one dose of study drug and one post-baseline score).  Secondary endpoints included: 
+isometric muscle testing using the Accurate Testing of Limb Isometric Strength (ATLIS); measurement of Slow 
+Vital Capacity (SVC); and survival.  Other endpoints included phosphorylated neurofilament heavy chain protein 
+and PET imaging of a radiotracer that targets a marker of glial inflammation (in a substudy).  The mITT population 
+included all patients who received at least 1 dose of study medication and who had at least 1 post-baseline total 
+ALSFRS-R score. All endpoints were statistically analyzed using random slope shared intercept mixed models 
+with a number of covariates.  Missing values were handled using the mixed model with repeated measures 
+(MMRM).  Secondary endpoints were analyzed hierarchically after the ALSFRS-R, with the ATLIS total score 
+being analyzed first. 
+
+For the primary endpoint, the rate of decline in the ALSFRS-R total score at Week 24 (2.3 points, favoring 
+AMX0035) was statistically significantly (p = 0.034) less in the AMX0035 cohort compared to the placebo cohort.    
+See the table below that shows this analysis of the ALSFRS-R.
+
+It is noted that there are 5 patients reported as having died or having met death equivalent criteria who are included 
+in this analysis. Death was not considered in the definition of the mITT population. There were 2 additional 
+patients who died before their second visit and were not included in the mITT population, which brings the number 
+of deaths to 7 (5 in the AMX0035 cohort and 2 in the placebo cohort).  
+
+A joint rank analysis method was not used to account for the impact of deaths on the ALSFRS-R. As discussed 
+above, that analysis is critical because missing data as a result of death are not missing at random.
+
+For the secondary endpoints, the sponsor stated that the two most important secondary endpoints were the ATLIS 
+score and the SVC score. See the tables below showing the results of statistical analyses of the ATLIS and SVC 
+endpoints.  
+
+6
+
+Reference ID: 4576470
+
+
+
+Regarding the ATLIS secondary endpoints, the ATLIS total score, which was hierarchically analyzed following 
+the primary endpoint, did not demonstrate a statistically significant benefit over placebo (2.8% difference in 
+strength favoring AMX0035; p = 0.11).  The ATLIS total score is comprised of a lower limb score and an upper 
+limb score.  In the submission, the sponsor emphasized a nominally statistically significant result on the ATLIS 
+upper score (4.3% difference in strength favoring AMX0035; p = 0.04).  This apparent difference may be non-
+existent, because there was a baseline ATLIS total score imbalance that favored AMX0035 by 2.9%.  Additionally, 
+because the first hierarchically analyzed secondary endpoint was negative, any statistical significance on all further 
+analyses of secondary endpoints was nominal. Overall, there is no meaningful effect on muscle strength observed 
+in the study, which questions the effect observed on the ALSFRS-R (primary endpoint).
+
+Regarding the SVC endpoint analysis, the results numerically favored AMX0035 (66.2% predicted SVC for 
+AMX0035 vs. 61.1% for placebo), but this difference was not statistically significant (p = 0.08). 
+
+No other secondary endpoints showed a nominally significant benefit for AMX0035.  
+
+The safety data from the CENTAUR study show safety and tolerability profiles in the two treatment cohorts that 
+were either similar or were of no clinical concern.  There were five deaths in the AMX0035 cohort, consisting of: 
+respiratory failure (n = 2), pulseless electrical activity, diverticulitis, and subdural hematoma.  There were two 
+deaths from respiratory failure in the placebo cohort.  Other SAEs were more common in the placebo cohort, 
+primarily due to respiratory failure. Remaining safety findings were unremarkable.
+
+b.    Include any additional relevant information. 
+
+It is not clear based on the information provided that the study has met its primary endpoint, because the primary 
+analysis did not use a joint rank analysis of the ALSFRS-R and survival. There were seven deaths in the study, 
+which make a joint rank analysis critical to understand the study results, as the occurrence of death creates 
+functional data that are missing not at random, or the anomalous result that death appears to be a better outcome 
+than a lower ALSFRS-R score. The sponsor was informed of the need to use a joint rank analysis in a PIND 
+meeting in 2016, before the conduct of the CENTAUR study. This was also communicated in email advice on the 
+SAP in 2019. Instead, the primary endpoint analysis conducted by the sponsor consisted solely of a slope analysis 
+of the ALSFRS-R. [Of note, the sponsor communicated a statistically significant result for the joint rank analysis 
+during a type C meeting held during this BT designation request review period].
+
+Critically, the study does not provide clear evidence that AMX0035 addresses an unmet medical. Specifically, the 
+study does not provide evidence of superiority over both approved therapies for ALS, or of an add-on effect of 
+AMX0035 over both approved therapies. In the CENTAUR study, a mix of background therapies was allowed (but 
+not required), to which either placebo or AMX0035 was added. As a result, there were subjects on no approved 
+treatment; subjects on riluzole treatment; subjects on edaravone treatment; and subjects on riluzole plus edaravone 
+treatment. In addition, randomization was not stratified on the basis of background therapy.  Moreover, subjects 
+were allowed to alter their use and/or dose of edaravone during the treatment period, and hence there was no stable 
+dosing with edaravone.  The sponsor has not provided post-baseline on the number of patients who started 
+edaravone after the start of the study and how these these patients allocated across the treatment arms. This is 
+
+7
+
+Reference ID: 4576470
+
+
+
+critical to understanding riluzole and edaravone subgroup effects. Consequently, it is not possible to determine if 
+there is benefit of AMX0035 over available therapy for ALS. 
+
+The effect size observed on the ALSFRS-R is similar to that seen with approved drugs (i.e., no across-study 
+suggestion on an effect larger than that of approved drugs).
+
+12. Division’s recommendation and rationale (pre-MPC review):
+ GRANT:
+
+Provide brief summary of rationale for granting: 
+
+Note, if the substantial improvement is not obvious, or is based on surrogate/pharmacodynamic endpoint data rather than 
+clinical data, explain further.
+
+            DENY: 
+
+Provide brief summary of rationale for denial:
+
+The Division recommends denial of the BTDR for the following reasons: 
+
+There is no clear evidence suggesting that the drug may offer a meaningful benefit over existing therapies. The 
+sponsor has not provided post-baseline on the number of patients who started edaravone after the start of the study 
+and how these these patients allocated across the treatment arms. This is critical to understanding riluzole and 
+edaravone subgroup effects.
+
+13.   Division’s next steps and sponsor’s plan for future development:
+
+a. If recommendation is to grant the request, explain next steps and how the Division would advise the sponsor (for 
+example, plans for phase 3, considerations for manufacturing and companion diagnostics, considerations for 
+accelerated approval, recommending expanded access program):  
+
+b. If recommendation is to deny the request and the treatment looks promising, explain how the Division would 
+advise the sponsor regarding subsequent development, including what would be needed for the Division to 
+reconsider a breakthrough therapy designation:
+
+The sponsor should conduct a second study to provide independent substantiation of effectiveness (assuming 
+proper analyses of the CENTAUR study confirm a drug benefit). 
+
+14. List references, if any: 
+
+15. Is the Division requesting a virtual MPC meeting via email in lieu of a face-to-face meeting? YES    NO 
+
+16. Clearance and Sign-Off (after MPC review):
+
+Grant Breakthrough Therapy Designation  
+Deny Breakthrough Therapy Designation
+
+Reviewer Signature: {See appended electronic signature page}
+8
+
+Reference ID: 4576470
+
+
+
+Team Leader Signature: {See appended electronic signature page}
+Division Director Signature: {See appended electronic signature page}
+
+Revised 3/18/19/M. Raggio
+
+9
+
+Reference ID: 4576470
+
+
+
+Signature Page 1 of 1
+
+--------------------------------------------------------------------------------------------
+This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+--------------------------------------------------------------------------------------------
+/s/
+------------------------------------------------------------
+
+DAVID HOSFORD
+03/18/2020 07:00:27 AM
+
+TERESA J BURACCHIO
+03/18/2020 07:03:02 AM
+
+ERIC P BASTINGS
+03/18/2020 07:12:35 AM
+
+Reference ID: 4576470
+
+
+
+
+
+
+ 
+ 
+
+MEMORANDUM OF MEETING MINUTES 
+ 
+
+Meeting Type: B 
+Meeting Category: Pre-NDA 
+Meeting Date and Time: March 11, 2020 1:00PM – 2:00PM Eastern Standard Time 
+Meeting Location: Teleconference 
+Application Number: 129563 
+Product Name: AMX0035 
+Indication: Treatment of patients with ALS 
+Sponsor Name:  Amylyx Pharmaceutical, Inc. 
+ 
+Meeting Chair: Julia Pinto, PhD  
+Meeting Recorder: LCDR Marquita Burnett, MPH 
+ 
+FDA ATTENDEES 
+Julia Pinto, PhD   Branch Chief, Division of Neurology I  
+Martha Heimann, PhD  ATL, Division of Neurology I 
+Sharon Kelly, PhD   Reviewer, Drug Substance 
+Ramesh Dandu, PhD  Reviewer, OPMA 
+Yong Hu, PhD   Team Lead, OPMA 
+Ta-Chen Wu, PhD   Team Lead, Biopharmaceutics 
+Marquita Burnett, MPH  RBPM, OPRO 
+ 
+SPONSOR ATTENDEES 
+
+(b) (4)
+
+Joshua Cohen    CEO and co-founder, Amylyx Pharmaceuticals Inc. 
+Justin Klee     President and co-founder, Amylyx Pharmaceuticals 
+
+Inc. 
+Patrick Yeramian, MD, PhD  Chief Medical Officer, Amylyx Pharmaceuticals Inc. 
+
+(b) (4)
+
+ 
+1.0 BACKGROUND 
+ 
+On January 2, 2020, Amylyx Pharmaceutical, Inc. submitted a type B meeting request. 
+The purpose of the meeting is to discuss the CMC components of a forthcoming NDA. 
+January 14, 2020, the FDA Office of Pharmaceutical Quality (OPQ) granted a 
+teleconference meeting for March 11, 2020. 
+ 
+FDA sent Preliminary Comments to Amylyx Pharmaceutical, Inc. on March 4, 2020. 
+ 
+
+8 Page(s) have been Withheld in Full as b4 (CCI/TS) immediately following this page
+
+ 
+
+Reference ID: 4589415
+
+
+
+IND 129563 
+Page 10 
+ 
+
+(b) (4)
+
+Additional Comments 
+Provide summary information for all drug product formulations and batches used during 
+development in the Pharmaceutical Development Section (Module 3.2.P.2.2). The 
+information for each formulation should include qualitative and quantitative composition, 
+batch numbers and batch scale, manufacturing site, and use(s), e.g., clinical efficacy, 
+pharmacokinetics, or safety studies, nonclinical studies (if applicable), stability. 
+ 
+Sponsor Response to Additional Comments 
+Sponsor understands the Agency comments and no further clarification is needed. 
+Sponsor will provide summary information for all drug product formulations and batches 
+used during development in NDA Module 3.2.P.2.2 as requested. 
+ 
+3.0 SECURE EMAIL 
+ 
+Secure email is required for all email communications from FDA when confidential 
+information (e.g., trade secrets, manufacturing, or patient information) is included in the 
+message. To receive email communications from FDA that include confidential 
+information (e.g., information requests, labeling revisions, courtesy copies of letters), 
+you must establish secure email. To establish secure email with FDA, send an email 
+request to SecureEmail@fda.hhs.gov. Please note that secure email may not be used 
+for formal regulatory submissions to applications (except for 7-day safety reports for 
+INDs not in eCTD format). 
+ 
+4.0 ATTACHMENTS AND HANDOUTS 
+ 
+ 
+
+8 Page(s) have been Withheld in Full as b4 (CCI/TS) immediately following this page
+
+U.S. Food and Drug Administration 
+Silver Spring, MD 20993 
+www.fda.gov 
+
+Reference ID: 4589415
+
+
+
+Signature Page 1 of 1
+
+--------------------------------------------------------------------------------------------
+This is a representation of an electronic record that was signed
+electronically. Following this are manifestations of any and all
+electronic signatures for this electronic record.
+--------------------------------------------------------------------------------------------
+/s/
+------------------------------------------------------------
+
+JULIA C PINTO
+04/09/2020 02:08:48 PM
+
+Reference ID: 4589415

@@ -14,6 +14,8 @@ export default function AnalystSignature({
   return (
     <div className="mt-12 mb-8 border-t border-border pt-8">
       <div className="max-w-md">
+        <p className="text-sm font-semibold text-dark mb-4">Reviewed and approved by,</p>
+
         {/* Signature rendering */}
         <div className="mb-4">
           <svg

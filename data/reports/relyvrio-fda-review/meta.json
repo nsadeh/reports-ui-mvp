@@ -1,0 +1,22 @@
+{
+  "id": "rpt_relyvrio_fda_review",
+  "title": "Relyvrio: FDA Regulatory Timeline",
+  "subtitle": "IND 129563 — Amylyx Pharmaceuticals",
+  "scope_type": "indication",
+  "scope_value": "Amyotrophic Lateral Sclerosis (ALS)",
+  "report_type": "Regulatory",
+  "delivery_date": "2026-04-21",
+  "analyst": {
+    "name": "Batu Akkas",
+    "title": "Chief Pipeline Intelligence Officer",
+    "credentials": ""
+  },
+  "status": "delivered",
+  "next_scheduled": null,
+  "drugs_covered": ["AMX0035", "Relyvrio"],
+  "indications_covered": ["Amyotrophic Lateral Sclerosis", "ALS"],
+  "payers_covered": [],
+  "tags": ["regulatory", "FDA", "NDA", "ALS", "Amylyx", "AMX0035"],
+  "read_by": [],
+  "executive_summary_preview": "22 FDA regulatory interactions for AMX0035 (Relyvrio) spanning March 2016 through July 2021, covering IND submission, Fast Track denials, BTD denial, and pre-NDA planning."
+}

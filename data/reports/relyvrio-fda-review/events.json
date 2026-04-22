@@ -1,0 +1,181 @@
+[
+  {
+    "event_number": 1,
+    "event_date": "March 21, 2016",
+    "event_type": null,
+    "event_title": "PIND letter sent",
+    "event_summary": "FDA sent a Pre-IND (PIND) letter to Amylyx regarding AMX0035.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 2,
+    "event_date": "March 15, 2017",
+    "event_type": null,
+    "event_title": "IND submitted",
+    "event_summary": "Amylyx submitted the IND (IND 129563) for AMX0035, with the CENTAUR study in ALS proposed as the IND-opening study.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 3,
+    "event_date": "May 8, 2017",
+    "event_type": null,
+    "event_title": "Orphan Drug Designation granted",
+    "event_summary": "FDA granted Orphan Drug Designation for AMX0035 for the treatment of ALS.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 4,
+    "event_date": "August 19, 2017",
+    "event_type": null,
+    "event_title": "May Proceed letter sent",
+    "event_summary": "FDA sent a May Proceed letter to Amylyx for the IND.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 5,
+    "event_date": "April 20, 2018",
+    "event_type": null,
+    "event_title": "Fast Track denial (1st)",
+    "event_summary": "FDA denied Amylyx's first Fast Track designation request for AMX0035.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 6,
+    "event_date": "September 7, 2018",
+    "event_type": null,
+    "event_title": "Fast Track denial (2nd)",
+    "event_summary": "FDA denied Amylyx's second Fast Track designation request for AMX0035.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 7,
+    "event_date": "March 6, 2019",
+    "event_type": null,
+    "event_title": "CENTAUR SAP comments",
+    "event_summary": "FDA provided comments on the CENTAUR Statistical Analysis Plan (SAP), specifically requiring that a joint rank analysis of function and survival be used as the primary analysis if there are deaths in the study.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 8,
+    "event_date": "January 2, 2020",
+    "event_type": null,
+    "event_title": "Type B CMC meeting requested",
+    "event_summary": "Amylyx submitted a Type B meeting request to discuss the CMC (Chemistry, Manufacturing, and Controls) components of a forthcoming NDA.",
+    "event_significance": "minor"
+  },
+  {
+    "event_number": 9,
+    "event_date": "January 10, 2020",
+    "event_type": null,
+    "event_title": "CENTAUR topline results submitted",
+    "event_summary": "Amylyx submitted CENTAUR topline results to FDA.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 10,
+    "event_date": "January 14, 2020",
+    "event_type": null,
+    "event_title": "CMC meeting granted by OPQ",
+    "event_summary": "The FDA Office of Pharmaceutical Quality (OPQ) granted a teleconference meeting for March 11, 2020 in response to Amylyx's January 2, 2020 Type B CMC meeting request.",
+    "event_significance": "minor"
+  },
+  {
+    "event_number": 11,
+    "event_date": "January 28, 2020",
+    "event_type": null,
+    "event_title": "BTD request received",
+    "event_summary": "FDA received Amylyx's Breakthrough Therapy Designation Request (BTDR) for AMX0035 for the treatment of ALS; the 60-day goal date for FDA's response was set as March 28, 2020.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 12,
+    "event_date": "March 4, 2020",
+    "event_type": null,
+    "event_title": "CMC meeting preliminary comments sent",
+    "event_summary": "FDA sent Preliminary Comments to Amylyx ahead of the March 11, 2020 Type B CMC meeting.",
+    "event_significance": "minor"
+  },
+  {
+    "event_number": 13,
+    "event_date": "March 11, 2020",
+    "event_type": "Type B",
+    "event_title": "Type B CMC Pre-NDA meeting",
+    "event_summary": "Type B Pre-NDA teleconference meeting focused on CMC components of the forthcoming NDA; 8 pages of substantive CMC discussion were withheld in full as Confidential Commercial Information (CCI/TS), with the only visible content being an additional comment requesting that summary information for all drug product formulations and batches used during development be provided in NDA Module 3.2.P.2.2.",
+    "event_significance": "major",
+    "has_more_data": true
+  },
+  {
+    "event_number": 14,
+    "event_date": "March 12, 2020",
+    "event_type": "Type C",
+    "event_title": "Type C NDA filing/approval meeting",
+    "event_summary": "Type C meeting held between FDA and Amylyx with the stated sponsor objective of obtaining FDA concurrence that the available data would support the filing and approval of the forthcoming NDA for AMX0035; the BTDR review document notes that Amylyx communicated a statistically significant result for the joint rank analysis of the ALSFRS-R during this meeting.",
+    "event_significance": "major"
+  },
+  {
+    "event_number": 15,
+    "event_date": "March 18, 2020",
+    "event_type": null,
+    "event_title": "BTDR review signed internally",
+    "event_summary": "FDA's internal Breakthrough Therapy Designation Determination Review was signed off electronically by Reviewer David Hosford, Team Leader Teresa Buracchio, and Division Director Eric Bastings.",
+    "event_significance": "minor"
+  },
+  {
+    "event_number": 16,
+    "event_date": "March 28, 2020",
+    "event_type": null,
+    "event_title": "BTD designation denied",
+    "event_summary": "FDA's 60-day goal date for the BTD review; the Division recommended denial of the BTDR on the grounds that the CENTAUR study primary analysis did not use the required joint rank analysis of ALSFRS-R and survival (7 deaths occurred), that the study did not provide clear evidence of superiority over both approved ALS therapies (riluzole and edaravone), and that the observed ALSFRS-R effect size (2.3 points at Week 24, p=0.034) was similar in magnitude to approved drugs — with the Division recommending that Amylyx conduct a second independent study.",
+    "event_significance": "major",
+    "has_more_data": true
+  },
+  {
+    "event_number": 17,
+    "event_date": "April 7, 2020",
+    "event_type": null,
+    "event_title": "Meeting re: carcinogenicity studies",
+    "event_summary": "A meeting took place during which FDA stated that carcinogenicity studies for AMX0035 may be conducted post-approval given the seriousness of the ALS indication.",
+    "event_significance": "minor"
+  },
+  {
+    "event_number": 18,
+    "event_date": "April 9, 2020",
+    "event_type": null,
+    "event_title": "CMC meeting minutes signed",
+    "event_summary": "The March 11, 2020 Type B CMC meeting minutes were signed electronically by Meeting Chair Julia Pinto and transmitted as the official record.",
+    "event_significance": "minor"
+  },
+  {
+    "event_number": 19,
+    "event_date": "July 12, 2021",
+    "event_type": null,
+    "event_title": "Sponsor slides submitted pre-meeting",
+    "event_summary": "Amylyx submitted its slide presentation to FDA ahead of the July 15, 2021 Type B Pre-NDA meeting; the slides are referenced as an attachment to the official meeting minutes.",
+    "event_significance": "minor"
+  },
+  {
+    "event_number": 20,
+    "event_date": "July 13, 2021",
+    "event_type": null,
+    "event_title": "Pre-NDA meeting preliminary comments sent",
+    "event_summary": "FDA sent Preliminary Comments to Amylyx ahead of the July 15, 2021 Type B Pre-NDA meeting, including a General Clinical Safety Requests document and a Clinical Pharmacology Summary Aid.",
+    "event_significance": "minor"
+  },
+  {
+    "event_number": 21,
+    "event_date": "July 15, 2021",
+    "event_type": "Type B",
+    "event_title": "Type B Pre-NDA meeting",
+    "event_summary": "Type B Pre-NDA teleconference meeting (2:00–3:00 PM EDT) covering six questions across clinical, nonclinical, clinical pharmacology, CMC, and regulatory topics: FDA requested firewalled primary efficacy endpoint descriptive data from the ongoing Phase 3 Study A35-004 approximately 4 months post-NDA submission, and blinded SAE/death reports; deferred the requirement for a pre/postnatal development study and in vitro DDI studies on major metabolites until post-NDA submission; declined to make an NCE exclusivity determination pre-approval; deferred priority review designation to the NDA submission; and confirmed that the lack of PPND and DDI studies would not be filing issues — sponsor confirmed target NDA submission of end of November 2021.",
+    "event_significance": "major",
+    "has_more_data": true
+  },
+  {
+    "event_number": 22,
+    "event_date": "July 22, 2021",
+    "event_type": null,
+    "event_title": "Pre-NDA meeting minutes signed/sent",
+    "event_summary": "The official minutes of the July 15, 2021 Type B Pre-NDA meeting were signed electronically by Deputy Director Teresa Buracchio and transmitted to Amylyx.",
+    "event_significance": "minor"
+  }
+]
