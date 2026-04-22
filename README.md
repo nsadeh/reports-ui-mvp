@@ -26,4 +26,4 @@ At minimum you need `ANTHROPIC_API_KEY` for full chat functionality (otherwise t
 - Chat API is rate-limited to 30 messages/hour per session.
 
 ### Rotating access
-Change `SHARED_PASSWORD_CUSTOMER` in Vercel and redeploy. Old cookie keeps working until it expires (30 days); to force re-login immediately, rotate the cookie name constant in `middleware.ts` and `app/api/login/route.ts`.
+Change `SHARED_PASSWORD_CUSTOMER` in Vercel and redeploy. Old cookie keeps working until it expires (30 days); to force re-login immediately, rotate the cookie name constant in `proxy.ts` and `app/api/login/route.ts`.

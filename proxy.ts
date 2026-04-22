@@ -27,7 +27,7 @@ function customerCanAccess(pathname: string, allowedIds: string[]): boolean {
   return allowedIds.some((id) => pathname === `/reports/${id}`);
 }
 
-export function middleware(req: NextRequest) {
+export function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;
 
   if (isPublic(pathname)) return NextResponse.next();
