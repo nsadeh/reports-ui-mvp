@@ -21,6 +21,8 @@ export default function Sidebar() {
   const [collapsed, setCollapsed] = useState(false);
   const [targetsOpen, setTargetsOpen] = useState(true);
 
+  if (pathname === "/login") return null;
+
   const isDashboard = pathname === "/";
   const isReports =
     pathname === "/reports" || pathname.startsWith("/reports/");
