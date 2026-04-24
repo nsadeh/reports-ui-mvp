@@ -9,11 +9,30 @@ import {
 import type { UIMessage } from "ai";
 import { z } from "zod";
 import { anthropic } from "@ai-sdk/anthropic";
+import { cookies } from "next/headers";
 import { getReportContentRaw, getReportDirName, getReportMeta } from "@/lib/reports";
 import { searchCorpus, getDocument, listDocuments } from "@/lib/corpus";
 import type { QAFallbackPair } from "@/lib/types";
 import fs from "fs";
 import path from "path";
+
+const RATE_LIMIT_MAX = 30;
+const RATE_LIMIT_WINDOW_MS = 60 * 60 * 1000;
+const rateLimitBuckets = new Map<string, number[]>();
+
+function checkRateLimit(key: string): { allowed: boolean; remaining: number } {
+  const now = Date.now();
+  const bucket = (rateLimitBuckets.get(key) ?? []).filter(
+    (ts) => now - ts < RATE_LIMIT_WINDOW_MS
+  );
+  if (bucket.length >= RATE_LIMIT_MAX) {
+    rateLimitBuckets.set(key, bucket);
+    return { allowed: false, remaining: 0 };
+  }
+  bucket.push(now);
+  rateLimitBuckets.set(key, bucket);
+  return { allowed: true, remaining: RATE_LIMIT_MAX - bucket.length };
+}
 
 function buildSystemPrompt(reportId: string): string {
   const meta = getReportMeta(reportId);
@@ -73,6 +92,28 @@ function findFallbackAnswer(
   return bestScore >= 2 ? bestMatch!.answer : null;
 }
 
+function handleRateLimited(
+  reportId: string,
+  messages: UIMessage[]
+): Response {
+  const pairs = loadFallbackPairs(reportId);
+  const userText = extractUserText(messages);
+  const answer =
+    findFallbackAnswer(userText, pairs) ||
+    "You've reached the hourly message limit for this session. I can still answer common questions about this report — try asking about specific drugs, trial updates, or regulatory decisions covered in the report.";
+
+  const stream = createUIMessageStream({
+    execute: ({ writer }) => {
+      writer.write({ type: "text-start", id: "rate-limited" });
+      writer.write({ type: "text-delta", delta: answer, id: "rate-limited" });
+      writer.write({ type: "text-end", id: "rate-limited" });
+      writer.write({ type: "finish", finishReason: "stop" });
+    },
+  });
+
+  return createUIMessageStreamResponse({ stream });
+}
+
 function extractUserText(messages: UIMessage[]): string {
   const lastUser = [...messages].reverse().find((m) => m.role === "user");
   if (!lastUser) return "";
@@ -83,8 +124,34 @@ function extractUserText(messages: UIMessage[]): string {
 export async function POST(req: Request) {
   const body = await req.json();
   const messages: UIMessage[] = body.messages;
-  const reportId: string =
+  let reportId: string =
     body.reportId || "tnf-alpha-landscape-2026-03-10";
+
+  const cookieStore = await cookies();
+  const role = cookieStore.get("ilab_access")?.value;
+
+  // Customer scope: reportId must be in their allowlist.
+  if (role === "customer") {
+    const allowedIds = (process.env.CUSTOMER_REPORT_IDS ?? "")
+      .split(",")
+      .map((s) => s.trim())
+      .filter(Boolean);
+    if (!allowedIds.includes(reportId)) {
+      return new Response("Forbidden", { status: 403 });
+    }
+  }
+
+  // Rate limit (cost guard). Customer gets a tighter bucket than internal.
+  const rateLimitKey = `${role ?? "anon"}:${reportId}`;
+  const { allowed } =
+    role === "internal"
+      ? { allowed: true }
+      : checkRateLimit(rateLimitKey);
+
+  if (!allowed) {
+    // TODO(you): pick the degradation behavior. See note below this function.
+    return handleRateLimited(reportId, messages);
+  }
 
   // Fallback mode when no API key is set
   if (!process.env.ANTHROPIC_API_KEY) {
