@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 export interface RegulatoryEvent {
   event_number: number;
@@ -9,7 +11,6 @@ export interface RegulatoryEvent {
   event_title: string;
   event_summary: string;
   event_significance: "major" | "minor";
-  has_more_data?: boolean;
 }
 
 function extractYear(dateStr: string): string {
@@ -25,6 +26,23 @@ function groupByYear(events: RegulatoryEvent[]): [string, RegulatoryEvent[]][] {
     map.get(year)!.push(ev);
   }
   return Array.from(map.entries());
+}
+
+function ChatIcon() {
+  return (
+    <svg
+      width="13"
+      height="13"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    >
+      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
+    </svg>
+  );
 }
 
 function ChevronIcon({ open }: { open: boolean }) {
@@ -45,23 +63,6 @@ function ChevronIcon({ open }: { open: boolean }) {
   );
 }
 
-function ChatIcon() {
-  return (
-    <svg
-      width="12"
-      height="12"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
-    </svg>
-  );
-}
-
 function EventCard({
   event,
   isOpen,
@@ -72,11 +73,6 @@ function EventCard({
   onToggle: () => void;
 }) {
   const isMajor = event.event_significance === "major";
-
-  function handleChatClick(e: React.MouseEvent) {
-    e.stopPropagation();
-    window.dispatchEvent(new CustomEvent("open-chat-panel"));
-  }
 
   return (
     <div className="relative pl-9 mb-3">
@@ -143,16 +139,17 @@ function EventCard({
               isMajor ? "border-dark/15 bg-dark/5" : "border-border bg-white"
             }`}
           >
-            <p>{event.event_summary}</p>
-            {event.has_more_data && (
-              <button
-                onClick={handleChatClick}
-                className="mt-3 inline-flex items-center gap-1.5 text-xs font-semibold text-accent bg-accent/10 hover:bg-accent/20 px-3 py-1.5 rounded-full transition-colors"
-              >
-                <ChatIcon />
-                Chat for more details
-              </button>
-            )}
+            <ReactMarkdown
+              remarkPlugins={[remarkGfm]}
+              components={{
+                p: ({ children }) => <p className="text-sm text-body leading-relaxed mb-3 last:mb-0">{children}</p>,
+                strong: ({ children }) => <strong className="font-semibold text-dark">{children}</strong>,
+                ul: ({ children }) => <ul className="list-disc pl-5 mb-3 space-y-1.5 text-sm text-body">{children}</ul>,
+                li: ({ children }) => <li className="leading-relaxed">{children}</li>,
+              }}
+            >
+              {event.event_summary}
+            </ReactMarkdown>
           </div>
         )}
       </div>
@@ -218,6 +215,20 @@ export default function RegulatoryTimeline({
             ))}
           </div>
         ))}
+      </div>
+
+      {/* Single chat CTA below full timeline */}
+      <div className="mt-8 pt-6 border-t border-border">
+        <button
+          onClick={() => window.dispatchEvent(new CustomEvent("open-chat-panel"))}
+          className="inline-flex items-center gap-2 text-sm font-semibold text-accent bg-accent/10 hover:bg-accent/20 px-4 py-2.5 rounded-lg transition-colors"
+        >
+          <ChatIcon />
+          Chat for more details
+        </button>
+        <p className="mt-2 text-xs text-muted">
+          Ask the AI about any event, regulatory decision, or the strategic implications of this timeline.
+        </p>
       </div>
     </div>
   );

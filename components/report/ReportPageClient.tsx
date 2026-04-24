@@ -7,16 +7,21 @@ import AnalystSignature from "@/components/report/AnalystSignature";
 import SelectionToolbar from "@/components/report/SelectionToolbar";
 import RegulatoryTimeline from "@/components/report/RegulatoryTimeline";
 import type { RegulatoryEvent } from "@/components/report/RegulatoryTimeline";
+import DrugSubmissionList from "@/components/report/DrugSubmissionList";
+import type { DrugEntry } from "@/components/report/DrugSubmissionList";
+import GanttChart from "@/components/report/GanttChart";
 import type { ReportMeta } from "@/lib/types";
 
 export default function ReportPageClient({
   meta,
   content,
   events,
+  drugs,
 }: {
   meta: ReportMeta;
   content: string;
   events?: RegulatoryEvent[] | null;
+  drugs?: DrugEntry[] | null;
 }) {
   const [quotedText, setQuotedText] = useState<string | null>(null);
   const reportRef = useRef<HTMLDivElement>(null);
@@ -83,6 +88,13 @@ export default function ReportPageClient({
             <>
               {content && <ReportMarkdown content={content} />}
               <RegulatoryTimeline events={events} />
+              <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
+            </>
+          ) : meta.report_type === "Pipeline" && drugs ? (
+            <>
+              {content && <ReportMarkdown content={content} />}
+              <GanttChart drugs={drugs} />
+              <DrugSubmissionList drugs={drugs} />
               <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
             </>
           ) : content ? (
