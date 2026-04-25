@@ -23,6 +23,7 @@ function parseReportIds(raw: string | undefined): string[] {
 }
 
 function customerCanAccess(pathname: string, allowedIds: string[]): boolean {
+  if (pathname === "/" || pathname === "/reports") return true;
   if (pathname === "/api/chat") return true;
   return allowedIds.some((id) => pathname === `/reports/${id}`);
 }

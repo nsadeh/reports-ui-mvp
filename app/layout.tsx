@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Sidebar from "@/components/layout/Sidebar";
+import { getViewerScope } from "@/lib/auth";
 
 export const metadata: Metadata = {
   title: "Inflection Labs — Market Access Intelligence",
@@ -12,15 +13,16 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+  const scope = await getViewerScope();
   return (
     <html lang="en">
       <body className="antialiased">
-        <Sidebar />
+        <Sidebar viewerKind={scope.kind} />
         <main className="ml-[232px] min-h-screen transition-all duration-200">{children}</main>
       </body>
     </html>

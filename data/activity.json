@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-04-22T06:00:00Z",
+    "event_type": "report_delivered",
+    "description": "New report delivered: ALS Pipeline — Late Clinical Stage & NDA Submissions",
+    "link": "rpt_als_nda_submissions",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-04-21T06:00:00Z",
+    "event_type": "report_delivered",
+    "description": "New report delivered: Relyvrio (AMX0035) — FDA Regulatory Timeline",
+    "link": "rpt_relyvrio_fda_review",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-04-20T15:30:00Z",
+    "event_type": "drug_approval",
+    "description": "FDA accepted NDA for Ulefnersen (BIIB078) for SOD1-ALS — PDUFA action date set for Q4 2026",
+    "link": "rpt_als_nda_submissions",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-04-18T11:00:00Z",
+    "event_type": "policy_change",
+    "description": "Amylyx confirmed PHOENIX Phase 3 readout did not support Relyvrio re-submission; no plans to refile NDA",
+    "link": "rpt_relyvrio_fda_review",
+    "actor": null
+  },
+  {
+    "timestamp": "2026-04-15T09:45:00Z",
+    "event_type": "drug_approval",
+    "description": "Clene Nanomedicine reported topline RESTORE-ALS Phase 3 results for CNM-Au8 — NDA submission planned H2 2026",
+    "link": "rpt_als_nda_submissions",
+    "actor": null
+  },
+  {
     "timestamp": "2026-03-10T06:00:00Z",
     "event_type": "report_delivered",
     "description": "New report delivered: TNF-Alpha Target Area — Market Access Landscape (March 10 edition)",

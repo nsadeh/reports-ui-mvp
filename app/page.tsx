@@ -5,6 +5,7 @@ import {
   getTeamData,
   getActivityData,
 } from "@/lib/reports";
+import { getViewerScope } from "@/lib/auth";
 import type { ActivityEvent, TeamMember } from "@/lib/types";
 
 /* ─── Helpers ─── */
@@ -165,11 +166,31 @@ function FeedItem({ event }: { event: ActivityEvent }) {
 
 /* ─── Main Dashboard ─── */
 
-export default function Dashboard() {
+export default async function Dashboard() {
+  const scope = await getViewerScope();
+  const isCustomer = scope.kind === "customer";
+  const allowedIds = scope.kind === "customer" ? scope.allowedReportIds : null;
+
   const dashboard = getDashboardData();
-  const reports = getAllReportMetas();
+  const allReports = getAllReportMetas();
   const team = getTeamData();
-  const activity = getActivityData();
+  const allActivity = getActivityData();
+
+  const reports = allowedIds
+    ? allReports.filter((r) => allowedIds.includes(r.id))
+    : allReports;
+
+  const activity = allowedIds
+    ? allActivity.filter((e) => e.link !== null && allowedIds.includes(e.link))
+    : allActivity;
+
+  // For customers, restrict monitored-targets card to scopes covered by their reports
+  const allowedScopes = new Set(reports.map((r) => r.scope_value.toLowerCase()));
+  const monitoredTargets = isCustomer
+    ? dashboard.monitored_targets.filter((t) =>
+        allowedScopes.has(t.target.toLowerCase())
+      )
+    : dashboard.monitored_targets;
 
   // The hero report: most recent delivered report
   const heroReport = reports
@@ -255,7 +276,7 @@ export default function Dashboard() {
                     </div>
 
                     {/* Read by teammates */}
-                    {readByTeam.length > 0 && (
+                    {!isCustomer && readByTeam.length > 0 && (
                       <div className="flex items-center gap-1.5 ml-2 pl-4 border-l border-white/10">
                         <span className="text-[10px] text-white/40 mr-1">
                           Read by
@@ -317,7 +338,7 @@ export default function Dashboard() {
           Monitored Targets
         </h2>
         <div className="bg-bg2 border border-border rounded-lg overflow-hidden divide-y divide-border">
-          {dashboard.monitored_targets.map((target) => (
+          {monitoredTargets.map((target) => (
             <div
               key={target.target}
               className={`flex items-center justify-between px-4 py-3 ${
@@ -388,16 +409,18 @@ export default function Dashboard() {
           >
             View all reports
           </Link>
-          <Link
-            href="/commission"
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-dark text-white text-xs font-medium rounded-lg hover:bg-accent transition-colors"
-          >
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-              <line x1="12" y1="5" x2="12" y2="19" />
-              <line x1="5" y1="12" x2="19" y2="12" />
-            </svg>
-            Commission Report
-          </Link>
+          {!isCustomer && (
+            <Link
+              href="/commission"
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-dark text-white text-xs font-medium rounded-lg hover:bg-accent transition-colors"
+            >
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                <line x1="12" y1="5" x2="12" y2="19" />
+                <line x1="5" y1="12" x2="19" y2="12" />
+              </svg>
+              Commission Report
+            </Link>
+          )}
         </div>
       </section>
     </div>

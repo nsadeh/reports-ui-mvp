@@ -16,10 +16,14 @@ const teamMembers = [
   { name: "James Park", initials: "JP", role: "Principal", status: "offline" as const, lastActive: "Yesterday" },
 ];
 
-export default function Sidebar() {
+type ViewerKind = "internal" | "customer" | "anonymous";
+
+export default function Sidebar({ viewerKind = "internal" }: { viewerKind?: ViewerKind }) {
   const pathname = usePathname();
   const [collapsed, setCollapsed] = useState(false);
   const [targetsOpen, setTargetsOpen] = useState(true);
+
+  const isCustomer = viewerKind === "customer";
 
   if (pathname === "/login") return null;
 
@@ -123,7 +127,7 @@ export default function Sidebar() {
           {!collapsed && "Reports"}
         </Link>
 
-        <Link
+        {!isCustomer && <Link
           href="/commission"
           className={`flex items-center gap-3 px-3 py-2 rounded-lg mb-0.5 text-sm transition-colors ${
             isCommission
@@ -139,11 +143,11 @@ export default function Sidebar() {
             </svg>
           </span>
           {!collapsed && "Commission Report"}
-        </Link>
+        </Link>}
       </nav>
 
       {/* Monitored Targets */}
-      {!collapsed && (
+      {!collapsed && !isCustomer && (
         <div className="px-2 mt-5">
           <button
             onClick={() => setTargetsOpen(!targetsOpen)}
@@ -201,7 +205,7 @@ export default function Sidebar() {
       <div className="flex-1" />
 
       {/* Team Presence */}
-      {!collapsed && (
+      {!collapsed && !isCustomer && (
         <div className="px-2 mb-3">
           <p className="px-3 py-1.5 text-[10px] font-semibold text-muted uppercase tracking-wider">
             Team
