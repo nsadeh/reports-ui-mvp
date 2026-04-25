@@ -5,7 +5,62 @@
     "organization": "FDA Center for Drug Evaluation and Research / Amylyx Pharmaceuticals",
     "document_type": "regulatory_correspondence",
     "date": "2021-07-22",
-    "url": "",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/216660Orig1s000AdminCorres.pdf",
     "content": "Full FDA administrative and correspondence record for IND 129563 / NDA 216660, covering Pre-IND through Pre-NDA meeting minutes for AMX0035 (Relyvrio) in ALS. Includes meeting minutes for the July 15, 2021 Type B Pre-NDA teleconference signed by Deputy Director Teresa Buracchio, Division of Neurology 1, Office of Neuroscience, CDER."
+  }
+  ,
+  {
+    "id": "src_relyvrio_centaur_readout",
+    "title": "Amylyx Pharmaceuticals Announces AMX0035 Demonstrated Statistically Significant Treatment Benefit for People with ALS in the CENTAUR Trial",
+    "organization": "Amylyx Pharmaceuticals",
+    "document_type": "press_release",
+    "date": "2019-12-17",
+    "url": "https://www.amylyx.com/news/amylyx-pharmaceuticals-announces-amx0035-demonstrated-statistically-significant-treatment-benefit-for-people-with-als-in-the-centaur-trial-2",
+    "content": "Amylyx announced that CENTAUR met its primary endpoint: AMX0035-treated participants experienced a statistically significant slowing of ALS progression on ALSFRS-R vs. placebo (p<0.05) at 24 weeks. CENTAUR was a Phase 2, double-blind, placebo-controlled trial at 25 NEALS consortium sites enrolling 137 subjects with definite ALS within 18 months of symptom onset. ~90% of completers enrolled in the open-label extension (CENTAUR-OLE)."
+  },
+  {
+    "id": "src_relyvrio_orphan_designation",
+    "title": "Amylyx Pharmaceuticals Receives FDA Orphan Drug Designation for AMX0035 for the Treatment of Amyotrophic Lateral Sclerosis",
+    "organization": "Amylyx Pharmaceuticals",
+    "document_type": "press_release",
+    "date": "2017-09-19",
+    "url": "https://www.amylyx.com/news/amylyx-pharmaceuticals-receives-fda-orphan-drug-designation-for-amx0035-for-the-treatment-of-amyotrophic-lateral-sclerosis-2",
+    "content": "FDA granted Orphan Drug Designation for AMX0035 (sodium phenylbutyrate and taurursodiol) for the treatment of ALS. AMX0035 is a fixed-dose oral combination designed to target endoplasmic reticulum stress (via sodium phenylbutyrate) and mitochondrial dysfunction (via taurursodiol). Orphan Drug Designation confers 7-year US marketing exclusivity and other development incentives for rare disease drugs."
+  },
+  {
+    "id": "src_relyvrio_clin_stat_review",
+    "title": "Clinical and Statistical Review — NDA 216660 (AMX0035 / RELYVRIO)",
+    "organization": "FDA Center for Drug Evaluation and Research — Veneeta Tandon (Clinical), Tristan Massie (Statistics)",
+    "document_type": "fda_review",
+    "date": "2022-09-28",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/216660Orig1s000Med_StatR.pdf",
+    "content": "FDA's complete clinical and statistical review for NDA 216660, completed September 28, 2022 (PDUFA goal date September 29, 2022). Recommends approval. Covers the full regulatory history from the 2016 PIND meeting through the July 2021 Pre-NDA meeting; details of the CENTAUR Phase 2 trial primary and secondary endpoint analyses, post hoc joint rank analyses, CENTAUR-OLE survival data, and the basis for single-study approval under regulatory flexibility given ALS severity and unmet need."
+  },
+  {
+    "id": "src_relyvrio_withdrawal_announcement",
+    "title": "Amylyx Pharmaceuticals Announces Formal Intention to Remove RELYVRIO/ALBRIOZA from the Market",
+    "organization": "Amylyx Pharmaceuticals",
+    "document_type": "press_release",
+    "date": "2024-04-04",
+    "url": "https://www.amylyx.com/news/amylyx-pharmaceuticals-announces-formal-intention-to-remove-relyvrior/albriozatm-from-the-market-provides-updates-on-access-to-therapy-pipeline-corporate-restructuring-and-strategy",
+    "content": "Official Amylyx press release announcing voluntary discontinuation of marketing authorizations for RELYVRIO (US) and ALBRIOZA (Canada), effective April 4, 2024, following negative topline results from the Phase 3 PHOENIX trial. Key details: RELYVRIO no longer available to new patients; patients currently on therapy offered free drug continuation program; PHOENIX OLE ongoing; Amylyx to continue collecting survival data. Restructuring reduces workforce by ~70% and extends cash runway into 2026. Pipeline updates: Phase 2 HELIOS trial of AMX0035 in Wolfram syndrome (interim data expected April 2024); Phase 3 ORION trial of AMX0035 in PSP (interim analysis expected mid-2025); AMX0114 (antisense oligonucleotide targeting calpain-2) in IND-enabling studies for ALS, clinical trial planned H2 2024. Includes statements from co-CEOs Joshua Cohen and Justin Klee and CMO Camille Bedrosian."
+  },
+  {
+    "id": "src_relyvrio_withdrawal_pledge",
+    "title": "Amylyx at a Crossroads: Can the Company Overcome the Loss of Relyvrio?",
+    "organization": "BioSpace",
+    "document_type": "news_article",
+    "date": "2024-04-17",
+    "url": "https://www.biospace.com/amylyx-at-a-crossroads-can-the-company-overcome-the-loss-of-relyvrio",
+    "content": "BioSpace reporting on Amylyx's April 4, 2024 voluntary withdrawal of Relyvrio/Albrioza from US and Canadian markets following the PHOENIX Phase 3 trial failure. Confirms that Amylyx co-CEOs Justin Klee and Josh Cohen made a public pledge to the 2022 FDA advisory committee to withdraw Relyvrio if the PHOENIX trial was not successful, and that they fulfilled that pledge. PHOENIX missed both its primary endpoint (change from baseline in ALSFRS-R at 48 weeks, not statistically significant) and all secondary endpoints. The withdrawal decision was made less than four weeks after topline results were announced on March 8, 2024. Includes commentary from Merit Cudkowicz (CENTAUR co-principal investigator), Graig Suvannavejh (Mizuho Americas analyst), and Amylyx co-CEOs on the decision and the company's pivot to AMX0035 development in progressive supranuclear palsy (PSP), Wolfram syndrome, and Alzheimer's disease, plus a new antisense oligonucleotide program (AMX0114) targeting calpain-2 for ALS."
+  },
+  {
+    "id": "src_relyvrio_adcom_briefing",
+    "title": "FDA Briefing Document — NDA 216660 (AMX0035 / RELYVRIO), PCNS Advisory Committee Meeting, September 7, 2022",
+    "organization": "FDA Center for Drug Evaluation and Research — Division of Neurology 1, Office of Neuroscience",
+    "document_type": "fda_briefing_document",
+    "date": "2022-09-07",
+    "url": "https://www.fda.gov/advisory-committees/peripheral-and-central-nervous-system-drugs-advisory-committee/updated-meeting-time-and-open-public-hearing-time-march-30-2022-meeting-peripheral-and-central#event-materials",
+    "content": "FDA briefing document prepared for the September 7, 2022 reconvening of the Peripheral and Central Nervous System (PCNS) Drugs Advisory Committee for NDA 216660. Covers: (1) summary of the March 30, 2022 first advisory committee meeting (vote 4-6 against approval); (2) full analysis of Amylyx's major amendment data packages including the individual responder analysis, RPSFTM crossover-adjusted survival analysis (9.7-month estimated benefit, HR 0.42), ENCALS natural history comparison (9.9-month prolongation, p<0.0001), and CSF biomarker data from the PEGASUS Alzheimer's study; (3) FDA's positions and limitations assessment for each new analysis; (4) regulatory framework for substantial evidence of effectiveness including single-trial-plus-confirmatory-evidence standard, regulatory flexibility under 21 CFR 312.80 Subpart E, and history of regulatory flexibility in ALS (riluzole and edaravone precedents); (5) PHOENIX Phase 3 trial status (>50% enrolled as of meeting date); and (6) expanded access program."
   }
 ]

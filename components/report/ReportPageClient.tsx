@@ -10,18 +10,21 @@ import type { RegulatoryEvent } from "@/components/report/RegulatoryTimeline";
 import DrugSubmissionList from "@/components/report/DrugSubmissionList";
 import type { DrugEntry } from "@/components/report/DrugSubmissionList";
 import GanttChart from "@/components/report/GanttChart";
-import type { ReportMeta } from "@/lib/types";
+import SourcesList from "@/components/report/SourcesList";
+import type { ReportMeta, SourceEntry } from "@/lib/types";
 
 export default function ReportPageClient({
   meta,
   content,
   events,
   drugs,
+  sources,
 }: {
   meta: ReportMeta;
   content: string;
   events?: RegulatoryEvent[] | null;
   drugs?: DrugEntry[] | null;
+  sources?: SourceEntry[] | null;
 }) {
   const [quotedText, setQuotedText] = useState<string | null>(null);
   const reportRef = useRef<HTMLDivElement>(null);
@@ -32,8 +35,8 @@ export default function ReportPageClient({
       <div ref={reportRef} className="flex-1 overflow-y-auto p-8">
         <div className="max-w-5xl">
           {/* Verified badge */}
-          <div className="mb-6 flex items-center gap-2 px-3 py-2 bg-bg2 border border-border rounded-md w-fit">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" className="text-accent shrink-0">
+          <div className="mb-6 flex items-center gap-2 px-4 py-2.5 bg-bg2 border border-border rounded-md w-fit">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" className="text-accent shrink-0">
               <path
                 d="M9 12l2 2 4-4"
                 stroke="currentColor"
@@ -48,7 +51,7 @@ export default function ReportPageClient({
               />
             </svg>
             <span className="text-[11px] text-muted">
-              Verified by Inflection Labs — {meta.analyst.name}{meta.analyst.credentials ? `, ${meta.analyst.credentials}` : ""} — Delivered {meta.delivery_date}
+              Verified by Inflection Labs · {meta.analyst.name}{meta.analyst.credentials ? `, ${meta.analyst.credentials}` : ""} · Delivered {meta.delivery_date}
             </span>
           </div>
 
@@ -88,6 +91,7 @@ export default function ReportPageClient({
             <>
               {content && <ReportMarkdown content={content} />}
               <RegulatoryTimeline events={events} />
+              <SourcesList sources={sources ?? []} />
               <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
             </>
           ) : meta.report_type === "Pipeline" && drugs ? (
@@ -95,11 +99,13 @@ export default function ReportPageClient({
               {content && <ReportMarkdown content={content} />}
               <GanttChart drugs={drugs} />
               <DrugSubmissionList drugs={drugs} />
+              <SourcesList sources={sources ?? []} />
               <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
             </>
           ) : content ? (
             <>
               <ReportMarkdown content={content} />
+              <SourcesList sources={sources ?? []} />
               <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
             </>
           ) : (

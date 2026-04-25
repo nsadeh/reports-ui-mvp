@@ -1,0 +1,34 @@
+Source URL: https://clinicaltrials.gov/study/NCT04768972?term=NCT04768972&viewType=Card&rank=1
+
+FUSION: A Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of ION363 in Amyotrophic Lateral Sclerosis Participants With Fused in Sarcoma Mutations (FUS-ALS)
+ClinicalTrials.gov ID NCT04768972
+Sponsor Ionis Pharmaceuticals, Inc.
+Information provided by Ionis Pharmaceuticals, Inc. (Responsible Party)
+Last Update Posted 2026-02-18
+
+
+The primary purpose of this study is to evaluate the efficacy of ION363 on clinical function and survival in carriers of fused in sarcoma mutations with amyotrophic lateral sclerosis (FUS-ALS).
+Detailed Description
+This is a multi-center, three-part study of ION363 in up to 95 participants. Part 1 will consist of participants who will be randomized in a 2:1 ratio to receive a multi-dose regimen of ION363 or placebo for a period of 60 weeks, followed by Part 2, in which participants will receive open-label ION363 for a period of 84 weeks. Participants may continue to receive open-label ION363 in Part 3 for up to 3 additional years or until ION363 becomes commercially available in the patient's country or until the Sponsor discontinues the ION363 development program, whichever occurs earlier.
+Official Title
+A Phase 1-3 Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of Intrathecally Administered ION363 in Amyotrophic Lateral Sclerosis Patients With Fused in Sarcoma Mutations (FUS-ALS)
+Conditions 
+Amyotrophic Lateral Sclerosis
+Intervention / Treatment 
+Drug: ION363
+Drug: Placebo
+Other Study ID Numbers 
+ION363-CS1
+2020-005522-28 ( EudraCT Number )
+Study Start (Actual) 
+2021-06-14
+Primary Completion (Estimated) 
+2026-06
+Study Completion (Estimated) 
+2028-03
+Enrollment (Actual) 
+89
+Study Type 
+Interventional
+Phase 
+Phase 3

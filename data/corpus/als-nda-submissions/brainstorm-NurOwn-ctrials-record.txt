@@ -1,0 +1,135 @@
+Source URL: https://clinicaltrials.gov/study/NCT06973629?term=NurOwn&rank=1
+
+Efficacy and Safety of MSC-NTF (NurOwn) in Participants With Early Symptomatic ALS and Moderate Disease Presentation in ALS (ENDURANCE STUDY)
+ClinicalTrials.gov ID NCT06973629
+Sponsor Brainstorm-Cell Therapeutics
+Information provided by Brainstorm-Cell Therapeutics (Responsible Party)
+Last Update Posted 2025-05-22
+
+Study Overview
+Brief Summary
+The goal of this two-part clinical trial is:
+
+1) to evaluate the safety and efficacy of Debamestrocel - MSC-NTF (NurOwn) compared to placebo in participants with early symptomatic ALS and moderate disease presentation in ALS; followed by 2) further evaluation by providing NurOwn to all participants in an open label extension period.
+
+Researchers will compare NurOwn to a placebo (a look-alike substance that contains no drug) to evaluate the efficacy of NurOwn compared to placebo in the treatment of participants with ALS.
+
+Participants will:
+
+Receive NurOwn or a placebo every 8 weeks for 24 weeks. After that, every participant will receive NurOwn every 8 weeks for an additional 24 weeks.
+
+They will visit the clinic approximately every 8 weeks for checkups and tests.
+
+Detailed Description
+This is a multicenter, Phase 3b study to assess the efficacy and safety of NurOwn in participants with early symptomatic ALS and moderate disease presentation in ALS. The study comprises two parts: a 24-week randomized, double blind placebo controlled period (Part A) followed by a 24-week open label expansion period (Part B).
+
+Up to approximately 200 participants are planned to be enrolled and randomized 1:1 to the NurOwn and placebo groups in Part A. All eligible participants who complete Part A will have the option of entering Part B.
+
+The trial includes a 9-week screening period. After the first screening visit (Screening Visit 1), there will be a Screening Visit 2, during which randomization 1:1 to the NurOwn and placebo groups will occur after confirming that all entry criteria are met. Following randomization, bone marrow aspiration will be scheduled. Stem cells from the bone marrow of all participants will be isolated, and then cryopreserved. Prior to each intrathecal (IT) dose administration, cells will be thawed, propagated, and induced into MSC-NTF cells (NurOwn).
+
+In Part A, participants will receive NurOwn or placebo via IT injection every eight weeks at Weeks 0, 8, and 16.
+
+In Part B, participants will receive NurOwn via IT injection every eight weeks at Weeks 24, 32, and 40.
+
+All participants will be offered the option to participate in the collection and storage of blood/serum, CSF, and buccal samples for future analysis of biomarkers and genetic testing.
+
+Official Title
+A Two-Part Phase 3b Randomized, Double-Blind, Placebo-Controlled, Followed by Open-Label Extension, Multicenter Study of the Efficacy and Safety of MSC-NTF (NurOwn) in Participants With With Early Symptomatic and Moderate Disease Presentation in Amyotrophic Lateral Sclerosis (ALS)
+Conditions 
+Amyotrophic Lateral Sclerosis (ALS)
+Amyotrophic Lateral Sclerosis
+Intervention / Treatment 
+Biological: Debamestrocel - MSC-NTF (NurOwn)
+Biological: Placebo
+Other Study ID Numbers 
+BCT-006
+Study Start (Estimated) 
+2025-06-30
+Primary Completion (Estimated) 
+2028-11-01
+Study Completion (Estimated) 
+2029-05-01
+Enrollment (Estimated) 
+200
+Study Type 
+Interventional
+Phase 
+Phase 3
+
+
+Participation Criteria
+Researchers look for people who fit a certain description, called eligibility criteria. Some examples of these criteria are a person's general health condition or prior treatments.
+
+For general information about clinical research, read Learn About Studies.
+Eligibility Criteria
+Description
+Inclusion Criteria:
+
+Male and female participants 18 to 75 years old (inclusive) at Screening Visit 1.
+ALS diagnosed as laboratory-supported probable, clinically probable, or definite as defined by the revised El Escorial criteria.
+Having onset of ALS symptoms, including muscle weakness, within 24 months from Screening Visit 1.
+≥2 points on each item of the ALSFRS-R at the Screening Visit 1.
+≤45 points on ALSFRS-R total score at Screening Visit 1.
+Upright slow vital capacity (SVC) measure ≥65% of predicted for gender, height, and age at Screening Visit 1.
+Participants must adhere to highly effective methods of contraception as specified in the study protocol.
+Exclusion Criteria:
+
+Prior stem cell therapy of any kind.
+Active participation in any other ALS interventional study.
+Inability to lie flat for the duration of IT cell treatment and/or bone marrow biopsy, or inability to tolerate study procedures for any other reason.
+Any unstable clinically significant medical condition other than ALS
+Any history of malignancy, within the previous 5 years, with the exception of localized skin cancers, cervical cancer in-situ or prostate cancer in-situ (with no evidence of metastasis, significant invasion, or reoccurrence within 3 years of baseline).
+Primary brain cancer or cancer with CNS involvement is exclusionary.
+Other types of motor neuron disease such as primary lateral sclerosis, progressive muscular atrophy, and progressive bulbar palsy.
+Usage of a feeding tube at Screening Visit 1 or Screening Visit 2.
+Pregnant women or women currently breastfeeding.
+Ages Eligible for Study 
+18 Years to 75 Years (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No
+Study Plan
+This section provides details of the study plan, including how the study is designed and what the study is measuring.
+
+Expand all / Collapse all
+How is the study designed?
+Design Details
+Primary Purpose  : Treatment
+Allocation  : Randomized
+Interventional Model  : Parallel Assignment
+Masking  : Quadruple (ParticipantCare ProviderInvestigatorOutcomes Assessor)
+Masking Description: Sponsor, CRO, vendors
+Arms and Interventions
+
+Participant Group/Arm 	Intervention/Treatment 
+Experimental: Debamestrocel - MSC-NTF (NurOwn)
+NTF-secreting mesenchymal stem cells (MSC-NTF cells) are a novel cell-therapeutic approach aimed at effectively delivering NTFs directly to the site of damage in ALS patients
+Biological: Debamestrocel - MSC-NTF (NurOwn)
+MSC-NTF cells suspended in excipient Dulbecco Modified Eagle Medium (DMEM).
+
+Other Names:
+NurOwn
+Placebo Comparator: Placebo
+Placebo is comprised of Dulbecco Modified Eagle Medium (DMEM)
+Biological: Placebo
+Dulbecco Modified Eagle Medium (DMEM).
+
+What is the study measuring?
+Primary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Change in the ALSFRS-R total score from baseline to Week 24	To evaluate the efficacy of NurOwn compared to placebo in the treatment of participants with ALS based on the Revised Amyotrophic Lateral Sclerosis Functional Rating Scale (ALSFRS-R) which is a 12-item clinician-administered questionnaire. Each item is scored between 0 and 4, with the total ALSFRS-R score between 0 and 48 where a higher score reflects a better outcome.	From baseline to Week 24
+Frequency and severity of adverse events including treatment-emergent adverse events (TEAEs), serious adverse events (SAEs), death, abnormalities in laboratory evaluations, physical examinations, vital signs and electrocardiogram (ECG) assessments	To evaluate the safety and tolerability of NurOwn in the treatment of participants with ALS throughout the study including the DBPC period (Part A) to Week 24 and the Open Label Extension (Part B).	From baseline to Week 48
+Secondary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Change in SVC (%predicted) from baseline to Week 24	To evaluate the efficacy of NurOwn compared to placebo on respiratory function based on slow vital capacity (SVC)	From baseline to Week 24
+Change in HHD from baseline to Week 24	To evaluate the efficacy of NurOwn compared to placebo on upper limb muscle strength based on the hand-held dynamometry (HHD) measurement	From baseline to Week 24
+Other Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Change in NfL from baseline to Week 24	To evaluate the effect of NurOwn compared to placebo on neurodegeneration based on neurofilament light (NfL) biomarker measurement	From baseline to Week 24
+Change in ALSAQ-40 scores from baseline to Week 24	To evaluate NurOwn compared to placebo in the treatment of participants with ALS based on the ALSAQ-40 (Amyotrophic Lateral Sclerosis Assessment Questionnaire) total score. The ALSAQ-40 is a patient-reported, 40-item questionnaire that measures five areas of health status or domains. Each item is scored on a 5-point Likert scale that ranges from 0 to 4. For the total score, the sum of the item scores for each domain is divided by the maximum possible score for that domain and then multiplied by 100 with the total score ranging between 0-100. A lower score indicates a higher health-related quality of life.	From baseline to Week 24
+Change in Zarit Caregiver Burden Interview scores from baseline to Week 24	To evaluate NurOwn compared to placebo in the treatment of participants with ALS based on the Zarit Caregiver Burden Interview (ZBI). The ZBI consists of 22 items rated on a 5-point Likert scale that ranges from 0 (never) to 4 (nearly always) with the sum of scores ranging between 0-88. Higher scores indicate greater burden.	From baseline to Week 24
+Collaborators and Investigators
+This is where you will find people and organizations involved with this study.
+Sponsor 
+Brainstorm-Cell Therapeutics

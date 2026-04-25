@@ -10,7 +10,43 @@ export interface RegulatoryEvent {
   event_type: string | null;
   event_title: string;
   event_summary: string;
-  event_significance: "major" | "minor";
+  event_significance: "major_with_minutes" | "major" | "minor";
+}
+
+const GLOSSARY: [string, string][] = [
+  ["ALSFRS-R", "ALS Functional Rating Scale–Revised"],
+  ["ATLIS", "Accurate Test of Limb Isometric Strength"],
+  ["BTD", "Breakthrough Therapy Designation"],
+  ["BTDR", "Breakthrough Therapy Designation Request"],
+  ["CFR", "Code of Federal Regulations"],
+  ["CMC", "Chemistry, Manufacturing, and Controls"],
+  ["CNS", "Central Nervous System"],
+  ["DDI", "Drug-Drug Interaction"],
+  ["ICH", "International Council for Harmonisation"],
+  ["IND", "Investigational New Drug Application"],
+  ["NDA", "New Drug Application"],
+  ["NCE", "New Chemical Entity"],
+  ["OAT1", "Organic Anion Transporter 1"],
+  ["PIND", "Pre-Investigational New Drug"],
+  ["PK", "Pharmacokinetics"],
+  ["PPND", "Pre- and Postnatal Development"],
+  ["PREA", "Pediatric Research Equity Act"],
+  ["SAE", "Serious Adverse Event"],
+  ["SAP", "Statistical Analysis Plan"],
+  ["TUDCA", "Tauroursodeoxycholic acid"],
+];
+
+function escapeForRegex(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/-/g, "[-–]");
+}
+
+function getRelevantGlossary(title: string, summary: string): [string, string][] {
+  const text = title + " " + summary;
+  return GLOSSARY.filter(([acronym]) => {
+    if (text.includes(`(${acronym})`)) return false;
+    if (text.includes(`${acronym} (`)) return false;
+    return new RegExp(`(?<![A-Za-z])${escapeForRegex(acronym)}(?![A-Za-z])`, "").test(text);
+  });
 }
 
 function extractYear(dateStr: string): string {
@@ -72,73 +108,68 @@ function EventCard({
   isOpen: boolean;
   onToggle: () => void;
 }) {
-  const isMajor = event.event_significance === "major";
+  const tier = event.event_significance === "major_with_minutes" ? "minutes"
+    : event.event_significance === "major" ? "major"
+    : "minor";
+
+  const dotClass =
+    tier === "minutes" ? "bg-dark border-dark" :
+    tier === "major"   ? "bg-accent border-accent" :
+                         "bg-white border-sage";
+
+  const cardBorderClass =
+    tier === "minutes" ? "border-dark/25" :
+    tier === "major"   ? "border-accent/25" :
+                         "border-border";
+
+  const headerClass =
+    tier === "minutes" ? "bg-dark text-white hover:bg-dark/90" :
+    tier === "major"   ? "bg-accent/[0.1] hover:bg-accent/[0.15]" :
+                         "bg-bg2 text-body hover:bg-border/40";
+
+  const dateClass   = tier === "minutes" ? "text-white/60" : "text-muted";
+  const badgeClass  = tier === "minutes" ? "bg-white/15 text-white/80" : "bg-accent/10 text-accent";
+  const titleClass  = tier === "minutes" ? "text-white" : "text-dark";
+  const chevronClass = tier === "minutes" ? "text-white/70" : "text-muted";
+
+  const bodyClass =
+    tier === "minutes" ? "border-dark/15 bg-dark/5" :
+    tier === "major"   ? "border-accent/20 bg-accent/[0.04]" :
+                         "border-border bg-white";
 
   return (
     <div className="relative pl-9 mb-3">
       {/* Timeline dot */}
-      <div
-        className={`absolute left-[7px] top-[17px] w-[10px] h-[10px] rounded-full border-2 z-10 ${
-          isMajor
-            ? "bg-dark border-dark"
-            : "bg-white border-sage"
-        }`}
-      />
+      <div className={`absolute left-[7px] top-[17px] w-[10px] h-[10px] rounded-full border-2 z-10 ${dotClass}`} />
 
       {/* Card */}
-      <div
-        className={`rounded-lg border overflow-hidden transition-shadow hover:shadow-sm ${
-          isMajor ? "border-dark/25" : "border-border"
-        }`}
-      >
+      <div className={`rounded-lg border overflow-hidden transition-shadow hover:shadow-sm ${cardBorderClass}`}>
         {/* Clickable header */}
         <button
           onClick={onToggle}
-          className={`w-full text-left px-4 py-3 flex items-center justify-between gap-3 transition-colors ${
-            isMajor
-              ? "bg-dark text-white hover:bg-dark/90"
-              : "bg-bg2 text-body hover:bg-border/40"
-          }`}
+          className={`w-full text-left px-4 py-3 flex items-center justify-between gap-3 transition-colors ${headerClass}`}
         >
           <div className="flex items-center gap-2.5 min-w-0">
-            <span
-              className={`text-[11px] font-mono shrink-0 ${
-                isMajor ? "text-white/60" : "text-muted"
-              }`}
-            >
+            <span className={`text-[11px] font-mono shrink-0 ${dateClass}`}>
               {event.event_date}
             </span>
             {event.event_type && (
-              <span
-                className={`text-[10px] font-medium px-1.5 py-0.5 rounded shrink-0 ${
-                  isMajor
-                    ? "bg-white/15 text-white/80"
-                    : "bg-accent/10 text-accent"
-                }`}
-              >
+              <span className={`text-[10px] font-medium px-1.5 py-0.5 rounded shrink-0 ${badgeClass}`}>
                 {event.event_type}
               </span>
             )}
-            <span
-              className={`text-sm font-medium truncate ${
-                isMajor ? "text-white" : "text-dark"
-              }`}
-            >
+            <span className={`text-sm font-medium truncate ${titleClass}`}>
               {event.event_title}
             </span>
           </div>
-          <span className={isMajor ? "text-white/70" : "text-muted"}>
+          <span className={chevronClass}>
             <ChevronIcon open={isOpen} />
           </span>
         </button>
 
         {/* Expanded body */}
         {isOpen && (
-          <div
-            className={`px-4 py-3 border-t text-sm text-body leading-relaxed ${
-              isMajor ? "border-dark/15 bg-dark/5" : "border-border bg-white"
-            }`}
-          >
+          <div className={`px-4 py-3 border-t text-sm text-body leading-relaxed ${bodyClass}`}>
             <ReactMarkdown
               remarkPlugins={[remarkGfm]}
               components={{
@@ -150,6 +181,22 @@ function EventCard({
             >
               {event.event_summary}
             </ReactMarkdown>
+            {(() => {
+              const entries = getRelevantGlossary(event.event_title, event.event_summary);
+              if (entries.length === 0) return null;
+              return (
+                <div className="mt-3 pt-3 border-t border-border/50">
+                  <p className="text-xs italic text-muted">
+                    {entries.map(([acronym, expansion], i) => (
+                      <span key={acronym}>
+                        {i > 0 && ",  "}
+                        <span className="not-italic font-medium">{acronym}</span> — {expansion}
+                      </span>
+                    ))}
+                  </p>
+                </div>
+              );
+            })()}
           </div>
         )}
       </div>
@@ -182,11 +229,15 @@ export default function RegulatoryTimeline({
           <span className="font-medium text-body mr-1">Key</span>
           <span className="flex items-center gap-1.5">
             <span className="w-2.5 h-2.5 rounded-full bg-dark inline-block shrink-0" />
-            Major milestone
+            Major event — meeting minutes
+          </span>
+          <span className="flex items-center gap-1.5">
+            <span className="w-2.5 h-2.5 rounded-full bg-accent inline-block shrink-0" />
+            Major event
           </span>
           <span className="flex items-center gap-1.5">
             <span className="w-2.5 h-2.5 rounded-full bg-white border-2 border-sage inline-block shrink-0" />
-            Minor / procedural
+            Minor event
           </span>
         </div>
       </div>

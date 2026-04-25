@@ -41,6 +41,16 @@ export interface ChatMessage {
   content: string;
 }
 
+export interface SourceEntry {
+  id: string;
+  title: string;
+  organization: string;
+  document_type: string;
+  date: string;
+  url: string;
+  content: string;
+}
+
 export interface QAFallbackPair {
   question: string;
   answer: string;

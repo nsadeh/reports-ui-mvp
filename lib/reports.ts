@@ -75,6 +75,12 @@ export function getReportDrugs(dirName: string): unknown[] | null {
   return JSON.parse(fs.readFileSync(drugsPath, "utf-8"));
 }
 
+export function getReportSources(dirName: string): unknown[] | null {
+  const sourcesPath = path.join(DATA_DIR, "reports", dirName, "sources.json");
+  if (!fs.existsSync(sourcesPath)) return null;
+  return JSON.parse(fs.readFileSync(sourcesPath, "utf-8"));
+}
+
 export function getReportDirName(id: string): string | null {
   const reportsDir = path.join(DATA_DIR, "reports");
   const dirs = fs.readdirSync(reportsDir);

@@ -1,0 +1,42 @@
+Source URL:
+
+Completed
+An Efficacy, Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of BIIB067 (Tofersen) in Adults With Inherited Amyotrophic Lateral Sclerosis (ALS) (VALOR (Part C))
+ClinicalTrials.gov ID NCT02623699
+Sponsor Biogen
+Information provided by Biogen (Responsible Party)
+Last Update Posted 2023-07-28
+
+Study Overview
+Brief Summary
+The primary objectives of Parts A and B of this study are to evaluate the safety, tolerability, and pharmacokinetics (PK) of ascending doses of tofersen in adults with ALS and a documented superoxide dismutase 1 (SOD1) mutation. The primary objective of Part C of this study is to evaluate the clinical efficacy of tofersen administered to adults with ALS and a confirmed SOD1 mutation.
+
+The secondary objective of Parts A and B of this study is to evaluate the effects of tofersen on levels of total SOD1 protein in the cerebrospinal fluid (CSF). The secondary objectives of Part C are to evaluate the safety, tolerability, pharmacodynamic (PD), and biomarker effects of tofersen.
+
+Detailed Description
+This is a 3-part study to examine the efficacy, safety, tolerability, PK, and PD of tofersen. Part A is the single ascending dose (SAD) component of the study, Part B is the multiple ascending dose (MAD) component of study and Part C is the fixed dose component of the study. Hence, the overall phase of development of the study is 1/2/3.
+
+The study completed on 16 Jul 2021. In total, the study enrolled 176 participants, of which 108 enrolled in Part C.
+
+Official Title
+A Study to Evaluate the Efficacy, Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of BIIB067 Administered to Adult Subjects With Amyotrophic Lateral Sclerosis and Confirmed Superoxide Dismutase 1 Mutation
+Conditions 
+Amyotrophic Lateral Sclerosis
+Intervention / Treatment 
+Drug: Tofersen
+Drug: Placebo
+Other Study ID Numbers 
+233AS101
+2015-004098-33 ( EudraCT Number )
+Study Start (Actual) 
+2016-01-20
+Primary Completion (Actual) 
+2021-07-16
+Study Completion (Actual) 
+2021-07-16
+Enrollment (Actual) 
+176
+Study Type 
+Interventional
+Phase 
+Phase 3

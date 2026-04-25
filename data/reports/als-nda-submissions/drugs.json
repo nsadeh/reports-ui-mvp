@@ -1,21 +1,32 @@
 [
   {
     "drug_name": "Qalsody (tofersen)",
-    "manufacturer": "Biogen",
+    "sponsor": "Biogen",
     "event_type": "post-NDA submission",
     "NDA_date": "2023-04-25",
-    "trial_start": "2021-05-01",
+    "trial_start": "2016-01-01",
     "trial_end": "2027-08-01",
     "nda_range_start": "2023-04-25",
     "nda_range_end": "2023-04-25",
     "trials": [
-      { "name": "ATLAS", "phase": "Phase 3", "start": "2021-05-01", "end": "2027-08-01" }
+      {
+        "name": "VALOR",
+        "phase": "Phase 3",
+        "start": "2016-01-01",
+        "end": "2021-07-01"
+      },
+      {
+        "name": "ATLAS",
+        "phase": "Phase 3",
+        "start": "2021-05-01",
+        "end": "2027-08-01"
+      }
     ],
-    "summary": "Qalsody received FDA accelerated approval on April 25, 2023 for SOD1-ALS — the first ALS therapy approved on the basis of a biomarker surrogate endpoint and the first to target a genetic cause of the disease. It is now approved in 44 countries.\n\n**Regulatory Strategy:** Approval was granted via the accelerated approval pathway, with plasma NfL reduction accepted by FDA as a surrogate endpoint reasonably likely to predict clinical benefit in SOD1-ALS — the first time NfL was accepted for this purpose in ALS, establishing a precedent now actively invoked by other developers. Despite the primary ALSFRS-R endpoint not reaching statistical significance in VALOR, FDA accepted approval on the strength of the biomarker signal alone. Continued accelerated approval is contingent on the confirmatory ATLAS study; data submission supporting conversion to full approval is expected late 2027 to mid-2028. Final VALOR/OLE data published in JAMA Neurology (December 2025, >3.5 years follow-up) are now being cited in support of using NfL reduction as an early decision-making endpoint to accelerate future ALS programs.\n\n**Trial Design (ATLAS):** Phase 3, randomized, placebo-controlled study in presymptomatic SOD1 mutation carriers with biomarker evidence of disease activity (elevated plasma NfL). 158 participants enrolled across 14 countries. Primary endpoint: proportion of participants who develop clinically manifest ALS — a novel endpoint design for a presymptomatic population. Primary completion estimated August 2027.\n\n**Prior Data (VALOR):** 28-week Phase 3 RCT, 108 participants (2:1 tofersen:placebo). The primary ALSFRS-R endpoint favored tofersen but missed statistical significance (adjusted mean difference +1.2 points). Plasma NfL: 55% reduction vs. 12% increase in placebo (p<0.0001); CSF SOD1 protein: 35% reduction vs. 2% (p<0.0001). 95 of 108 participants enrolled in the OLE. Long-term follow-up (median 4.9 years) showed early initiation associated with slower functional and respiratory decline, reduced mortality risk, and — in 27% of early-start participants — actual regain of previously lost muscle strength. In faster-progressing patients, initiating 6 months earlier was associated with a 3.4-year extension of event-free survival."
+    "summary": "Qalsody received FDA accelerated approval on April 25, 2023 for SOD1-ALS, making it the first ALS therapy approved on the basis of a biomarker surrogate endpoint and the first to target a genetic cause of the disease. It is now approved in 44 countries.\n\n**Regulatory Strategy:** Approval was granted via the accelerated approval pathway, with plasma NfL reduction accepted by FDA as a surrogate endpoint reasonably likely to predict clinical benefit in SOD1-ALS, marking the first time NfL was accepted for this purpose in ALS, establishing a precedent now actively invoked by other developers. Despite the primary ALSFRS-R endpoint not reaching statistical significance in VALOR, FDA accepted approval on the strength of the biomarker signal alone. Continued accelerated approval is contingent on the confirmatory ATLAS study; data submission supporting conversion to full approval is expected late 2027 to mid-2028. Final VALOR/OLE data published in JAMA Neurology (December 2025, >3.5 years follow-up) are now being cited in support of using NfL reduction as an early decision-making endpoint to accelerate future ALS programs.\n\n**Trial Design (ATLAS):** Phase 3, randomized, placebo-controlled study in presymptomatic SOD1 mutation carriers with biomarker evidence of disease activity (elevated plasma NfL). 158 participants enrolled across 14 countries. Primary endpoint: proportion of participants who develop clinically manifest ALS, representing a novel endpoint design for a presymptomatic population. Primary completion estimated August 2027.\n\n**Prior Data (VALOR):** 28-week Phase 3 RCT, 108 participants (2:1 tofersen:placebo). The primary ALSFRS-R endpoint favored tofersen but missed statistical significance (adjusted mean difference +1.2 points). Plasma NfL: 55% reduction vs. 12% increase in placebo (p<0.0001); CSF SOD1 protein: 35% reduction vs. 2% (p<0.0001). 95 of 108 participants enrolled in the OLE. Long-term follow-up (>3.5 years) showed early initiation associated with slower functional and respiratory decline, reduced mortality risk, and, notably, 27% of early-start participants achieved actual regain of previously lost muscle strength. In faster-progressing patients, initiating 6 months earlier was associated with a 3.4-year extension of event-free survival."
   },
   {
     "drug_name": "CNM-Au8",
-    "manufacturer": "Clene Inc.",
+    "sponsor": "Clene Inc.",
     "event_type": "submission announced",
     "NDA_date": "Q2 2026",
     "trial_start": "2021-11-01",
@@ -23,14 +34,24 @@
     "nda_range_start": "2026-04-01",
     "nda_range_end": "2026-06-30",
     "trials": [
-      { "name": "Rescue ALS", "phase": "Phase 2", "start": "2019-12-01", "end": "2021-07-01" },
-      { "name": "Rescue ALS OLE", "phase": "Phase 2", "start": "2021-11-01", "end": "2026-06-01" }
+      {
+        "name": "Rescue ALS",
+        "phase": "Phase 2",
+        "start": "2019-12-01",
+        "end": "2021-07-01"
+      },
+      {
+        "name": "Rescue ALS OLE",
+        "phase": "Phase 2",
+        "start": "2021-11-01",
+        "end": "2026-06-01"
+      }
     ],
-    "summary": "Clene announced in February 2026 that it plans to submit an NDA for CNM-Au8 via the accelerated approval pathway in Q2 2026. FDA acceptance of the NDA and issuance of a PDUFA date could follow in the second half of 2026, with potential commercial launch in 2027.\n\n**Regulatory Strategy:** Clene has been engaged with FDA's neurology division since late 2024, submitting a comprehensive data briefing package in late 2025 and scheduling an in-person Type C meeting by end of Q1 2026. The accelerated approval case rests on three pillars: (1) statistically significant reductions in mortality risk and slowed clinical worsening across Phase 2 data; (2) statistically significant reductions in NfL and GFAP, explicitly invoking the surrogate endpoint precedent established by Qalsody's 2023 approval; and (3) a clean safety record with no CNM-Au8-related SAEs across 1,000+ patient-years. Clene has referenced FDA meeting minutes publicly in framing the NDA argument. Accelerated approval would require a confirmatory Phase 3 RESTORE-ALS trial; the protocol has been reviewed by FDA, with first patient dosing targeted for later in 2026.\n\n**Trial Design (Rescue ALS OLE):** The Rescue ALS OLE (November 2021 – June 2026) is the ongoing open-label extension generating the long-term biomarker and survival data anchoring the NDA package. Combined exposure across the Phase 2 and OLE programs now exceeds 800 patients and 1,000 patient-years.\n\n**Prior Data (Rescue ALS Phase 2):** Phase 2 trial (December 2019 – July 2021) was the pivotal source trial. Pre-specified secondary and exploratory endpoints showed statistically significant reductions in mortality risk and slowed clinical worsening. Statistically significant reductions in NfL and GFAP were observed. No CNM-Au8-related SAEs were reported across the program."
+    "summary": "Clene announced in February 2026 that it plans to submit an NDA for CNM-Au8 via the accelerated approval pathway in Q2 2026. FDA acceptance of the NDA and issuance of a PDUFA date could follow in the second half of 2026, with potential commercial launch in 2027.\n\n**Regulatory Strategy:** Clene has been engaged with FDA's neurology division since late 2024, submitting a comprehensive data briefing package in late 2025 and scheduling an in-person Type C meeting by end of Q1 2026. The accelerated approval case rests on three pillars: (1) statistically significant reductions in mortality risk and slowed clinical worsening across Phase 2 data; (2) statistically significant reductions in NfL and GFAP, explicitly invoking the surrogate endpoint precedent established by Qalsody's 2023 approval; and (3) a clean safety record with no CNM-Au8-related SAEs across 1,000+ patient-years. Clene has referenced FDA meeting minutes publicly in framing the NDA argument. Accelerated approval would require a confirmatory Phase 3 RESTORE-ALS trial; the protocol has been reviewed by FDA, with first patient dosing targeted for later in 2026.\n\n**Trial Design (Rescue ALS OLE):** The Rescue ALS OLE (November 2021 \u2013 June 2026) is the ongoing open-label extension generating the long-term biomarker and survival data anchoring the NDA package. Combined exposure across the Phase 2 and OLE programs now exceeds 800 patients and 1,000 patient-years.\n\n**Prior Data (Rescue ALS Phase 2):** Phase 2 trial (December 2019 \u2013 July 2021) was the pivotal source trial. Pre-specified secondary and exploratory endpoints showed statistically significant reductions in mortality risk and slowed clinical worsening. Statistically significant reductions in NfL and GFAP were observed. No CNM-Au8-related SAEs were reported across the program."
   },
   {
     "drug_name": "Ulefnersen (ION363)",
-    "manufacturer": "Ionis Pharmaceuticals / Otsuka",
+    "sponsor": "Ionis Pharmaceuticals / Otsuka",
     "event_type": "trial end announced",
     "NDA_date": "2026-late to 2027-mid (estimated)",
     "trial_start": "2021-06-01",
@@ -38,27 +59,37 @@
     "nda_range_start": "2026-09-01",
     "nda_range_end": "2027-06-30",
     "trials": [
-      { "name": "FUSION", "phase": "Phase 3", "start": "2021-06-01", "end": "2026-06-01" }
+      {
+        "name": "FUSION",
+        "phase": "Phase 3",
+        "start": "2021-06-01",
+        "end": "2026-06-01"
+      }
     ],
-    "summary": "The Phase 3 FUSION trial of ulefnersen in FUS-ALS has an estimated primary completion of June 2026. In its January 2026 corporate update, Ionis flagged the FUSION data readout as one of five anticipated Phase 3 readouts and one of four expected NDA submissions across its portfolio for 2026 — signaling internal confidence in the delivery timeline. NDA submission by partner Otsuka could reasonably follow 3–12 months after that readout, placing a filing in the range of late 2026 to mid-2027.\n\n**Trial Design (FUSION):** FUSION (NCT04768972) is a Phase 1–3, multi-center, three-part study targeting FUS-ALS — a rare and typically aggressive genetic subtype. Part 1: 60-week randomized (2:1), double-blind, placebo-controlled period. Part 2: 84-week open-label ulefnersen for Part 1 completers. Part 3: up to 3 additional years of open-label treatment, or until commercial availability in the patient's country. 89 of up to 95 planned participants enrolled. Primary endpoint: clinical function and survival in FUS mutation carriers with ALS. Full study completion is estimated March 2028; the Part 1 primary completion in June 2026 is the key NDA-enabling readout."
+    "summary": "The Phase 3 FUSION trial of ulefnersen in FUS-ALS has an estimated primary completion of June 2026. In its January 2026 corporate update, Ionis flagged the FUSION data readout as one of five anticipated Phase 3 readouts and one of four expected NDA submissions across its portfolio for 2026, signaling internal confidence in the delivery timeline. NDA submission by partner Otsuka could reasonably follow 3\u201312 months after that readout, placing a filing in the range of late 2026 to mid-2027.\n\n**Regulatory Strategy:** Ulefnersen holds two FDA expedited designation pathways that support an accelerated development timeline. The FDA granted Orphan Drug Designation on August 15, 2023, reflecting FUS-ALS's status as a rare disease affecting fewer than 200,000 people in the United States. In 2025, the FDA granted Fast Track designation for the treatment of FUS-ALS, enabling more frequent FDA interactions during development and rolling review of the New Drug Application (NDA) once data are available. The FUSION trial also underwent a key protocol amendment in May 2022, extending the double-blind phase from 29 weeks to 61 weeks to increase the likelihood of detecting a clinically meaningful signal. FUSION data are listed as a Key Phase 3 Clinical Event anticipated in 2026 in Ionis's full-year 2025 financial results, published February 25, 2026.\n\n**Trial Design (FUSION):** FUSION (NCT04768972) is a Phase 1\u20133, multi-center, three-part study targeting FUS-ALS, a rare and typically aggressive genetic subtype. Part 1: 60-week randomized (2:1), double-blind, placebo-controlled period. Part 2: 84-week open-label ulefnersen for Part 1 completers. Part 3: up to 3 additional years of open-label treatment, or until commercial availability in the patient's country. 89 of up to 95 planned participants enrolled. Primary endpoint: clinical function and survival in FUS mutation carriers with ALS. Full study completion is estimated March 2028; the Part 1 primary completion in June 2026 is the key NDA-enabling readout."
   },
   {
     "drug_name": "PrimeC (ciprofloxacin + celecoxib)",
-    "manufacturer": "NeuroSense Therapeutics",
+    "sponsor": "NeuroSense Therapeutics",
     "event_type": "trial ongoing",
     "NDA_date": "2027 to 2028 (estimated)",
     "trial_start": "2022-05-01",
-    "trial_end": "2023-11-01",
+    "trial_end": "2024-11-01",
     "nda_range_start": "2027-01-01",
     "nda_range_end": "2028-12-31",
     "trials": [
-      { "name": "PARADIGM", "phase": "Phase 2", "start": "2022-05-01", "end": "2023-11-01" }
+      {
+        "name": "PARADIGM",
+        "phase": "Phase 2",
+        "start": "2022-05-01",
+        "end": "2024-11-01"
+      }
     ],
-    "summary": "NeuroSense announced in December 2025 that it is preparing for a pre-NDS meeting with Health Canada in April 2026, with a potential Canadian NDS submission targeted for mid-2026. FDA NDA submission is expected to follow the Canadian filing; a reasonable estimate is 2027–2028.\n\n**Regulatory Strategy:** NeuroSense is pursuing a Canada-first regulatory sequence. Health Canada confirmed in December 2025 that the company's proposed next steps align with the agency's expectations. A pre-NDS meeting is planned for April 2026, with NDS submission targeted mid-2026 pending a successful outcome. The FDA NDA is planned as a sequential filing after the Canadian submission. The use of two already FDA-approved components (ciprofloxacin and celecoxib) may simplify safety characterization for regulators relative to novel chemical entities — a potential advantage in both the NDS and NDA reviews.\n\n**Trial Design (PARADIGM):** Phase 2 PARADIGM trial (May 2022 – November 2023). PrimeC is an extended-release, fixed-dose oral formulation. Results from PARADIGM, supported by additional clinical analyses generated since the initial Health Canada engagement, form the data package underpinning the regulatory submissions."
+    "summary": "NeuroSense announced in December 2025 that it is preparing for a pre-New Drug Submission (NDS) meeting with Health Canada in April 2026, with a potential NDS submission targeted for mid-2026. In November 2025, NeuroSense also received FDA clearance to initiate PARAGON, the pivotal Phase 3 trial of PrimeC in ALS, though enrollment is pending the company securing necessary strategic resources. No U.S. FDA NDA timeline has been announced; any projected U.S. filing window shown in this report is an estimate extrapolated from the Canada-first regulatory sequence and is not derived from a NeuroSense announcement.\n\n**Regulatory Strategy:** NeuroSense is pursuing a Canada-first regulatory sequence. Health Canada confirmed in December 2025 that the company's proposed next steps align with the agency's expectations. A pre-NDS meeting is planned for April 2026, with NDS submission targeted mid-2026 pending a successful outcome. The use of two already FDA-approved components (ciprofloxacin and celecoxib) may simplify safety characterization for regulators relative to novel chemical entities, a potential advantage in the NDS review.\n\n**Trial Design (PARADIGM):** Phase 2b PARADIGM trial (NCT05357950), multicenter and multinational. 69 participants enrolled and randomized 2:1 to PrimeC or placebo, stratified by ENCALS risk category and background ALS treatment. Dosing: two tablets twice daily (BID) for a total daily dose of 1,496 mg, for 6 months. Co-primary endpoints: (1) safety and tolerability, including treatment-emergent adverse events (TEAEs), discontinuation rates, and clinically significant laboratory abnormalities; and (2) biomarkers, specifically mean difference between groups in serum neurodegeneration-derived exosome (NDE) TDP-43 and NDE PgJ2 concentrations at 6 months. Secondary endpoints include change from baseline in ALSFRS-R and slow vital capacity (SVC), quality of life, and survival. All participants who completed the 6-month blinded period were switched to active PrimeC for a 12-month open-label extension (OLE). Study start: May 2022; primary completion: November 2023; full study completion (including OLE): November 2024.\n\n**Trial Design (PARAGON):** PARAGON is a prospective, randomized (2:1, PrimeC to placebo), double-blind, 12-month placebo-controlled trial with an open-label extension, to be conducted in the U.S. and EU. 300 participants with ALS will be enrolled. The study employs an adaptive design allowing for interim analyses to optimize sample size and assess early efficacy and futility boundaries. PARAGON is powered at over 95% to achieve its primary endpoint, building on the Phase 2b PARADIGM results. Trial initiation is contingent on NeuroSense securing the strategic resources required to launch the study."
   },
   {
     "drug_name": "Pridopidine",
-    "manufacturer": "Prilenia Therapeutics / Ferrer",
+    "sponsor": "Prilenia Therapeutics / Ferrer",
     "event_type": "trial ongoing",
     "NDA_date": "2028-late to 2029-mid (estimated)",
     "trial_start": "2026-02-01",
@@ -66,13 +97,18 @@
     "nda_range_start": "2028-09-01",
     "nda_range_end": "2029-06-30",
     "trials": [
-      { "name": "PREVAiLS", "phase": "Phase 3", "start": "2026-02-01", "end": "2028-03-01" }
+      {
+        "name": "PREVAiLS",
+        "phase": "Phase 3",
+        "start": "2026-02-01",
+        "end": "2028-03-01"
+      }
     ],
-    "summary": "Pridopidine received FDA clearance in December 2025 to initiate the pivotal 500-patient Phase 3 PREVAiLS trial in early, rapidly progressive ALS. The trial officially began enrollment in February 2026, with primary completion estimated March 2028. NDA submission could reasonably be expected in the range of late 2028 to mid-2029.\n\n**Regulatory Strategy:** Pridopidine holds Orphan Drug Designation for ALS in both the US and EU. Rather than pursuing accelerated approval on the basis of Phase 2 platform trial subgroup data, Prilenia is proceeding directly to a full Phase 3 confirmatory study — a decision that extends the timeline but targets a cleaner pathway to full approval. An intermediate-size Expanded Access Program (NCT06069934), supported by an NIH-NINDS grant and run by the Healey & AMG Center for ALS at MGH, has completed enrollment of 200 people with ALS not eligible for other trials, generating additional real-world safety and exposure data ahead of pivotal results.\n\n**Trial Design (PREVAiLS):** 500-participant, randomized, double-blind, placebo-controlled study at up to 60 ALS centers across the US, Canada, EU, UK, and Israel. Randomized 3:2 (pridopidine:placebo). Structure: 48-week DBPC period followed by a 48-week OLE for all participants. Primary endpoint: change from baseline in ALSFRS-R adjusted for mortality at 48 weeks. Secondary endpoints include speech, respiratory and bulbar function, quality of life, survival, and plasma biomarkers. Population: participants with definite or probable ALS (El Escorial Criteria) within 18 months of first symptom onset.\n\n**Prior Data (HEALEY ALS Platform Trial):** PREVAiLS is designed to confirm signal from subgroup analyses of 284 participants (120 pridopidine, 164 shared placebo) in the Phase 2 HEALEY ALS Platform Trial. In that early, rapidly progressive subgroup: 32% slowing of overall ALS progression (ALSFRS-R, p=0.03); 62% slowing of respiratory function worsening (p=0.03); 57% improvement in survival — median 600 days (early-start) vs. 300 days (delayed-start). Manuscript accepted for publication in *Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration*."
+    "summary": "Pridopidine received FDA clearance in December 2025 to initiate the pivotal 500-patient Phase 3 PREVAiLS trial in early, rapidly progressive ALS. The trial officially began enrollment in February 2026, with primary completion estimated March 2028. NDA submission could reasonably be expected in the range of late 2028 to mid-2029.\n\n**Regulatory Strategy:** Pridopidine holds Orphan Drug Designation for ALS in both the US and EU. Rather than pursuing accelerated approval on the basis of Phase 2 platform trial subgroup data, Prilenia is proceeding directly to a full Phase 3 confirmatory study, a decision that extends the timeline but targets a cleaner pathway to full approval. An intermediate-size Expanded Access Program (NCT06069934), supported by an NIH-NINDS grant and run by the Healey & AMG Center for ALS at MGH, has completed enrollment of 200 people with ALS not eligible for other trials, generating additional real-world safety and exposure data ahead of pivotal results.\n\n**Trial Design (PREVAiLS):** 500-participant, randomized, double-blind, placebo-controlled study at up to 60 ALS centers across the US, Canada, EU, UK, and Israel. Randomized 3:2 (pridopidine:placebo). Structure: 48-week DBPC period followed by a 48-week OLE for all participants. Primary endpoint: change from baseline in ALSFRS-R adjusted for mortality at 48 weeks. Secondary endpoints include speech, respiratory and bulbar function, quality of life, survival, and plasma biomarkers. Population: participants with definite or probable ALS (El Escorial Criteria) within 18 months of first symptom onset.\n\n**Prior Data (HEALEY ALS Platform Trial):** PREVAiLS is designed to confirm signal from subgroup analyses of 284 participants (120 pridopidine, 164 shared placebo) in the Phase 2 HEALEY ALS Platform Trial. In that early, rapidly progressive subgroup: 32% slowing of overall ALS progression (ALSFRS-R, p=0.03); 62% slowing of respiratory function worsening (p=0.03); 57% improvement in survival: median 600 days (early-start) vs. 300 days (delayed-start). Manuscript accepted for publication in *Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration*."
   },
   {
     "drug_name": "Masitinib",
-    "manufacturer": "AB Science",
+    "sponsor": "AB Science",
     "event_type": "trial ongoing",
     "NDA_date": "2029-mid to 2029-late (estimated)",
     "trial_start": "2026-01-01",
@@ -80,13 +116,18 @@
     "nda_range_start": "2029-06-01",
     "nda_range_end": "2029-12-31",
     "trials": [
-      { "name": "AB23005", "phase": "Phase 3", "start": "2026-01-01", "end": "2028-12-01" }
+      {
+        "name": "AB23005",
+        "phase": "Phase 3",
+        "start": "2026-01-01",
+        "end": "2028-12-01"
+      }
     ],
-    "summary": "AB Science received authorization from the FDA and several European countries in July 2025 to initiate the confirmatory Phase 3 trial (AB23005) of masitinib in ALS, following EMA validation of the harmonized protocol. Estimated primary completion December 2028; NDA submission expected mid-to-late 2029.\n\n**Regulatory Strategy:** AB Science obtained prospective dual alignment from both the FDA and EMA on the AB23005 protocol — including the study population definition — before initiating the trial. EMA validated the harmonized protocol through the CTIS procedure; FDA and initial European country authorizations (Spain, Greece, Slovenia) followed. The central regulatory challenge AB23005 addresses is converting the post-hoc subgroup signal from AB10015 into a prospectively defined, pre-specified population — making population enrichment the core regulatory strategy. Both agencies validated the normal-progressor, no-complete-loss-of-function eligibility criteria as clinically meaningful and consistent with expected disease progression, providing a defensible basis for the population restriction.\n\n**Trial Design (AB23005):** 412-patient, multicenter, double-blind, randomized, placebo-controlled study (1:1, masitinib 4.5 mg/kg/day + riluzole vs. placebo + riluzole). Population: ALS patients with normal disease progression (ALSFRS-R decline <1.1 points/month) and no complete loss of function (score ≥1 on all 12 ALSFRS-R items). US patients on edaravone are eligible, with edaravone use as a stratification factor. Primary endpoint assessed at 48 weeks. Estimated primary completion December 2028.\n\n**Prior Data (AB10015):** Phase 2B/3 study that generated a +12-month increase in median survival in the normal-progressor, no-complete-loss-of-function subpopulation — observed as a post-hoc subgroup result. AB23005 is designed to confirm that signal through prospective pre-specification of the same population, directly addressing the subgroup concern that would otherwise limit regulatory action on the AB10015 finding."
+    "summary": "AB Science received authorization from the FDA and several European countries in July 2025 to initiate the confirmatory Phase 3 trial (AB23005) of masitinib in ALS, following EMA validation of the harmonized protocol. Estimated primary completion December 2028; NDA submission expected mid-to-late 2029.\n\n**Regulatory Strategy:** AB Science obtained prospective dual alignment from both the FDA and EMA on the AB23005 protocol (the study protocol aligned prospectively across both regulatory jurisdictions), including the study population definition, before initiating the trial. EMA validated the harmonized protocol through the CTIS procedure; FDA and initial European country authorizations (Spain, Greece, Slovenia) followed. The central regulatory challenge AB23005 addresses is converting the post-hoc subgroup signal from AB10015 into a prospectively defined, pre-specified population, with population enrichment as the core regulatory strategy. Both agencies validated the normal-progressor, no-complete-loss-of-function eligibility criteria as clinically meaningful and consistent with expected disease progression, providing a defensible basis for the population restriction.\n\n**Trial Design (AB23005):** 412-patient, multicenter, double-blind, randomized, placebo-controlled study (1:1, masitinib 4.5 mg/kg/day + riluzole vs. placebo + riluzole). Population: ALS patients with normal disease progression (ALSFRS-R decline 0.3\u20131.1 points/month since onset) and no complete loss of function (score \u22651 on each of the 12 ALSFRS-R items, with \u22653 on item 3 and \u22652 on item 12 at screening). Forced vital capacity (FVC) \u226570% required. US patients on edaravone are eligible, with edaravone use as a stratification factor. Dosing: masitinib titrated from 3.0 mg/kg/day orally twice daily, escalating to 4.5 mg/kg/day after 4 weeks, added on to riluzole 100 mg/day. Primary endpoint: change from baseline in ALSFRS-R total score at 48 weeks. Secondary endpoints: progression-free survival (PFS), defined as time from randomization to a decline of more than 9 points in ALSFRS-R or death; and change from baseline in quality of life assessed by the ALSAQ-40. Estimated primary completion December 2028.\n\n**Prior Data (AB10015):** Phase 2B/3 study that generated a +12-month increase in median survival in the normal-progressor, no-complete-loss-of-function subpopulation, observed as a post-hoc subgroup result. AB23005 is designed to confirm that signal through prospective pre-specification of the same population, directly addressing the subgroup concern that would otherwise limit regulatory action on the AB10015 finding."
   },
   {
     "drug_name": "NurOwn (Debamestrocel / MSC-NTF cells)",
-    "manufacturer": "BrainStorm Cell Therapeutics",
+    "sponsor": "BrainStorm Cell Therapeutics",
     "event_type": "trial ongoing",
     "NDA_date": "2029-mid to 2029-late (estimated)",
     "trial_start": "2025-06-01",
@@ -94,8 +135,13 @@
     "nda_range_start": "2029-06-01",
     "nda_range_end": "2029-12-31",
     "trials": [
-      { "name": "ENDURANCE", "phase": "Phase 3", "start": "2025-06-01", "end": "2028-11-01" }
+      {
+        "name": "ENDURANCE",
+        "phase": "Phase 3",
+        "start": "2025-06-01",
+        "end": "2028-11-01"
+      }
     ],
-    "summary": "BrainStorm received FDA clearance in May 2025 to initiate its Phase 3b ENDURANCE trial of NurOwn in ALS, with primary completion estimated November 2028. Because NurOwn is an autologous cell-based biologic, the regulatory filing will be a **Biologics License Application (BLA)** — not an NDA — with submission expected mid-to-late 2029.\n\n**Regulatory Strategy:** ENDURANCE was cleared under a Special Protocol Assessment (SPA) — a formal FDA agreement that the trial's endpoints and statistical methodology are appropriate to support a BLA submission, providing prospective regulatory alignment on trial design before enrollment. The SPA is a meaningful risk-reduction tool for a Phase 3b program, confirming that the primary endpoint (ALSFRS-R at Week 24) and statistical methodology will be acceptable to FDA at the time of BLA review. The autologous manufacturing process — in which each dose is patient-specific — also presents a commercial-scale consideration the BLA review will need to address, distinguishing NurOwn's regulatory path from small-molecule or ASO-based ALS programs.\n\n**Trial Design (ENDURANCE):** ~200 participants (1:1 NurOwn:placebo) at leading academic medical centers. Part A: 24-week randomized, double-blind, placebo-controlled period; intrathecal dosing at Weeks 0, 8, and 16. Part B: 24-week OLE for all Part A completers; dosing at Weeks 24, 32, and 40. Primary endpoint: change from baseline to Week 24 in ALSFRS-R. Population: early symptomatic ALS with moderate disease presentation. Primary completion estimated November 2028."
+    "summary": "BrainStorm received FDA clearance in May 2025 to initiate its Phase 3b ENDURANCE trial of NurOwn in ALS, with primary completion estimated November 2028. Because NurOwn is an autologous cell-based biologic, the regulatory filing will be a **Biologics License Application (BLA)**, not an NDA, with submission expected mid-to-late 2029.\n\n**Regulatory Strategy:** ENDURANCE was cleared under a Special Protocol Assessment (SPA), a formal FDA agreement that the trial's endpoints and statistical methodology are appropriate to support a BLA submission, providing prospective regulatory alignment on trial design before enrollment. The SPA is a meaningful risk-reduction tool for a Phase 3b program, confirming that the primary endpoint (ALSFRS-R at Week 24) and statistical methodology will be acceptable to FDA at the time of BLA review. The autologous manufacturing process, in which each dose is patient-specific, presents a commercial-scale consideration the BLA review will need to address, distinguishing NurOwn's regulatory path from small-molecule or ASO-based ALS programs.\n\n**Trial Design (ENDURANCE):** Phase 3b, two-part, multicenter study. Up to 200 participants enrolled and randomized 1:1 to NurOwn or placebo. Population: adults aged 18\u201375 years with ALS onset within 24 months, ALSFRS-R \u22652 on each item and \u226445 total at screening, and slow vital capacity (SVC) \u226565% predicted; no prior stem cell therapy permitted.\n\nBecause NurOwn is an autologous cell therapy, each dose is manufactured individually: following a 9-week screening period, bone marrow is aspirated from each participant and stem cells are isolated and cryopreserved. Prior to each intrathecal (IT) dose, cells are thawed, propagated, and induced into mesenchymal stem cell-neurotrophic factor (MSC-NTF) cells (NurOwn).\n\nPart A (24 weeks): randomized, double-blind, placebo-controlled; intrathecal dosing at Weeks 0, 8, and 16. Part B (24 weeks): open-label extension (OLE) for all Part A completers; dosing at Weeks 24, 32, and 40. Co-primary endpoints: (1) change from baseline in ALSFRS-R total score at Week 24; and (2) frequency and severity of adverse events including treatment-emergent adverse events (TEAEs), serious adverse events (SAEs), and death throughout the study. Secondary endpoints include change from baseline in SVC, upper limb strength via hand-held dynamometry (HHD), and quality of life via the ALSAQ-40. Exploratory outcomes include neurofilament light chain (NfL) biomarker and caregiver burden via the Zarit Caregiver Burden Interview. Primary completion estimated November 2028; full study completion (including OLE) estimated May 2029."
   }
 ]

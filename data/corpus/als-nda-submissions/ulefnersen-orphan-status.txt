@@ -1,0 +1,18 @@
+Source URL: https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=954623
+
+
+Search Orphan Drug Designations and Approvals
+Print Share E-mail
+FDA HomeDeveloping Products for Rare Diseases & Conditions
+-
+Generic Name:	Ulefnersen
+Date Designated:	08/15/2023
+Orphan Designation:	Treatment of amyotrophic lateral sclerosis (ALS)
+Orphan Designation Status:	Designated
+FDA Orphan Approval Status:	Not FDA Approved for Orphan Indication
+Sponsor:	Ionis Pharmaceuticals, Inc.
+2855 Gazelle Court
+Carlsbad, California 92010
+United States
+
+The sponsor address listed is the last reported by the sponsor to OOPD.

@@ -13,7 +13,7 @@ export interface TrialSegment {
 
 export interface DrugEntry {
   drug_name: string;
-  manufacturer: string;
+  sponsor: string;
   event_type: string;
   NDA_date: string;
   summary: string;
@@ -22,6 +22,35 @@ export interface DrugEntry {
   nda_range_start?: string;
   nda_range_end?: string;
   trials?: TrialSegment[];
+}
+
+const GLOSSARY: [string, string][] = [
+  ["ALSFRS-R", "ALS Functional Rating Scale–Revised"],
+  ["ASO", "Antisense Oligonucleotide"],
+  ["CSF", "Cerebrospinal Fluid"],
+  ["CTIS", "Clinical Trials Information System"],
+  ["DBPC", "Double-Blind, Placebo-Controlled"],
+  ["EMA", "European Medicines Agency"],
+  ["FUS", "Fused in Sarcoma"],
+  ["GFAP", "Glial Fibrillary Acidic Protein"],
+  ["MGH", "Massachusetts General Hospital"],
+  ["NDA", "New Drug Application"],
+  ["NDS", "New Drug Submission"],
+  ["NfL", "Neurofilament Light chain"],
+  ["NIH-NINDS", "National Institutes of Health–National Institute of Neurological Disorders and Stroke"],
+  ["OLE", "Open-Label Extension"],
+  ["PDUFA", "Prescription Drug User Fee Act"],
+  ["RCT", "Randomized Controlled Trial"],
+  ["SAEs", "Serious Adverse Events"],
+  ["SOD1", "Superoxide Dismutase 1"],
+];
+
+function getRelevantGlossary(summary: string): [string, string][] {
+  return GLOSSARY.filter(([acronym]) => {
+    if (summary.includes(`(${acronym})`)) return false;
+    const escaped = acronym.replace(/[-]/g, "[-–]");
+    return new RegExp(`(?<![A-Za-z])${escaped}(?![A-Za-z])`, "").test(summary);
+  });
 }
 
 const SECTION_ORDER = [
@@ -35,7 +64,7 @@ const SECTION_LABELS: Record<string, string> = {
   "post-NDA submission": "FDA Approved / Post-NDA Submission",
   "submission announced": "NDA Submission Announced",
   "trial end announced": "Trial Completion Announced",
-  "trial ongoing": "Phase 3 Trial Ongoing",
+  "trial ongoing": "Pivotal Trial Ongoing or Upcoming",
 };
 
 function formatNDADate(raw: string): string {
@@ -128,11 +157,11 @@ function DrugCard({
           <div className="px-4 py-4 border-t border-border bg-white space-y-3">
             <div className="flex flex-wrap gap-x-6 gap-y-1 text-sm">
               <span>
-                <span className="text-muted font-medium">Manufacturer: </span>
-                <span className="text-body">{drug.manufacturer}</span>
+                <span className="font-bold text-dark">Sponsor: </span>
+                <span className="text-body">{drug.sponsor}</span>
               </span>
               <span>
-                <span className="text-muted font-medium">NDA Submission Date: </span>
+                <span className="font-bold text-dark">NDA Submission Date: </span>
                 <span className="text-body">{formatNDADate(drug.NDA_date)}</span>
               </span>
             </div>
@@ -153,6 +182,22 @@ function DrugCard({
                 {drug.summary}
               </ReactMarkdown>
             </div>
+            {(() => {
+              const entries = getRelevantGlossary(drug.summary);
+              if (entries.length === 0) return null;
+              return (
+                <div className="mt-3 pt-3 border-t border-border/50">
+                  <p className="text-xs italic text-muted">
+                    {entries.map(([acronym, expansion], i) => (
+                      <span key={acronym}>
+                        {i > 0 && ",  "}
+                        <span className="not-italic font-medium">{acronym}</span> — {expansion}
+                      </span>
+                    ))}
+                  </p>
+                </div>
+              );
+            })()}
           </div>
         )}
       </div>

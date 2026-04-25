@@ -1,0 +1,112 @@
+Source URL: https://clinicaltrials.gov/study/NCT07174492
+
+Efficacy and Safety of Masitinib in Combination With SoC Versus Placebo in the Treatment of ALS Patients
+ClinicalTrials.gov ID NCT07174492
+Sponsor AB Science
+Information provided by AB Science (Responsible Party)
+Last Update Posted 2025-10-03
+
+Study Overview
+Brief Summary
+The objective is to compare the efficacy and safety of masitinib in combination with riluzole versus matched placebo in combination with riluzole for the treatment of Amyotrophic Lateral Sclerosis (ALS).
+Detailed Description
+Masitinib is a selective, oral tyrosine kinase inhibitor with neuroprotective capability demonstrated via numerous preclinical studies. Two of masitinib's main cellular targets are the mast cell and microglia cell. It is well-established that mast cells play a prominent role in neuroinflammatory processes. Microglia, resident immune cells of the central nervous system (CNS), also constitute an important source of neuroinflammatory mediators and may have fundamental roles in numerous neurodegenerative disorders. The development of masitinib in ALS is therefore based on the pharmacological action of masitinib in microglia cells and mast cells, thereby slowing microglial-related disease progression, reducing neuro-inflammation, and modulating the neuronal microenvironment in both central and peripheral nervous systems. This is a multicenter, double-blind, randomized, placebo-controlled, parallel-group (two doses of masitinib and matching placebo), comparative study of oral masitinib in the treatment of patients with amyotrophic lateral sclerosis (ALS).
+Official Title
+A Prospective, Multicenter, Randomised, Double-blind, Placebo-controlled, Parallel Groups, Phase 3 Trial to Compare the Efficacy and Safety of Masitinib in Combination With Standard of Care Versus Placebo in Combination With Standard of Care in the Treatment of Patients Suffering From Amyotrophic Lateral Sclerosis (ALS)
+Conditions 
+Amyotrophic Lateral Sclerosis (ALS)
+Intervention / Treatment 
+Drug: Masitinib 4.5 mg/kg/day
+Drug: Placebo
+Drug: Riluzole (100 mg)
+Other Study ID Numbers 
+AB23005
+2024-511244-12-01 ( EU Trial (CTIS) Number )
+Study Start (Estimated) 
+2026-01-01
+Primary Completion (Estimated) 
+2028-12-31
+Study Completion (Estimated) 
+2029-12-31
+Enrollment (Estimated) 
+412
+Study Type 
+Interventional
+Phase 
+Phase 3
+
+
+Eligibility Criteria
+Description
+Inclusion Criteria:
+
+The patient must have been diagnosed with clinically probable or definite ALS based on the World Federation of Neurology Revised El Escorial criteria.
+Patients aged 18 to 80 years old and who have either familial or sporadic ALS.
+Patients must have been treated with a stable dose of Riluzole (100 mg/day) for at least 30 days before the entering the trial.
+If they are taking it, patients must have been on a stable dose for at least 30 days before study entry;
+Patients should have experienced the first symptom of ALS no longer than 36 months before the screening visit
+Disease Progression Rate: The ALSFRS-R progression rate (measured between onset and screening) should be between 0.3 and 1.1 point/month
+ALSFRS-R Total Score: At screening and baseline, patients need to meet the following criteria:
+
+Item #3: At least 3 points. Item #12: At least 2 points. Other Items: At least 1 point on each of the remaining 10 items
+
+Contraception: Female patients of childbearing potential and male patients must use a highly effective method of contraception during the trial and for a specified period afterwards
+Exclusion Criteria:
+
+Patients should not have any significant neurological, psychiatric, systemic or organic disease that could interfere with the trial
+Hypersensitivity to masitinib excipients or riluzole
+Lung function: patients with an FVC (forced vital capacity) of less than 70% of the predicted normal value for their gender, height, and age are excluded
+Patients with a weight less than 41 kg and a BMI (body mass index) less than 18 or greater than 35 kg/m² are not eligible.
+Pregnant or nursing female patients at screening and baseline are excluded
+Patients with pre-existing conditions that may be aggravated with the use of masitinib (severe skin toxicities or reactions, liver disorders, severe renal impairment, viral infections, cancer, severe cardiovascular disease, high risk of heart attack and/or stroke).
+Patient treated concomitantly with medications that may interact with masitinib
+Participants with a significant pulmonary disorder not attributed to ALS or who require treatments that might complicate the evaluation of the effect of ALS on respiratory function
+Previous treatment with masitinib
+Ages Eligible for Study 
+18 Years to 80 Years (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No
+Study Plan
+This section provides details of the study plan, including how the study is designed and what the study is measuring.
+
+Expand all / Collapse all
+How is the study designed?
+Design Details
+Primary Purpose  : Treatment
+Allocation  : Randomized
+Interventional Model  : Parallel Assignment
+Interventional Model Description: A multicenter, randomised, double-blind, placebo-controlled, parallel groups
+Masking  : Quadruple (ParticipantCare ProviderInvestigatorOutcomes Assessor)
+Arms and Interventions
+
+Participant Group/Arm 	Intervention/Treatment 
+Experimental: masitinib + riluzole
+Participants receive masitinib (3.0 mg/kg/day), given orally twice daily, with a dose escalation to 4.5 mg/kg/day after 4 weeks of treatment. Each ascending dose titration is subjected to a safety control. Masitinib will be administered as an add-on to riluzole at 50 mg b.i.d
+Drug: Masitinib 4.5 mg/kg/day
+Masitinib (titration to 4.5 mg/kg/day)
+
+Drug: Riluzole (100 mg)
+Riluzole 50 mg tablet, treatment per os
+
+Placebo Comparator: placebo + riluzole
+Participants receive a matched dose placebo, given orally twice daily, in combination with riluzole at 50 mg b.i.d.
+Drug: Placebo
+treatment per os
+
+Drug: Riluzole (100 mg)
+Riluzole 50 mg tablet, treatment per os
+
+What is the study measuring?
+Primary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+ALSFRS-R	The primary endpoint is ALSFRS-R after 48-week treatment of masitinib versus matching placebo in patients diagnosed with ALS treated with standard of care.The ALSFRS-R is a validated tool for tracking disability progression in ALS patients. It improves on the original ALSFRS by adding assessments of breathing difficulties and ventilatory support needs, addressing the earlier scale's underweighting of respiratory function. It includes 12 items rated from 0 (can't do) to 4 (normal), with a total score range of 0-48. The ALSFRS-R has strong internal consistency and correlates well with quality of life, highlighting the link between functional ability and well-being in ALS.	48 weeks
+Secondary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Progression free survival (PFS)	It is defined as the time from randomization to progression (decline of more than 9 points in ALSFRS-R score from baseline) or death in the trial period.	48 weeks
+Quality of Life assessment:	Change from baseline in ALSAQ- 40	48 weeks
+Collaborators and Investigators
+This is where you will find people and organizations involved with this study.
+Sponsor 
+AB Science

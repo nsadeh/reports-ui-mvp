@@ -1,0 +1,195 @@
+Source URL: https://investors.biogen.com/news-releases/news-release-details/fda-grants-accelerated-approval-qalsodytm-tofersen-sod1-als
+
+FDA Grants Accelerated Approval for QALSODY™ (tofersen) for SOD1-ALS, a Major
+Scientific Advancement as the First Treatment to Target a Genetic Cause of ALS
+April 25, 2023
+FDA granted accelerated approval of QALSODY based on a reduction of neurofilament, a marker of neurodegeneration1
+Superoxide dismutase 1 (SOD1)-amyotrophic lateral sclerosis (ALS) is a devastating, uniformly fatal,2
+ and ultra-rare
+genetic form of ALS3-4 with approximately 330 people in the U.S. living with the disease5
+CAMBRIDGE, Mass., April 25, 2023 (GLOBE NEWSWIRE) -- Biogen Inc. (Nasdaq: BIIB) announced today that the U.S. Food and Drug
+Administration (FDA) has approved QALSODY™ (tofersen) 100 mg/15mL injection for the treatment of amyotrophic lateral sclerosis (ALS) in adults
+who have a mutation in the superoxide dismutase 1 (SOD1) gene. This indication is approved under accelerated approval based on reduction in
+plasma neurofilament light chain (NfL) observed in patients treated with QALSODY. Continued approval for this indication may be contingent upon
+verification of clinical benefit in confirmatory trial(s).1 The ongoing Phase 3 ATLAS study of tofersen in people with presymptomatic SOD1-ALS will
+serve as the confirmatory trial.1
+Neurofilaments are proteins that are released from neurons when they are damaged, making them a marker of neurodegeneration.6
+“For more than a decade, Biogen has been steadfast in our commitment to pursuing treatments for ALS, and I want to thank the scientists as well as
+the entire ALS community who have all worked tirelessly to bring this first-of-its-kind treatment to people with SOD1-ALS,” said Christopher A.
+Viehbacher, President and Chief Executive Officer of Biogen. “Today also marks a pivotal moment in ALS research as we gained, for the first time,
+consensus that neurofilament can be used as a surrogate marker reasonably likely to predict clinical benefit in SOD1-ALS. We believe this important
+scientific advancement will further accelerate innovative drug development for ALS.”
+QALSODY is the first approved treatment to target a genetic cause of ALS.1 Biogen collaborated with Ionis Pharmaceuticals on the early development
+of tofersen.
+Warnings and precautions associated with QALSODY were serious neurologic events, including myelitis and/or radiculitis; papilledema and elevated
+intracranial pressure; and aseptic meningitis. If symptoms consistent with myelitis, radiculitis papilledema, elevated intracranial, or aseptic meningitis
+develop, diagnostic workup and treatment should be initiated according to the standard of care. Management may require interruption or
+discontinuation of QALSODY. The most common adverse reactions that occurred in ≥10% of QALSODY treated participants and more than the
+placebo arm were pain, fatigue, arthralgia, cerebrospinal (CSF) white blood cell increased, and myalgia.1
+“Since SOD1 mutations were first identified as a cause of ALS 30 years ago, the familial ALS community has been searching for genetically targeted
+treatments. QALSODY offers families who have lost generation after generation in the prime of their life to this devastating disease a therapy targeting
+the underlying cause of SOD1-ALS. Today marks an important moment in ALS research as QALSODY is the first ALS treatment approved based on a
+biomarker,” said Jean Swidler, chair of Genetic ALS & FTD: End the Legacy. “We are excited to see what future therapies are developed now that it is
+understood that lowering levels of neurofilament provides important evidence that a treatment is affecting the neurodegenerative process.”
+The efficacy of QALSODY was assessed in a 28-week randomized, double-blind, placebo-controlled clinical study in patients 23 to 78 years of age
+with weakness attributable to ALS and a SOD1 mutation confirmed by a central laboratory. One hundred eight (108) patients were randomized 2:1 to
+receive treatment with either QALSODY 100 mg (n=72) or placebo (n=36) for 24 weeks (3 loading doses followed by 5 maintenance doses).
+Concomitant riluzole and/or edaravone use was permitted for patients and at baseline 62% of patients were taking riluzone, and 8% of patients were
+taking edaravone.1
+Over 28 weeks in VALOR, participants in the primary analysis population (n=60) treated with QALSODY experienced less decline from baseline as
+measured by the Revised Amyotrophic Lateral Sclerosis Functional Rating Scale (ALSFRS-R) compared to placebo, though the results were not
+statistically significant (QALSODY-placebo adjusted mean difference [95% CI]: 1.2 [-3.2, 5.5]). In the overall intent-to-treat population (n=108),
+QALSODY-treated participants experienced a 55% reduction in plasma NfL compared to a 12% increase in placebo-treated participants (difference in
+geometric mean ratios for QALSODY to placebo: 60%; nominal p<0.0001). Additionally, levels of CSF SOD1 protein, an indirect measure of target
+engagement, were reduced by 35% in the QALSODY-treated group compared to 2% in the corresponding placebo group (difference in geometric
+mean ratios for QALSODY to placebo: 34%; nominal p<0.0001).1
+At an interim analysis at 52 weeks of participants who had completed VALOR and enrolled in an open-label extension (OLE) study, reductions in NfL
+were seen in participants previously receiving placebo and who initiated QALSODY in the OLE, similar to the reductions seen in participants treated
+with QALSODY in VALOR. Earlier initiation of QALSODY compared to placebo/delayed-start of QALSODY was associated with trends for reduction in
+decline on measures of clinical function (ALSFRS-R), respiratory strength (slow vital capacity percent-predicted), and muscle strength (hand-held
+dynamometry megascore), though they were not statistically significant. QALSODY was also associated with a non-statistically significant trend
+towards reduction of the risk of death or permanent ventilation. These exploratory analyses should be interpreted with caution given the limitations of
+data collected outside of controlled study, which may be subject to confounding.1
+The approval of QALSODY was supported by 12-month integrated results from VALOR and its OLE comparing earlier initiation of tofersen (at the start
+of VALOR) to delayed initiation of tofersen (six months later, in the OLE), that were published in The New England Journal of Medicine.
+7
+“I have observed the positive impact QALSODY has on slowing the progression of ALS in people with SOD1 mutations,” said Timothy M. Miller, MD,
+PhD, principal investigator of the QALSODY clinical trials and co-director of the ALS Center at Washington University School of Medicine in St. Louis.
+“The FDA’s approval of QALSODY gives me hope that people living with this rare form of ALS could experience a reduction in decline in strength,
+clinical function, and respiratory function.”
+QALSODY will be made available for shipment in the U.S. to healthcare providers in approximately one week. Biogen anticipates there may be
+variation in time to treatment as institutions and treatment centers learn about QALSODY.
+What is QALSODY?
+QALSODYTM (tofersen) is a prescription medicine used to treat amyotrophic lateral sclerosis (ALS) in adults who have a mutation in the superoxide
+dismutase 1 (SOD1) gene. This indication is approved under accelerated approval based on reduction in plasma neurofilament light chain (NfL)
+observed in patients treated with QALSODY. Continued approval for this indication may be contingent upon verification of clinical benefit in
+confirmatory trial(s).
+IMPORTANT SAFETY INFORMATION
+What is the most important information that I should know about QALSODY?
+QALSODY can cause serious side effects, including:
+Inflammation of the spinal cord (myelitis) and/ or irritation of the nerve roots (radiculitis), including serious cases, have been reported in
+patients treated with QALSODY. Contact your healthcare provider to learn more about symptoms associated with myelitis or radiculitis, and/ or if you
+believe you are experiencing either of these conditions. QALSODY may need to be interrupted or discontinued.
+Swelling of the optic nerve (papilledema) and increased pressure inside the skull (elevated intracranial pressure), including serious cases,
+have been reported in patients treated with QALSODY. Contact your healthcare provider to learn more about symptoms associated with papilledema
+or elevated intracranial pressure, and/ or if you believe you are experiencing either of these conditions.
+Inflammation of the brain linings (aseptic meningitis), including serious cases, have been reported in patients treated with QALSODY. Contact
+your healthcare provider to learn more about symptoms associated with aseptic meningitis, and/ or if you believe you are experiencing this condition.
+What should I tell my HCP before I start using QALSODY?
+Before taking QALSODY, tell your healthcare provider if you are pregnant, plan to become pregnant, or are breastfeeding or plan to breastfeed.
+What are the possible side effects of QALSODY?
+The most common adverse reactions reported in patients treated with QALSODY were pain (back pain, pain in arms or legs), feeling tired, muscle
+and joint pain and increased white blood cell count in the cerebrospinal fluid (CSF).
+This information is not intended to replace discussions with your healthcare provider.
+These are not all the possible side effects of QALSODY. Please talk to your healthcare provider if you experience any of these symptoms, or
+other new symptoms that concern you.
+Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.
+Please see full Prescribing Information.
+For more details on QALSODY, visit www.QALSODY.com.
+About QALSODY ™(tofersen)
+QALSODY is an antisense oligonucleotide (ASO) designed to bind to SOD1 mRNA to reduce SOD1 protein production. QALSODY is indicated for the
+treatment of ALS in adults who have a mutation in the SOD1 gene in the U.S. This indication is approved under accelerated approval based on
+reduction in plasma NfL observed in patients treated with QALSODY. Continued approval for this indication may be contingent upon verification of
+clinical benefit in confirmatory trial(s). QALSODY is administered intrathecally as three loading doses administered at 14-day intervals followed by
+maintenance doses administered once every 28 days thereafter.1 In people with SOD1-ALS, mutations in their SOD1 gene cause their bodies to
+create a toxic misfolded form of SOD1 protein. This toxic protein causes motor neurons to degenerate, resulting in progressive muscle weakness, loss
+of function, and eventually, death.8
+Biogen licensed tofersen from Ionis Pharmaceuticals, Inc. under a collaborative development and license agreement. Tofersen was discovered by
+Ionis.
+In addition to the ongoing OLE of VALOR, QALSODY is being studied in the Phase 3, randomized, placebo-controlled ATLAS study to evaluate
+whether QALSODY can delay clinical onset when initiated in presymptomatic individuals with a SOD1 genetic mutation and biomarker evidence of
+disease activity (elevated plasma NfL). The primary efficacy endpoint is the proportion of participants with emergence of clinically manifest ALS.
+ATLAS is currently more than 50 percent enrolled with clinical trial sites in 14 countries worldwide with an estimated primary completion date in 2026.
+More details about ATLAS (NCT04856982) can be found at clinicaltrials.gov.
+Financial Assistance Programs and Access to QALSODY
+Biogen provides comprehensive support services which includes insurance couseling and financial assistance for eligible individuals. Support
+Coordinators are available to help with understanding insurance coverage, navigating the access landscape, and exploring financial assistance
+options including the QALSODY (tofersen) Copay Program, which may lower the out-of-pocket costs for eligible commercially insured patients to as
+low as $0. They can be reached at 1-877-725-7639 between the hours of 8:30 AM – 8:00 PM ET, Monday to Friday.
+ALS Identified™ Program
+Up to 15 percent of people living with ALS are thought to have a genetic form of the disease, whether or not they have a known family history. As
+genetic testing is not broadly available, Biogen sponsors a genetic testing program, ALS Identified™, for people living with ALS and their families in the
+U.S.
+Sponsored by Biogen and offered through Invitae, the ALS Identified™ program facilitates access to genetic counseling and testing for all individuals
+18 years or older within the U.S. and Puerto Rico with a clinical diagnosis of ALS, or a family history of ALS at no charge. More information about ALS
+Identified is available at insideALS.com, a website designed in collaboration with outside medical experts and the ALS community that offers
+continuous updates on the emerging science that provides insights and information to the ALS community. Interested people with ALS should talk to
+their doctor about genetic testing options and can learn more at insideALS.com.
+About Amyotrophic Lateral Sclerosis and SOD1-ALS
+Amyotrophic lateral sclerosis (ALS) is a rare, progressive and fatal neurodegenerative disease that results in the loss of motor neurons in the brain and
+the spinal cord that are responsible for controlling voluntary muscle movement. People with ALS experience muscle weakness and atrophy, causing
+them to lose independence as they steadily lose the ability to move, speak, eat, and eventually breathe. Average life expectancy for people with ALS is
+three to five years from time of symptom onset.2
+Multiple genes have been implicated in ALS. Genetic testing helps determine if a person’s ALS is associated with a genetic mutation, even in
+individuals without a known family history of the disease. SOD1-ALS is diagnosed in approximately 2 percent of all ALS cases, with about 330 people
+in the United States living with the disease.5 More than 15 percent of people with ALS are thought to have a genetic form of the disease;8 however,
+they may not have a known family history of the disease.5
+Biogen’s Continuous Commitment to ALS
+For over a decade, Biogen has been committed to advancing ALS research to provide a deeper understanding of all forms of the disease. The
+company has continued to invest in and pioneer research despite making the difficult decision to discontinue a late-stage ALS asset in 2013. Biogen
+has applied important learnings to its portfolio of assets for genetic and other forms of ALS, with the goal of increasing the probability of bringing a
+potential therapy to patients in need. These applied learnings include evaluating genetically validated targets in defined patient populations, pursuing
+the most appropriate modality for each target and employing sensitive clinical endpoints. In addition to QALSODY, the company has a pipeline of
+investigational drugs being evaluated in ALS, including BIIB105.
+About Biogen
+Founded in 1978, Biogen is a leading global biotechnology company that has pioneered multiple breakthrough innovations including a broad portfolio
+of medicines to treat multiple sclerosis, the first approved treatment for spinal muscular atrophy, and two co-developed treatments to address a
+defining pathology of Alzheimer’s disease. Biogen is advancing a pipeline of potential novel therapies across neurology, neuropsychiatry, specialized
+immunology and rare diseases and remains acutely focused on its purpose of serving humanity through science while advancing a healthier, more
+sustainable and equitable world.
+We routinely post information that may be important to investors on our website at www.biogen.com. Follow us on social
+media - Twitter, LinkedIn, Facebook, YouTube.
+Biogen Safe Harbor
+This news release contains forward-looking statements, the potential clinical effects of QALSODY; the potential benefits, safety and efficacy of
+QALSODY; the clinical development program for QALSODY; the identification and treatment of ALS; our research and development program for the
+treatment of ALS; the potential of our commercial business and pipeline programs, including QALSODY; and risks and uncertainties associated with
+drug development and commercialization. These forward-looking statements may be accompanied by words such as “aim,” “anticipate,” “believe,”
+“could,” “estimate,” “expect,” “forecast,” “intend,” “may,” “plan,” “potential,” “possible,” “will,” “would” and other words and terms of similar meaning.
+Drug development and commercialization involve a high degree of risk, and only a small number of research and development programs result in
+commercialization of a product. Results in early-stage clinical trials may not be indicative of full results or results from later stage or larger scale clinical
+trials and do not ensure regulatory approval. You should not place undue reliance on our forward-looking statements.
+These statements involve risks and uncertainties that could cause actual results to differ materially from those reflected in such statements, including
+without limitation, uncertainty of success in the development and potential commercialization of tofersen; the risk that we may not fully enroll our
+clinical trials or enrollment will take longer than expected; unexpected concerns may arise from additional data, analysis or results obtained during our
+clinical trials; regulatory authorities may require additional information or further studies, or may fail or refuse to approve or may delay approval of our
+drug candidates, including tofersen; the occurrence of adverse safety events; the risks of unexpected hurdles, costs or delays; failure to protect and
+enforce our data, intellectual property and other proprietary rights and uncertainties relating to intellectual property claims and challenges; product
+liability claims; and the direct and indirect impacts of the ongoing COVID-19 pandemic on our business, results of operations and financial condition.
+The foregoing sets forth many, but not all, of the factors that could cause actual results to differ from our expectations in any forward-looking
+statement. Investors should consider this cautionary statement, as well as the risk factors identified in our most recent annual or quarterly report and in
+other reports we have filed with the U.S. Securities and Exchange Commission. These statements speak only as of the date of this news release.
+We do not undertake any obligation to publicly update any forward-looking statements.
+References:
+1. QALSODY Prescribing Information, Cambridge, MA: Biogen.
+National Institute of Neurological Disorders and Stroke. Amyotrophic Lateral Sclerosis (ALS). Available at:
+https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als. Accessed: April 2023.
+2.
+Frederiksen SD, Avramović V, Maroilley T, et al. Rare disorders have many faces: in silico characterization of rare disorder
+spectrum. Orphanet J Rare Dis. 2022 Feb 22;17(1):76. doi: 10.1186/s13023-022-02217-9.
+3.
+Hee SW, Willis A, Tudur Smith C, et al. Does the low prevalence affect the sample size of interventional clinical trials of
+rare diseases? An analysis of data from the aggregate analysis of clinicaltrials.gov. Orphanet J Rare Dis. 2017 Mar
+2;12(1):44. doi: 10.1186/s13023-017-0597-1.
+4.
+Brown CA, Lally C, Kupelian V, Flanders WD. Estimated Prevalence and Incidence of Amyotrophic Lateral Sclerosis and
+SOD1 and C9orf72 Genetic Variants. Neuroepidemiology. 2021;55(5):342-353. doi: 10.1159/000516752. Epub 2021 Jul 9.
+5.
+Yuan A, Rao MV, Veeranna, Nixon RA. Neurofilaments and Neurofilament Proteins in Health and Disease. Cold Spring
+Harb Perspect Biol. 2017;9(4):a018309.
+6.
+Miller TM, Cudkowicz ME, Genge A, et al. Trial of Antisense Oligonucleotide Tofersen for SOD1 ALS. N Engl J Med.
+2022;387:1099-110. doi: 10.1056/NEJMoa2204705.
+7.
+Akcimen F, Lopez ER, Landers JE, et al. Amyotrophic lateral sclerosis: translating genetic discoveries into therapies. Nat
+Rev Genet. 2023. https://doi.org/10.1038/s41576-023-00592-y
+8.
+MEDIA CONTACT:
+Biogen
+Jack Cox
++ 1 210 544 7920
+public.affairs@biogen.com
+INVESTOR CONTACT:
+Biogen
+Chuck Triano
++1 781 464 2442
+IR@biogen.com 

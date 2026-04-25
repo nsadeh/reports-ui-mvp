@@ -1,0 +1,71 @@
+Source URL: https://www.biospace.com/amylyx-at-a-crossroads-can-the-company-overcome-the-loss-of-relyvrio
+
+Amylyx at a Crossroads: Can the Company Overcome the Loss of Relyvrio?
+April 17, 2024 | 7 min read | Heather McKenzie
+Twitter
+LinkedIn
+Facebook
+Email
+Print
+Pictured: Amylyx co-CEOs Josh Cohen and Justin Klee
+Pictured: Amylyx co-CEOs Josh Cohen and Justin KleeAmylyx
+After withdrawing ALS drug Relyvrio from the U.S. and Canadian markets and laying off 70% of its workforce, the Cambridge, Mass.–based biopharma got a much-needed win in Wolfram syndrome.
+A biopharma company that began as an idea in a dorm room at Brown University has suffered a critical setback—but some experts believe Amylyx may be able to overcome the loss of its only marketed product.
+
+On April 4, the Cambridge, Mass.–based company announced it would pull Relyvrio/Albrioza from U.S. and Canadian markets and part with around 70% of its employees after the amyotrophic lateral sclerosis (ALS) drug failed a Phase III clinical trial. In doing so, Amylyx co-CEOs Justin Klee and Josh Cohen made good on a pledge to a 2022 FDA advisory committee to withdraw the drug if the Phase III PHOENIX trial was not successful.
+
+When announcing topline results from the trial, the executives indicated that a decision on Relyvrio’s future would be forthcoming within eight weeks. It took less than four to make a choice that was applauded by regulatory experts and ALS advocates alike. The ALS Association further commended the decision to make the drug available for free to patients who believe it is helping them, according to The Washington Post.
+
+Klee told BioSpace that Amylyx made the decision after reviewing the data and engaging with regulatory authorities and the ALS community. “We try to boil every question down to, what’s best for people with the disease, what’s best for the families, what’s best for the community. We ran a large, randomized control trial. It was a very well-done trial, and the benefit was uncertain,” he said.
+
+“I think they’ve handled themselves remarkably,” said Graig Suvannavejh, a senior biopharmaceuticals and biotechnology equity research analyst at Mizuho Americas who has covered Amylyx since 2020. “It’s rare that we see a management team respond to adversity the way they have, in which I do think, at the end of the day, they are truly thinking about ALS patients first and foremost,” he told BioSpace.
+
+Suvannavejh added that Klee and Cohen’s youth may have assisted them in managing what he called a “public relations and investor relations nightmare.” Though relatively inexperienced compared to many of their peers, the co-CEOs have an optimism and idealism, but also a pragmatism, rarely seen in the biotech industry, Suvannavejh said.
+
+Merit Cudkowicz, chair of the neurology department at Massachusetts General Hospital who was a co-principal investigator on Relvyrio’s Phase II CENTAUR trial, said that for practical reasons, withdrawing a drug “doesn’t really matter” because “people aren’t going to prescribe it anymore and insurance isn’t going to cover it.” However, “As far as the message of a company that stuck to their word . . . that I think is a good precedent, hopefully, for future single trial approvals in ALS and other fatal neurological disorders by the FDA.”
+
+Relyvrio was approved by the FDA in September 2022 as just the third treatment for ALS after data from CENTAUR showed it extended patients’ lives by several months.
+
+Amylyx’s Origin Story
+Klee demurred when asked whether he and Cohen dreamed up Amylyx over beers, but the 33-year-old leader said the friends believed they had a different way of looking at neurodegenerative diseases. Moreover, “we realized that if we didn’t pursue this approach, no one would.”
+
+Relyvrio (AMX0035), a combination of sodium phenylbutyrate (PB) and taurursodiol, is thought to reduce motor neuron cell death and inflammation and slow disease progression. “We really tried to dig into this concept of how do neurons die, what pathways need to be activated, and then is there any way we can target that?” Cohen said. It was that investigation that led to AMX0035. Cohen and Klee co-founded Amylyx in 2013 while they explored this question further.
+
+Part of that exploration included an early meeting with Rudolph “Rudy” Tanzi, a professor of neurology at Harvard Medical School and Massachusetts General Hospital and founding chair of Amylyx’s scientific advisory board. “I could see they really did their homework, beyond any undergraduate I’ve ever seen,” Tanzi told BioSpace.
+
+ALS wasn’t the original target for Amylyx, Tanzi explained. His area of expertise is Alzheimer’s disease, and the company’s name is based on the idea that the drug would be an elixir for the amyloid cascade. But then, as the three colleagues were going over early data, Cudkowicz happened to walk by Tanzi’s office. Upon learning that they were planning an Alzheimer’s trial, she noted that the drug may also work for ALS, where Phase II could be enough for FDA approval, Tanzi recalled. He saw the idea spark in their eyes and they pivoted to prioritize ALS.
+
+“It’s a beautiful narrative,” Suvannavejh said of two college buddies who ran with their idea to treat ALS patients. “It was very easy for everyone to want to rally behind the story.”
+
+But, on March 8, Amylyx reported that Relyvrio missed both the primary and secondary endpoints in the PHOENIX trial. After 48 weeks, the change from baseline on the Revised Amyotrophic Lateral Sclerosis Functional Rating Scale was not statistically significant. The company revealed more details about the trial Tuesday at the American Academy of Neurology’s annual meeting.
+
+And so, the fairy tale took a hit as the company of nearly 400 shrunk to just over 100 employees, and its stock plummeted by more than 80%.
+
+“Obviously [Relyvrio’s market withdrawal] has major implications for the company, given that the company was built and structured around making sure that every eligible person with ALS could get the treatment,” Klee said.
+
+In a December 2023 securities filing, Amylyx stated that 151 of its 384 full-time employees are directly engaged in research and development, while the remainder provided administrative, business and operations support.
+
+“We always say that the purpose of the company is to help people above all else, and we’re in really hard disease areas,” Klee continued. “People came to work and come to work at Amylyx because we’re all part of the much larger mission that’s bigger than any one of us. It’s bigger than the company.” Klee said that while the layoffs were “heartbreaking,” it was heartwarming to hear departing team members reaffirm their belief in the company’s mission and what they’ve accomplished together.
+
+‘Why Isn’t This Like Any Other Biotech Company?’
+Amylyx’s remaining employees will be focused on developing AMX0035 for three other diseases with a high unmet need: progressive supranuclear palsy (PSP) and Wolfram syndrome, neither of which has an approved treatment, and Alzheimer’s.
+
+In a much-needed win last week, Amylyx reported positive interim results from a Phase II trial of AMX0035 in Wolfram syndrome, a rare genetic disease characterized by childhood-onset diabetes, optic nerve atrophy and neurodegeneration. The preliminary data, from eight adult participants who had completed 24 weeks of treatment, showed the drug improved pancreatic function and glycemic control.
+
+Meanwhile, AMX0035 is in pivotal trials in PSP, a rare, degenerative neurological disorder, with an interim data analysis from the Phase III ORION study planned for mid-2025. The compound is also in Phase II trials for Alzheimer’s disease. In the Phase II PEGASUS trial, the biomarkers were in the right direction,” Tanzi said.
+
+And Amylyx has not abandoned the disease where it made its name. An antisense oligonucleotide targeting the gene encoding calpain-2 (CAPN2) is currently in Investigational New Drug–enabling studies for ALS.
+
+“One of the first things that we see in ALS is that the axon retracts from the neuromuscular junction,” interfering with voluntary motor control, Klee said. One of the key effectors in the degeneration of the axons is CAPN2, which is elevated in people with ALS, he added.
+
+Cohen noted that the antisense oligonucleotide, dubbed AMX0114, was invented and developed at Amylyx. “We had a professor who once said that every disease has already been cured. Just nobody’s read the papers,” he said. “Calpain-2 is one of these targets that [has] just decades and decades of literature but no serious pharmaceutical effort to date that’s really gone the distance or gone into clinic.” Cohen said Amylyx hopes to take AMX0114 into the clinic by the end of 2024.
+
+“I think [Amylyx is] committed to being an ALS company,” Cudkowicz said, “which is nice, because they have all this knowledge about the field.”
+
+She added that she believes Amylyx will make it. “I think they have a good chance, if not better, than some of the other small companies in ALS who don’t have the resources and experience they have. They know the community, they know the outcomes, they know the regulatory pathway. They’re very committed, and I think they have the respect of the community.”
+
+Suvannavejh also believes Amylyx could pull through. He noted that Amylyx has “plenty of money,” with $371.4 million in cash, cash equivalents and short-term investments as of December 2023, according to an SEC filing.
+
+“While I think many people have written them off as a company, I also feel that many times, biotech companies are like cats and somehow have nine lives,” he said. “With that in mind, I wouldn’t be surprised to see Amylyx bounce back up and be better again.”
+
+Heather McKenzie is a senior editor at BioSpace. You can reach her at heather.mckenzie@biospace.com. Also follow her on LinkedIn.

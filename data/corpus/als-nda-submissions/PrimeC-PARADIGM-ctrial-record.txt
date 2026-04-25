@@ -1,0 +1,91 @@
+Source URL: https://clinicaltrials.gov/study/NCT05357950?term=NCT05357950&viewType=Card&rank=1
+
+Completed
+A Phase IIb, Multi-Center, Multinational, Double-Blind, Placebo-Controlled Study, With an Open Label Extension, to Evaluate Safety, Tolerability and Efficacy of PrimeC in Subjects With ALS (PARADIGM)
+ClinicalTrials.gov ID NCT05357950
+Sponsor NeuroSense Therapeutics Ltd.
+Information provided by NeuroSense Therapeutics Ltd. (Responsible Party)
+Last Update Posted 2025-09-05
+
+
+Study Overview
+Brief Summary
+69 subjects with ALS will be enrolled in the study and randomized at a 2:1 ratio to receive the study drug or placebo tablets. Randomization sequences will be in random block sizes and stratified for ENCALS risk category [high risk ≥ -4.5 vs. low risk < -4.5], and for background ALS treatment (riluzole and/or edaravone and/or sodium phenylbutyrate and/or taurursodiol) vs. no background ALS treatment.
+
+All subjects will be administered the drug/placebo twice daily (BID), two tablets each time, for 6 months. Subjects will be allowed to receive standard of care (SOC) treatment of approved products (i.e., riluzole and edaravone). Additionally, subjects will be allowed to receive treatment with off-label sodium phenylbutyrate and taurursodiol, which are accepted for ALS treatment.
+
+Subjects will be evaluated every 2 months for safety, tolerability (adverse events, safety laboratory, vital signs, ECG, withdrawal rates and reasons) and efficacy (e.g. biomarkers, clinical outcomes (ALSFRS-R and SVC, quality of life and survival).
+
+All subjects who complete the 6 months dosing will be switched to the active arm for a 12-month open label extension (OLE).
+
+Official Title
+A Phase IIb, Randomized, Multi-Center, Multinational, Prospective, Double-Blind, Placebo-Controlled Study, With an Open Label Extension, to Evaluate Safety, Tolerability and Efficacy of PrimeC in Subjects With ALS
+Conditions 
+Amyotrophic Lateral Sclerosis
+ALS
+Intervention / Treatment 
+Drug: PrimeC
+Drug: Placebo
+Other Study ID Numbers 
+NST003
+Study Start (Actual) 
+2022-05-31
+Primary Completion (Actual) 
+2023-11-02
+Study Completion (Actual) 
+2024-11-04
+Enrollment (Actual) 
+69
+Study Type 
+Interventional
+Phase 
+Phase 2
+
+
+Study Plan
+This section provides details of the study plan, including how the study is designed and what the study is measuring.
+
+Expand all / Collapse all
+How is the study designed?
+Design Details
+Primary Purpose  : Treatment
+Allocation  : Randomized
+Interventional Model  : Parallel Assignment
+Masking  : Quadruple (ParticipantCare ProviderInvestigatorOutcomes Assessor)
+Arms and Interventions
+
+Participant Group/Arm 	Intervention/Treatment 
+Active Comparator: PrimeC
+2 tablets of PrimeC administered twice daily (4 tablets a day), at a daily dose of 1496 mg
+Drug: PrimeC
+Ciprofloxacin and celecoxib combination extended release formulation
+
+Placebo Comparator: Placebo
+2 tablets of Placebo administered twice daily (4 tablets a day). Placebo tablets are matched in size, color and taste.
+Drug: Placebo
+Placebo matches active drug in size, color and taste
+
+What is the study measuring?
+Primary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Incidence and severity of treatment-emergent adverse events (TEAEs)	Treatment emergent adverse event is any medical event associated with the drug	6 months
+Number of subjects who discontinued treatment prematurely	Number of subjects whose treatment is stopped prematurely for any reason	6 months
+Number of patients who discontinued treatment prematurely due to adverse events	Number of patients whose treatment is stopped prematurely specifically due to adverse events	6 months
+Number of patients with clinically significant abnormal laboratory values	 	6 months
+The mean difference between PrimeC and Placebo in serum concentration of NDE TDP-43 at month 6	 	6 months
+The mean difference between PrimeC and placebo in serum concentration of NDE PgJ2 at month 6	 	6 months
+Secondary Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Change from baseline to 6 months in ALS functional rating scale - revised (ALSFRS-R)	 	6 months
+Change from baseline to 6 months in slow vital capacity (SVC)	 	6 months
+Change from baseline to 6 months in quality of life ALSSQOL-SF	 	6 months
+Change from baseline to 6 months in PROMIS-10 quality of life questionnaire	 	6 months
+Survival at 6 months of treatment	Overall Survival defined as time to death from any cause at 6 months of treatment	6 months
+Composite survival at 6 months of treatment	Composite of overall survival, defined as time to death from any cause, or respiratory insufficiency (defined as tracheostomy or the use of non-invasive ventilation for ≥22 h per day for ≥10 consecutive days) at 6 months of treatment	6 months
+Composite survival at 6 months of treatment	Composite of overall survival, defined as time to death from any cause, or respiratory insufficiency (defined as tracheostomy or the use of non-invasive ventilation for ≥22 h per day for ≥10 consecutive days), or time to hospitalization due to ALS-related complications at 6 months of treatment	6 months
+Joint Assessment of Function and Survival after 6 months of treatment	 	6 months
+Other Outcome Measures 
+Outcome Measure	Measure Description	Time Frame
+Change from baseline to 6 months in the following serum biomarkers: serum ferritin, transferrin, iron, neurofilaments and exosomal LC3, Dicer, and other biomarkers evaluating the effect of PrimeC on pathophysiological mechanisms in ALS	 	6 months
+Effect of PrimeC versus placebo on the time to reach advanced disease stages (King's/MiToS)	 	6 months
+Change from baseline to 6 months in Patient-ranked order of function (PROOF)	 	6 months

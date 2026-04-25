@@ -1,0 +1,50 @@
+Source URL: https://clinicaltrials.gov/study/NCT07322003?term=prevails&viewType=Card&rank=1
+
+Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS (PREVAiLS)
+ClinicalTrials.gov ID NCT07322003
+Sponsor Prilenia
+Information provided by Prilenia (Responsible Party)
+Last Update Posted 2026-02-27
+
+Study Overview
+Brief Summary
+The goal of this clinical trial is to learn if the drug pridopidine works to treat amyotrophic lateral sclerosis in adults. It will also help to learn about the safety of pridopidine. The main question it aims to answer is:
+
+Does pridopidine slow disease progression of ALS?
+
+Researchers will compare pridopidine to a placebo (a look-alike substance that contains no drug) to see if pridopidine works to treat ALS.
+
+Participants will:
+
+Take pridopidine or a placebo by mouth every day for 48 weeks. Afterwards, all participants will take pridopidine for another 48 weeks.
+
+Visit the clinic once every 1-3 months for checkups and tests
+
+Detailed Description
+This is a Phase 3, randomized study consisting of a double-blind placebo-controlled (DBPC) period followed by an open-label extension (OLE) to evaluate the efficacy and safety of pridopidine administered orally at a dose of 45 mg twice a day in adult participants with early and rapidly progressing ALS. Standard of care treatments (e.g. riluzole, edaravone and Nuedexta) will be allowed as long as participants are on a stable dose for at least 4 weeks prior to dosing. In the DBPC period, participants will be randomized in a 3:2 ratio to the pridopidine and placebo arms.
+
+In the DBPC period, participants will receive pridopidine or placebo for 48 weeks. In the OLE period, all participants will receive pridopidine for 48 weeks, while maintaining the blind to their original randomization for both the participant as well as the Investigator and other clinical staff. The total study duration per participant will be 102 weeks including screening and follow up.
+
+Throughout the study, participants will be assessed through on-site clinic visits and virtual visits (via telephone).
+
+Official Title
+A Phase 3, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Pridopidine in Participants With Amyotrophic Lateral Sclerosis
+Conditions 
+Amyotrophic Lateral Sclerosis
+Intervention / Treatment 
+Drug: Pridopidine
+Drug: Placebo
+Other Study ID Numbers 
+PL101-ALS301 / FNP254-CT-2501
+Study Start (Actual) 
+2026-02-01
+Primary Completion (Estimated) 
+2028-03
+Study Completion (Estimated) 
+2029-03
+Enrollment (Estimated) 
+500
+Study Type 
+Interventional
+Phase 
+Phase 3

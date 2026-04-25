@@ -25,10 +25,23 @@ function getTrials(drug: DrugEntry): TrialSegment[] {
   return [];
 }
 
+function formatNDALabel(raw: string): string {
+  if (/^\d{4}-\d{2}-\d{2}$/.test(raw)) {
+    const [year, month, day] = raw.split("-").map(Number);
+    return new Date(year, month - 1, day).toLocaleDateString("en-US", {
+      month: "long", day: "numeric", year: "numeric",
+    });
+  }
+  return raw.replace(/\s*\(estimated\)\s*/gi, "").trim();
+}
+
 type HoveredTrial = { drugName: string; trialName: string } | null;
 
 export default function GanttChart({ drugs }: { drugs: DrugEntry[] }) {
   const [hovered, setHovered] = useState<HoveredTrial>(null);
+  const [hoveredNDA, setHoveredNDA] = useState<string | null>(null);
+
+  const todayPct = pct(new Date().toISOString().split("T")[0]);
 
   const chartDrugs = drugs
     .filter(
@@ -44,21 +57,29 @@ export default function GanttChart({ drugs }: { drugs: DrugEntry[] }) {
 
   return (
     <div className="mb-10 px-5 pt-5 pb-6 bg-bg2 border border-border rounded-xl">
-      <h2 className="text-sm font-semibold text-dark mb-5">Trial &amp; NDA Submission Timeline</h2>
+      <h2 className="text-sm font-semibold text-dark mb-5">Clinical Trial &amp; NDA Submission Timeline</h2>
 
       {/* Year axis */}
       <div className="flex mb-1.5">
-        <div className="w-32 shrink-0" />
-        <div className="flex-1 relative h-4">
+        <div className="w-32 shrink-0 flex items-center">
+          <span className="text-[10px] font-semibold text-muted uppercase tracking-wide">Therapy</span>
+        </div>
+        <div className="flex-1 relative h-8">
           {YEARS.map((year) => (
             <span
               key={year}
-              className="absolute text-[10px] text-muted -translate-x-1/2 select-none"
+              className="absolute bottom-0 text-[10px] text-muted -translate-x-1/2 select-none"
               style={{ left: `${pct(`${year}-01-01`)}%` }}
             >
               {year}
             </span>
           ))}
+          <span
+            className="absolute top-0 text-[10px] font-semibold text-red-400 -translate-x-1/2 select-none"
+            style={{ left: `${todayPct}%` }}
+          >
+            Today
+          </span>
         </div>
       </div>
 
@@ -85,6 +106,12 @@ export default function GanttChart({ drugs }: { drugs: DrugEntry[] }) {
               style={{ left: `${pct(`${year}-01-01`)}%` }}
             />
           ))}
+
+          {/* Today line */}
+          <div
+            className="absolute top-0 bottom-0 w-0.5 bg-red-400 z-20 pointer-events-none"
+            style={{ left: `${todayPct}%` }}
+          />
 
           {/* Drug rows */}
           {chartDrugs.map((drug) => {
@@ -130,20 +157,25 @@ export default function GanttChart({ drugs }: { drugs: DrugEntry[] }) {
                 })}
 
                 {/* NDA: exact tick or estimated range band */}
-                {isExact ? (
-                  <div
-                    className="absolute h-6 w-2 top-1/2 -translate-y-1/2 bg-lime rounded-sm z-10"
-                    style={{ left: `${ndaLeft - 0.3}%` }}
-                  />
-                ) : (
-                  <div
-                    className="absolute h-4 top-1/2 -translate-y-1/2 bg-lime/75 rounded z-10"
-                    style={{
-                      left: `${ndaLeft}%`,
-                      width: `${Math.max(ndaWidth, 0.8)}%`,
-                    }}
-                  />
-                )}
+                <div
+                  className={`absolute top-1/2 -translate-y-1/2 cursor-default ${hoveredNDA === drug.drug_name ? "z-30" : "z-10"}`}
+                  style={isExact
+                    ? { left: `${ndaLeft - 0.3}%`, width: "8px", height: "24px" }
+                    : { left: `${ndaLeft}%`, width: `${Math.max(ndaWidth, 0.8)}%`, height: "16px" }
+                  }
+                  onMouseEnter={() => setHoveredNDA(drug.drug_name)}
+                  onMouseLeave={() => setHoveredNDA(null)}
+                >
+                  <div className={`w-full h-full ${isExact ? "bg-lime rounded-sm" : "bg-lime/75 rounded"}`} />
+                  {hoveredNDA === drug.drug_name && (
+                    <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 pointer-events-none">
+                      <div className="bg-dark text-white text-[11px] px-2.5 py-1.5 rounded-md whitespace-nowrap shadow-lg">
+                        <div className="font-semibold">{formatNDALabel(drug.NDA_date)}</div>
+                      </div>
+                      <div className="w-0 h-0 mx-auto border-l-4 border-r-4 border-t-4 border-l-transparent border-r-transparent border-t-dark" />
+                    </div>
+                  )}
+                </div>
               </div>
             );
           })}

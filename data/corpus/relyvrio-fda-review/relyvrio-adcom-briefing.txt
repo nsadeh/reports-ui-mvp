@@ -1,0 +1,906 @@
+﻿FDA Briefing Document 
+ 
+
+NDA# 216660 
+Drug Name: AMX0035/ sodium phenylbutyrate (PB)  
+
+and taurursodiol (TURSO) 
+Applicant: Amylyx Pharmaceuticals, Inc. 
+
+ 
+Peripheral and Central Nervous System Drugs Advisory 
+
+Committee (PCNS) Meeting 
+September 7, 2022 
+
+Division of Neurology 1 
+Office of Neuroscience 
+
+Center for Drug Evaluation and Research 
+ 
+
+ 
+ 
+
+DISCLAIMER STATEMENT 
+The attached package contains background information prepared by the Applicant and the Food 
+and Drug Administration (FDA) for the panel members of the Advisory Committee. The 
+background package often contains assessments and/or conclusions and recommendations 
+written by individual FDA reviewers. Such conclusions and recommendations do not necessarily 
+represent the final position of the individual reviewers, nor do they necessarily represent the 
+final position of the Review Division or Office.  We have brought the drug AMX3005 to this 
+Advisory Committee in order to gain the Committee’s insights and opinions, and the background 
+package may not include all issues relevant to the final regulatory recommendation and instead 
+is intended to focus on issues identified by the Agency for discussion by the Advisory 
+Committee. The FDA will not issue a final determination on the issues at hand until input from 
+the Advisory Committee process has been considered and all reviews have been finalized.  The 
+final determination may be affected by issues not discussed at the Advisory Committee meeting. 
+  
+
+1 
+ 
+
+
+
+Table of Contents 
+ 
+Table of Contents ..................................................................................................................................... 2 
+
+Table of Tables ..................................................................................................................................... 3 
+Table of Figures .................................................................................................................................... 4 
+List of Abbreviations ........................................................................................................................... 5 
+
+1 INTRODUCTION ................................................................................................................................ 6 
+1.1 Applicant Proposed Indication ............................................................................................. 6 
+1.2 Purpose of the Meeting .......................................................................................................... 6 
+1.3 Draft Points to Consider ......................................................................................................... 6 
+
+2 BACKGROUND ................................................................................................................................. 6 
+2.1 Summary of PCNS AC meeting on March 30, 2022 ......................................................... 7 
+
+3 MAJOR AMENDMENT ..................................................................................................................... 8 
+3.1 New information submitted as confirmatory evidence .................................................. 8 
+3.2 Responder Analysis based on the ALSFRS-R of the proportion of patients in the 
+original trial who had an unusually strong response ................................................................. 8 
+3.3 Randomized, long-term overall survival (OS) information that highlight a critical 
+and complementary finding to the primary outcome and analyses ..................................... 11 
+3.4 Mechanistic Evidence for Impact on Neurodegeneration and Neuroinflammation 
+in CSF of a Related Disease Population ...................................................................................... 15 
+
+4 ADDITIONAL REGULATORY BACKGROUND ......................................................................... 17 
+4.1 Regulatory pathways to approval ...................................................................................... 17 
+4.2 Unmet medical need .............................................................................................................. 20 
+4.3 Regulatory flexibility ............................................................................................................. 20 
+4.4 History of regulatory flexibility in ALS ............................................................................. 21 
+4.5 Ongoing Phase 3 trial............................................................................................................ 22 
+4.6 Expanded Access .................................................................................................................. 23 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+2 
+ 
+
+
+
+Table of Tables 
+ 
+Table 1: Change from Baseline in CSF Biomarkers after 24 Weeks in the PEGASUS study ..... 15 
+ 
+ 
+
+3 
+ 
+
+
+
+Table of Figures 
+ 
+Figure 1: CENTAUR ALSFRS-R Individual Response by Treatment Group (mITT population) ... 9 
+Figure 2: Rank Preserving Structural Failure Time Model Results .................................................. 13 
+  
+ 
+
+4 
+ 
+
+
+
+List of Abbreviations 
+Abbreviation Definition 
+AC Advisory Committee 
+AD Alzheimer’s disease 
+ALS Amyotrophic Lateral Sclerosis 
+ALSFRS-R ALS Functional Rating Scale-Revised 
+CSF Cerebrospinal fluid 
+ENCALS European Network for the Cure of ALS 
+ER Endoplasmic reticulum 
+FDA Food and Drug Administration 
+HR Hazard ratio 
+ITT Intention to treat 
+MMRM Mixed measures 
+MRI Magnetic resonance imaging 
+NDA New drug application 
+nFL Neurofilament light chain 
+OLE Open-label extension 
+OS Overall survival 
+PET Positron emission tomography  
+RPSFTM Rank Preserving Structural Failure Time Model 
+SVC Slow vital capacity 
+
+  
+
+5 
+ 
+
+
+
+ 
+
+1 INTRODUCTION 
+   
+This briefing document discusses updates to the information supporting the marketing 
+application of AMX0035 for the treatment of ALS. 
+ 
+
+1.1   Applicant Proposed Indication 
+ 
+Proposed indication: AMX0035 is indicated for the treatment of amyotrophic lateral 
+sclerosis (ALS).  
+ 
+
+1.2  Purpose of the Meeting 
+ 
+
+We are reconvening the committee to continue discussion of the application in the 
+context of the additional analyses and data submitted by the Applicant. 
+ 
+
+1.3 Draft Points to Consider 
+ 
+Consider the strength of the currently available data regarding effectiveness, to include 
+the new information submitted and the information presented at the prior AC meeting, in 
+the context of the unmet need in amyotrophic lateral sclerosis (ALS), the status of the 
+ongoing Phase 3 trial, and the seriousness of ALS. 
+ 
+
+2    BACKGROUND 
+ 
+
+The Peripheral and Central Nervous System (PCNS) Drugs Advisory Committee (AC) 
+met on March 30, 2002, to discuss whether the data submitted by the Applicant is 
+adequate to establish the effectiveness for AMX0035 in the treatment of amyotrophic 
+lateral sclerosis (ALS). At this prior meeting, following discussion, four committee 
+members voted “Yes” (indicating that they felt the data supported the effectiveness of 
+AMX0035 for ALS), and six members voted “No” (indicating that they did not feel that 
+the data supported the effectiveness of AMX0035 in ALS).  
+Following the AC meeting, the Applicant submitted additional analyses of the survival 
+data from the CENTAUR study and its open-label extension, along with biomarker 
+results from a recently completed Phase 2 study of AMX0035 in Alzheimer’s disease. 
+The Applicant informed the Agency that the data and analyses in the new submission 
+were intended to contribute to the confirmatory evidence to accompany the primary 
+result of the CENTAUR study.  As discussed with the committee previously, one 
+
+6 
+ 
+
+
+
+successful study accompanied by confirmatory evidence may be an acceptable 
+approach to the provision of the substantial evidence of effectiveness required for 
+marketing approval. These additional analyses and new data constituted a major 
+amendment to the application, which extended the review timeline by 3 months to allow 
+for adequate consideration of this new information. 
+These analyses contained no new data from the CENTAUR study or its open-label 
+extension; the submission consisted of new analyses of previously submitted survival 
+data. Additionally, the Applicant provided biomarker data from the Alzheimer’s disease 
+study to show the effects of AMX0035 on markers of neurodegeneration in another 
+neurodegenerative disease.  
+We are reconvening the committee to continue discussion of the application in the 
+context of the additional analyses and data submitted by the Applicant. Recognizing the 
+substantial unmet medical need in ALS, as exists for so many of the devastating 
+neurological diseases for which treatments are desperately needed, we feel that it is 
+important that the committee is afforded the opportunity to consider this new 
+information, along with the information presented at the prior AC meeting, in that 
+context. 
+ 
+2.1 Summary of PCNS AC meeting on March 30, 2022 
+ 
+Following is a brief summary of the presentations and discussions from the previous AC 
+meeting on March 30, 2022.1 
+To support a finding of substantial evidence of effectiveness, the Applicant submitted 
+data from a single double-blind, placebo-controlled Phase 2 Study (AMX3500, also titled 
+CENTAUR) in 137 patients with ALS. The Applicant reported a statistically significant 
+result on the primary endpoint of the slope of the ALS Functional Rating Scale-Revised 
+(ALSFRS-R) change at 24 weeks (2.32-point difference at 24 weeks, p=0.034). The 
+ALSFRS-R is an acceptable functional endpoint for a clinical trial in ALS; however, FDA 
+raised concerns with the statistical analysis methodology which did not appropriately 
+account for deaths that occurred during the study. Additionally, FDA noted that the 
+prespecified statistical result was not exceptionally persuasive and there were analytical 
+and interpretative issues associated with its consideration. FDA expressed concerns 
+that the data may not be adequate to serve as a single study capable of independently 
+providing substantial evidence of effectiveness.  
+
+ 
+1 Meeting materials and transcripts from the March 30, 2022, PCNS advisory committee meeting are available 
+online.  
+https://www.fda.gov/advisory-committees/peripheral-and-central-nervous-system-drugs-advisory-
+committee/updated-meeting-time-and-open-public-hearing-time-march-30-2022-meeting-peripheral-and-
+central#event-materials 
+
+7 
+ 
+
+
+
+The Applicant also submitted data from an open-label extension study (AMX3500OLE) 
+and reported findings of a survival benefit in patients who initially received AMX0035 
+compared to those patients who originally received placebo in the CENTAUR study. 
+FDA noted concerns about the interpretability of the survival benefit given the large 
+number of dropouts in the open-label extension period and baseline imbalances 
+between the populations.   
+FDA had advised the Applicant prior to submission of its marketing application that an 
+additional Phase 3 study appeared necessary to confirm the findings discussed above.  
+The Applicant has an ongoing Phase 3 study in 600 patients with ALS worldwide. The 
+study has currently enrolled over 50% of the proposed study population and is expected 
+to complete in late 2023 to early 2024.   
+The committee was asked to vote on the following question: 
+“Do the data from the single randomized, controlled trial and the open-label extension 
+study establish a conclusion that sodium phenylbutyrate/taurursodiol is effective in the 
+treatment of patients with amyotrophic lateral sclerosis (ALS)?”   
+Four members voted “Yes” and six members voted “No”. There were no abstentions. All 
+members who voted expressed similar sentiments that the decision was difficult.  
+ 
+
+3 MAJOR AMENDMENT 
+ 
+
+3.1  New information submitted as confirmatory evidence 
+ 
+The Applicant acknowledged limitations to the CENTAUR study that may impact its 
+ability to stand alone as a single study to demonstrate substantial evidence of 
+effectiveness and submitted the following information as potential confirmatory evidence 
+to support the treatment benefit seen in the CENTAUR study.  
+As previously noted, CENTAUR was a 137 participant, randomized, placebo-controlled, 
+double-blind study in patients with ALS that met its prespecified primary outcome, a 
+statistically significant change on the slope of the ALSFRS-R at 24 weeks (2.32-point 
+difference at 24 weeks, p=0.034). The Applicant has provided additional analyses as 
+confirmatory evidence in an effort to support the findings in the CENTAUR study. 
+ 
+
+3.2  Responder Analysis based on the ALSFRS-R of the proportion of patients 
+in the original trial who had an unusually strong response 
+ 
+
+The first additional analysis is an individual responder analysis that uses participants as 
+their own controls and compares the response rate in the AMX0035 group to the 
+response rate in the placebo group. The Applicant conducted this post hoc analysis to 
+
+8 
+ 
+
+
+
+compare the progression rate of individual subjects during the study to their own 
+progression rates prior to entering the study as independent confirmatory evidence of 
+individual effect of the treatment. This individual responder analysis uses participants as 
+their own controls, and the Applicant believes that it may be less affected by any 
+baseline differences between groups.  
+To conduct this analysis, the Applicant calculated the number of patients within each 
+study arm that had a slower rate of progression during the study at Week 18 compared 
+to their pre-baseline progression rate (pre-study slope).  To calculate the pre-study 
+slope, the Applicant calculated the points lost on ALSFRS-R divided by months since 
+ALS symptom onset at the baseline visit. Responders were defined as those patients 
+whose actual rate of change during the study (at Week 18) was less than their own pre-
+baseline progression rate. Non-responders were defined as those whose actual rate of 
+progression was greater than or equal to their own pre-baseline progression rate, 
+patients who dropped out of the study prior to Week 12, and patients who died prior to 
+Week 18.  The Applicant states that Week 18 data was chosen for this analysis to 
+minimize the extent of missing data due to patient drop-out but is also a time point at 
+which response to treatment would be evident. 
+
+ 
+The Applicant reports that an individual response was observed in a greater proportion 
+of patients receiving AMX0035 (41%; 95% CI 31-52%) vs placebo (19%; 95% CI: 8-
+30%), odds ratio 3.06, p=0.0076 (Figure 1). 
+ 
+Figure 1: CENTAUR ALSFRS-R Individual Response by Treatment Group (mITT 
+population) 
+
+ 
+ 
+ 
+
+9 
+ 
+
+
+
+FDA Position: 
+This post hoc analysis is highly correlated with the primary analysis. Both change from 
+baseline slope and pre-study slope were used in the primary analysis; thus, this is not 
+independent data. Therefore, it does not appear that this data can be considered 
+independent confirmatory evidence as it uses the same data as the primary analysis. 
+Also, notwithstanding the Applicant’s explanation, it is unclear why the Applicant has 
+chosen to compare the treatment effect at Week 18, rather than Week 24 (the primary 
+analysis endpoint). We note that the effect size on the primary endpoint was larger at 
+Week 18 than Week 24.  
+Additionally, the Applicant claims that using participants as their own control may 
+provide independent evidence of effectiveness; however, this analysis doesn’t 
+completely use participants as their own controls. The analysis is still a comparison 
+between groups, comparing the response rate of patients receiving treatment to the 
+response rate of patients receiving placebo. A true within-patient analysis that uses 
+patients as their own control should calculate a treatment difference for each patient 
+enrolled in the study; this is not possible for patients assigned placebo in this study 
+design, and thus, is not an independent analysis from the primary analysis.  Additional 
+concerns with this analysis include: 
+
+- The pre-study slope was not directly measured and was calculated based on 
+retrospectively collected data.  
+ 
+
+o The variability of the change in slope may not be constant, because 
+“delFS” depends on time from symptom onset, which varies widely across 
+patients and the mean time from symptom onset of 59 weeks is 
+significantly longer than the double-blind follow-up of 18 weeks considered 
+in this analysis. 
+
+o Pre-randomization slope is based on a baseline measurement/presumed 
+score of 48 (normal) at disease onset. It is unlikely that patients would 
+have a maximum score at the time of diagnosis because they would have 
+signs and symptoms of ALS that prompted the work-up and subsequent 
+diagnosis.  
+
+o Linearity seems questionable for the pre-randomization slope because this 
+slope is calculated over a period of up to 608 days, which is much longer 
+than the 24 weeks of the primary efficacy study, for which the prior review 
+showed linearity may not hold.  
+
+o There is no way to check linearity of the pre-randomization slope. 
+ 
+
+- There is post-baseline starting of ALS medications, more in the drug arm, which 
+could confound this analysis. 
+ 
+
+Therefore, these data appear limited in their ability to provide independent 
+substantiation for the observed effect on [the primary endpoint. 
+
+ 
+ 
+
+10 
+ 
+
+
+
+3.3  Randomized, long-term overall survival (OS) information that highlight a 
+critical and complementary finding to the primary outcome and analyses 
+ 
+The Applicant contends that survival analyses from CENTAUR and the OLE can 
+also serve as confirmatory evidence for the effectiveness of AMX0035 in ALS, 
+given that death is an objective assessment.   
+ 
+The Applicant again presented the ITT Overall Survival (OS) in the OLE as of 
+March 1, 2021, the specified last day of the open-label treatment extension. This 
+analysis is the same analysis previously submitted to the NDA and discussed 
+with the committee.   
+ 
+CENTAUR included a double-blind treatment period for 24 weeks. After that, all 
+patients were given the option to enroll in an open-label, long-term extension 
+study to evaluate long-term safety and efficacy outcomes, including survival. The 
+Applicant notes that OS is not affected by drop-outs, since vital status was able 
+to be collected in all randomized patients but one (136 out of 137 patients 
+originally enrolled in CENTAUR). The Applicant also reports that patients and 
+investigators remained blinded to the assigned treatment in the randomized 
+phase throughout the open-label extension study.   
+ 
+For ITT participants, there was a nominally significant overall survival benefit 
+(HR=0.64) with longer median OS (23.5 months) observed in patients 
+randomized to AMX0035 than the median OS of patients randomized to placebo 
+(18.7 months) for a difference of 4.8 months. This analysis was reported and 
+reviewed during the initial NDA submission and discussed at the prior AC 
+meeting.  
+ 
+However, the Applicant now indicates that because the majority of placebo 
+patients (71%) crossed over into the OLE and received AMX0035, the ITT overall 
+survival does not account for treatment crossover and may underestimate the 
+survival benefit of the drug.  
+ 
+Therefore, two post hoc sensitivity analyses are provided to address this 
+potential crossover effect and are presented below. 
+  
+
+1) Using Natural History data to estimate benchmark survival time as the 
+control 
+
+2) Using Rank Preserving Structural Failure Time Model (RPSFTM) 
+ 
+
+1) Survival prediction algorithm created from natural history data 
+ 
+
+The first sensitivity analysis predicts overall survival time from baseline 
+prognostic factors created using data from more than 10,000 people with ALS 
+from 14 specialized ALS centers across Europe (ENCALS survival prediction 
+model). The Applicant worked with the originators of this survival model to 
+
+11 
+ 
+
+
+
+produce survival predictions for each individual participant in CENTAUR. They 
+calculated a Risk Profile for each subject and translated it to absolute survival 
+probabilities based on the ENCALS survival prediction model.  
+Per the Applicant, the AMX0035 and placebo groups had similar risk profiles and 
+similar predicted survival at baseline, suggesting that the groups were well 
+balanced at baseline on the commonly known prognostic factors.  
+The Applicant’s analysis shows that the median OS in the ITT AMX0035 
+treatment arm (N=89, OS=23.5 months) showed a prolongation of median OS of 
+9.9 months versus the ENCALS predicted treatment naïve median survival (13.6 
+months model predicted survival, p <0.0001).  This analysis compares the 
+treatment arm with a treatment naïve benchmark so does not have the concern 
+regarding crossover of the placebo group.  
+ 
+FDA Position: 
+There are a variety of concerns about the reliability of this analysis. Notably, this 
+is a non-randomized comparison to an external control that is subject to potential 
+confounding due to differences between the AMX0035-treated patients and the 
+external controls in unmeasured prognostic factors, measured prognostic factors 
+not accurately measured or captured by the survival prediction model, and/or 
+supportive care/interventions. FDA also notes that patients in the natural history 
+database were not in a clinical trial which could also lead to differences between 
+the groups. Furthermore, there was no pre-specified protocol and/or analysis 
+plan for this comparison and post hoc analyses are challenging to interpret. 
+Finally, we note that the same multiplicity issue exists here as with the ITT 
+mortality analysis based on comparing randomized groups in that death alone 
+was not a pre-specified primary or secondary endpoint in the double-blind period 
+or the OLE.  
+ 
+ 
+2) Rank Preserving Structural Failure Time Model (RPSFTM) to account for 
+
+treatment crossover 
+ 
+The Applicant states that other fields, such as oncology, have utilized placebo 
+crossover design to maintain ethical clinical trial designs, while also providing 
+estimation of survival benefit of treatment. One of these approaches to estimate 
+survival benefit is the rank-preserving structural failure time model (RPSFTM), 
+which controls for the effect of crossover in OS results if the associated 
+untestable assumptions hold. The RPSFTM provides an estimate of the OS time 
+for the placebo group, had treatment switching not occurred.  
+ 
+The Applicant used such a model to analyze the CENTAUR OLE data and 
+demonstrated that the estimated median survival benefit for AMX0035, as of 
+March 1, 2021, was 9.7 months, compared to the 4.8 month OS benefit seen in 
+
+12 
+ 
+
+
+
+the original NDA analysis. The estimated hazards ratio (HR) was 0.42 (0.18, 
+0.99) compared to the original 0.64 (0.42, 1.00). These results were published in 
+Muscle & Nerve2 and are presented below in Figure 2.  
+
+ 
+ 
+Figure 2: Rank Preserving Structural Failure Time Model Results 
+
+ 
+ 
+ 
+ 
+ 
+
+FDA Position:   
+ 
+
+The presented RPSFTM analysis is not independent data and is simply a new 
+method for analyzing the same survival data presented in the original NDA 
+submission. The Applicant has conducted this new analysis to attempt to 
+estimate what survival would have been in patients assigned to placebo had they 
+never entered the OLE. This can only be done with strong, untestable 
+assumptions. Furthermore, there were no prespecified analyses to adjust the 
+placebo arm for switching to AMX0035 in the OLE in the placebo vs. AMX0035 
+comparison, i.e., this is a post hoc analysis. Such switching was mandated for 
+continuing placebo completers by study design, which reduces the ability to 
+answer the question of a possible survival benefit of the original AMX0035 arm 
+compared to a hypothetical, unswitched placebo arm. The analysis also suffers 
+from the same interpretability challenges as the ITT analysis based on the 
+randomized groups, such as multiplicity issues due to the exploratory nature of 
+the death alone analysis. Despite all of these limitations, it is notable that while 
+the estimated effect from this analysis is slightly larger, the confidence interval is 
+
+ 
+2 Supplementary Appendix to Paganoni S, Watkins C, Cawson M, et. al. Survival analyses from the 
+CENTAUR trial in amyotrophic lateral sclerosis: Evaluating the impact of treatment crossover on 
+outcomes. Muscle Nerve 2022 May 4. doi: 10.1002/mus.27569. Epub ahead of print.  
+
+13 
+ 
+
+
+
+wider and the p-value is the same as from the ITT analysis based on the 
+randomized groups. 
+The following expands on the concerns about the reliability of the analysis and its 
+heavy reliance on strong unverifiable assumptions. The new analysis comparison 
+is counterfactual, i.e., it relies on assumptions about what the survival of patients 
+assigned to placebo would have been had they never switched to AMX0035 in 
+the OLE. These assumptions and the analysis are questionable because most 
+eligible placebo patients switched to AMX0035 by design, and the ineligible 
+placebo group (those patients who did not complete the double-blind period) is 
+not a random subset. In fact, the placebo patients who dropped out during the 
+double-blind period have a worse baseline average ALSFRS-R than the placebo 
+completers (i.e., eligible patients for switching). Within the placebo arm (n=48), 
+the mean baseline ALSFRS-R is 4.5 points higher for completers (37.6, n=38) 
+than for dropouts (33.1, n=10) and there is a similar difference in baseline 
+ALSFRS-R between double-blind period AMX0035 dropouts (also not eligible to 
+continue into the OLE) and AMX0035 completers. The Latimer et al.3 paper (a 
+reference cited by the Paganoni article) suggests that, based on a simulation 
+study, 1) the analysis with re-censoring is biased in favor of the treatment arm 
+and should therefore be accompanied by an analysis without re-censoring 
+(however the applicant stated that there was no viable solution for this data for 
+the RPSFTM model without re-censoring), and 2) the bias of the re-censoring 
+analysis increases with the proportion switching, which is very high for the 
+placebo arm in this trial. 
+Furthermore, most of the following best practices for the RPSFTM analysis were 
+not implemented in this situation: 
+
+• Carefully consider whether to include switch in trial design; it is preferable 
+not to include this from a data interpretation perspective. 
+
+ 
+• Include the planned method to handle switching up front in protocol and 
+
+analysis plan. 
+ 
+
+• Consider contemporaneous collection of data on treatment without switch 
+outside the trial, in a comparable setting, to provide external validation. 
+
+ 
+• Consider sensitivity analyses using other methods.  
+
+ 
+The following is a summary of limitations of the RPSFTM method: 
+
+ 
+3 NR Latimer, IR White, KR Abrams and U Siebert. Causal inference for long-term survival in randomised trials with 
+treatment switching: Should re-censoring be applied when estimating counterfactual survival times? Statistical 
+Methods in Medical Research 2019, Vol. 28(8) 2475–2493. 
+
+14 
+ 
+
+
+
+
+
+
+
+
+
+were not adjusted for multiplicity; therefore, the interpretation of the p-values is 
+limited. The submitted biomarker data are not clear evidence of a CNS effect or a 
+potential for clinical benefit in patients with ALS. 
+
+ 
+
+4 ADDITIONAL REGULATORY BACKGROUND 
+ 
+As noted above, there is a substantial unmet medical need in ALS, as exists for so 
+many of the devastating neurological diseases for which treatments are desperately 
+needed, with the ability to apply regulatory flexibility in the face of this demonstrated 
+need. As described in the 2019 FDA draft guidance on “Demonstrating Substantial 
+Evidence of Effectiveness for Human Drug and Biological Products”:4 “In all cases, FDA 
+must reach the conclusion that there is substantial evidence of effectiveness to approve 
+a drug; however, the degree of certainty supporting such a conclusion may differ, 
+depending on clinical circumstances (e.g., severity and rarity of the disease and unmet 
+medical need).” 
+The following information is provided as additional regulatory context for the committee 
+members to inform panel discussions. 
+ 
+
+4.1 Regulatory pathways to approval 
+ 
+Substantial Evidence of Effectiveness 
+To approve a drug, substantial evidence of effectiveness must be provided by the 
+Applicant. This standard must be met for all diseases, ranging from common, mild, non-
+life-threatening conditions with limited morbidity and abundant available treatments to 
+serious, life-threatening, and/or fatal diseases with limited available treatments. In the 
+neurological space, essentially all diseases fall into some aspect of the latter category 
+and demand the application of regulatory and scientific consideration and flexibility 
+appropriate to the context of the disease for which a given treatment is being 
+developed, along with a contextual consideration of the issues associated with that 
+treatment. Although two adequate and well-controlled clinical investigations are the 
+typical standard for generating substantial evidence of effectiveness in many disease 
+settings, there are scenarios in which a single trial can be used to establish 
+effectiveness, either with or without additional confirmatory evidence. As described in 
+FDA’s 1998 guidance, “Providing Clinical Evidence of Effectiveness for Human Drug 
+and Biological Products”5 and reiterated in the 2019 draft FDA Effectiveness Guidance, 
+
+ 
+4 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/demonstrating-substantial-
+evidence-effectiveness-human-drug-and-biological-products. When finalized, this guidance will represent the 
+current thinking of the FDA on this topic. 
+5 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/providing-clinical-evidence-
+effectiveness-human-drug-and-biological-products 
+ 
+
+17 
+ 
+
+
+
+in the absence of confirmatory evidence, reliance on a single trial to establish 
+effectiveness should generally be limited to situations in which the trial has 
+demonstrated a clinically meaningful and statistically very persuasive effect on mortality, 
+severe or irreversible morbidity, or prevention of a disease with potentially serious 
+outcome, and confirmation of the result in a second trial would be impracticable or 
+unethical. Essentially, we are able to rely on the evidence from a single trial in isolation 
+when it provides evidence that is similarly persuasive to that which might result from two 
+separate trials taken together. As we discussed with the committee previously, it 
+appears that the primary evidence provided by the placebo-controlled CENTAUR study, 
+in absolute isolation, is undoubtedly promising but does not appear independently 
+persuasive. 
+Under certain circumstances, FDA can also conclude that one adequate and well-
+controlled clinical investigation plus confirmatory evidence is sufficient to establish 
+effectiveness.  
+Factors that FDA may consider relevant to such a situation are described in the 
+aforementioned 2019 guidance, and include: 
+
+• The persuasiveness of the single trial 
+• The robustness of the confirmatory evidence 
+• The seriousness of the disease and whether there is an unmet need 
+• The size of the patient population 
+• Whether it is ethical and practicable to conduct more than one adequate and 
+
+well-controlled clinical investigation 
+As further described in the guidance, examples of confirmatory evidence may include: 
+
+• Data from adequate and well-controlled clinical studies that demonstrate the 
+effectiveness of the drug in a closely related approved indication 
+
+• Data that provide strong mechanistic support of the drug in the pathophysiology 
+of the disease 
+
+• Data from a well-documented natural history of the disease can potentially 
+reinforce very persuasive and compelling results from a single AWC study.  
+
+• Scientific knowledge about the effectiveness of other drugs in the same 
+pharmacological class 
+
+The same statutory standards for effectiveness apply to all new drugs, including drugs 
+developed for ALS. However, FDA has also long stressed the appropriateness of 
+exercising regulatory flexibility in applying the statutory standards to drugs for serious 
+disease with unmet medical needs, while preserving appropriate assurance of safety 
+and effectiveness. (21 CFR 312.80 subpart E, Drugs Intended to Treat Life-Threatening 
+
+18 
+ 
+
+
+
+and Severely Debilitating Illnesses). Whether one trial, one trial plus confirmatory 
+evidence, or two trials, consideration of the character and persuasiveness of the 
+evidence must take into account the nature of the disease under consideration and the 
+associated unmet medical need. In the neurological space, we will unfailingly consider 
+the evidence, whatever its quantity, in that context. 
+Accelerated approval 
+Often, when discussing substantial evidence of effectiveness, we are discussing 
+evidence based on direct assessment of clinical benefit, and such substantial evidence 
+may result in a traditional approval.  Accelerated approval is a particular type of 
+approval that FDA may grant for a product for a serious or life‐threatening disease or 
+condition upon a determination that the product has an effect on an endpoint that is not 
+itself a direct measure of the clinical benefit of interest but is instead reasonably likely to 
+predict that clinical benefit, taking into account the severity, rarity, or prevalence of the 
+condition and the availability or lack of alternative treatments. 
+Concerning accelerated approval, it is crucial to recognize that the evidentiary 
+standards for effectiveness are not lower for endpoints used to support accelerated 
+approval than those used for traditional approval.  Substantial evidence of an effect on 
+those endpoints must be demonstrated.  As we discussed with the committee 
+previously, substantial evidence comes from adequate and well controlled investigations 
+and is evidence that the drug will have the effect it purports or is represented to have in 
+labeling.  Accelerated approval concerns the character of the endpoints, not the 
+strength of the results on those endpoints.  An effect on an endpoint supporting 
+accelerated approval must be an effect on an endpoint that in its character is 
+reasonably likely to predict clinical benefit and, in its persuasiveness, provides 
+substantial evidence of effectiveness from adequate and well controlled trials, just as 
+substantial evidence of effectiveness on a clinically meaningful endpoint from adequate 
+and well controlled trials supports traditional approval.  
+In the case of AMX0035 for ALS, we do not have data for an effect of AMX0035 on an 
+endpoint that is reasonably likely to predict clinical benefit for ALS. The ALSFRS-R and 
+survival are direct measures of clinical benefit and are acceptable endpoints to support 
+traditional approval; therefore, if the Applicant provided data for these endpoints that 
+met the substantial evidence requirements, the Agency would be able to grant a 
+traditional approval.  
+It is also worth noting that some other countries have “conditional approval” marketing 
+authorization pathways that allow for an approval of a product that does not meet the 
+evidentiary standards for effectiveness required for “full” approval in those countries. 
+This pathway may often be confused for the “accelerated approval” pathway in the US; 
+however, there are distinct differences. Although both pathways are intended to 
+expedite the availability of therapies that address an unmet need, the “conditional” 
+pathway may allow for the marketing authorization for products for which the benefit-risk 
+
+19 
+ 
+
+
+
+of the medicine is positive, the benefit of immediate availability of the drug to patients is 
+greater than the risk inherent in the fact that additional data are still required, and it is 
+likely that the Applicant will be able to provide comprehensive data after marketing 
+authorization is granted.6 However, in contrast to the accelerated approval pathway in 
+the US, the “conditional” pathway does not have a requirement for substantial evidence 
+of effectiveness. 
+In this regard, it is important for the committee to be aware of and note the recent 
+approval of AMX0035 in Canada, using one of these “conditional approval” pathways, 
+the Health Canada regulatory authority known as “Notice of Compliance with Conditions 
+(NOC/c)”.  This form of market authorization is granted to a product on the basis of 
+promising evidence of clinical effectiveness.  “Promising clinical evidence” is explained 
+by Heath Canada to be evidence based on well-controlled and well-conducted clinical 
+trials establishing that the drug product has an effect on a surrogate or clinical endpoint 
+that is reasonably likely to predict clinical benefit.7  It is thus similar in some ways to 
+FDA’s accelerated approval pathway but relies on promising evidence rather than 
+substantial evidence. 
+ 
+
+4.2 Unmet medical need 
+ 
+There are currently two approved products for ALS in the US, riluzole and edaravone.  
+Although these drugs have demonstrated benefits for ALS, the disease remains 
+progressive and fatal despite these available therapies.  There is an urgent unmet 
+medical need for new treatments for individuals with ALS.  This unmet need provides 
+important context when considering the evidence supporting the AMX0035 application. 
+ 
+
+4.3 Regulatory flexibility 
+ 
+Our regulations allow for regulatory flexibility to expedite the development, evaluation, 
+and marketing of new therapies intended to treat persons with life-threatening and 
+severely debilitating illnesses, especially where no satisfactory alternative therapy 
+exists. As stated in 21 CFR 312.80 Subpart E Drugs Intended to Treat Life-Threatening 
+and Severely-Debilitating Illnesses:  
+“The Food and Drug Administration (FDA) has determined that it is appropriate to 
+exercise the broadest flexibility in applying the statutory standards, while preserving 
+appropriate guarantees for safety and effectiveness. These procedures reflect the 
+
+ 
+6 https://www.ema.europa.eu/en/human-regulatory/marketing-authorisation/conditional-marketing-
+authorisation 
+7 https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/applications-
+submissions/guidance-documents/notice-compliance-conditions.html  
+ 
+
+20 
+ 
+
+
+
+recognition that physicians and patients are generally willing to accept greater risks or 
+side effects from products that treat life-threatening and severely debilitating illnesses, 
+than they would accept from products that treat less serious illnesses. These 
+procedures also reflect the recognition that the benefits of the drug need to be 
+evaluated in light of the severity of the disease being treated.” 
+The 2019 FDA draft guidance, “Demonstrating Substantial Evidence of Effectiveness for 
+Human Drug and Biological Products”, discusses clinical circumstances where 
+additional flexibility may be warranted, such as when a disease is rare or the disease is 
+life-threatening or severely debilitating with an unmet medical need. 
+The guidance states that, “in certain settings, a somewhat greater risk (compared to 
+placebo-controlled or other randomized superiority trials) of false positive conclusions – 
+and therefore less certainty about effectiveness – may be acceptable, when balanced 
+against the risk of rejecting or delaying the marketing of an effective therapy, (…) for an 
+unmet medical need.” 
+The guidance provides examples of the use of regulatory flexibility in consideration of 
+alternate trial designs to the standard randomized, double-blind, placebo-controlled 
+study and the use of surrogate or intermediate clinical endpoints under the accelerated 
+approval pathway. Additionally, the guidance states when flexibility may be considered 
+on the p-value:  
+ “A typical criterion for concluding that a trial is positive (showed an effect) is a p value 
+of < 0.05 (two sided). A lower p value, for example, would often be expected for reliance 
+on a single trial. For a serious disease with no available therapy or a rare disease where 
+sample size might be limited, as discussed further below, a somewhat higher p value – 
+if prespecified and appropriately justified – might be acceptable.” 
+Regarding the number of trials considered sufficient to establish effectiveness, the 
+guidance states that a single trial may be sufficient “when a large multicenter trial has 
+demonstrated a clinically meaningful and statistically very persuasive effect on mortality, 
+irreversible morbidity, or prevention of a disease with potentially serious outcome, a 
+second trial would be impracticable or unethical.” For rare diseases the guidance notes 
+that, “a second trial may be infeasible in certain rare disease settings where the limited 
+patient populations preclude the conduct of a second trial. In these cases, the 
+substantial evidence of effectiveness would typically be provided by a single trial plus 
+confirmatory evidence.”  
+ 
+
+4.4  History of regulatory flexibility in ALS 
+ 
+There are two FDA-approved treatments for ALS, riluzole and edaravone. Both 
+approvals demonstrate the Agency’s history of regulatory flexibility in ALS.  
+
+21 
+ 
+
+
+
+Riluzole (Rilutek) was approved for ALS in 1995. The exact mechanism by which 
+riluzole exerts its therapeutic effects in patients with ALS is unknown, although it is 
+purported in the literature to modulate the neurotransmitter glutamate. 
+The approval of riluzole for the treatment of ALS was based on two adequate and well-
+controlled trials that assessed survival. In both studies, riluzole did not show a 
+statistically significant difference using the pre-specified statistical analysis method 
+(p=0.12 and 0.076). The Agency felt that an alternative test was a more appropriate 
+statistical analysis method for these trials. Using this methodology, both studies were 
+found to demonstrate statistically significant effects on survival (p=0.05 for both studies). 
+These post hoc results using an alternative test in the two studies that resulted in an 
+exploratory finding of nominal significance was found to meet the substantial evidence 
+of effectiveness standard for riluzole in ALS. 
+The intravenous (IV) formulation of edaravone (Radicava) was approved for the 
+treatment of ALS in 2017, and an oral formulation (Radicava ORS) was approved for 
+ALS in 2022. The exact mechanism by which edaravone exerts its therapeutic effects in 
+patients with ALS is unknown, although it is purported in the literature to have an 
+antioxidant effect. 
+The approval of edaravone for the treatment of ALS was based on a single 6-month 
+randomized, double-blind, placebo-controlled trial conducted in 137 Japanese patients 
+(randomized 1:1) with ALS who were living independently. 
+The study demonstrated a statistically significant difference of 2.5 units (95% 
+confidence interval 1.0, 4.0; p=0.013) in decline of the ALSFRS-R. The results were 
+corroborated by multiple sensitivity analyses conducted by FDA (MMRM analysis 
+p=0.0003, Wilcoxon joint rank p=0.0009). Results of several secondary endpoints 
+trended favorably. FDA noted that the study had characteristics that made it 
+appropriate, as a single study, to provide substantial evidence of effectiveness. Some of 
+these characteristics included: a multicenter study in which no single site contributed an 
+unusually large fraction of the patients and no single site was disproportionately 
+responsible for the treatment effect; consistency across subsets of study participants; 
+persuasive results with strong p-values. 
+Although every drug development program is distinct and must be considered 
+individually, this history of the application of regulatory flexibility in ALS is a relevant 
+precedent for both ALS and other neurological diseases and should be taken into 
+account when considering the evidence supporting the AMX0035 application. 
+  
+
+4.5 Ongoing Phase 3 trial 
+ 
+Study A35-004 (PHOENIX) (NCT05021536) is a Phase 3, randomized, placebo-
+controlled trial of AMX0035 in patients with ALS. The primary objective of the trial will be 
+to assess AMX0035 compared to placebo on the change from baseline of ALSFRS-R 
+
+22 
+ 
+
+
+
+and survival over 48 weeks. The study also includes assessments of respiratory 
+function (slow vital capacity (SVC)), several patient-reported outcomes, and ventilation-
+free survival rates. The study will enroll approximately 600 subjects at over 70 sites in 
+the US and Europe. The trial is expected to complete in late 2023 or early 2024 with 
+results available shortly thereafter.  
+This places the Agency in a challenging situation of potentially making a regulatory 
+decision that may not be subsequently aligned with the results of the ongoing study.  
+ 
+
+4.6 Expanded Access 
+ 
+The Applicant has an expanded access program available in the United States (US), 
+Study A35-006, to allow for access for AMX0035 for eligible adults with ALS with 
+symptoms for at least 3 years and who are not eligible to participate in clinical trials.  
+Details regarding the US expanded access program are available on the applicant’s 
+website “US Early Access Program” and in clinicaltrials.gov (ClinicalTrials.gov Identifier: 
+NCT05286372). 
+ 
+ 
+ 
+ 
+
+23

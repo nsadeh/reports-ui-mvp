@@ -1,0 +1,36 @@
+Source URL: https://clinicaltrials.gov/study/NCT04856982
+
+A Study of BIIB067 (Tofersen) Initiated in Clinically Presymptomatic Adults With a Confirmed Superoxide Dismutase 1 Mutation (ATLAS)
+ClinicalTrials.gov ID NCT04856982
+Sponsor Biogen
+Information provided by Biogen (Responsible Party)
+Last Update Posted 2026-03-30
+
+Study Overview
+Brief Summary
+The primary objective of this study is to evaluate the efficacy of tofersen in presymptomatic adult carriers of a superoxide dismutase 1 (SOD1) mutation with elevated neurofilament (NF). The secondary objectives of this study are to evaluate the safety and tolerability tofersen and to evaluate the effect of tofersen on pharmacodynamics (PD)/treatment response biomarkers when initiated prior to versus at the time of emergence of clinically manifest amyotrophic lateral sclerosis (ALS).
+Official Title
+A Phase 3 Randomized, Placebo-Controlled Trial With a Longitudinal Natural History Run-In and Open-Label Extension to Evaluate BIIB067 Initiated in Clinically Presymptomatic Adults With a Confirmed Superoxide Dismutase 1 Mutation
+Conditions 
+Amyotrophic Lateral Sclerosis Associated With a SOD1 Gene Mutation
+Intervention / Treatment 
+Drug: Tofersen
+Drug: Placebo
+Other Study ID Numbers 
+233AS303
+2020-004590-51 ( EudraCT Number )
+Expanded Access 
+ Approved for sale to the public.
+See expanded access record.
+Study Start (Actual) 
+2021-05-17
+Primary Completion (Estimated) 
+2027-08-07
+Study Completion (Estimated) 
+2028-04-30
+Enrollment (Actual) 
+158
+Study Type 
+Interventional
+Phase 
+Phase 3

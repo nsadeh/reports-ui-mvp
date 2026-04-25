@@ -1,14 +1,14 @@
 {
   "id": "rpt_als_nda_submissions",
-  "title": "ALS Drug Pipeline: NDA Submissions & Approvals",
-  "subtitle": "FDA Regulatory Status — Amyotrophic Lateral Sclerosis",
+  "title": "ALS Pipeline: Late Clinical Stage & NDA Submissions",
+  "subtitle": "FDA Regulatory Status: Amyotrophic Lateral Sclerosis",
   "scope_type": "indication",
   "scope_value": "Amyotrophic Lateral Sclerosis (ALS)",
   "report_type": "Pipeline",
   "delivery_date": "2026-04-22",
   "analyst": {
     "name": "Batu Akkas",
-    "title": "Chief Pipeline Intelligence Officer",
+    "title": "Competitive Intelligence Expert",
     "credentials": ""
   },
   "status": "delivered",
@@ -18,5 +18,5 @@
   "payers_covered": [],
   "tags": ["pipeline", "FDA", "NDA", "ALS", "regulatory", "submissions"],
   "read_by": [],
-  "executive_summary_preview": "7 ALS drugs tracked across four regulatory stages — from FDA-approved to Phase 3 ongoing — spanning 2023 through estimated 2029."
+  "executive_summary_preview": "7 ALS drugs tracked across four regulatory stages, from FDA-approved to Phase 3 ongoing, spanning 2023 through estimated 2029."
 }
