@@ -1,4 +1,5 @@
 import { getAllReportMetas } from "@/lib/reports";
+import { getViewerScope } from "@/lib/auth";
 import Link from "next/link";
 
 function TypeBadge({ type }: { type: string }) {
@@ -58,8 +59,14 @@ const pastReports = [
   },
 ];
 
-export default function ReportsPage() {
-  const reports = getAllReportMetas();
+export default async function ReportsPage() {
+  const scope = await getViewerScope();
+  const isCustomer = scope.kind === "customer";
+  const allowedIds = scope.kind === "customer" ? scope.allowedReportIds : null;
+  const reports = allowedIds
+    ? getAllReportMetas().filter((r) => allowedIds.includes(r.id))
+    : getAllReportMetas();
+  const showPastReports = !isCustomer;
 
   return (
     <div className="p-8 max-w-6xl">
@@ -109,7 +116,7 @@ export default function ReportsPage() {
             ))}
 
             {/* Past editions (unclickable) */}
-            {pastReports.map((report, i) => {
+            {showPastReports && pastReports.map((report, i) => {
               const rowIndex = reports.length + i;
               return (
                 <tr

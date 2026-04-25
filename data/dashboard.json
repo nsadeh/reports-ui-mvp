@@ -1,6 +1,14 @@
 {
   "monitored_targets": [
     {
+      "target": "Amyotrophic Lateral Sclerosis (ALS)",
+      "tracked_drugs": 8,
+      "tracked_indications": 1,
+      "last_report_date": "2026-04-22",
+      "status": "new_report",
+      "active": true
+    },
+    {
       "target": "Alzheimer's Disease",
       "tracked_drugs": 10,
       "tracked_indications": 3,
