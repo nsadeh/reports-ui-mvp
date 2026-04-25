@@ -21,17 +21,7 @@ export async function POST(req: Request) {
     );
   }
 
-  const firstCustomerReport = (process.env.CUSTOMER_REPORT_IDS ?? "")
-    .split(",")
-    .map((s) => s.trim())
-    .filter(Boolean)[0];
-
-  const redirectTo =
-    role === "customer" && firstCustomerReport
-      ? `/reports/${firstCustomerReport}`
-      : "/";
-
-  const res = NextResponse.json({ ok: true, redirectTo });
+  const res = NextResponse.json({ ok: true, redirectTo: "/" });
   res.cookies.set({
     name: COOKIE_NAME,
     value: role,
