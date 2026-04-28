@@ -8,11 +8,14 @@ export async function POST(req: Request) {
   const password = typeof body.password === "string" ? body.password : "";
 
   const internal = process.env.SHARED_PASSWORD_INTERNAL ?? "";
-  const customer = process.env.SHARED_PASSWORD_CUSTOMER ?? "";
+  const customerPasswords = (process.env.SHARED_PASSWORD_CUSTOMER ?? "")
+    .split(",")
+    .map((p) => p.trim())
+    .filter(Boolean);
 
   let role: "internal" | "customer" | null = null;
   if (internal && password === internal) role = "internal";
-  else if (customer && password === customer) role = "customer";
+  else if (password && customerPasswords.includes(password)) role = "customer";
 
   if (!role) {
     return NextResponse.json(
