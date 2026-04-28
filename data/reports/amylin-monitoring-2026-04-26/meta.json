@@ -1,0 +1,28 @@
+{
+  "id": "rpt_amylin_monitoring_2026_04_26",
+  "title": "Amylin: Monitoring Update",
+  "subtitle": "Mar 1, 2026 – Apr 26, 2026",
+  "scope_type": "target_area",
+  "scope_value": "Amylin",
+  "report_type": "Monitoring",
+  "delivery_date": "2026-04-26",
+  "analyst": {
+    "name": "Batu Akkas",
+    "title": "Chief Pipeline Intelligence Officer",
+    "credentials": ""
+  },
+  "status": "delivered",
+  "next_scheduled": null,
+  "drugs_covered": ["Petrelintide", "ABBV-295", "Cagrilintide", "ACCG-2671"],
+  "indications_covered": ["Obesity", "Overweight", "Type 2 Diabetes"],
+  "payers_covered": [],
+  "tags": [
+    "amylin", "obesity", "weight management", "GLP-1", "amylin analogue",
+    "Phase 1", "Phase 2", "ZUPREME-1", "Zealand Pharma", "Roche", "AbbVie",
+    "Gubra", "Structure Therapeutics", "petrelintide", "ABBV-295", "cagrilintide",
+    "ACCG-2671", "in vitro", "skeletal muscle", "BD", "licensing", "ADA 2026",
+    "combination therapy", "GI tolerability", "small molecule"
+  ],
+  "read_by": [],
+  "executive_summary_preview": "Five developments across the amylin receptor agonist landscape: petrelintide's Phase 2 ZUPREME-1 trial showing up to 10.7% weight loss with placebo-like GI tolerability; ABBV-295 Phase 1 MAD data confirming up to 9.79% weight reduction with no SAEs; a published in vitro characterization of cagrilintide's skeletal muscle mitochondrial profile; Structure Therapeutics announcing ACCG-2671 NHP combination data at ADA 2026; and the AbbVie/Gubra licensing deal that brought ABBV-295 to a large-cap commercial partner."
+}

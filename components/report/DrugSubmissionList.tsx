@@ -7,17 +7,20 @@ import remarkGfm from "remark-gfm";
 export interface TrialSegment {
   name: string;
   phase: string;
-  start: string;
+  start: string | null;
   end: string;
 }
 
 export interface DrugEntry {
   drug_name: string;
+  therapy?: string;
   sponsor: string;
   event_type: string;
   NDA_date: string;
+  date_label?: string;
+  key_data?: string;
   summary: string;
-  trial_start?: string;
+  trial_start?: string | null;
   trial_end?: string;
   nda_range_start?: string;
   nda_range_end?: string;
@@ -26,23 +29,42 @@ export interface DrugEntry {
 
 const GLOSSARY: [string, string][] = [
   ["ALSFRS-R", "ALS Functional Rating Scale–Revised"],
+  ["AMY1", "Amylin Receptor 1"],
+  ["AMY3", "Amylin Receptor 3"],
   ["ASO", "Antisense Oligonucleotide"],
+  ["AUCtau", "Area Under the Plasma Concentration Curve per Dosing Interval"],
+  ["BMI", "Body Mass Index"],
+  ["CTA", "Conditioned Taste Avoidance"],
   ["CSF", "Cerebrospinal Fluid"],
   ["CTIS", "Clinical Trials Information System"],
   ["DBPC", "Double-Blind, Placebo-Controlled"],
   ["EMA", "European Medicines Agency"],
   ["FUS", "Fused in Sarcoma"],
   ["GFAP", "Glial Fibrillary Acidic Protein"],
+  ["GI", "Gastrointestinal"],
+  ["GIP", "Glucose-Dependent Insulinotropic Polypeptide"],
+  ["GIPR", "Glucose-Dependent Insulinotropic Polypeptide Receptor"],
+  ["GLP-1RA", "Glucagon-Like Peptide-1 Receptor Agonist"],
+  ["MAD", "Multiple Ascending Dose"],
   ["MGH", "Massachusetts General Hospital"],
+  ["mtDNA", "Mitochondrial DNA"],
   ["NDA", "New Drug Application"],
   ["NDS", "New Drug Submission"],
   ["NfL", "Neurofilament Light chain"],
+  ["NHP", "Non-Human Primate"],
   ["NIH-NINDS", "National Institutes of Health–National Institute of Neurological Disorders and Stroke"],
+  ["OCR", "Oxygen Consumption Rate"],
   ["OLE", "Open-Label Extension"],
+  ["OXPHOS", "Oxidative Phosphorylation"],
+  ["PA", "Palmitic Acid (lipotoxic challenge model)"],
   ["PDUFA", "Prescription Drug User Fee Act"],
+  ["PK", "Pharmacokinetics"],
   ["RCT", "Randomized Controlled Trial"],
+  ["SAD", "Single Ascending Dose"],
   ["SAEs", "Serious Adverse Events"],
+  ["SC", "Subcutaneous"],
   ["SOD1", "Superoxide Dismutase 1"],
+  ["TEAE", "Treatment-Emergent Adverse Event"],
 ];
 
 function getRelevantGlossary(summary: string): [string, string][] {
@@ -58,6 +80,10 @@ const SECTION_ORDER = [
   "submission announced",
   "trial end announced",
   "trial ongoing",
+  "trial_readout",
+  "research_publication",
+  "conference_announcement",
+  "bd_licensing",
 ];
 
 const SECTION_LABELS: Record<string, string> = {
@@ -65,6 +91,10 @@ const SECTION_LABELS: Record<string, string> = {
   "submission announced": "NDA Submission Announced",
   "trial end announced": "Trial Completion Announced",
   "trial ongoing": "Pivotal Trial Ongoing or Upcoming",
+  "trial_readout": "Trial Readouts",
+  "research_publication": "Preclinical & Research",
+  "conference_announcement": "Upcoming Conference Presentations",
+  "bd_licensing": "BD / Licensing Activity",
 };
 
 function formatNDADate(raw: string): string {
@@ -140,6 +170,24 @@ function DrugCard({
   isOpen: boolean;
   onToggle: () => void;
 }) {
+  const mdComponents = {
+    p: ({ children }: { children?: React.ReactNode }) => (
+      <p className="text-sm text-body leading-relaxed mb-2 last:mb-0">{children}</p>
+    ),
+    strong: ({ children }: { children?: React.ReactNode }) => (
+      <strong className="font-semibold text-dark">{children}</strong>
+    ),
+    ul: ({ children }: { children?: React.ReactNode }) => (
+      <ul className="list-disc pl-4 space-y-1.5 mt-1 mb-3 last:mb-0">{children}</ul>
+    ),
+    li: ({ children }: { children?: React.ReactNode }) => (
+      <li className="text-sm text-body leading-relaxed">{children}</li>
+    ),
+  };
+
+  const glossaryText = (drug.key_data ?? "") + " " + drug.summary;
+  const glossaryEntries = getRelevantGlossary(glossaryText);
+
   return (
     <div className="mb-3">
       <div className="rounded-lg border border-border overflow-hidden transition-shadow hover:shadow-sm">
@@ -154,50 +202,59 @@ function DrugCard({
         </button>
 
         {isOpen && (
-          <div className="px-4 py-4 border-t border-border bg-white space-y-3">
-            <div className="flex flex-wrap gap-x-6 gap-y-1 text-sm">
+          <div className="px-4 py-4 border-t border-border bg-white">
+            {/* Metadata line */}
+            <div className="flex flex-wrap gap-x-6 gap-y-1 text-sm mb-5">
+              {drug.therapy && (
+                <span>
+                  <span className="font-bold text-dark">Therapy: </span>
+                  <span className="text-body">{drug.therapy}</span>
+                </span>
+              )}
               <span>
                 <span className="font-bold text-dark">Sponsor: </span>
                 <span className="text-body">{drug.sponsor}</span>
               </span>
               <span>
-                <span className="font-bold text-dark">NDA Submission Date: </span>
-                <span className="text-body">{formatNDADate(drug.NDA_date)}</span>
+                <span className="font-bold text-dark">{drug.date_label ?? "NDA Submission Date"}: </span>
+                <span className="text-body">
+                  {drug.date_label ? drug.NDA_date : formatNDADate(drug.NDA_date)}
+                </span>
               </span>
             </div>
-            <div className="text-sm text-body leading-relaxed">
-              <ReactMarkdown
-                remarkPlugins={[remarkGfm]}
-                components={{
-                  p: ({ children }) => (
-                    <p className="text-sm text-body leading-relaxed mb-2 last:mb-0">
-                      {children}
-                    </p>
-                  ),
-                  strong: ({ children }) => (
-                    <strong className="font-semibold text-dark">{children}</strong>
-                  ),
-                }}
-              >
-                {drug.summary}
-              </ReactMarkdown>
+
+            {/* Key data bullets */}
+            {drug.key_data && (
+              <div className="text-sm text-body leading-relaxed mb-4">
+                <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+                  {drug.key_data}
+                </ReactMarkdown>
+              </div>
+            )}
+
+            {/* Drug background */}
+            <div className="pt-4 border-t border-border/50">
+              <p className="text-xs font-semibold text-muted uppercase tracking-wide mb-2">Drug Background</p>
+              <div className="text-sm text-body leading-relaxed">
+                <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
+                  {drug.summary}
+                </ReactMarkdown>
+              </div>
             </div>
-            {(() => {
-              const entries = getRelevantGlossary(drug.summary);
-              if (entries.length === 0) return null;
-              return (
-                <div className="mt-3 pt-3 border-t border-border/50">
-                  <p className="text-xs italic text-muted">
-                    {entries.map(([acronym, expansion], i) => (
-                      <span key={acronym}>
-                        {i > 0 && ",  "}
-                        <span className="not-italic font-medium">{acronym}</span> — {expansion}
-                      </span>
-                    ))}
-                  </p>
-                </div>
-              );
-            })()}
+
+            {/* Glossary */}
+            {glossaryEntries.length > 0 && (
+              <div className="mt-3 pt-3 border-t border-border/50">
+                <p className="text-xs italic text-muted">
+                  {glossaryEntries.map(([acronym, expansion], i) => (
+                    <span key={acronym}>
+                      {i > 0 && ",  "}
+                      <span className="not-italic font-medium">{acronym}</span> — {expansion}
+                    </span>
+                  ))}
+                </p>
+              </div>
+            )}
           </div>
         )}
       </div>
@@ -219,7 +276,7 @@ export default function DrugSubmissionList({ drugs }: { drugs: DrugEntry[] }) {
   }
 
   return (
-    <div>
+    <div className="mt-8">
       {grouped.map(([eventType, entries]) => (
         <div key={eventType} className="mb-8">
           <div className="flex items-center gap-3 mb-4">

@@ -1,0 +1,52 @@
+[
+  {
+    "drug_name": "Petrelintide: Phase 1 SAD/MAD & ZUPREME-1 Phase 2 Readouts",
+    "therapy": "Petrelintide",
+    "sponsor": "Zealand Pharma / Roche",
+    "event_type": "trial_readout",
+    "NDA_date": "March 5, 2026",
+    "date_label": "Most Recent Readout",
+    "key_data": "Olsen et al. published the first two clinical trials of petrelintide (Phase 1 SAD and MAD) in *Diabetes, Obesity and Metabolism* (April 22, 2026). Roche separately reported positive topline results from the 42-week Phase 2 ZUPREME-1 dose-finding trial in 493 participants with overweight or obesity (March 5, 2026).\n\n**Phase 1 SAD/MAD (Published April 22, 2026; Olsen et al.)**\n\n- 133 participants across two trials; MAD Part 2 in overweight/obesity cohort (mean BMI 29.9 kg/m²)\n- **Safety:** No SAEs in either trial; no dose reductions required; no anti-drug antibodies detected\n- **GI tolerability (both MAD parts):** GI disorders reported in ~**50%** of petrelintide- and placebo-treated participants across both parts of the MAD trial; one treatment discontinuation in MAD Part 2\n- **PK:** Terminal half-life ~**10 days** (absorption-independent); steady state after 5th weekly dose; SC bioavailability 77.4%\n- **Efficacy at week 16 (MAD Part 2):** **4.8%** weight loss (2.4 mg), **8.6%** (4.8 mg), **8.3%** (9.0 mg) vs. **1.7%** placebo; all placebo-adjusted differences significant (p ≤ 0.0002)\n\n**Phase 2 ZUPREME-1 (NCT06662539; Roche press release, March 5, 2026)**\n\n- **493 participants** with overweight or obesity (mean BMI 37 kg/m²); 5 dose arms; 33 sites (US, Poland, Romania)\n- All 5 petrelintide arms met primary endpoint at **week 28** vs. placebo\n- **Efficacy at week 42 (max effective arm):** **10.7%** mean weight loss vs. **1.7%** placebo; 98% of participants reached maintenance dose\n- **Safety (max effective arm):** AE discontinuation **4.8%** petrelintide vs. **4.9%** placebo; no vomiting; overall trial withdrawal 8.4% vs. 13.6% placebo\n- Full data (MRI body composition, 9-week follow-up) to be presented at future congress; ZUPREME-2 (T2D cohort) topline expected H2 2026",
+    "summary": "Petrelintide is a 37-amino acid, long-acting subcutaneous amylin analogue with potent agonistic activity at AMY1 and AMY3 amylin receptors and the calcitonin receptor. It is engineered for chemical and physical stability at neutral pH to support once-weekly SC dosing and potential co-formulation with other peptide therapeutics."
+  },
+  {
+    "drug_name": "ABBV-295: Phase 1 MAD Readout",
+    "therapy": "ABBV-295",
+    "sponsor": "AbbVie",
+    "event_type": "trial_readout",
+    "NDA_date": "March 9, 2026",
+    "date_label": "Phase 1 MAD Readout",
+    "key_data": "AbbVie reported positive topline results from the multiple ascending dose (MAD) part of its Phase 1 study (NCT06144684) of ABBV-295, testing doses of 2–14 mg across weekly, every-other-week, and monthly dosing cohorts in 76 participants (press release, March 9, 2026).\n\n**Phase 1 MAD (NCT06144684; AbbVie press release, March 9, 2026)**\n\n- **76 participants** (88.3% male); mean BMI < 30 kg/m²; doses 2–14 mg across weekly, every-other-week, and monthly cohorts\n- **Efficacy at weeks 12–13:** LS mean weight reduction ranged from **-7.75%** (weekly, Cohort 3) to **-9.79%** (weekly, Cohort 5a) vs. **-0.26%** placebo at week 12\n- Every-other-week cohort (5b): **-9.73%** at week 13; monthly cohort (6): **-7.86%** at week 13\n- **Safety:** No SAEs; GI adverse events predominantly mild, concentrated in first 6 weeks of treatment\n- AbbVie characterized results as supporting continued development as a potentially differentiated treatment for chronic weight management (per press release)",
+    "summary": "ABBV-295 (formerly GUB014295) is a long-acting subcutaneous amylin and calcitonin receptor agonist. It activates amylin and calcitonin receptors, with a non-incretin mechanism of action distinct from GLP-1 and GIP receptor agonists."
+  },
+  {
+    "drug_name": "Cagrilintide: Skeletal Muscle In Vitro Study",
+    "therapy": "Cagrilintide",
+    "sponsor": "University of Leicester / NIHR Leicester BRC (independent academic study)",
+    "event_type": "research_publication",
+    "NDA_date": "March 19, 2026",
+    "date_label": "Publication",
+    "key_data": "Old et al. published the first in vitro characterization of cagrilintide's skeletal muscle mitochondrial profile, comparing its effects with semaglutide and tirzepatide in C2C12 murine myotubes and primary human skeletal muscle cells (*Journal of Cachexia, Sarcopenia and Muscle*, March 19, 2026). This is an independent academic study; not a Novo Nordisk-sponsored disclosure.\n\n**In Vitro Mitochondrial Study (Published March 19, 2026; Old et al., doi:10.1002/jcsm.70254)**\n\n- **Model:** C2C12 murine myotubes + primary human skeletal muscle cells; Seahorse respirometry; healthy and PA-induced lipotoxic conditions; 10 nM and 400 nM doses\n- **At 48 h (healthy C2C12 myotubes):** Significant reductions in ATP production (cagril-low p = 0.02, cagril-high p = 0.002) and basal respiration (cagril-low p = 0.024, cagril-high p = 0.002); coupling efficiency unchanged (p > 0.05)\n- **By 5 days:** All effects fully resolved; mtDNA copy number stable throughout (no mitochondrial biogenesis disruption)\n- **Primary human myotubes (48 h):** Reductions in ATP production (p < 0.0001) and basal respiration (p = 0.0022) confirmed; resolved by 5 days\n- **Vs. tirzepatide:** Tirzepatide (dual GLP-1/GIP) produced sustained increases in maximal respiration and spare respiratory capacity by day 5; cagrilintide and semaglutide showed only transient suppression\n- **Limitation:** All findings from an in vitro model; in vivo validation required\n- Authors note further studies are warranted to assess combined GLP-1/amylin treatment effects",
+    "summary": "Cagrilintide is a long-acting amylin analogue that activates amylin receptors. It is in late-stage clinical development by Novo Nordisk as a monotherapy and as CagriSema (co-formulated with semaglutide 2.4 mg once-weekly)."
+  },
+  {
+    "drug_name": "ACCG-2671: ADA 2026 Poster Announcement",
+    "therapy": "ACCG-2671",
+    "sponsor": "Structure Therapeutics (NASDAQ: GPCR)",
+    "event_type": "conference_announcement",
+    "NDA_date": "June 7, 2026",
+    "date_label": "Presentation Date",
+    "key_data": "Structure Therapeutics announced two late-breaking poster presentations at ADA 2026 (June 5–8, 2026, New Orleans) featuring ACCG-2671, covering the first NHP combination data with aleniglipron and a conditioned taste avoidance comparison study (press release, April 27, 2026).\n\n**ADA 2026 Late-Breaking Posters (Press release, April 27, 2026)**\n\n- **Poster 3061-LB (June 7, 12:30–1:30 p.m. CT):** First NHP combination data for ACCG-2671 + aleniglipron (oral GLP-1RA); additional weight loss vs. monotherapy reported; no efficacy figures disclosed in announcement\n- **Poster 3062-LB (June 7, 12:30–1:30 p.m. CT):** CTA comparison across GLP-1 peptides, amylin peptides, and small molecule amylin receptor agonists\n- Structure Therapeutics will also present ACCESS Phase 2b trial data for aleniglipron (oral presentation, June 5) and two additional aleniglipron posters\n- **Note:** No efficacy or safety figures for ACCG-2671 were disclosed in the April 27 announcement",
+    "summary": "ACCG-2671 is an investigational oral small molecule amylin receptor agonist in preclinical development at Structure Therapeutics. Unlike peptide-based amylin analogues, it is formulated for oral administration as a small molecule."
+  },
+  {
+    "drug_name": "ABBV-295 / GUB014295: AbbVie / Gubra Licensing Agreement",
+    "therapy": "ABBV-295",
+    "sponsor": "AbbVie / Gubra A/S",
+    "event_type": "bd_licensing",
+    "NDA_date": "March 3, 2025",
+    "date_label": "Transaction Date",
+    "key_data": "AbbVie and Gubra A/S announced a licensing agreement under which AbbVie acquires global development and commercialization rights to GUB014295 (renamed ABBV-295 post-close), a long-acting amylin analogue discovered and advanced through Phase 1 SAD by Gubra (press release, March 3, 2025).\n\n**AbbVie / Gubra A/S License Agreement (Press release, March 3, 2025)**\n\n- **Upfront payment to Gubra:** **$350 million**\n- **Milestone potential:** Up to **$1.875 billion** (development, commercial, and sales milestones)\n- **Plus** tiered royalties on global net sales\n- AbbVie leads all global development and commercialization\n- **Asset status at announcement:** Phase 1 SAD complete; Phase 1 MAD (NCT06144684) ongoing\n- The transaction marked AbbVie's entry into the obesity field (per press release)\n- Advisors: Morgan Stanley (financial, Gubra); Goodwin Procter / Plesner (legal, Gubra)",
+    "summary": "ABBV-295 (formerly GUB014295) is a long-acting subcutaneous amylin and calcitonin receptor agonist discovered by Gubra A/S, a Danish peptide drug discovery company. It activates amylin and calcitonin receptors, with a non-incretin mechanism of action distinct from GLP-1 and GIP receptor agonists."
+  }
+]

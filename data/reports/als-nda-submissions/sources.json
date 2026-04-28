@@ -6,7 +6,7 @@
     "document_type": "clinical_trial_record",
     "date": "2025-10-03",
     "url": "https://clinicaltrials.gov/study/NCT07174492",
-    "content": "ClinicalTrials.gov record for AB Science's confirmatory Phase 3 study (AB23005, NCT07174492) of masitinib 4.5 mg/kg/day in combination with riluzole versus placebo in ALS. Study targets normal progressors without complete loss of function (ALSFRS-R \u22651 on each item), enrolling 412 participants. Estimated start 2026, primary completion 2028."
+    "content": "ClinicalTrials.gov record for AB Science's confirmatory Phase 3 study (AB23005, NCT07174492) of masitinib 4.5 mg/kg/day in combination with riluzole versus placebo in ALS. Study targets normal progressors without complete loss of function (ALSFRS-R ≥1 on each item), enrolling 412 participants. Estimated start 2026, primary completion 2028."
   },
   {
     "id": "src_abscience_masitinib_approval",
@@ -15,7 +15,25 @@
     "document_type": "press_release",
     "date": "2025-07-24",
     "url": "https://www.ab-science.com/ab-science-has-received-approval-from-several-european-countries-to-initiate-the-confirmatory-phase-3-study-of-masitinib-in-als/",
-    "content": "AB Science announced regulatory clearance from Spain, Greece, and Slovenia under the CTIS procedure and FDA authorization for the confirmatory Phase 3 study of masitinib in ALS. The study (AB23005) targets the subgroup of ALS patients with normal progression and without total loss of function, in which the prior Phase 2B/3 study (AB10015) showed a median survival increase of +12 months."
+    "content": "AB Science announced regulatory clearance from Spain, Greece, and Slovenia under the CTIS procedure and FDA authorization for the confirmatory Phase 3 study of masitinib in ALS. The study (AB23005) targets the subgroup of ALS patients with normal progression and without total loss of function, in which the prior Phase 2B/3 study (AB10015) showed a median survival increase of +12 months. Note: the +12 month figure cited in this press release is inconsistent with the published Mora et al. 2021 paper, which reports +25 months (69 vs. 44 months; HR 0.53, p=0.037) in the same population."
+  },
+  {
+    "id": "src_abscience_ab23005_status_apr2026",
+    "title": "AB Science Provides an Update on Its Clinical Development Program",
+    "organization": "AB Science",
+    "document_type": "press_release",
+    "date": "2026-04-16",
+    "url": "https://www.globenewswire.com/news-release/2026/04/16/3275735/0/en/ab-science-provides-an-update-on-its-clinical-development-program.html",
+    "content": "AB Science April 2026 corporate update confirming that the AB23005 Phase 3 trial of masitinib in ALS had not yet begun recruiting as of April 2026. The company paused initiation activities pending the arrangement of clinical trial funding insurance required to commence the study."
+  },
+  {
+    "id": "src_mora2021_ab10015_masitinib_survival",
+    "title": "Masitinib as an Add-on Therapy to Riluzole in Patients With Amyotrophic Lateral Sclerosis: A Randomized Clinical Trial",
+    "organization": "Therapeutic Advances in Neurological Disorders",
+    "document_type": "journal_article",
+    "date": "2021-08-17",
+    "url": "https://journals.sagepub.com/doi/10.1177/17562864211030365",
+    "content": "Mora et al. 2021. Reports AB10015 Phase 2B/3 results. In the normal-progressor, no-complete-loss-of-function subpopulation, masitinib 4.5 mg/kg/day showed a +25-month median survival benefit (69 months masitinib vs. 44 months placebo; HR 0.53, 95% CI 0.31–0.92; p=0.037). Also available on PubMed (https://pubmed.ncbi.nlm.nih.gov/34457038/) and PMC open access (https://pmc.ncbi.nlm.nih.gov/articles/PMC8388186/)."
   },
   {
     "id": "src_ionis_ulefnersen_update",
@@ -28,7 +46,7 @@
   },
   {
     "id": "src_amylyx_relyvrio_withdrawal",
-    "title": "Amylyx Pharmaceuticals Announces Formal Intention to Remove RELYVRIO\u00ae/ALBRIOZA\u2122 from the Market",
+    "title": "Amylyx Pharmaceuticals Announces Formal Intention to Remove RELYVRIO®/ALBRIOZA™ from the Market",
     "organization": "Amylyx Pharmaceuticals",
     "document_type": "press_release",
     "date": "2024-04-04",
@@ -36,8 +54,17 @@
     "content": "Amylyx announced voluntary withdrawal of RELYVRIO/ALBRIOZA (AMX0035, sodium phenylbutyrate and taurursodiol) from the US and Canadian markets following negative Phase 3 PHOENIX trial results. RELYVRIO had received FDA approval in September 2022. Patients currently on therapy were offered a free drug continuation program. Amylyx reduced workforce by ~70% and continues AMX0035 development in Wolfram syndrome and PSP, and AMX0114 in ALS."
   },
   {
+    "id": "src_tofersen_valor_nejm_miller2022",
+    "title": "Trial of Antisense Oligonucleotide Tofersen for SOD1 ALS",
+    "organization": "New England Journal of Medicine",
+    "document_type": "journal_article",
+    "date": "2022-09-22",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2204705",
+    "content": "Miller et al. 2022. Primary results of the Phase 3 VALOR trial of tofersen in SOD1-ALS. In the faster-progressing primary analysis subgroup (n=60, basis of FDA accelerated approval), plasma NfL was reduced by ~60% in the tofersen arm vs. a ~20% increase in the placebo arm. CSF SOD1 protein: ~29–35% reduction in the tofersen arm vs. approximately 16% increase in the placebo arm (the placebo direction is an increase, not a reduction). The primary ALSFRS-R endpoint did not reach statistical significance (adjusted mean difference +1.2 points)."
+  },
+  {
     "id": "src_biogen_qalsody_fda_approval",
-    "title": "FDA Grants Accelerated Approval for QALSODY\u2122 (tofersen) for SOD1-ALS",
+    "title": "FDA Grants Accelerated Approval for QALSODY™ (tofersen) for SOD1-ALS",
     "organization": "Biogen",
     "document_type": "press_release",
     "date": "2023-04-25",
@@ -69,7 +96,7 @@
     "document_type": "clinical_trial_record",
     "date": "2023-07-28",
     "url": "https://clinicaltrials.gov/study/NCT02623699",
-    "content": "ClinicalTrials.gov record for the Phase 3 VALOR study (NCT02623699, also known as study 233AS101) of tofersen (BIIB067) in adults with ALS and a confirmed superoxide dismutase 1 (SOD1) mutation. Three-part umbrella study: Part A (single ascending dose, Phase 1), Part B (multiple ascending dose, Phase 2), Part C (fixed dose, Phase 3 efficacy). Study started January 20, 2016; completed July 16, 2021. Total enrollment: 176 participants; 108 enrolled in Part C. Primary objective of Parts A and B: safety, tolerability, and pharmacokinetics (PK) of ascending doses; secondary objective: effects on cerebrospinal fluid (CSF) total SOD1 protein levels. Primary objective of Part C: evaluate clinical efficacy of tofersen vs. placebo in adults with ALS and confirmed SOD1 mutation. Secondary objectives of Part C: safety, tolerability, pharmacodynamic (PD), and biomarker effects of tofersen."
+    "content": "ClinicalTrials.gov record for the Phase 3 VALOR study (NCT02623699, also known as study 233AS101) of tofersen (BIIB067) in adults with ALS and a confirmed superoxide dismutase 1 (SOD1) mutation. Three-part umbrella study: Part A (single ascending dose, Phase 1), Part B (multiple ascending dose, Phase 2), Part C (fixed dose, Phase 3 efficacy). Study started January 20, 2016; completed July 16, 2021. Total enrollment: 176 participants; 108 enrolled in Part C."
   },
   {
     "id": "src_brainstorm_nurown_ctrial",
@@ -78,20 +105,29 @@
     "document_type": "clinical_trial_record",
     "date": "2025-05-22",
     "url": "https://clinicaltrials.gov/study/NCT06973629",
-    "content": "ClinicalTrials.gov record for the Phase 3b ENDURANCE study (NCT06973629) of NurOwn (debamestrocel, autologous MSC-NTF cells) in early symptomatic ALS. Two-part study: 24-week randomized double-blind placebo-controlled (Part A) then 24-week open-label extension (Part B). Enrolling ~200 participants, intrathecal administration every 8 weeks. Estimated start June 2025, primary completion November 2028."
+    "content": "ClinicalTrials.gov record for the Phase 3b ENDURANCE study (NCT06973629) of NurOwn (debamestrocel, autologous MSC-NTF cells) in early symptomatic ALS. Two-part study: 24-week randomized double-blind placebo-controlled (Part A) then 24-week open-label extension (Part B). Enrolling ~200 participants, intrathecal administration every 8 weeks. CT.gov listed estimated start June 2025; however, as confirmed by BrainStorm's March 2026 corporate update, enrollment had not yet commenced as of April 2026."
   },
   {
     "id": "src_brainstorm_nurown_fda_clearance",
-    "title": "BrainStorm Receives FDA Clearance to Initiate Phase 3b Trial of NurOwn\u00ae for ALS",
+    "title": "BrainStorm Receives FDA Clearance to Initiate Phase 3b Trial of NurOwn® for ALS",
     "organization": "BrainStorm Cell Therapeutics",
     "document_type": "press_release",
     "date": "2025-05-19",
     "url": "https://ir.brainstorm-cell.com/2025-05-19-BrainStorm-Receives-FDA-Clearance-to-Initiate-Phase-3b-Trial-of-NurOwn-R-for-ALS",
-    "content": "BrainStorm announced FDA clearance to initiate the Phase 3b NurOwn ALS trial. Trial design was agreed upon under a Special Protocol Assessment (SPA), confirming endpoints and statistical methodology are appropriate to support a future BLA submission. Primary endpoint is change from baseline to week 24 in ALSFRS-R. ~200 participants to be enrolled at leading academic medical centers."
+    "content": "BrainStorm announced FDA clearance to initiate the Phase 3b NurOwn ALS trial under a Special Protocol Assessment (SPA). Primary endpoint is change from baseline to week 24 in ALSFRS-R. ~200 participants to be enrolled. At time of clearance, BrainStorm described itself as 'diligently preparing to enroll the first patient' and 'actively working to secure funding' — indicating enrollment had not yet begun."
+  },
+  {
+    "id": "src_brainstorm_nurown_fy2025_update",
+    "title": "BrainStorm Cell Therapeutics Announces Full-Year 2025 Financial Results and Provides Corporate Update",
+    "organization": "BrainStorm Cell Therapeutics",
+    "document_type": "press_release",
+    "date": "2026-03-31",
+    "url": "https://ir.brainstorm-cell.com/2026-03-31-BrainStorm-Cell-Therapeutics-Announces-Full-Year-2025-Financial-Results-and-Provides-Corporate-Update",
+    "content": "BrainStorm's full-year 2025 financial results and corporate update (March 31, 2026). Confirms that as of Q1 2026, the ENDURANCE Phase 3b trial of NurOwn in ALS has not yet commenced enrollment. BrainStorm is conducting site preparatory work pending sufficient funding to launch the trial. The company secured $2 million in February 2026 financing described as supporting near-term operational objectives and preparatory work, not active enrollment. Also available on PR Newswire: https://www.prnewswire.com/news-releases/brainstorm-cell-therapeutics-announces-full-year-2025-financial-results-and-provides-corporate-update-302730443.html"
   },
   {
     "id": "src_clene_cnmau8_nda",
-    "title": "Clene Issues Stockholder Letter Highlighting Upcoming CNM-Au8\u00ae 2026 Catalysts",
+    "title": "Clene Issues Stockholder Letter Highlighting Upcoming CNM-Au8® 2026 Catalysts",
     "organization": "Clene Inc.",
     "document_type": "press_release",
     "date": "2026-02-24",
@@ -114,7 +150,34 @@
     "document_type": "press_release",
     "date": "2025-12-04",
     "url": "https://neurosense.investorroom.com/2025-12-04-NeuroSense-to-Hold-Pre-NDS-Meeting-with-Health-Canada-in-April-2026",
-    "content": "NeuroSense announced a pre-NDS meeting with Health Canada scheduled for April 2026 for PrimeC in ALS. PrimeC is an oral fixed-dose combination of ciprofloxacin and celecoxib designed to target multiple ALS mechanisms. A potential New Drug Submission (NDS) to Health Canada is anticipated by mid-2026 pending a successful meeting outcome."
+    "content": "NeuroSense announced a pre-NDS meeting with Health Canada originally scheduled for April 2026 for PrimeC in ALS. This meeting was subsequently rescheduled to May 2026 per NeuroSense's March 24, 2026 announcement (see src_neurosense_primec_may2026_reschedule)."
+  },
+  {
+    "id": "src_neurosense_primec_may2026_reschedule",
+    "title": "NeuroSense Announces Pre-NDS Meeting with Health Canada Rescheduled to May 2026",
+    "organization": "NeuroSense Therapeutics",
+    "document_type": "press_release",
+    "date": "2026-03-24",
+    "url": "https://www.prnewswire.com/news-releases/neurosense-to-hold-pre-nds-meeting-with-health-canada-in-april-2026-302632989.html",
+    "content": "NeuroSense announced on March 24, 2026 that the pre-New Drug Submission (NDS) meeting with Health Canada for PrimeC in ALS has been rescheduled from April 2026 to May 2026, to allow the inclusion of additional data. NDS submission timeline of mid-2026 remains contingent on a successful meeting outcome."
+  },
+  {
+    "id": "src_geva2025_healey_pridopidine_subgroup",
+    "title": "Pridopidine Treatment in ALS: Subgroup Analyses from the HEALEY ALS Platform Trial",
+    "organization": "Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration",
+    "document_type": "journal_article",
+    "date": "2025-01-01",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/21678421.2025.2597935",
+    "content": "Geva et al. 2025. Reports subgroup analyses from the HEALEY ALS Platform Trial for pridopidine. The efficacy results (32% slowing of ALSFRS-R progression, 62% slowing of respiratory decline, 57% improvement in survival — median 600 days pridopidine vs. 300 days placebo) are derived from a subgroup of n=72 participants (37 pridopidine, 35 shared placebo), not the broader n=284 population referenced in the Prilenia December 2025 press release. The n=284 figure describes the wider HEALEY platform subgroup, but the specific cited efficacy endpoints derive from the n=72 early-start survival analysis."
+  },
+  {
+    "id": "src_prilenia_prevails_enrollment_start",
+    "title": "Prilenia and Ferrer Announce Start of Enrollment in PREVAiLS Phase 3 Trial of Pridopidine in ALS",
+    "organization": "Prilenia Therapeutics / Ferrer",
+    "document_type": "press_release",
+    "date": "2026-03-30",
+    "url": "https://www.businesswire.com/news/home/20260330646991/en/",
+    "content": "Prilenia and Ferrer announced that enrollment in the PREVAiLS Phase 3 study of pridopidine in ALS officially began on March 30, 2026. The pivotal 500-patient study enrolls participants with early, rapidly progressive ALS across up to 60 global ALS centers."
   },
   {
     "id": "src_prilenia_pridopidine_ctrial",
@@ -123,7 +186,7 @@
     "document_type": "clinical_trial_record",
     "date": "2026-02-27",
     "url": "https://clinicaltrials.gov/study/NCT07322003",
-    "content": "ClinicalTrials.gov record for the Phase 3 PREVAiLS study (NCT07322003) of pridopidine 45 mg twice daily in adults with early, rapidly progressive ALS. 48-week double-blind placebo-controlled (3:2 randomization) followed by 48-week open-label extension. Primary endpoint is ALSFRS-R change from baseline at 48 weeks. Enrolling 500 participants. Study started February 2026, estimated primary completion March 2028. Sponsored by Prilenia."
+    "content": "ClinicalTrials.gov record for the Phase 3 PREVAiLS study (NCT07322003) of pridopidine 45 mg twice daily in adults with early, rapidly progressive ALS. 48-week double-blind placebo-controlled (3:2 randomization) followed by 48-week open-label extension. Primary endpoint is ALSFRS-R change from baseline at 48 weeks. Enrolling 500 participants. CT.gov listed study start as February 2026 (administrative protocol activation); actual enrollment officially opened March 30, 2026 per Prilenia's enrollment start announcement."
   },
   {
     "id": "src_prilenia_pridopidine_fda_clearance",
@@ -132,7 +195,7 @@
     "document_type": "press_release",
     "date": "2025-12-11",
     "url": "https://news.prilenia.com/press-releases/press-release-details/2025/Prilenia-and-Ferrer-Announce-FDA-Clearance-to-Start-the-PREVAiLS-Pivotal-Phase-3-Study-with-Pridopidine-in-ALS/default.aspx",
-    "content": "Prilenia and Ferrer announced FDA clearance for the 500-patient PREVAiLS Phase 3 study of pridopidine in rapidly progressive early ALS. Study is predicated on Phase 2 HEALEY ALS Platform Trial subgroup data showing 32% slowing of overall progression, 57% improvement in survival, and improvements across respiratory and speech domains in 284 patients with rapidly progressive ALS. US recruitment began early 2026 across up to 60 ALS centers globally."
+    "content": "Prilenia and Ferrer announced FDA clearance for the 500-patient PREVAiLS Phase 3 study of pridopidine in rapidly progressive early ALS. Study is predicated on Phase 2 HEALEY ALS Platform Trial subgroup data in 284 patients; note that the specific efficacy results cited (32% ALSFRS-R slowing, 62% respiratory, 57% survival) derive from a smaller n=72 analysis per Geva et al. 2025 (ALS & FTD). US recruitment began March 30, 2026."
   },
   {
     "id": "src_ionis_ulefnersen_orphan_designation",

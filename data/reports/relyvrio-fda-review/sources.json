@@ -7,8 +7,7 @@
     "date": "2021-07-22",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/216660Orig1s000AdminCorres.pdf",
     "content": "Full FDA administrative and correspondence record for IND 129563 / NDA 216660, covering Pre-IND through Pre-NDA meeting minutes for AMX0035 (Relyvrio) in ALS. Includes meeting minutes for the July 15, 2021 Type B Pre-NDA teleconference signed by Deputy Director Teresa Buracchio, Division of Neurology 1, Office of Neuroscience, CDER."
-  }
-  ,
+  },
   {
     "id": "src_relyvrio_centaur_readout",
     "title": "Amylyx Pharmaceuticals Announces AMX0035 Demonstrated Statistically Significant Treatment Benefit for People with ALS in the CENTAUR Trial",
@@ -34,7 +33,7 @@
     "document_type": "fda_review",
     "date": "2022-09-28",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/216660Orig1s000Med_StatR.pdf",
-    "content": "FDA's complete clinical and statistical review for NDA 216660, completed September 28, 2022 (PDUFA goal date September 29, 2022). Recommends approval. Covers the full regulatory history from the 2016 PIND meeting through the July 2021 Pre-NDA meeting; details of the CENTAUR Phase 2 trial primary and secondary endpoint analyses, post hoc joint rank analyses, CENTAUR-OLE survival data, and the basis for single-study approval under regulatory flexibility given ALS severity and unmet need."
+    "content": "FDA's complete clinical and statistical review for NDA 216660, completed September 28, 2022 (PDUFA goal date September 29, 2022). Recommends approval. Covers the full regulatory history from the 2016 PIND meeting through the July 2021 Pre-NDA meeting; details of the CENTAUR Phase 2 trial primary and secondary endpoint analyses, post hoc joint rank analyses, CENTAUR-OLE survival data, and the basis for single-study approval under regulatory flexibility given ALS severity and unmet need. Note: this document cites 9.7 months for the RPSFTM analysis, which reflects a different data cut or analytical parameters from the 10.6-month figure reported in the published Paganoni et al. 2022 paper."
   },
   {
     "id": "src_relyvrio_withdrawal_announcement",
@@ -43,7 +42,7 @@
     "document_type": "press_release",
     "date": "2024-04-04",
     "url": "https://www.amylyx.com/news/amylyx-pharmaceuticals-announces-formal-intention-to-remove-relyvrior/albriozatm-from-the-market-provides-updates-on-access-to-therapy-pipeline-corporate-restructuring-and-strategy",
-    "content": "Official Amylyx press release announcing voluntary discontinuation of marketing authorizations for RELYVRIO (US) and ALBRIOZA (Canada), effective April 4, 2024, following negative topline results from the Phase 3 PHOENIX trial. Key details: RELYVRIO no longer available to new patients; patients currently on therapy offered free drug continuation program; PHOENIX OLE ongoing; Amylyx to continue collecting survival data. Restructuring reduces workforce by ~70% and extends cash runway into 2026. Pipeline updates: Phase 2 HELIOS trial of AMX0035 in Wolfram syndrome (interim data expected April 2024); Phase 3 ORION trial of AMX0035 in PSP (interim analysis expected mid-2025); AMX0114 (antisense oligonucleotide targeting calpain-2) in IND-enabling studies for ALS, clinical trial planned H2 2024. Includes statements from co-CEOs Joshua Cohen and Justin Klee and CMO Camille Bedrosian."
+    "content": "Official Amylyx press release announcing voluntary discontinuation of marketing authorizations for RELYVRIO (US) and ALBRIOZA (Canada), effective April 4, 2024, following negative topline results from the Phase 3 PHOENIX trial. Key details: RELYVRIO no longer available to new patients; patients currently on therapy offered free drug continuation program; PHOENIX OLE ongoing; Amylyx to continue collecting survival data. Restructuring reduces workforce by ~70% and extends cash runway into 2026."
   },
   {
     "id": "src_relyvrio_withdrawal_pledge",
@@ -52,7 +51,7 @@
     "document_type": "news_article",
     "date": "2024-04-17",
     "url": "https://www.biospace.com/amylyx-at-a-crossroads-can-the-company-overcome-the-loss-of-relyvrio",
-    "content": "BioSpace reporting on Amylyx's April 4, 2024 voluntary withdrawal of Relyvrio/Albrioza from US and Canadian markets following the PHOENIX Phase 3 trial failure. Confirms that Amylyx co-CEOs Justin Klee and Josh Cohen made a public pledge to the 2022 FDA advisory committee to withdraw Relyvrio if the PHOENIX trial was not successful, and that they fulfilled that pledge. PHOENIX missed both its primary endpoint (change from baseline in ALSFRS-R at 48 weeks, not statistically significant) and all secondary endpoints. The withdrawal decision was made less than four weeks after topline results were announced on March 8, 2024. Includes commentary from Merit Cudkowicz (CENTAUR co-principal investigator), Graig Suvannavejh (Mizuho Americas analyst), and Amylyx co-CEOs on the decision and the company's pivot to AMX0035 development in progressive supranuclear palsy (PSP), Wolfram syndrome, and Alzheimer's disease, plus a new antisense oligonucleotide program (AMX0114) targeting calpain-2 for ALS."
+    "content": "BioSpace reporting on Amylyx's April 4, 2024 voluntary withdrawal of Relyvrio/Albrioza. Confirms that Amylyx co-CEOs Justin Klee and Josh Cohen made a public pledge to the 2022 FDA advisory committee to withdraw Relyvrio if the PHOENIX trial was not successful, and that they fulfilled that pledge. PHOENIX missed both its primary endpoint and all secondary endpoints. Includes commentary from Merit Cudkowicz and Amylyx co-CEOs."
   },
   {
     "id": "src_relyvrio_adcom_briefing",
@@ -61,6 +60,24 @@
     "document_type": "fda_briefing_document",
     "date": "2022-09-07",
     "url": "https://www.fda.gov/advisory-committees/peripheral-and-central-nervous-system-drugs-advisory-committee/updated-meeting-time-and-open-public-hearing-time-march-30-2022-meeting-peripheral-and-central#event-materials",
-    "content": "FDA briefing document prepared for the September 7, 2022 reconvening of the Peripheral and Central Nervous System (PCNS) Drugs Advisory Committee for NDA 216660. Covers: (1) summary of the March 30, 2022 first advisory committee meeting (vote 4-6 against approval); (2) full analysis of Amylyx's major amendment data packages including the individual responder analysis, RPSFTM crossover-adjusted survival analysis (9.7-month estimated benefit, HR 0.42), ENCALS natural history comparison (9.9-month prolongation, p<0.0001), and CSF biomarker data from the PEGASUS Alzheimer's study; (3) FDA's positions and limitations assessment for each new analysis; (4) regulatory framework for substantial evidence of effectiveness including single-trial-plus-confirmatory-evidence standard, regulatory flexibility under 21 CFR 312.80 Subpart E, and history of regulatory flexibility in ALS (riluzole and edaravone precedents); (5) PHOENIX Phase 3 trial status (>50% enrolled as of meeting date); and (6) expanded access program."
+    "content": "FDA briefing document for the September 7, 2022 PCNS Advisory Committee meeting on NDA 216660. Covers the RPSFTM crossover-adjusted survival analysis (cited as 9.7-month estimated benefit in this document; the published Paganoni et al. 2022 Muscle & Nerve paper reports 10.6 months — see src_paganoni2022_rpsftm_survival), ENCALS natural history comparison (9.9-month prolongation), ITT overall survival analysis (median OS 23.5 months Relyvrio vs. 18.7 months placebo, 4.8-month difference), and PHOENIX Phase 3 trial status (>50% enrolled as of meeting date, enrollment target 600 patients; final enrollment confirmed as 664 per src_amylyx_phoenix_enrollment_completion)."
+  },
+  {
+    "id": "src_paganoni2022_rpsftm_survival",
+    "title": "Survival of Participants in the CENTAUR ALS Clinical Trial and Crossover Adjustment by Rank Preserving Structural Failure Time",
+    "organization": "Muscle & Nerve",
+    "document_type": "journal_article",
+    "date": "2022-07-01",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/mus.27569",
+    "content": "Paganoni et al. 2022 (Muscle & Nerve). Reports survival analyses from the CENTAUR trial including the RPSFTM crossover-adjusted analysis. The RPSFTM estimated a median survival benefit of 10.6 months for AMX0035 vs. placebo (HR 0.42, 95% CI 0.18–0.99). Note: the FDA adcom briefing document (src_relyvrio_adcom_briefing) cites 9.7 months, likely reflecting a different data cutoff or analytical parameters used internally by FDA reviewers. Also available on PubMed (https://pubmed.ncbi.nlm.nih.gov/35508892/) and PMC open access (https://pmc.ncbi.nlm.nih.gov/articles/PMC9540225/)."
+  },
+  {
+    "id": "src_amylyx_phoenix_enrollment_completion",
+    "title": "Amylyx Pharmaceuticals Announces Completion of Enrollment in Global Phase 3 PHOENIX Trial of AMX0035 in ALS",
+    "organization": "Amylyx Pharmaceuticals",
+    "document_type": "press_release",
+    "date": "2023-02-02",
+    "url": "https://www.businesswire.com/news/home/20230202005258/en/Amylyx-Pharmaceuticals-Announces-Completion-of-Enrollment-in-Global-Phase-3-PHOENIX-Trial-of-AMX0035-in-ALS",
+    "content": "Amylyx announced completion of enrollment in the PHOENIX Phase 3 trial (NCT05021536) of AMX0035 in ALS, February 2, 2023. Final enrollment: 664 participants across more than 65 sites in the US and Europe. The previously stated enrollment target of 'approximately 600 patients' and site estimate of '70+ sites' are superseded by these confirmed final figures."
   }
 ]

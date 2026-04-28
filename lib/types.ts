@@ -10,7 +10,7 @@ export interface ReportMeta {
   subtitle?: string;
   scope_type: "target_area" | "disease_area" | "indication";
   scope_value: string;
-  report_type: "scheduled" | "custom" | "Event" | "Regulatory" | "Pipeline";
+  report_type: "scheduled" | "custom" | "Event" | "Regulatory" | "Pipeline" | "Monitoring";
   delivery_date: string;
   analyst: Analyst;
   status: "delivered" | "in_progress" | "scheduled";

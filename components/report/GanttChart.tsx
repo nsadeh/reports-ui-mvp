@@ -8,7 +8,8 @@ const CHART_END = new Date("2030-01-01");
 const TOTAL_MS = CHART_END.getTime() - CHART_START.getTime();
 const YEARS = [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030];
 
-function pct(dateStr: string): number {
+function pct(dateStr: string | null): number {
+  if (!dateStr) return 0;
   const d = new Date(dateStr);
   return Math.max(0, Math.min(100, ((d.getTime() - CHART_START.getTime()) / TOTAL_MS) * 100));
 }
@@ -45,18 +46,17 @@ export default function GanttChart({ drugs }: { drugs: DrugEntry[] }) {
 
   const chartDrugs = drugs
     .filter(
-      (d) =>
-        (d.trials?.length || (d.trial_start && d.trial_end)) &&
-        d.nda_range_start &&
-        d.nda_range_end
+      (d) => d.trials?.some((t) => t.start) || (d.trial_start && d.trial_end)
     )
-    .sort(
-      (a, b) =>
-        new Date(a.nda_range_start!).getTime() - new Date(b.nda_range_start!).getTime()
-    );
+    .sort((a, b) => {
+      const aTime = a.nda_range_start ? new Date(a.nda_range_start).getTime() : Infinity;
+      const bTime = b.nda_range_start ? new Date(b.nda_range_start).getTime() : Infinity;
+      return aTime - bTime;
+    });
 
   return (
-    <div className="mb-10 px-5 pt-5 pb-6 bg-bg2 border border-border rounded-xl">
+    <>
+    <div className="mb-3 px-5 pt-5 pb-6 bg-bg2 border border-border rounded-xl">
       <h2 className="text-sm font-semibold text-dark mb-5">Clinical Trial &amp; NDA Submission Timeline</h2>
 
       {/* Year axis */}
@@ -126,7 +126,7 @@ export default function GanttChart({ drugs }: { drugs: DrugEntry[] }) {
                 <div className="absolute inset-x-0 h-2 top-1/2 -translate-y-1/2 bg-border/50 rounded-full" />
 
                 {/* Trial bars */}
-                {trials.map((trial) => {
+                {trials.filter((trial) => trial.start).map((trial) => {
                   const trialLeft = pct(trial.start);
                   const trialWidth = pct(trial.end) - trialLeft;
                   const isHovered =
@@ -156,26 +156,28 @@ export default function GanttChart({ drugs }: { drugs: DrugEntry[] }) {
                   );
                 })}
 
-                {/* NDA: exact tick or estimated range band */}
-                <div
-                  className={`absolute top-1/2 -translate-y-1/2 cursor-default ${hoveredNDA === drug.drug_name ? "z-30" : "z-10"}`}
-                  style={isExact
-                    ? { left: `${ndaLeft - 0.3}%`, width: "8px", height: "24px" }
-                    : { left: `${ndaLeft}%`, width: `${Math.max(ndaWidth, 0.8)}%`, height: "16px" }
-                  }
-                  onMouseEnter={() => setHoveredNDA(drug.drug_name)}
-                  onMouseLeave={() => setHoveredNDA(null)}
-                >
-                  <div className={`w-full h-full ${isExact ? "bg-lime rounded-sm" : "bg-lime/75 rounded"}`} />
-                  {hoveredNDA === drug.drug_name && (
-                    <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 pointer-events-none">
-                      <div className="bg-dark text-white text-[11px] px-2.5 py-1.5 rounded-md whitespace-nowrap shadow-lg">
-                        <div className="font-semibold">{formatNDALabel(drug.NDA_date)}</div>
+                {/* NDA: exact tick or estimated range band — omitted if no range defined */}
+                {drug.nda_range_start && drug.nda_range_end && (
+                  <div
+                    className={`absolute top-1/2 -translate-y-1/2 cursor-default ${hoveredNDA === drug.drug_name ? "z-30" : "z-10"}`}
+                    style={isExact
+                      ? { left: `${ndaLeft - 0.3}%`, width: "8px", height: "24px" }
+                      : { left: `${ndaLeft}%`, width: `${Math.max(ndaWidth, 0.8)}%`, height: "16px" }
+                    }
+                    onMouseEnter={() => setHoveredNDA(drug.drug_name)}
+                    onMouseLeave={() => setHoveredNDA(null)}
+                  >
+                    <div className={`w-full h-full ${isExact ? "bg-lime rounded-sm" : "bg-lime/75 rounded"}`} />
+                    {hoveredNDA === drug.drug_name && (
+                      <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 pointer-events-none">
+                        <div className="bg-dark text-white text-[11px] px-2.5 py-1.5 rounded-md whitespace-nowrap shadow-lg">
+                          <div className="font-semibold">{formatNDALabel(drug.NDA_date)}</div>
+                        </div>
+                        <div className="w-0 h-0 mx-auto border-l-4 border-r-4 border-t-4 border-l-transparent border-r-transparent border-t-dark" />
                       </div>
-                      <div className="w-0 h-0 mx-auto border-l-4 border-r-4 border-t-4 border-l-transparent border-r-transparent border-t-dark" />
-                    </div>
-                  )}
-                </div>
+                    )}
+                  </div>
+                )}
               </div>
             );
           })}
@@ -193,6 +195,11 @@ export default function GanttChart({ drugs }: { drugs: DrugEntry[] }) {
           NDA date / estimated window
         </span>
       </div>
+
     </div>
+    <p className="mb-10 text-[10px] text-muted italic">
+      Estimated NDA submission timeframes are unconfirmed and based on 3–12 months after the confirmed or anticipated pivotal trial completion date.
+    </p>
+    </>
   );
 }

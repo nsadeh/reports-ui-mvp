@@ -102,6 +102,21 @@ export default function ReportPageClient({
               <SourcesList sources={sources ?? []} />
               <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
             </>
+          ) : meta.report_type === "Monitoring" && drugs ? (
+            (() => {
+              const CARD_SENTINEL = "<!-- CARDS -->";
+              const splitIdx = content.indexOf(CARD_SENTINEL);
+              const preContent = splitIdx >= 0 ? content.slice(0, splitIdx).trim() : content;
+              const postContent = splitIdx >= 0 ? content.slice(splitIdx + CARD_SENTINEL.length).trim() : "";
+              return (
+                <>
+                  {preContent && <ReportMarkdown content={preContent} />}
+                  <DrugSubmissionList drugs={drugs} />
+                  {postContent && <ReportMarkdown content={postContent} />}
+                  <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
+                </>
+              );
+            })()
           ) : content ? (
             <>
               <ReportMarkdown content={content} />
