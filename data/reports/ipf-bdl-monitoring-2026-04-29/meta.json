@@ -1,0 +1,31 @@
+{
+  "id": "rpt_ipf_bdl_monitoring_2026_04_29",
+  "title": "IPF: BD&L Monitoring Update",
+  "subtitle": "Mar 12, 2026 – Apr 29, 2026",
+  "scope_type": "indication",
+  "scope_value": "IPF",
+  "report_type": "Monitoring",
+  "delivery_date": "2026-04-29",
+  "analyst": {
+    "name": "Batu Akkas",
+    "title": "Chief Pipeline Intelligence Officer",
+    "credentials": ""
+  },
+  "status": "delivered",
+  "next_scheduled": null,
+  "drugs_covered": ["AP01", "AP02", "AP03", "ISM001-055 (Rentosertib)", "LTI-03", "LTI-01", "Ifetroban"],
+  "indications_covered": ["Idiopathic Pulmonary Fibrosis", "Systemic Sclerosis", "Duchenne Muscular Dystrophy"],
+  "payers_covered": [],
+  "tags": [
+    "IPF", "idiopathic pulmonary fibrosis", "BD&L", "business development", "licensing",
+    "public offering", "financing", "strategic shift", "fibrosis", "pulmonary fibrosis",
+    "Avalyn Pharma", "AVLN", "AP01", "AP02", "AP03", "inhaled pirfenidone", "inhaled nintedanib",
+    "fixed-dose combination", "Baseimmune", "computational protein design",
+    "multi-pathway immune modulation", "Cumberland Pharmaceuticals", "Apotex", "ifetroban",
+    "Insilico Medicine", "Rentosertib", "ISM001-055", "TNIK inhibitor", "GENESIS-IPF",
+    "AI drug discovery", "Rein Therapeutics", "RNTX", "LTI-03", "RENEW", "Caveolin-1",
+    "orphan drug", "Phase 2", "IPO"
+  ],
+  "read_by": [],
+  "executive_summary_preview": "Five business development and financing events across the IPF therapeutic area: Avalyn Pharma's updated S-1/A filing targeting a $283 million IPO to advance inhaled pirfenidone (AP01) and inhaled nintedanib (AP02); Baseimmune's strategic entry into fibrosis with a preclinical IPF program; Cumberland Pharmaceuticals' $100 million asset sale to Apotex while retaining its ifetroban pipeline; Insilico Medicine's 2025 annual results highlighting $1.3 billion in new collaborations and Phase IIa proof-of-concept for its AI-discovered TNIK inhibitor Rentosertib; and Rein Therapeutics' public offering to fund operations through April 2027 with its RENEW Phase 2 trial for LTI-03 ongoing."
+}

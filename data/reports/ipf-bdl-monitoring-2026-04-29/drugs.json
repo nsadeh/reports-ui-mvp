@@ -1,0 +1,52 @@
+[
+  {
+    "drug_name": "AP01, AP02, AP03: Avalyn Pharma IPO Update",
+    "therapy": "AP01, AP02, AP03",
+    "sponsor": "Avalyn Pharma",
+    "event_type": "public_offering",
+    "NDA_date": "April 29, 2026",
+    "date_label": "Filing Date",
+    "key_data": "Avalyn Pharma updated its IPO filing, announcing plans to raise approximately **$283 million** by offering **16.7 million shares** at a price range of **$16 to $18 per share**. This represents a **41% increase** in anticipated proceeds from the company's prior filing.\n\n**IPO Proceeds Allocation**\n\n- **$150 million** (plus existing cash and marketable securities) to advance AP01 (inhaled pirfenidone) through Phase 2b topline data and into Phase 3\n- **$90 million** to progress AP02 (inhaled nintedanib) through an ongoing Phase 2 trial and into Phase 3\n- **$10 million** to take AP03 (inhaled fixed-dose combination of pirfenidone and nintedanib) into Phase 1 clinical development\n\n**Capital Position**\n\n- Operations, including **$15.0 million** borrowed in February 2026 under a **$30.0 million** term loan facility, are estimated to be funded into 2029 with anticipated net IPO proceeds and existing capital\n- As of December 31, 2025, Avalyn reported a net loss of **$85.2 million** and an accumulated deficit of **$265.4 million**",
+    "summary": "AP01 is an inhaled formulation of pirfenidone (approved oral IPF drug) being advanced for IPF and Progressive Pulmonary Fibrosis (PPF). AP02 is an inhaled version of nintedanib (approved oral IPF drug). AP03 is an inhaled fixed-dose combination of pirfenidone and nintedanib, currently in preclinical studies. All three assets are developed by Avalyn Pharma using the PARI eFlow® nebulizer platform."
+  },
+  {
+    "drug_name": "Baseimmune IPF Program: Strategic Expansion into Fibrosis",
+    "therapy": "Not disclosed (IPF program)",
+    "sponsor": "Baseimmune",
+    "event_type": "strategic_shift",
+    "NDA_date": "March 12, 2026",
+    "date_label": "Announcement Date",
+    "key_data": "Baseimmune announced a strategic expansion into the fibrosis therapeutic area, with its lead program specifically targeting Idiopathic Pulmonary Fibrosis (IPF), leveraging its proprietary computational protein design platform.\n\n**Program Overview**\n\n- Baseimmune's approach is built around **multi-pathway immune modulation**, using advanced computational protein design to create antigens that influence interconnected pro-fibrotic signaling networks\n- The strategy aims to interrupt and reset dysregulated pro-fibrotic circuits; the company views traditional single-target approaches as limited in fibrosis due to its complex and redundant biological pathways\n- The IPF program is in **preclinical development**; key proof-of-concept efficacy readouts are anticipated in **2026 and 2027**\n- A Scientific Advisory Board (SAB) comprising experts in lung, liver, kidney, and heart fibrosis biology has been established to guide target strategy and early translational planning\n\n**Note:** No asset name, mechanism of action, or financial terms were disclosed in the March 12, 2026 announcement.",
+    "summary": "Baseimmune is a biotechnology company utilizing computational protein design to develop next-generation immunotherapies. Its IPF lead program targets fibrosis through multi-pathway immune modulation, designing antigens to influence interconnected signaling networks. The program is in preclinical development with no disclosed asset name or mechanism of action."
+  },
+  {
+    "drug_name": "Cumberland Pharmaceuticals: $100 Million Asset Sale to Apotex",
+    "therapy": "Ifetroban (retained)",
+    "sponsor": "Cumberland Pharmaceuticals Inc. / Nuvo Pharmaceuticals (Ireland) DAC (Apotex affiliate)",
+    "event_type": "bd_licensing",
+    "NDA_date": "April 22, 2026",
+    "date_label": "Transaction Date",
+    "key_data": "Cumberland Pharmaceuticals Inc. agreed to sell its branded pharmaceutical portfolio to Nuvo Pharmaceuticals (Ireland) DAC, an Apotex affiliate, for **$100 million** in cash, subject to shareholder approval.\n\n**IPF Relevance: Retained Pipeline**\n\n- Cumberland retains all pipeline product candidates, including **ifetroban**, which is in Phase II clinical programs for **Idiopathic Pulmonary Fibrosis (IPF)**, Systemic Sclerosis (SSc), and Duchenne Muscular Dystrophy (DMD)\n- Following the divestiture, ifetroban becomes Cumberland's primary remaining asset and development focus\n- The $100 million in proceeds gives Cumberland a strengthened capital position from which to continue advancing ifetroban's clinical programs",
+    "summary": "Ifetroban is a thromboxane A2 receptor antagonist in Phase II clinical development for IPF, Systemic Sclerosis, and Duchenne Muscular Dystrophy."
+  },
+  {
+    "drug_name": "ISM001-055 (Rentosertib): Insilico Medicine 2025 Annual Results and IPF Clinical Advancement",
+    "therapy": "ISM001-055 (Rentosertib)",
+    "sponsor": "Insilico Medicine",
+    "event_type": "company_announcement",
+    "NDA_date": "March 29, 2026",
+    "date_label": "Announcement Date",
+    "key_data": "Insilico Medicine announced its 2025 annual results, highlighting over 10 new collaborations totaling **US$1.3 billion**, with ISM001-055 (Rentosertib) identified as the company's lead clinical asset in IPF.\n\n**ISM001-055 (Rentosertib): IPF Clinical Program**\n\n- ISM001-055 is advancing in the **Phase IIa GENESIS-IPF study** for Idiopathic Pulmonary Fibrosis\n- The GENESIS-IPF study demonstrated **strong safety and tolerability** with **dose-dependent improvement in lung function**; Insilico characterizes this as the first clinical proof-of-concept for an AI-discovered drug\n- Complete study results published in ***Nature Medicine*** and presented at the 2025 American Thoracic Society (ATS) International Conference and Pulmonary Fibrosis Foundation (PFF) Summit\n- An **inhalable formulation** of ISM001-055 has an IND application submitted for clinical trial, with potential advantages including a low efficacious dose, large safety window, and minimal side effects",
+    "summary": "ISM001-055 (Rentosertib) is a small molecule TNIK (TRAF2- and NCK-interacting kinase) inhibitor in clinical development for Idiopathic Pulmonary Fibrosis. An inhalable formulation with a submitted IND is being advanced to enable targeted pulmonary delivery."
+  },
+  {
+    "drug_name": "LTI-03: Rein Therapeutics Public Stock Offering",
+    "therapy": "LTI-03",
+    "sponsor": "Rein Therapeutics, Inc.",
+    "event_type": "public_offering",
+    "NDA_date": "April 28, 2026",
+    "date_label": "Filing Date",
+    "key_data": "Rein Therapeutics, Inc. announced a public offering of **30,000,000 shares** at an assumed price of **$1.66 per share**, targeting net proceeds of approximately **$44.8 million** for working capital and repayment of outstanding promissory notes.\n\n**Financial Position and Runway**\n\n- As of December 31, 2025: cash and cash equivalents approximately **$3.2 million**; working capital deficit approximately **$1.9 million**\n- Proceeds combined with existing cash are expected to fund operations through at least **April 2027**\n\n**LTI-03: RENEW Phase 2 Clinical Trial**\n\n- LTI-03 is Rein's lead IPF product candidate, currently in the **RENEW Phase 2 trial**: multi-center, randomized, double-blind, placebo-controlled; approximately **120 IPF patients**\n- Patient recruitment resumed in the U.S. in February 2026 across approximately **20 U.S. sites**, with approximately **30 additional sites** in the UK, Germany, Poland, and Australia; first patient dosed March 2026\n- Initial **interim topline data** expected **Q4 2026**\n- Regulatory designations: FDA **Orphan Drug**, **Rare Pediatric Disease**, and **Fast Track**; EMA **Orphan Drug** designation (January 2026)",
+    "summary": "LTI-03 is an inhaled dry powder peptide designed to protect healthy lung epithelial cells and reduce pro-fibrotic signaling for the treatment of IPF. It is based on Caveolin-1 (Cav1) related peptides."
+  }
+]
