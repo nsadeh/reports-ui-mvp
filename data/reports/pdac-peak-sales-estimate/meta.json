@@ -1,0 +1,21 @@
+{
+  "id": "pdac-peak-sales-estimate",
+  "title": "Daraxonrasib in PDAC: Peak Sales Estimate",
+  "subtitle": "Independent Bottoms-Up Revenue Model",
+  "scope_type": "indication",
+  "scope_value": "Pancreatic Ductal Adenocarcinoma (PDAC)",
+  "report_type": "market-model",
+  "delivery_date": "2026-05-07",
+  "analyst": {
+    "name": "Batu Akkas",
+    "title": "Chief Pipeline Intelligence Officer",
+    "credentials": ""
+  },
+  "status": "delivered",
+  "next_scheduled": null,
+  "drugs_covered": ["daraxonrasib (RMC-6236)"],
+  "indications_covered": ["Pancreatic Ductal Adenocarcinoma (PDAC)"],
+  "payers_covered": [],
+  "tags": ["peak sales", "PDAC", "daraxonrasib", "KRAS", "market model", "oncology", "revenue estimate"],
+  "executive_summary_preview": "Independent bottoms-up peak sales estimate for daraxonrasib in PDAC. Central estimate of $8.5B peak annual global sales, modestly above analyst consensus of $5–7.6B, driven by a 55% peak market share assumption and a $200K annual price benchmark from approved KRAS inhibitor comparables."
+}

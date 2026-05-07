@@ -10,7 +10,7 @@ export interface ReportMeta {
   subtitle?: string;
   scope_type: "target_area" | "disease_area" | "indication";
   scope_value: string;
-  report_type: "scheduled" | "custom" | "Event" | "Regulatory" | "Pipeline" | "Monitoring";
+  report_type: "scheduled" | "custom" | "Event" | "Regulatory" | "Pipeline" | "Monitoring" | "market-model" | "indication-mapping";
   delivery_date: string;
   analyst: Analyst;
   status: "delivered" | "in_progress" | "scheduled";
@@ -49,6 +49,7 @@ export interface SourceEntry {
   date: string;
   url: string;
   content: string;
+  authors?: string;
 }
 
 export interface QAFallbackPair {

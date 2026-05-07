@@ -11,7 +11,20 @@ import DrugSubmissionList from "@/components/report/DrugSubmissionList";
 import type { DrugEntry } from "@/components/report/DrugSubmissionList";
 import GanttChart from "@/components/report/GanttChart";
 import SourcesList from "@/components/report/SourcesList";
+import PdacPeakSalesReport from "@/components/report/PdacPeakSalesReport";
+import TrialIndicationMappingPdac from "@/components/report/TrialIndicationMappingPdac";
 import type { ReportMeta, SourceEntry } from "@/lib/types";
+
+const TYPE_BADGE: Record<string, { label: string; cls: string }> = {
+  scheduled:      { label: "Pipeline",   cls: "bg-blue-100 text-blue-700" },
+  Pipeline:       { label: "Pipeline",   cls: "bg-blue-100 text-blue-700" },
+  "market-model":       { label: "Rev Model",  cls: "bg-rose-100 text-rose-700" },
+  "indication-mapping": { label: "Ind. Map",   cls: "bg-teal-100 text-teal-700" },
+  Event:          { label: "Event",      cls: "bg-amber-100 text-amber-700" },
+  Monitoring:     { label: "Monitoring", cls: "bg-lime/30 text-dark" },
+  Regulatory:     { label: "Regulatory", cls: "bg-violet-100 text-violet-700" },
+  custom:         { label: "Custom",     cls: "bg-gray-100 text-gray-600" },
+};
 
 export default function ReportPageClient({
   meta,
@@ -67,15 +80,14 @@ export default function ReportPageClient({
               <span className="inline-block px-2 py-0.5 text-xs font-medium bg-sage/30 text-body rounded">
                 {meta.scope_value}
               </span>
-              <span
-                className={`inline-block px-2 py-0.5 text-xs font-medium rounded capitalize ${
-                  meta.report_type === "scheduled"
-                    ? "bg-accent/10 text-accent"
-                    : "bg-lime/30 text-dark"
-                }`}
-              >
-                {meta.report_type}
-              </span>
+              {(() => {
+                const { label, cls } = TYPE_BADGE[meta.report_type] ?? { label: meta.report_type, cls: "bg-gray-100 text-gray-600" };
+                return (
+                  <span className={`inline-block px-2 py-0.5 text-xs font-medium rounded whitespace-nowrap ${cls}`}>
+                    {label}
+                  </span>
+                );
+              })()}
               <span className="text-muted">
                 Delivered {meta.delivery_date}
               </span>
@@ -117,6 +129,17 @@ export default function ReportPageClient({
                 </>
               );
             })()
+          ) : meta.report_type === "market-model" ? (
+            <>
+              <PdacPeakSalesReport />
+              <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
+            </>
+          ) : meta.id === "rpt_trial_indication_mapping_pdac" ? (
+            <>
+              <TrialIndicationMappingPdac />
+              <SourcesList sources={sources ?? []} />
+              <AnalystSignature analyst={meta.analyst} date={meta.delivery_date} />
+            </>
           ) : content ? (
             <>
               <ReportMarkdown content={content} />

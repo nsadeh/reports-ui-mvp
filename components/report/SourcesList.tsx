@@ -43,11 +43,14 @@ export default function SourcesList({ sources }: { sources: SourceEntry[] }) {
       </h2>
       <ol className="space-y-3">
         {sources.map((src, i) => (
-          <li key={src.id} className="flex gap-3 text-sm">
+          <li key={src.id} id={`source-${i + 1}`} className="flex gap-3 text-sm">
             <span className="shrink-0 font-mono text-muted text-xs mt-0.5 w-5 text-right">
               [{i + 1}]
             </span>
             <span className="text-body leading-relaxed">
+              {src.authors && (
+                <><span className="font-medium text-dark">{src.authors}</span>{" · "}</>
+              )}
               <span className="font-medium text-dark">&ldquo;{src.title}&rdquo;</span>
               {" · "}
               <span className="italic">{src.organization}</span>

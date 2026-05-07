@@ -1,0 +1,22 @@
+{
+  "id": "rpt_trial_indication_mapping_pdac",
+  "title": "Trial Indication Mapping: PDAC Competitive Landscape",
+  "subtitle": "Indication Classification Across Five Key Clinical Programs",
+  "scope_type": "indication",
+  "scope_value": "Pancreatic Ductal Adenocarcinoma (PDAC)",
+  "report_type": "Pipeline",
+  "delivery_date": "2026-05-05",
+  "analyst": {
+    "name": "Batu Akkas",
+    "title": "Competitive Intelligence Expert",
+    "credentials": ""
+  },
+  "status": "delivered",
+  "next_scheduled": null,
+  "drugs_covered": ["Daraxonrasib", "Mitazalimab", "Quemliclustat", "Olaparib", "BMS-986504"],
+  "indications_covered": ["Pancreatic Ductal Adenocarcinoma", "PDAC"],
+  "payers_covered": [],
+  "tags": ["indication-mapping", "PDAC", "clinical trials", "competitive landscape", "biomarker", "line of therapy", "RAS", "BRCA", "MTAP"],
+  "read_by": [],
+  "executive_summary_preview": "Indication mapping across 5 PDAC trials — Daraxonrasib, Mitazalimab, Quemliclustat, Olaparib, and BMS-986504 — classified by disease stage, line of therapy, and patient subgroup."
+}
