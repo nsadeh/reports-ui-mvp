@@ -37,11 +37,11 @@ const accordionRows = [
     footnote: null as string | null,
   },
   {
-    name: "Locally Advanced or Metastatic Rate",
-    value: "85%",
+    name: "Metastatic Rate",
+    value: "53%",
     source: "Park et al 2021 [8]",
     rationale:
-      "Approximately 80–90% of PDAC patients present with locally advanced or metastatic disease at diagnosis, making them eligible for systemic therapy [8]. Early-stage resectable patients are primarily managed with surgery and are excluded from this model.",
+      "Approximately 50–55% of PDAC patients are diagnosed in the metastatic stage, which is the patient subpopulation of focus in the daraxonrasib trials [8]. If daraxonrasib were to expand into locally advanced PDAC by the time of peak sales, the eligible population would increase considerably, as locally advanced disease accounts for an additional 30–35% of PDAC diagnoses [8].",
     footnote: null,
   },
   {
@@ -65,7 +65,7 @@ const accordionRows = [
     value: "55% (range: 40–70%)",
     source: "McKinsey 2014 [11]",
     rationale:
-      "The 55% midpoint reflects daraxonrasib's first-in-class positioning in a high unmet need indication with no currently approved KRAS-targeted therapies. The slider in the calculator above allows this to be adjusted within the modeled range.",
+      "The 55% midpoint reflects daraxonrasib's first-in-class positioning in a high unmet need indication with no currently approved KRAS-targeted therapies. Lack of efficacious treatment options and promising data from daraxonrasib trials could lead to market share closer to bullish estimates of 70% at the time of peak sales. The slider in the calculator above allows this to be adjusted within the modeled range.",
     footnote:
       "The 40% lower bound reflects McKinsey first-mover estimates for innovative oncology therapies [11]. The 70% upper bound reflects additional share potential from physician specialty concentration, route of administration, and multi-indication expansion.",
   },
@@ -98,6 +98,21 @@ export default function PdacPeakSalesReport() {
   const [secondLineRateRaw, setSecondLineRateRaw] = useState(
     String(Math.round(reportData.defaults.secondLineRate * 100))
   );
+  const [annualIncidenceRaw, setAnnualIncidenceRaw] = useState(
+    String(reportData.defaults.annualIncidence)
+  );
+  const [metastaticRateRaw, setMetastaticRateRaw] = useState(
+    String(Math.round(reportData.defaults.metastaticRate * 100))
+  );
+  const [krasMutationRateRaw, setKrasMutationRateRaw] = useState(
+    String(Math.round(reportData.defaults.krasMutationRate * 100))
+  );
+  const [annualDrugPriceRaw, setAnnualDrugPriceRaw] = useState(
+    String(reportData.defaults.annualDrugPrice)
+  );
+  const [usRevenueShareRaw, setUsRevenueShareRaw] = useState(
+    String(Math.round(reportData.defaults.usRevenueShare * 100))
+  );
 
   function set(key: keyof Params, value: number) {
     setParams((p) => ({ ...p, [key]: value }));
@@ -107,6 +122,11 @@ export default function PdacPeakSalesReport() {
     setParams(reportData.defaults);
     setSecondLineEnabled(false);
     setSecondLineRateRaw(String(Math.round(reportData.defaults.secondLineRate * 100)));
+    setAnnualIncidenceRaw(String(reportData.defaults.annualIncidence));
+    setMetastaticRateRaw(String(Math.round(reportData.defaults.metastaticRate * 100)));
+    setKrasMutationRateRaw(String(Math.round(reportData.defaults.krasMutationRate * 100)));
+    setAnnualDrugPriceRaw(String(reportData.defaults.annualDrugPrice));
+    setUsRevenueShareRaw(String(Math.round(reportData.defaults.usRevenueShare * 100)));
   }
 
   const eligiblePatients = Math.round(
@@ -132,20 +152,20 @@ export default function PdacPeakSalesReport() {
             <strong className="text-dark">daraxonrasib (RMC-6236)</strong> in pancreatic
             ductal adenocarcinoma (PDAC), constructed from publicly available epidemiology,
             pricing, and market share data. The central estimate is{" "}
-            <strong className="text-dark">$8.6B peak annual global sales</strong>, which
-            sits modestly above the analyst consensus range of $5–7.6B.
+            <strong className="text-dark">$5.3B peak annual global sales</strong>, which
+            sits at the lower end of the analyst consensus range of $5–7.6B.
           </p>
           <p>
-            The estimate is driven by a{" "}
+            The estimate includes a few higher-uncertainty inputs (i.e., market share,
+            drug price, US share of global revenue), most notably a{" "}
             <strong className="text-dark">55% peak market share assumption</strong>{" "}
-            reflecting first-in-class status in a high unmet need indication, and a{" "}
-            <strong className="text-dark">$200,000 annual price benchmark</strong>
-            <Cite n={12} /> sourced from approved oncology comparables.
+            which carries a wide range of plausible values given the multi-dimensional launch 
+            success dynamics that can lead to considerably different market share outcomes.
           </p>
           <p>
             All input parameters are adjustable in the interactive calculator in
             Section 3. Output figures update in real time as parameters are changed.
-            Model paramters can be reset to the default values at any time.
+            Model parameters can be reset to the default values at any time.
           </p>
         </div>
       </section>
@@ -196,7 +216,7 @@ export default function PdacPeakSalesReport() {
             <p className="text-sm text-body">
               Evercore ISI ($7.4B)<Cite n={1} /> and Leerink Partners ($7.6B)<Cite n={2} />,
               both covering all or 1–2L metastatic PDAC, cluster around a central tendency
-              of approximately $7B. The RBC Capital Markets estimate ($5B)<Cite n={4} /> is
+              of approximately $7B. The RBC Capital Markets estimate ($5B+)<Cite n={4} /> is
               US-only and would be materially higher on a global basis.
             </p>
           </div>
@@ -237,10 +257,17 @@ export default function PdacPeakSalesReport() {
                 histological proportion<Cite n={8} /> ≈ 61,000
               </p>
               <input
-                type="number"
-                min={0}
-                value={params.annualIncidence}
-                onChange={(e) => set("annualIncidence", Number(e.target.value))}
+                type="text"
+                inputMode="numeric"
+                value={annualIncidenceRaw}
+                onChange={(e) => {
+                  setAnnualIncidenceRaw(e.target.value);
+                  const n = Number(e.target.value);
+                  if (e.target.value !== "" && !isNaN(n) && n >= 0) {
+                    set("annualIncidence", n);
+                  }
+                }}
+                onBlur={() => setAnnualIncidenceRaw(String(params.annualIncidence))}
                 className={inputBase}
               />
               <p className="text-xs text-muted mt-1.5">
@@ -250,18 +277,21 @@ export default function PdacPeakSalesReport() {
 
             <div className="bg-bg2 border border-border rounded-lg p-4">
               <label className="block text-sm font-medium text-dark mb-1.5">
-                Locally Advanced or Metastatic (%)
+                Metastatic Patients (%)
               </label>
               <div className="flex items-center gap-2">
                 <input
-                  type="number"
-                  min={0}
-                  max={100}
-                  step={1}
-                  value={Math.round(params.metastaticRate * 100)}
-                  onChange={(e) =>
-                    set("metastaticRate", Number(e.target.value) / 100)
-                  }
+                  type="text"
+                  inputMode="numeric"
+                  value={metastaticRateRaw}
+                  onChange={(e) => {
+                    setMetastaticRateRaw(e.target.value);
+                    const n = Number(e.target.value);
+                    if (e.target.value !== "" && !isNaN(n) && n >= 0 && n <= 100) {
+                      set("metastaticRate", n / 100);
+                    }
+                  }}
+                  onBlur={() => setMetastaticRateRaw(String(Math.round(params.metastaticRate * 100)))}
                   className={inputBase}
                 />
                 <span className="text-sm text-muted shrink-0">%</span>
@@ -277,14 +307,17 @@ export default function PdacPeakSalesReport() {
               </label>
               <div className="flex items-center gap-2">
                 <input
-                  type="number"
-                  min={0}
-                  max={100}
-                  step={1}
-                  value={Math.round(params.krasMutationRate * 100)}
-                  onChange={(e) =>
-                    set("krasMutationRate", Number(e.target.value) / 100)
-                  }
+                  type="text"
+                  inputMode="numeric"
+                  value={krasMutationRateRaw}
+                  onChange={(e) => {
+                    setKrasMutationRateRaw(e.target.value);
+                    const n = Number(e.target.value);
+                    if (e.target.value !== "" && !isNaN(n) && n >= 0 && n <= 100) {
+                      set("krasMutationRate", n / 100);
+                    }
+                  }}
+                  onBlur={() => setKrasMutationRateRaw(String(Math.round(params.krasMutationRate * 100)))}
                   className={inputBase}
                 />
                 <span className="text-sm text-muted shrink-0">%</span>
@@ -358,8 +391,8 @@ export default function PdacPeakSalesReport() {
               </label>
               <input
                 type="range"
-                min={40}
-                max={70}
+                min={0}
+                max={100}
                 step={1}
                 value={Math.round(params.peakMarketShare * 100)}
                 onChange={(e) =>
@@ -369,8 +402,10 @@ export default function PdacPeakSalesReport() {
                 style={{ accentColor: "#026370" }}
               />
               <div className="flex justify-between text-xs text-muted mt-1">
+                <span>0%</span>
                 <span>40% — conservative</span>
                 <span>70% — bullish</span>
+                <span>100%</span>
               </div>
               <p className="text-xs text-muted mt-1.5">
                 Source: McKinsey 2014<Cite n={11} />
@@ -384,11 +419,17 @@ export default function PdacPeakSalesReport() {
               <div className="flex items-center gap-2">
                 <span className="text-sm text-muted shrink-0">$</span>
                 <input
-                  type="number"
-                  min={0}
-                  step={1000}
-                  value={params.annualDrugPrice}
-                  onChange={(e) => set("annualDrugPrice", Number(e.target.value))}
+                  type="text"
+                  inputMode="numeric"
+                  value={annualDrugPriceRaw}
+                  onChange={(e) => {
+                    setAnnualDrugPriceRaw(e.target.value);
+                    const n = Number(e.target.value);
+                    if (e.target.value !== "" && !isNaN(n) && n >= 0) {
+                      set("annualDrugPrice", n);
+                    }
+                  }}
+                  onBlur={() => setAnnualDrugPriceRaw(String(params.annualDrugPrice))}
                   className={inputBase}
                 />
               </div>
@@ -403,14 +444,17 @@ export default function PdacPeakSalesReport() {
               </label>
               <div className="flex items-center gap-2">
                 <input
-                  type="number"
-                  min={0}
-                  max={100}
-                  step={1}
-                  value={Math.round(params.usRevenueShare * 100)}
-                  onChange={(e) =>
-                    set("usRevenueShare", Number(e.target.value) / 100)
-                  }
+                  type="text"
+                  inputMode="numeric"
+                  value={usRevenueShareRaw}
+                  onChange={(e) => {
+                    setUsRevenueShareRaw(e.target.value);
+                    const n = Number(e.target.value);
+                    if (e.target.value !== "" && !isNaN(n) && n >= 0 && n <= 100) {
+                      set("usRevenueShare", n / 100);
+                    }
+                  }}
+                  onBlur={() => setUsRevenueShareRaw(String(Math.round(params.usRevenueShare * 100)))}
                   className={inputBase}
                 />
                 <span className="text-sm text-muted shrink-0">%</span>
@@ -497,7 +541,11 @@ export default function PdacPeakSalesReport() {
           model and is highly impactful on the peak revenue estimate; the
           table below ranges from conservative to bullish scenarios to illustrate the range
           of output this parameter drives, with all other inputs held at their default
-          values.
+          values. With high unmet need and a currently sparse treatment landscape in metastatic PDAC,
+          more bullish estimates of daraxonrasib's market share are plausible, especially when
+          taking into account the strong efficacy data emerging from clinical trial readouts. A bullish
+          70% market share estimate brings the peak revenue figure more in line with the mean value from 
+          analyst estimates.
         </p>
         <div className="overflow-x-auto rounded-lg border border-border mb-3">
           <table className="w-full text-sm">
@@ -601,9 +649,9 @@ export default function PdacPeakSalesReport() {
                 Analyst consensus is the primary external reference.
               </strong>{" "}
               The sell-side consensus of $5–7.6B reflects proprietary models and should be
-              treated as the primary benchmark. Our estimate of $8.6B sits above this range
-              in part due to the 55% market share midpoint assumption, which may be
-              aggressive depending on competitive dynamics at time of launch.
+              treated as the primary benchmark. Our estimate of $5.3B sits at the lower end
+              of this range, consistent with the 55% market share midpoint assumption and
+              a metastatic-only patient population.
             </li>
           </ul>
         </div>

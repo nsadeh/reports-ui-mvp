@@ -3,16 +3,16 @@
     { "source": "Evercore ISI", "figure": "$7.4B", "scope": "All PDAC", "notes": "" },
     { "source": "Leerink Partners", "figure": "$7.6B", "scope": "1–2L metastatic PDAC", "notes": "" },
     { "source": "UBS", "figure": "$6–7B", "scope": "Pancreatic cancer (not specified)", "notes": "" },
-    { "source": "RBC Capital Markets", "figure": "$5B", "scope": "PDAC in US only", "notes": "" },
+    { "source": "RBC Capital Markets", "figure": "$5B+", "scope": "PDAC in US only", "notes": "" },
     { "source": "Seeking Alpha", "figure": "$5B+", "scope": "All PDAC", "notes": "" }
   ],
   "epidemiologyInputs": [
     { "label": "Annual pancreatic cancer incidence", "value": 67530, "year": 2026, "source": "SEER Cancer" },
     { "label": "PDAC as proportion of pancreatic cancer", "value": 0.90, "year": 2022, "source": "Park et al 2022" },
     { "label": "PDAC annual incidence", "value": 60777, "year": null, "source": "Calculated" },
-    { "label": "Locally advanced or metastatic rate", "value": 0.85, "year": 2022, "source": "Park et al 2022" },
+    { "label": "Metastatic rate", "value": 0.53, "year": 2022, "source": "Park et al 2022" },
     { "label": "KRAS mutation rate in PDAC", "value": 0.90, "year": 2015, "source": "Lennerz et al 2015" },
-    { "label": "Eligible patient population", "value": 46494, "year": null, "source": "Calculated" }
+    { "label": "Eligible patient population", "value": 29097, "year": null, "source": "Calculated" }
   ],
   "globalRevenueShareInputs": [
     { "region": "US", "value": 0.57, "source": "Ramagopalan et al 2025", "notes": "Keytruda values selected for oncology relevance" },
@@ -31,10 +31,10 @@
     { "value": 200000, "source": "Miljkovic et al 2023", "notes": "Primary benchmark; approved KRAS inhibitor comparables" },
     { "value": 214800, "source": "Roskoski et al 2024", "notes": "Corroborating figure; average neoplastic disease treatment costs at $17,900/month" }
   ],
-  "outputFigure": 8523974250,
+  "outputFigure": 5334450000,
   "defaults": {
     "annualIncidence": 61000,
-    "metastaticRate": 0.85,
+    "metastaticRate": 0.53,
     "krasMutationRate": 0.90,
     "secondLineRate": 0.46,
     "peakMarketShare": 0.55,
@@ -42,8 +42,8 @@
     "usRevenueShare": 0.60
   },
   "scenarios": [
-    { "scenario": "Conservative", "marketShare": 0.40, "peakGlobalSales": 6222000000 },
-    { "scenario": "Base Case", "marketShare": 0.55, "peakGlobalSales": 8555250000 },
-    { "scenario": "Bullish", "marketShare": 0.70, "peakGlobalSales": 10888500000 }
+    { "scenario": "Conservative", "marketShare": 0.40, "peakGlobalSales": 3879600000 },
+    { "scenario": "Base Case", "marketShare": 0.55, "peakGlobalSales": 5334450000 },
+    { "scenario": "Bullish", "marketShare": 0.70, "peakGlobalSales": 6789300000 }
   ]
 }

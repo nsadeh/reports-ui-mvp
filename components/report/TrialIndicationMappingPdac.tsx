@@ -5,7 +5,7 @@ import trialData from "@/data/reports/trial-indication-mapping-pdac/data.json";
 
 type Trial = (typeof trialData.trials)[0];
 
-const STAGES = ["Metastatic", "Locally Advanced", "Localized/Resectable"] as const;
+const STAGES = ["Metastatic", "Locally Advanced", "Resected"] as const;
 const LOTS = ["Adjuvant", "1L", "2L", "3L"] as const;
 
 const BUBBLE_STYLE: Record<string, { bg: string; text: string; border: string }> = {
@@ -49,7 +49,7 @@ export default function TrialIndicationMappingPdac() {
           active PDAC clinical trials. The goal is demonstrating accurate classification of the
           precise target indication for each program, including disease stage, line of therapy,
           treatment regimen, and biomarker subgroup to determine where each therapy may fall in the
-          treatment landscape with their first target indication approval.
+          treatment landscape.
         </p>
       </section>
 
@@ -175,8 +175,7 @@ export default function TrialIndicationMappingPdac() {
               Trial indications were classified through review of trial description,
               inclusion / exclusion criteria, and contextual knowledge on disease and treatment
               staging using the most recent NCCN PDAC treatment guidelines. Disease stage and line of therapy
-              assignments were derived from the requirements stated in the eligibility criteria, not
-              from trial titles, sponsor labels, or condition metadata fields.
+              assignments were derived from the requirements stated in the trial description and eligibility criteria.
             </p>
           </div>
           <div>

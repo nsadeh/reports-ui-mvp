@@ -33,7 +33,7 @@
       "disease_stage": "Metastatic",
       "lot": "1L",
       "mono_combo": "combo w/ chemo",
-      "subgroup": "All PDAC",
+      "subgroup": "N/A",
       "indication_sentence": "First line metastatic PDAC patients (all-comers)"
     },
     {
@@ -45,7 +45,7 @@
       "disease_stage": "Metastatic",
       "lot": "1L",
       "mono_combo": "combo w/ chemo",
-      "subgroup": "All PDAC",
+      "subgroup": "N/A",
       "indication_sentence": "First line metastatic PDAC patients (all-comers)"
     },
     {
@@ -54,11 +54,11 @@
       "trial_id": "NCT04858334",
       "phase": "Phase 2",
       "trial_name": "APOLLO",
-      "disease_stage": "Localized/Resectable",
+      "disease_stage": "Resected",
       "lot": "Adjuvant",
       "mono_combo": "mono",
       "subgroup": "BRCA1/BRCA2/PALB2-mutant PC (excl. neuroendocrine)",
-      "indication_sentence": "Adjuvant post-resection localized/resectable pancreatic cancer patients with BRCA1, BRCA2, or PALB2 mutation (excluding neuroendocrine)"
+      "indication_sentence": "Adjuvant post-resection localized/resectable pancreatic cancer patients with BRCA1, BRCA2, or PALB2 mutation (excluding neuroendocrine tumors)"
     },
     {
       "drug_name": "BMS-986504",
