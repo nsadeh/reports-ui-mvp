@@ -25,10 +25,9 @@ export interface ReportMeta {
 
 export interface MonitoredTarget {
   target: string;
-  tracked_drugs: number;
-  tracked_indications: number;
   last_report_date: string | null;
   status: "new_report" | "up_to_date" | "coming_soon";
+  new_report_count: number;
   active: boolean;
 }
 

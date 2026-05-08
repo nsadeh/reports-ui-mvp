@@ -2,42 +2,51 @@
   "monitored_targets": [
     {
       "target": "Amyotrophic Lateral Sclerosis (ALS)",
-      "tracked_drugs": 8,
-      "tracked_indications": 1,
       "last_report_date": "2026-04-22",
       "status": "new_report",
+      "new_report_count": 1,
       "active": true
     },
     {
       "target": "Alzheimer's Disease",
-      "tracked_drugs": 10,
-      "tracked_indications": 3,
       "last_report_date": "2026-03-31",
       "status": "new_report",
+      "new_report_count": 1,
       "active": true
     },
     {
       "target": "TNF-alpha",
-      "tracked_drugs": 12,
-      "tracked_indications": 8,
       "last_report_date": "2026-03-10",
       "status": "up_to_date",
+      "new_report_count": 0,
+      "active": true
+    },
+    {
+      "target": "Pancreatic Ductal Adenocarcinoma (PDAC)",
+      "last_report_date": "2026-05-07",
+      "status": "new_report",
+      "new_report_count": 2,
+      "active": true
+    },
+    {
+      "target": "Idiopathic Pulmonary Fibrosis (IPF)",
+      "last_report_date": "2026-04-29",
+      "status": "new_report",
+      "new_report_count": 1,
       "active": true
     },
     {
       "target": "PD-L1",
-      "tracked_drugs": 9,
-      "tracked_indications": 6,
       "last_report_date": null,
       "status": "coming_soon",
+      "new_report_count": 0,
       "active": false
     },
     {
       "target": "CD20",
-      "tracked_drugs": 7,
-      "tracked_indications": 5,
       "last_report_date": null,
       "status": "coming_soon",
+      "new_report_count": 0,
       "active": false
     }
   ]

@@ -212,7 +212,7 @@ export default async function Dashboard() {
       {/* Compact header */}
       <div className="flex items-center justify-between mb-6">
         <div className="flex items-baseline gap-3">
-          <span className="text-sm font-medium text-dark">Alon</span>
+          <span className="text-sm font-medium text-dark"></span>
           <span className="text-xs text-muted">
             {new Date().toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}
           </span>
@@ -362,16 +362,12 @@ export default async function Dashboard() {
                   <span className="text-sm font-medium text-dark">
                     {target.target}
                   </span>
-                  <span className="text-xs text-muted ml-2">
-                    {target.tracked_drugs} drugs · {target.tracked_indications}{" "}
-                    indications
-                  </span>
                 </div>
               </div>
               <div className="text-right">
                 {target.status === "new_report" && (
                   <span className="inline-block px-2 py-0.5 text-[10px] font-semibold bg-lime text-dark rounded">
-                    1 new report
+                    {target.new_report_count} new report{target.new_report_count !== 1 ? "s" : ""}
                   </span>
                 )}
                 {target.status === "coming_soon" && (

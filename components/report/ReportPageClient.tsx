@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef } from "react";
+import Link from "next/link";
 import { ReportMarkdown } from "@/components/report/Markdown";
 import ChatPanel from "@/components/chat/ChatPanel";
 import AnalystSignature from "@/components/report/AnalystSignature";
@@ -45,8 +46,20 @@ export default function ReportPageClient({
   return (
     <div className="flex h-screen">
       {/* Report Body */}
-      <div ref={reportRef} className="flex-1 overflow-y-auto p-8">
-        <div className="max-w-5xl">
+      <div ref={reportRef} className="flex-1 overflow-y-auto">
+        {/* Sticky back button */}
+        <div className="sticky top-0 z-10 bg-[#FAFAF6]/90 backdrop-blur-sm border-b border-border px-8 py-3">
+          <Link
+            href="/reports"
+            className="inline-flex items-center gap-1.5 text-sm text-muted hover:text-dark transition-colors"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <polyline points="15 18 9 12 15 6" />
+            </svg>
+            Back
+          </Link>
+        </div>
+        <div className="p-8 max-w-5xl">
           {/* Verified badge */}
           <div className="mb-6 flex items-center gap-2 px-4 py-2.5 bg-bg2 border border-border rounded-md w-fit">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" className="text-accent shrink-0">

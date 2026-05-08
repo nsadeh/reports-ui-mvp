@@ -5,9 +5,9 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 
 const targetAreas = [
-  { name: "TNF-alpha", active: true, status: "new_report" as const },
+  { name: "Idiopathic Pulmonary Fibrosis (IPF)", active: true, status: "new_report" as const },
+  { name: "Pancreatic Ductal Adenocarcinoma (PDAC)", active: true, status: "new_report" as const },
   { name: "PD-L1", active: false, status: "coming_soon" as const },
-  { name: "CD20", active: false, status: "coming_soon" as const },
 ];
 
 const teamMembers = [
